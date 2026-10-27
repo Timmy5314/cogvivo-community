@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="lbNL-t">
+<!-- Copyright (c) 2026 Tim Wijnands - Cogvivo(TM). Alle rechten voorbehouden / All rights reserved. -->
+<title id="lbNL-t">Landbadge Nederland</title>
+<defs>
+<linearGradient id="lbNL-r" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#BDB4FF"/><stop offset=".5" stop-color="#8B7CFF"/><stop offset="1" stop-color="#5646D6"/>
+</linearGradient>
+<clipPath id="lbNL-c"><circle cx="32" cy="32" r="23.8"/></clipPath>
+</defs>
+<circle cx="32" cy="33.5" r="29.5" fill="#2E2385"/>
+<circle cx="32" cy="32" r="29.5" fill="url(#lbNL-r)"/>
+<path d="M8.18 18.25A27.5 27.5 0 0 1 24.88 5.44" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
+<circle cx="32" cy="32" r="25" fill="#121212" stroke="#D3CCFF" stroke-width="1"/>
+<g id="flag" clip-path="url(#lbNL-c)">
+<path fill="#AE1C28" d="M8 8h48v16H8z"/><path fill="#FFF" d="M8 24h48v16H8z"/><path fill="#21468B" d="M8 40h48v16H8z"/>
+</g>
+</svg>

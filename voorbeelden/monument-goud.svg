@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="mg-t">
+<!-- Copyright (c) 2026 Tim Wijnands - Cogvivo(TM). Alle rechten voorbehouden / All rights reserved. -->
+<title id="mg-t">Monumentfiguur, goud (500&#8211;999 monumenten)</title>
+<defs>
+<linearGradient id="mg-f" gradientUnits="userSpaceOnUse" x1="18" y1="4" x2="46" y2="48">
+<stop offset="0" stop-color="#8AF0E5"/><stop offset=".45" stop-color="#2EC4B6"/><stop offset="1" stop-color="#15857B"/>
+</linearGradient>
+<linearGradient id="mg-p" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#F3C873"/><stop offset=".5" stop-color="#E8B04A"/><stop offset="1" stop-color="#9C6B1E"/>
+</linearGradient>
+</defs>
+<ellipse cx="32" cy="60.6" rx="25" ry="2.6" fill="#000" opacity=".45"/>
+<!-- sokkel: materiaal + inkepingen per niveau -->
+<path d="M13 46.5h38l3.5 4.5h-45z" fill="#F8D894"/>
+<rect x="9.5" y="51" width="45" height="9" rx="1.5" fill="url(#mg-p)"/>
+<path d="M9.5 51h45" stroke="#fff" stroke-opacity=".5" stroke-width=".8"/>
+<path d="M22.9 53h3.2v5h-3.2zM30.4 53h3.2v5h-3.2zM37.9 53h3.2v5h-3.2z" fill="#64420F"/>
+<path d="M26.1 53v5M33.6 53v5M41.1 53v5" stroke="#fff" stroke-opacity=".45" stroke-width=".7"/>
+<!-- figuur: altijd identiek -->
+<g fill="url(#mg-f)" stroke="#0B4A44" stroke-width="1.2" stroke-linejoin="round">
+<path d="M30.8 7.5h2.4v5h-2.4zM20.5 21.5a11.5 10.5 0 0 1 23 0z"/>
+<circle cx="32" cy="5.6" r="2.2"/>
+<rect x="19.5" y="26" width="25" height="13"/>
+<rect x="17" y="21" width="30" height="5" rx="1"/>
+<rect x="17" y="39" width="30" height="4" rx=".6"/>
+<rect x="14.5" y="43" width="35" height="5" rx=".6"/>
+</g>
+<path d="M24.55 27.5h2.4v10.5h-2.4zM30.8 27.5h2.4v10.5h-2.4zM37.05 27.5h2.4v10.5h-2.4z" fill="#0B4A44"/>
+<path d="M23.6 19.6a8.6 8.2 0 0 1 6-6.8M18.6 23.5h11M16.2 45.5h10" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

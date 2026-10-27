@@ -1,0 +1,22 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"app_name": "Cogvivo",
+	"nav_label": "Hoofdmenu",
+	"nav_feed": "Feed",
+	"nav_shorts": "Shorts",
+	"nav_make": "Maken",
+	"nav_discover": "Ontdek",
+	"nav_profile": "Profiel",
+	"feed_title": "Voor jou",
+	"feed_empty": "Hier komen straks challenges van vrienden en van de hele wereld.",
+	"shorts_title": "Shorts",
+	"shorts_empty": "Veeg straks door korte challengevideo's, schermvullend.",
+	"make_title": "Maken",
+	"make_empty": "Doe een challenge, check in bij een plek of maak je eigen challenge.",
+	"discover_title": "Ontdek",
+	"discover_empty": "Plekken bij jou in de buurt, als raster of op de kaart.",
+	"profile_title": "Profiel",
+	"profile_empty": "Je sterren, monumentfiguren en landen verzamel je hier.",
+	"coming_soon": "Wordt gebouwd",
+	"offline": "Geen verbinding — je ziet wat er al geladen was"
+}

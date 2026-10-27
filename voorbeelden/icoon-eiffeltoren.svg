@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="icQ243-t">
+<!-- Copyright (c) 2026 Tim Wijnands - Cogvivo(TM). Alle rechten voorbehouden / All rights reserved. -->
+<title id="icQ243-t">Iconenbadge Eiffeltoren</title>
+<defs>
+<linearGradient id="icQ243-r" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#8AF0E5"/><stop offset=".5" stop-color="#2EC4B6"/><stop offset="1" stop-color="#15857B"/>
+</linearGradient>
+<radialGradient id="icQ243-g" cx=".5" cy=".36" r=".62">
+<stop offset="0" stop-color="#2EC4B6" stop-opacity=".38"/><stop offset="1" stop-color="#2EC4B6" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="icQ243-c"><path d="M32 8L52.78 20V44L32 56 11.22 44V20Z"/></clipPath>
+</defs>
+<path d="M32 3.5L56.68 17.75V46.25L32 60.5 7.32 46.25V17.75Z" transform="translate(0 1.5)" fill="#0B4A44" stroke="#0B4A44" stroke-width="3" stroke-linejoin="round"/>
+<path d="M32 3.5L56.68 17.75V46.25L32 60.5 7.32 46.25V17.75Z" fill="url(#icQ243-r)" stroke="url(#icQ243-r)" stroke-width="3" stroke-linejoin="round"/>
+<path d="M9.4 18.9L30.4 6.8" stroke="#fff" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
+<path d="M32 8L52.78 20V44L32 56 11.22 44V20Z" fill="#121212" stroke="#B9F5EE" stroke-width="1"/>
+<!-- silhouet: wit gevuld (leesbaar op 24-32 px), details in de achtergrondkleur, tweede plan op 38% -->
+<g clip-path="url(#icQ243-c)">
+<path d="M32 8L52.78 20V44L32 56 11.22 44V20Z" fill="url(#icQ243-g)"/>
+<path fill="#fff" d="M31.3 10.5H32.7L33.1 15H33.9L35.2 25H36.6L38.3 33H40L44 47H38.4C37.3 41.8 35 38.8 32 38.8S26.7 41.8 25.6 47H20L24 33H25.7L27.4 25H28.8L30.1 15H30.9Z"/>
+<path fill="#fff" d="M27 24.2h10V26H27zM23.6 32.2h16.8v2H23.6z"/>
+<path fill="none" stroke="#121212" stroke-width=".7" opacity=".55" d="M29.4 27.2l5.2 4.6M34.6 27.2l-5.2 4.6M26.6 35.6l3.4 3.4M37.4 35.6L34 39M30.8 16.5l2.4 7M33.2 16.5l-2.4 7"/>
+<path fill="#fff" opacity=".38" d="M11 47h42v2H11z"/>
+</g>
+</svg>

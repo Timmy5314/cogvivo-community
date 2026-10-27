@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="st-t">
+<!-- Copyright (c) 2026 Tim Wijnands - Cogvivo(TM). Alle rechten voorbehouden / All rights reserved. -->
+<title id="st-t">Ster</title>
+<defs>
+<linearGradient id="st-g" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFE8A3"/><stop offset=".45" stop-color="#FFC83D"/><stop offset="1" stop-color="#D99A1E"/>
+</linearGradient>
+<linearGradient id="st-h" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<path id="st-s" d="M32 7L39.64 23.48 57.68 25.66 44.36 38.02 47.87 55.84 32 47 16.13 55.84 19.64 38.02 6.32 25.66 24.36 23.48Z" stroke-width="4" stroke-linejoin="round"/>
+<clipPath id="st-c"><use href="#st-s"/></clipPath>
+</defs>
+<use href="#st-s" y="2.5" fill="#A8701A" stroke="#A8701A"/>
+<use href="#st-s" fill="url(#st-g)" stroke="url(#st-g)"/>
+<path d="M32 34L32 7 39.64 23.48ZM32 34L57.68 25.66 44.36 38.02ZM32 34L47.87 55.84 32 47ZM32 34L16.13 55.84 19.64 38.02ZM32 34L6.32 25.66 24.36 23.48Z" fill="#8A5A10" opacity=".2"/>
+<ellipse cx="26" cy="22" rx="16" ry="8" transform="rotate(-20 26 22)" fill="url(#st-h)" opacity=".7" clip-path="url(#st-c)"/>
+<path d="M30.5 13.8l1 2.2 2.2 1-2.2 1-1 2.2-1-2.2-2.2-1 2.2-1z" fill="#fff"/>
+</svg>

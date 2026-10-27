@@ -1,0 +1,22 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"app_name": "Cogvivo",
+	"nav_label": "Main menu",
+	"nav_feed": "Feed",
+	"nav_shorts": "Shorts",
+	"nav_make": "Create",
+	"nav_discover": "Discover",
+	"nav_profile": "Profile",
+	"feed_title": "For you",
+	"feed_empty": "Challenges from friends and from all over the world will appear here.",
+	"shorts_title": "Shorts",
+	"shorts_empty": "Soon you can swipe through short full-screen challenge videos.",
+	"make_title": "Create",
+	"make_empty": "Do a challenge, check in at a place or make your own challenge.",
+	"discover_title": "Discover",
+	"discover_empty": "Places near you, as a grid or on the map.",
+	"profile_title": "Profile",
+	"profile_empty": "Collect your stars, monument figures and countries here.",
+	"coming_soon": "Under construction",
+	"offline": "No connection — you're seeing what was already loaded"
+}
