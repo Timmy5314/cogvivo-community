@@ -13,7 +13,7 @@ Cogvivo is bedacht en uitgewerkt door **Tim Wijnands** ([Timmy5314](https://gith
 
 | Datum | Wat | SHA-256 van het bewijsbestand | Tijdstempel |
 |---|---|---|---|
-| 2026-10-27 | Eerste vastlegging van het volledige werk (commit `7bdb453`, 322 bestanden) | `665667e6d0df99c4e4aeb838d536db765933ce52a819cd7a5692343320858c7c` | [`bewijs/2026-10-27-7bdb453.txt.ots`](bewijs/2026-10-27-7bdb453.txt.ots) |
+| 2026-10-27 | Eerste vastlegging van het volledige werk (commit `7bdb453`, 322 bestanden) | `665667e6d0df99c4e4aeb838d536db765933ce52a819cd7a5692343320858c7c` | [`bewijs/2026-10-27-7bdb453.txt.ots`](bewijs/2026-10-27-7bdb453.txt.ots), vastgelegd in Bitcoin-blok **973414** |
 
 Nieuwe versies worden hier steeds toegevoegd.
 
