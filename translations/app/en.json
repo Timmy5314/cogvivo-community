@@ -1673,5 +1673,14 @@
 	"wz_z_vis": "A fish!",
 	"wz_z_laars": "A boot?!",
 	"wz_z_kijk": "Look!",
-	"wz_speel": "Play along"
+	"wz_speel": "Play along",
+	"wz_z_welterusten": "*yawn* Good night!",
+	"wz_z_gewekt": "Huh? I was asleep… OK, let’s play a bit!",
+	"wz_z_nog_even": "Mmm… five more minutes…",
+	"wz_z_mompel_1": "Zzz… candy…",
+	"wz_z_mompel_2": "Zzz… one more round…",
+	"wz_z_mompel_3": "Zzz… so soft…",
+	"wz_z_boer": "Burp! Oops…",
+	"wz_maak_wakker": "Wake up",
+	"wz_wakker_uitleg": "Tap three times to wake it for 15 minutes."
 }

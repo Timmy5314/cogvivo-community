@@ -1673,5 +1673,14 @@
 	"wz_z_vis": "Un poisson !",
 	"wz_z_laars": "Une botte ?!",
 	"wz_z_kijk": "Regarde !",
-	"wz_speel": "Jouer avec lui"
+	"wz_speel": "Jouer avec lui",
+	"wz_z_welterusten": "*bâille* Bonne nuit !",
+	"wz_z_gewekt": "Hein ? Je dormais… Bon, on joue un peu !",
+	"wz_z_nog_even": "Mmm… encore cinq minutes…",
+	"wz_z_mompel_1": "Zzz… bonbons…",
+	"wz_z_mompel_2": "Zzz… encore un tour…",
+	"wz_z_mompel_3": "Zzz… tout doux…",
+	"wz_z_boer": "Rot ! Oups…",
+	"wz_maak_wakker": "Réveiller",
+	"wz_wakker_uitleg": "Tape trois fois pour le réveiller 15 minutes."
 }

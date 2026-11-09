@@ -1673,5 +1673,14 @@
 	"wz_z_vis": "Ein Fisch!",
 	"wz_z_laars": "Ein Stiefel?!",
 	"wz_z_kijk": "Schau!",
-	"wz_speel": "Mitspielen"
+	"wz_speel": "Mitspielen",
+	"wz_z_welterusten": "*gähn* Gute Nacht!",
+	"wz_z_gewekt": "Hä? Ich hab geschlafen… Na gut, kurz spielen!",
+	"wz_z_nog_even": "Mmm… noch fünf Minuten…",
+	"wz_z_mompel_1": "Zzz… Bonbons…",
+	"wz_z_mompel_2": "Zzz… noch eine Runde…",
+	"wz_z_mompel_3": "Zzz… so weich…",
+	"wz_z_boer": "Rülps! Hoppla…",
+	"wz_maak_wakker": "Aufwecken",
+	"wz_wakker_uitleg": "Dreimal tippen weckt ihn für 15 Minuten."
 }

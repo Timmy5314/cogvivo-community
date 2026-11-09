@@ -1673,5 +1673,14 @@
 	"wz_z_vis": "さかなだ!",
 	"wz_z_laars": "ながぐつ!?",
 	"wz_z_kijk": "見て!",
-	"wz_speel": "いっしょにあそぶ"
+	"wz_speel": "いっしょにあそぶ",
+	"wz_z_welterusten": "*ふわぁ* おやすみ!",
+	"wz_z_gewekt": "えっ?ねてたのに… いいよ、ちょっとあそぼ!",
+	"wz_z_nog_even": "むにゃ… あと5分…",
+	"wz_z_mompel_1": "むにゃ… おかし…",
+	"wz_z_mompel_2": "むにゃ… もう1回…",
+	"wz_z_mompel_3": "むにゃ… ふわふわ…",
+	"wz_z_boer": "げっぷ!おっと…",
+	"wz_maak_wakker": "おこす",
+	"wz_wakker_uitleg": "3回タップすると15分おきるよ。"
 }

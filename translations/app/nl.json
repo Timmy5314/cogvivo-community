@@ -1673,5 +1673,14 @@
 	"wz_z_vis": "Een vis!",
 	"wz_z_laars": "Een laars?!",
 	"wz_z_kijk": "Kijk!",
-	"wz_speel": "Speel mee"
+	"wz_speel": "Speel mee",
+	"wz_z_welterusten": "*gaap* Welterusten!",
+	"wz_z_gewekt": "Hè? Ik sliep… Oké, even spelen!",
+	"wz_z_nog_even": "Mmm… nog vijf minuutjes…",
+	"wz_z_mompel_1": "Zzz… snoepjes…",
+	"wz_z_mompel_2": "Zzz… nog één rondje…",
+	"wz_z_mompel_3": "Zzz… zo zacht…",
+	"wz_z_boer": "Boer! Oeps…",
+	"wz_maak_wakker": "Maak wakker",
+	"wz_wakker_uitleg": "Tik drie keer om hem een kwartier wakker te maken."
 }
