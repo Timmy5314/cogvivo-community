@@ -25,7 +25,6 @@ Challenge a friend, or a random player, and do the same thing. Viewers decide wh
 | 020 | **Craziest Socks** | Take a photo of your weirdest pair of socks, on your feet. |
 | 022 | **Ugliest Piece of Clothing** | Put on your ugliest piece of clothing and take a selfie. |
 | 025 | **One-Minute Crazy Hair** | Make your craziest hairstyle in 1 minute and take a selfie. |
-| 026 | **Kitchen Tower** | Build a tower out of 5 things from the kitchen. The tallest or craziest tower wins. |
 
 ---
 

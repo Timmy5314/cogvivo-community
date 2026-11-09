@@ -2,7 +2,7 @@
 
 The **93 challenges** everyone can do on Cogvivo. Film it or take a photo, post it, and the community gives your attempt 0 to 5 stars. Tap a title to open it in the app.
 
-There are also [22 duels](duels.md) to do against someone else, and [198 countries with five challenges each](countries/README.md).
+There are also [21 duels](duels.md) to do against someone else, and [198 countries with five challenges each](countries/README.md).
 
 | # | Challenge | What to do |
 |---|---|---|
