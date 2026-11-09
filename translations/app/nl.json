@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… zo zacht…",
 	"wz_z_boer": "Boer! Oeps…",
 	"wz_maak_wakker": "Maak wakker",
-	"wz_wakker_uitleg": "Tik drie keer om hem een kwartier wakker te maken."
+	"wz_wakker_uitleg": "Tik drie keer om hem een kwartier wakker te maken.",
+	"bu_kaart_label": "Uit je buurt",
+	"bu_kaart_open": "Open de buurtfeed",
+	"bu_uitnodigen_sub": "Hoe meer buren meedoen, hoe sneller jullie horen wat er speelt.",
+	"bu_later": "Later",
+	"bu_posts_titel": "Mijn posts in de buurtfeed",
+	"bu_posts_uitleg": "Je buren zien je posts uit Cogvivo in de buurtfeed. Alleen wat ze elders ook mogen zien.",
+	"bu_posts_tip_titel": "Laat je buren je posts zien 📸",
+	"bu_posts_tip_sub": "Zet je posts in de buurtfeed: zo leren je buren je kennen. Uitzetten kan altijd bij Over je buurt.",
+	"bu_posts_aan": "Aanzetten",
+	"bu_posts_aan_klaar": "Je posts staan nu in de buurtfeed."
 }

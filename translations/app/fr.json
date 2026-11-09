@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… tout doux…",
 	"wz_z_boer": "Rot ! Oups…",
 	"wz_maak_wakker": "Réveiller",
-	"wz_wakker_uitleg": "Tape trois fois pour le réveiller 15 minutes."
+	"wz_wakker_uitleg": "Tape trois fois pour le réveiller 15 minutes.",
+	"bu_kaart_label": "Dans ton quartier",
+	"bu_kaart_open": "Ouvrir le fil du quartier",
+	"bu_uitnodigen_sub": "Plus il y a de voisins, plus vite vous savez ce qui se passe.",
+	"bu_later": "Plus tard",
+	"bu_posts_titel": "Mes posts dans le fil du quartier",
+	"bu_posts_uitleg": "Tes voisins voient tes posts Cogvivo dans le fil du quartier. Seulement ce qu’ils peuvent déjà voir ailleurs.",
+	"bu_posts_tip_titel": "Montre tes posts à tes voisins 📸",
+	"bu_posts_tip_sub": "Mets tes posts dans le fil du quartier pour que tes voisins apprennent à te connaître. Tu peux le désactiver à tout moment dans À propos de ton quartier.",
+	"bu_posts_aan": "Activer",
+	"bu_posts_aan_klaar": "Tes posts sont maintenant dans le fil du quartier."
 }

@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… so weich…",
 	"wz_z_boer": "Rülps! Hoppla…",
 	"wz_maak_wakker": "Aufwecken",
-	"wz_wakker_uitleg": "Dreimal tippen weckt ihn für 15 Minuten."
+	"wz_wakker_uitleg": "Dreimal tippen weckt ihn für 15 Minuten.",
+	"bu_kaart_label": "Aus deiner Nachbarschaft",
+	"bu_kaart_open": "Nachbarschafts-Feed öffnen",
+	"bu_uitnodigen_sub": "Je mehr Nachbarn mitmachen, desto schneller erfahrt ihr, was los ist.",
+	"bu_later": "Später",
+	"bu_posts_titel": "Meine Beiträge im Nachbarschafts-Feed",
+	"bu_posts_uitleg": "Deine Nachbarn sehen deine Cogvivo-Beiträge im Nachbarschafts-Feed. Nur was sie auch sonst sehen dürfen.",
+	"bu_posts_tip_titel": "Zeig deinen Nachbarn deine Beiträge 📸",
+	"bu_posts_tip_sub": "Zeig deine Beiträge im Nachbarschafts-Feed, damit deine Nachbarn dich kennenlernen. Ausschalten geht jederzeit unter Über deine Nachbarschaft.",
+	"bu_posts_aan": "Einschalten",
+	"bu_posts_aan_klaar": "Deine Beiträge sind jetzt im Nachbarschafts-Feed."
 }

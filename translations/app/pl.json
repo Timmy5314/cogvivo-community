@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… mięciutko…",
 	"wz_z_boer": "Bek! Ups…",
 	"wz_maak_wakker": "Obudź",
-	"wz_wakker_uitleg": "Stuknij trzy razy, by obudzić go na 15 minut."
+	"wz_wakker_uitleg": "Stuknij trzy razy, by obudzić go na 15 minut.",
+	"bu_kaart_label": "Z twojej okolicy",
+	"bu_kaart_open": "Otwórz aktualności z okolicy",
+	"bu_uitnodigen_sub": "Im więcej sąsiadów dołączy, tym szybciej dowiecie się, co się dzieje.",
+	"bu_later": "Później",
+	"bu_posts_titel": "Moje posty w aktualnościach z okolicy",
+	"bu_posts_uitleg": "Sąsiedzi widzą twoje posty z Cogvivo w aktualnościach z okolicy. Tylko to, co i tak mogą zobaczyć gdzie indziej.",
+	"bu_posts_tip_titel": "Pokaż sąsiadom swoje posty 📸",
+	"bu_posts_tip_sub": "Pokaż swoje posty w aktualnościach z okolicy, żeby sąsiedzi cię poznali. Wyłączysz to w każdej chwili w O twojej okolicy.",
+	"bu_posts_aan": "Włącz",
+	"bu_posts_aan_klaar": "Twoje posty są teraz w aktualnościach z okolicy."
 }

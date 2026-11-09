@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "むにゃ… ふわふわ…",
 	"wz_z_boer": "げっぷ!おっと…",
 	"wz_maak_wakker": "おこす",
-	"wz_wakker_uitleg": "3回タップすると15分おきるよ。"
+	"wz_wakker_uitleg": "3回タップすると15分おきるよ。",
+	"bu_kaart_label": "ご近所から",
+	"bu_kaart_open": "ご近所フィードを開く",
+	"bu_uitnodigen_sub": "ご近所さんが増えるほど、近所の出来事がすぐにわかります。",
+	"bu_later": "あとで",
+	"bu_posts_titel": "自分の投稿をご近所フィードに表示",
+	"bu_posts_uitleg": "ご近所さんがご近所フィードであなたのCogvivoの投稿を見られます。ほかの場所でも見られる投稿だけです。",
+	"bu_posts_tip_titel": "ご近所さんに投稿を見せよう 📸",
+	"bu_posts_tip_sub": "投稿をご近所フィードに表示して、ご近所さんに知ってもらおう。「ご近所について」でいつでもオフにできます。",
+	"bu_posts_aan": "オンにする",
+	"bu_posts_aan_klaar": "投稿がご近所フィードに表示されるようになりました。"
 }

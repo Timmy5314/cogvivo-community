@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… che morbido…",
 	"wz_z_boer": "Rutto! Ops…",
 	"wz_maak_wakker": "Sveglia",
-	"wz_wakker_uitleg": "Tocca tre volte per svegliarlo per 15 minuti."
+	"wz_wakker_uitleg": "Tocca tre volte per svegliarlo per 15 minuti.",
+	"bu_kaart_label": "Dal tuo quartiere",
+	"bu_kaart_open": "Apri il feed del quartiere",
+	"bu_uitnodigen_sub": "Più vicini partecipano, prima saprete cosa succede.",
+	"bu_later": "Più tardi",
+	"bu_posts_titel": "I miei post nel feed del quartiere",
+	"bu_posts_uitleg": "I tuoi vicini vedono i tuoi post di Cogvivo nel feed del quartiere. Solo ciò che possono già vedere altrove.",
+	"bu_posts_tip_titel": "Mostra i tuoi post ai vicini 📸",
+	"bu_posts_tip_sub": "Metti i tuoi post nel feed del quartiere così i vicini ti conoscono. Puoi disattivarlo quando vuoi in Informazioni sul quartiere.",
+	"bu_posts_aan": "Attiva",
+	"bu_posts_aan_klaar": "I tuoi post ora sono nel feed del quartiere."
 }

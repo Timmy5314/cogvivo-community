@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… qué suave…",
 	"wz_z_boer": "¡Burp! Uy…",
 	"wz_maak_wakker": "Despertar",
-	"wz_wakker_uitleg": "Toca tres veces para despertarlo 15 minutos."
+	"wz_wakker_uitleg": "Toca tres veces para despertarlo 15 minutos.",
+	"bu_kaart_label": "De tu barrio",
+	"bu_kaart_open": "Abrir novedades del barrio",
+	"bu_uitnodigen_sub": "Cuantos más vecinos se unan, antes os enteráis de lo que pasa.",
+	"bu_later": "Más tarde",
+	"bu_posts_titel": "Mis publicaciones en las novedades del barrio",
+	"bu_posts_uitleg": "Tus vecinos ven tus publicaciones de Cogvivo en las novedades del barrio. Solo lo que ya pueden ver en otro sitio.",
+	"bu_posts_tip_titel": "Enseña tus publicaciones a tus vecinos 📸",
+	"bu_posts_tip_sub": "Pon tus publicaciones en las novedades del barrio para que tus vecinos te conozcan. Puedes desactivarlo cuando quieras en Sobre tu barrio.",
+	"bu_posts_aan": "Activar",
+	"bu_posts_aan_klaar": "Tus publicaciones ya están en las novedades del barrio."
 }

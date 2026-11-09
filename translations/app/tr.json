@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… çok yumuşak…",
 	"wz_z_boer": "Geğ! Hay aksi…",
 	"wz_maak_wakker": "Uyandır",
-	"wz_wakker_uitleg": "Üç kez dokun, 15 dakika uyansın."
+	"wz_wakker_uitleg": "Üç kez dokun, 15 dakika uyansın.",
+	"bu_kaart_label": "Mahallenden",
+	"bu_kaart_open": "Mahalle akışını aç",
+	"bu_uitnodigen_sub": "Ne kadar çok komşu katılırsa, olan biteni o kadar hızlı öğrenirsiniz.",
+	"bu_later": "Sonra",
+	"bu_posts_titel": "Gönderilerim mahalle akışında",
+	"bu_posts_uitleg": "Komşuların Cogvivo gönderilerini mahalle akışında görür. Yalnızca başka yerde de görebildikleri.",
+	"bu_posts_tip_titel": "Gönderilerini komşularına göster 📸",
+	"bu_posts_tip_sub": "Gönderilerini mahalle akışına koy, komşuların seni tanısın. İstediğin zaman Mahallen hakkında bölümünden kapatabilirsin.",
+	"bu_posts_aan": "Aç",
+	"bu_posts_aan_klaar": "Gönderilerin artık mahalle akışında."
 }

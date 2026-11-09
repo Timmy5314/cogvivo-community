@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… tão macio…",
 	"wz_z_boer": "Arroto! Ups…",
 	"wz_maak_wakker": "Acordar",
-	"wz_wakker_uitleg": "Toca três vezes para o acordar durante 15 minutos."
+	"wz_wakker_uitleg": "Toca três vezes para o acordar durante 15 minutos.",
+	"bu_kaart_label": "Do teu bairro",
+	"bu_kaart_open": "Abrir o feed do bairro",
+	"bu_uitnodigen_sub": "Quanto mais vizinhos aderirem, mais depressa todos sabem o que se passa.",
+	"bu_later": "Mais tarde",
+	"bu_posts_titel": "As minhas publicações no feed do bairro",
+	"bu_posts_uitleg": "Os teus vizinhos veem as tuas publicações do Cogvivo no feed do bairro. Só o que já podem ver noutro lado.",
+	"bu_posts_tip_titel": "Mostra as tuas publicações aos vizinhos 📸",
+	"bu_posts_tip_sub": "Põe as tuas publicações no feed do bairro para os vizinhos te conhecerem. Podes desligar sempre em Sobre o teu bairro.",
+	"bu_posts_aan": "Ligar",
+	"bu_posts_aan_klaar": "As tuas publicações já estão no feed do bairro."
 }

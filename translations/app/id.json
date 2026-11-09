@@ -1682,5 +1682,15 @@
 	"wz_z_mompel_3": "Zzz… lembut sekali…",
 	"wz_z_boer": "Sendawa! Ups…",
 	"wz_maak_wakker": "Bangunkan",
-	"wz_wakker_uitleg": "Ketuk tiga kali untuk membangunkannya 15 menit."
+	"wz_wakker_uitleg": "Ketuk tiga kali untuk membangunkannya 15 menit.",
+	"bu_kaart_label": "Dari lingkunganmu",
+	"bu_kaart_open": "Buka beranda lingkungan",
+	"bu_uitnodigen_sub": "Makin banyak tetangga ikut, makin cepat kalian tahu apa yang terjadi.",
+	"bu_later": "Nanti",
+	"bu_posts_titel": "Postinganku di beranda lingkungan",
+	"bu_posts_uitleg": "Tetanggamu melihat postingan Cogvivo-mu di beranda lingkungan. Hanya yang memang boleh mereka lihat di tempat lain.",
+	"bu_posts_tip_titel": "Tunjukkan postinganmu ke tetangga 📸",
+	"bu_posts_tip_sub": "Tampilkan postinganmu di beranda lingkungan agar tetangga mengenalmu. Bisa dimatikan kapan saja di Tentang lingkunganmu.",
+	"bu_posts_aan": "Aktifkan",
+	"bu_posts_aan_klaar": "Postinganmu sekarang ada di beranda lingkungan."
 }
