@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timmy5314.github.io/cogvivo-community/sitemap.xml

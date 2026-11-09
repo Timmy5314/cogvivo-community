@@ -9,9 +9,12 @@ Fijn dat je meehelpt. Cogvivo is bedacht en wordt gemaakt door **Tim Wijnands** 
 
 ## Vertalen
 
-1. Kopieer `vertalingen/en.json` naar `vertalingen/<taalcode>.json`, bijvoorbeeld `de.json` of `es.json`.
+1. Verbeter een bestaand bestand in `translations/app/` of `translations/challenges/`, of kopieer `en.json` naar `<taalcode>.json` voor een nieuwe taal, bijvoorbeeld `ko.json`.
 2. Vertaal alleen de tekst rechts van de dubbele punt. Laat de sleutels links en woorden tussen `{accolades}` staan.
-3. Open een pull request met de titel "Vertaling: <taal>".
+3. Open een pull request met de titel "Vertaling: <taal>". Een automatische controle kijkt of alles klopt.
+4. Na goedkeuring nemen we je vertaling over in de app. Daarna staat ze ook hier.
+
+*In English: improve a file in `translations/app/` or `translations/challenges/`, or copy `en.json` to `<code>.json` for a new language. Translate only the text right of the colon, keep the keys and `{placeholders}`, and open a pull request titled "Translation: <language>".*
 
 ---
 

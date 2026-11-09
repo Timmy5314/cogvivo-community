@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Zitronen-Pokerface",
+		"Beiß in eine Zitronenspalte und behalte 10 Sekunden lang eine ernste Miene. Eine Grimasse und du hast verloren.",
+		""
+	],
+	"c003": [
+		"Kannst du das?",
+		"Probier diese vier: Zunge rollen, eine Augenbraue hochziehen, mit den Ohren wackeln und mit der Zunge die Nase berühren. Wie viele davon schaffst du?",
+		""
+	],
+	"c004": [
+		"Emoji-Gesichter",
+		"Mach diese fünf Emojis nur mit deinem Gesicht nach, je zwei Sekunden: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Zeitlupe",
+		"Mach etwas ganz Alltägliches, wie dir die Haare kämmen oder ein Glas einschenken, 20 Sekunden lang in extremer Zeitlupe, auch mit dem Gesicht.",
+		""
+	],
+	"c008": [
+		"Errate den Satz",
+		"Jemand sagt einen Satz ohne Ton. Du errätst, was gesagt wurde.",
+		""
+	],
+	"c010": [
+		"Rückwärts",
+		"Filme etwas rückwärts, zum Beispiel wie du deine Jacke ausziehst, und spiel es umgekehrt ab, sodass es fast normal aussieht. Je echter, desto besser.",
+		""
+	],
+	"c014": [
+		"Sockenpuppen-Geschichte",
+		"Mach Sockenpuppen und erzähl damit eine Geschichte.",
+		""
+	],
+	"c016": [
+		"Was denkt dein Haustier?",
+		"Filme dein Haustier, Kuscheltier oder deine Zimmerpflanze und sprich 20 Sekunden lang, was ihm gerade durch den Kopf geht.",
+		""
+	],
+	"c018": [
+		"Live-Sportkommentar",
+		"Gib einen Live-Sportkommentar, während jemand etwas Alltägliches macht.",
+		""
+	],
+	"c027": [
+		"Gegenstand mit Gesicht",
+		"Mach ein Foto von einem Gegenstand, der ein Gesicht zu haben scheint.",
+		""
+	],
+	"c028": [
+		"Den Mond halten",
+		"Mach ein Foto, auf dem du den Mond zwischen zwei Fingern hältst.",
+		""
+	],
+	"c029": [
+		"Rate, was es ist",
+		"Fotografiere etwas bei dir zu Hause so nah, dass niemand erkennt, was es ist, und lass die Zuschauer raten.",
+		""
+	],
+	"c033": [
+		"Stop-Motion",
+		"Mach aus mindestens 30 Fotos einen Stop-Motion-Clip, in dem Sachen auf deinem Tisch von selbst lebendig werden.",
+		""
+	],
+	"c039": [
+		"Errate den Film",
+		"Spiel einen Film nach. Die Zuschauer raten, welcher Film es ist.",
+		""
+	],
+	"c046": [
+		"Hässlichstes Selfie",
+		"Schick dein hässlichstes Selfie an jemanden, den du kennst.",
+		""
+	],
+	"c047": [
+		"Sing ein Lied",
+		"Sing ein Lied.",
+		""
+	],
+	"c049": [
+		"Outfit von jemand anderem",
+		"Trag ein Outfit von jemand anderem.",
+		""
+	],
+	"c050": [
+		"Rate, wer ich bin",
+		"Mach drei Menschen nach, die du kennst, zum Beispiel wie sie lachen oder reden, und lass sie raten, wer wer ist.",
+		"Bleib nett, nicht gemein."
+	],
+	"c051": [
+		"Einem Fremden zuwinken",
+		"Wink einer fremden Person zu und schau, ob sie zurückwinkt.",
+		""
+	],
+	"c061": [
+		"Lieber Zettel",
+		"Schreib jemandem einen lieben Zettel.",
+		""
+	],
+	"c062": [
+		"Dankesnachricht",
+		"Schick jemandem eine Nachricht, um dich zu bedanken. Mit einem Tipp teilst du sie über WhatsApp.",
+		""
+	],
+	"c063": [
+		"Lange nicht gesprochen",
+		"Schick jemandem, mit dem du lange nicht gesprochen hast, eine Nachricht. Mit einem Tipp teilst du sie über WhatsApp.",
+		""
+	],
+	"c064": [
+		"Heimliche Aufgabe",
+		"Erledige heimlich eine Aufgabe, die sonst jemand anderes bei dir zu Hause macht, und filme die Reaktion, wenn es auffällt.",
+		""
+	],
+	"c077": [
+		"Löffel auf der Nase",
+		"Häng einen Löffel an deine Nasenspitze. Wie viele Sekunden bleibt er hängen?",
+		""
+	],
+	"c080": [
+		"Flaschen-Flip",
+		"Wirf eine Plastikflasche mit etwas Wasser so, dass sie aufrecht landet. Wie oft schaffst du es hintereinander?",
+		""
+	],
+	"c094": [
+		"Spiegelbild",
+		"Mach 30 Sekunden lang alles genau nach, was die Person dir gegenüber tut, wie ein Spiegel, während sie es immer schwieriger macht.",
+		""
+	],
+	"c098": [
+		"Tanzen, als würde keiner zusehen",
+		"Tanz, als würde keiner zusehen.",
+		""
+	],
+	"c099": [
+		"Tanz mit Freunden",
+		"Mach einen Tanz mit deinen Freunden.",
+		""
+	],
+	"c101": [
+		"Lustigstes Selfie",
+		"Mach das lustigste Selfie, das du kannst.",
+		""
+	],
+	"c102": [
+		"Promi nachmachen",
+		"Mach eine bekannte Person nach.",
+		""
+	],
+	"c103": [
+		"Kinderfoto",
+		"Teile ein Foto von dir als Kind.",
+		""
+	],
+	"c104": [
+		"Doppelkinn",
+		"Mach ein Selfie mit dem dicksten Doppelkinn, das du hinbekommst.",
+		""
+	],
+	"c105": [
+		"Nasenloch-Selfie",
+		"Mach ein Selfie von unten, direkt in deine Nasenlöcher.",
+		""
+	],
+	"c106": [
+		"Gesicht an der Scheibe",
+		"Drück dein Gesicht platt an eine Fensterscheibe und lass jemanden von der anderen Seite ein Foto machen.",
+		""
+	],
+	"c107": [
+		"Klebebandgesicht",
+		"Kleb ein Stück Klebeband über Nase und Wangen und mach ein Selfie.",
+		""
+	],
+	"c108": [
+		"Fingerschnurrbart",
+		"Mal dir einen Schnurrbart auf den Finger und halte ihn unter die Nase.",
+		""
+	],
+	"c109": [
+		"Sahnebart",
+		"Sprüh dir Sahne als Bart ans Kinn und mach ein Selfie.",
+		""
+	],
+	"c110": [
+		"Verrücktes Familienselfie",
+		"Mach ein Selfie mit deiner Familie, auf dem alle eine Grimasse ziehen.",
+		""
+	],
+	"c111": [
+		"Peinliches Foto",
+		"Zeig dein peinlichstes Foto von früher.",
+		""
+	],
+	"c112": [
+		"Babyfoto nachstellen",
+		"Stell ein Babyfoto von dir so genau wie möglich nach.",
+		""
+	],
+	"c113": [
+		"Haustierfoto",
+		"Mach das lustigste Foto von deinem Haustier.",
+		""
+	],
+	"c114": [
+		"Komische Schlafpose",
+		"Fotografiere dein Haustier in seiner komischsten Schlafposition.",
+		""
+	],
+	"c115": [
+		"Selfie mit Haustier",
+		"Mach ein Selfie zusammen mit deinem Haustier.",
+		""
+	],
+	"c116": [
+		"Willkommen zu Hause",
+		"Filme dein Haustier, wenn du nach Hause kommst.",
+		""
+	],
+	"c117": [
+		"Haustiertrick",
+		"Zeig, welchen Trick dein Haustier kann.",
+		""
+	],
+	"c118": [
+		"Neues Spielzeug",
+		"Gib deinem Haustier ein neues Spielzeug und filme, was es macht.",
+		""
+	],
+	"c119": [
+		"Jemanden erschrecken",
+		"Versteck dich und erschrecke einen Freund oder Mitbewohner. Nicht, wenn die Person auf der Treppe steht.",
+		""
+	],
+	"c120": [
+		"Meisterdieb",
+		"Nimm einem Freund heimlich etwas weg, ohne dass es auffällt, und gib es danach zurück.",
+		""
+	],
+	"c121": [
+		"Fake-Tattoo",
+		"Mal dir ein Fake-Tattoo und lass jemanden glauben, dass es echt ist.",
+		""
+	],
+	"c122": [
+		"Warum?",
+		"Antworte auf alles, was jemand sagt, mit „Warum?“ und filme es.",
+		""
+	],
+	"c123": [
+		"Falscher Geburtstag",
+		"Sag beim Essengehen dem Restaurant, dass jemand Geburtstag hat, obwohl das nicht stimmt.",
+		""
+	],
+	"c124": [
+		"Kaputtes Display",
+		"Stell ein Foto von einem gesprungenen Display als Hintergrund auf dem Handy von jemandem zu Hause ein.",
+		""
+	],
+	"c125": [
+		"Zettel auf dem Rücken",
+		"Kleb einem Freund heimlich einen lustigen Zettel auf den Rücken. Wie lange bleibt er unbemerkt?",
+		""
+	],
+	"c126": [
+		"Maus streikt",
+		"Kleb einen Zettel unter die Computermaus von jemandem, damit sie nicht mehr funktioniert.",
+		""
+	],
+	"c127": [
+		"Bilderrahmen",
+		"Steck ein Foto von dir in einen Bilderrahmen zu Hause und warte, bis es jemand bemerkt.",
+		""
+	],
+	"c128": [
+		"Nachäffen",
+		"Wiederhole eine Minute lang alles, was dein Bruder, deine Schwester oder ein Freund sagt.",
+		""
+	],
+	"c129": [
+		"Errate das Lied",
+		"Mach ohne Ton Playback zu einem Stück eines bekannten Liedes. Die Zuschauer raten, welches Lied es ist.",
+		""
+	],
+	"c130": [
+		"Blind probieren",
+		"Probier mit geschlossenen Augen, was dir jemand gibt, und rate, was es ist.",
+		"Sag vorher, ob du gegen etwas allergisch bist."
+	],
+	"c131": [
+		"Wer bin ich?",
+		"Kleb dir einen Zettel mit einem bekannten Namen auf die Stirn und finde durch Fragen heraus, wer du bist.",
+		""
+	],
+	"c132": [
+		"Schnellzeichnung",
+		"Zeichne etwas in 10 Sekunden. Die Zuschauer raten, was es ist.",
+		""
+	],
+	"c133": [
+		"Make-up vom Freund",
+		"Lass dich von einem Freund schminken.",
+		""
+	],
+	"c134": [
+		"Mund voll Wasser",
+		"Behalte einen Schluck Wasser im Mund, während jemand Witze erzählt. Prustest du, bist du raus.",
+		""
+	],
+	"c135": [
+		"Zunge raus",
+		"Lies einen Satz vor, während deine Zunge aus dem Mund hängt.",
+		""
+	],
+	"c136": [
+		"Verrücktestes Lachen",
+		"Lass dein allerverrücktestes Lachen hören.",
+		""
+	],
+	"c137": [
+		"Essensgesicht",
+		"Mach aus dem Essen auf deinem Teller ein Gesicht.",
+		""
+	],
+	"c138": [
+		"Verrückte Frisur",
+		"Lass dir von jemandem die Haare im verrücktesten Stil machen.",
+		""
+	],
+	"c139": [
+		"Lieblingsessen",
+		"Teile ein Foto von deinem Lieblingsessen.",
+		""
+	],
+	"c140": [
+		"Morgengetränk",
+		"Teile ein Foto von deinem Morgengetränk.",
+		""
+	],
+	"c141": [
+		"Was du nicht magst",
+		"Teile ein Foto von etwas, das du nicht gern isst.",
+		""
+	],
+	"c142": [
+		"Billig und lecker",
+		"Mach ein Foto von billigem, aber leckerem Essen.",
+		""
+	],
+	"c143": [
+		"Schönstes Naturfoto",
+		"Mach dein schönstes Naturfoto.",
+		""
+	],
+	"c144": [
+		"Bestes Regenfoto",
+		"Mach das beste Foto vom Regen.",
+		""
+	],
+	"c145": [
+		"Schönstes Wolkenfoto",
+		"Mach das schönste Foto von den Wolken.",
+		""
+	],
+	"c146": [
+		"Lustiges auf der Straße",
+		"Mach ein Foto von etwas Lustigem, das du auf der Straße siehst.",
+		""
+	],
+	"c147": [
+		"Seltsamstes Essen",
+		"Fotografiere dein seltsamstes Essen.",
+		""
+	],
+	"c148": [
+		"Lieblingssüßigkeit",
+		"Mach ein Foto von deiner Lieblingssüßigkeit.",
+		""
+	],
+	"c149": [
+		"Hässliche Kleider der Eltern",
+		"Mach ein Foto von den hässlichsten Kleidern deiner Eltern.",
+		""
+	],
+	"c150": [
+		"Halloweenkostüm",
+		"Zeig dein bestes Halloweenkostüm.",
+		""
+	],
+	"c151": [
+		"Partykostüm",
+		"Zeig dein bestes Partykostüm.",
+		""
+	],
+	"c152": [
+		"Zwei verschiedene",
+		"Trag zwei verschiedene Schuhe oder Socken.",
+		""
+	],
+	"c153": [
+		"Süßigkeit fangen",
+		"Wirf eine Süßigkeit hoch und fang sie mit dem Mund.",
+		"Nimm eine kleine, weiche Süßigkeit."
+	],
+	"c154": [
+		"Papierkugel-Wurf",
+		"Wirf eine Papierkugel von der anderen Seite des Zimmers in den Mülleimer.",
+		""
+	],
+	"c155": [
+		"Lustigstes Foto",
+		"Teile dein lustigstes Foto.",
+		""
+	],
+	"c156": [
+		"Jugendwort",
+		"Bring deinem Vater, deiner Mutter, deinem Opa oder deiner Oma ein Jugendwort bei.",
+		""
+	],
+	"c157": [
+		"Einfach so ein Geschenk",
+		"Kauf jemandem einfach so ein kleines Geschenk.",
+		""
+	],
+	"c158": [
+		"Emoji-Nachricht",
+		"Schick deinen Eltern eine Nachricht nur aus Emojis.",
+		""
+	],
+	"c159": [
+		"Frühstück im Bett",
+		"Mach jemandem zu Hause Frühstück im Bett.",
+		""
+	],
+	"c160": [
+		"Was mitbringen",
+		"Bring etwas Leckeres für alle mit zur Arbeit oder in die Schule.",
+		""
+	],
+	"c161": [
+		"Gib eine Party",
+		"Gib eine Party.",
+		""
+	],
+	"c162": [
+		"Eine Runde ausgeben",
+		"Gib deinen Freunden eine Runde Getränke aus.",
+		""
+	],
+	"c163": [
+		"Erzähl einen Witz",
+		"Erzähl einen Witz.",
+		""
+	],
+	"c164": [
+		"Kissenschlacht",
+		"Mach eine Kissenschlacht mit deinem Bruder, deiner Schwester oder einem Freund.",
+		""
+	],
+	"c165": [
+		"Tanz mit deinen Eltern",
+		"Mach einen Tanz zusammen mit deinem Vater oder deiner Mutter.",
+		""
+	],
+	"d001": [
+		"Anstarren",
+		"Schau jemandem 30 Sekunden lang direkt in die Augen, ohne zu lachen. Wer lacht, verliert.",
+		""
+	],
+	"d002": [
+		"Ernst bleiben",
+		"Bleib 30 Sekunden lang ernst, ohne zu lachen.",
+		""
+	],
+	"d003": [
+		"Böser Blick",
+		"Schau jemanden richtig böse an, ohne zu lachen.",
+		""
+	],
+	"d004": [
+		"Hundeblick",
+		"Schau jemanden richtig traurig an, ohne zu lachen.",
+		""
+	],
+	"d005": [
+		"Emoji nachmachen",
+		"Ihr bekommt beide dasselbe Emoji und macht es nach.",
+		""
+	],
+	"d006": [
+		"Verrücktester Tanzmove",
+		"Zeig in 10 Sekunden deinen allerverrücktesten Tanzmove.",
+		""
+	],
+	"d007": [
+		"Errate das Tier",
+		"Mach ohne Ton ein Tier nach. Wer am deutlichsten ist, gewinnt.",
+		""
+	],
+	"d008": [
+		"Luftgitarre",
+		"Spiel Luftgitarre wie ein Rockstar. Wer am besten spielt, gewinnt.",
+		""
+	],
+	"d009": [
+		"Nachsingen",
+		"Wer zuerst dran ist, singt ein Stück eines Liedes. Die andere Person singt es nach.",
+		""
+	],
+	"d010": [
+		"Schere, Stein, Papier",
+		"Zeichne Schere, Stein oder Papier und zeig es. Wer gewinnt, gewinnt das Duell.",
+		""
+	],
+	"d011": [
+		"Nur Ja oder Nein",
+		"Du darfst eine Minute lang nur „Ja“ oder „Nein“ sagen, während dir jemand Fragen stellt.",
+		""
+	],
+	"d012": [
+		"Errate das Wort",
+		"Wer zuerst dran ist, klemmt einen Stift zwischen die Zähne und sagt ein einfaches Wort. Die andere Person errät das Wort.",
+		""
+	],
+	"d013": [
+		"Errate das Zimmer",
+		"Wer zuerst dran ist, filmt einen kleinen Ausschnitt des Zimmers, in dem er gerade ist. Die andere Person errät, welches Zimmer es ist.",
+		""
+	],
+	"d014": [
+		"Verrücktestes Lachen",
+		"Lass dein allerverrücktestes Lachen hören. Das verrückteste Lachen gewinnt.",
+		""
+	],
+	"d015": [
+		"Verrückteste Stimme",
+		"Sag „Ich hab Hunger“ mit deiner verrücktesten Stimme.",
+		""
+	],
+	"d016": [
+		"Bester Witz",
+		"Erzähl deinen lustigsten Witz. Der lustigste gewinnt.",
+		""
+	],
+	"d017": [
+		"Beste Ausrede",
+		"Du bist zu spät. Denk dir die verrückteste Ausrede aus.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatboxe 10 Sekunden lang. Wer am besten beatboxt, gewinnt.",
+		""
+	]
+}

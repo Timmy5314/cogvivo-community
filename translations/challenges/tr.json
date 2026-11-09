@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Limonlu poker yüzü",
+		"Bir dilim limonu ısır ve 10 saniye boyunca yüzünü ciddi tut. Tek bir yüz buruşturma ve kaybettin.",
+		""
+	],
+	"c003": [
+		"Sen bunu yapabilir misin?",
+		"Şu dördünü dene: dilini rulo yap, tek kaşını kaldır, kulaklarını oynat ve dilinle burnuna dokun. Kaçını yapabiliyorsun?",
+		""
+	],
+	"c004": [
+		"Emoji yüzleri",
+		"Bu beş emojiyi sadece yüzünle taklit et, her biri iki saniye: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Ağır çekim",
+		"Saçını taramak ya da bardağa su koymak gibi çok sıradan bir şeyi, yüzün dahil, 20 saniye boyunca aşırı ağır çekimde yap.",
+		""
+	],
+	"c008": [
+		"Cümleyi tahmin et",
+		"Biri sessizce bir cümle söylüyor. Sen ne dediğini tahmin et.",
+		""
+	],
+	"c010": [
+		"Geri sar",
+		"Montunu çıkarmak gibi bir şeyi tersten çek ve geriye doğru oynat, neredeyse normal görünsün. Ne kadar gerçek görünürse o kadar iyi.",
+		""
+	],
+	"c014": [
+		"Çorap kukla hikâyesi",
+		"Çoraplardan kuklalar yap ve onlarla bir hikâye anlat.",
+		""
+	],
+	"c016": [
+		"Evcil hayvanın ne düşünüyor?",
+		"Evcil hayvanını, peluşunu ya da saksı bitkini çek ve 20 saniye boyunca aklından geçenleri seslendir.",
+		""
+	],
+	"c018": [
+		"Canlı spor anlatımı",
+		"Biri sıradan bir iş yaparken canlı spor anlatımı yap.",
+		""
+	],
+	"c027": [
+		"Yüzü olan eşya",
+		"Yüzü varmış gibi görünen bir eşyanın fotoğrafını çek.",
+		""
+	],
+	"c028": [
+		"Ayı tut",
+		"Ayı iki parmağının arasında tuttuğun bir fotoğraf çek.",
+		""
+	],
+	"c029": [
+		"Bil bakalım ne",
+		"Evindeki bir şeyi o kadar yakından fotoğrafla ki kimse ne olduğunu anlamasın, izleyiciler tahmin etsin.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"En az 30 fotoğrafla, masandaki eşyaların kendiliğinden canlandığı bir stop motion videosu yap.",
+		""
+	],
+	"c039": [
+		"Filmi tahmin et",
+		"Bir filmi canlandır. İzleyenler hangi film olduğunu tahmin eder.",
+		""
+	],
+	"c046": [
+		"En çirkin selfie",
+		"En çirkin selfie'ni tanıdığın birine gönder.",
+		""
+	],
+	"c047": [
+		"Şarkı söyle",
+		"Bir şarkı söyle.",
+		""
+	],
+	"c049": [
+		"Başkasının kıyafeti",
+		"Başka birine ait bir kıyafet giy.",
+		""
+	],
+	"c050": [
+		"Bil bakalım ben kimim",
+		"Tanıdığın üç kişinin gülüşünü ya da konuşmasını taklit et ve kimin kim olduğunu onlar tahmin etsin.",
+		"Tatlı olsun, kırıcı değil."
+	],
+	"c051": [
+		"Bir yabancıya el salla",
+		"Tanımadığın birine el salla ve sana da el sallıyor mu bak.",
+		""
+	],
+	"c061": [
+		"Tatlı not",
+		"Birine tatlı bir not yaz.",
+		""
+	],
+	"c062": [
+		"Teşekkür mesajı",
+		"Birine teşekkür etmek için mesaj gönder. Tek dokunuşla WhatsApp'ta paylaşırsın.",
+		""
+	],
+	"c063": [
+		"Uzun zamandır konuşmadık",
+		"Uzun zamandır konuşmadığın birine mesaj gönder. Tek dokunuşla WhatsApp'ta paylaşırsın.",
+		""
+	],
+	"c064": [
+		"Gizli ev işi",
+		"Evde normalde başkasının yaptığı bir işi gizlice yap ve fark ettiğinde verdiği tepkiyi çek.",
+		""
+	],
+	"c077": [
+		"Burunda kaşık",
+		"Burnunun ucuna bir kaşık as. Kaç saniye durabiliyor?",
+		""
+	],
+	"c080": [
+		"Şişe çevirme",
+		"İçinde biraz su olan plastik bir şişeyi dik düşecek şekilde at. Üst üste kaç kez başarabiliyorsun?",
+		""
+	],
+	"c094": [
+		"Ayna",
+		"30 saniye boyunca karşındaki kişinin yaptığı her şeyi bir ayna gibi tam olarak taklit et, o da işi giderek zorlaştırsın.",
+		""
+	],
+	"c098": [
+		"Kimse bakmıyormuş gibi dans et",
+		"Kimse bakmıyormuş gibi dans et.",
+		""
+	],
+	"c099": [
+		"Arkadaşlarla dans",
+		"Arkadaşlarınla bir dans yap.",
+		""
+	],
+	"c101": [
+		"En komik selfie",
+		"Çekebileceğin en komik selfie'yi çek.",
+		""
+	],
+	"c102": [
+		"Ünlü taklidi",
+		"Ünlü birini taklit et.",
+		""
+	],
+	"c103": [
+		"Çocukluk fotoğrafı",
+		"Çocukken çekilmiş bir fotoğrafını paylaş.",
+		""
+	],
+	"c104": [
+		"Gıdı",
+		"Yapabildiğin en büyük gıdıyla bir selfie çek.",
+		""
+	],
+	"c105": [
+		"Burun deliği selfie'si",
+		"Aşağıdan, tam burun deliklerine doğru bir selfie çek.",
+		""
+	],
+	"c106": [
+		"Cama yapışık yüz",
+		"Yüzünü bir cama bastır ve diğer taraftaki birinden fotoğraf çekmesini iste.",
+		""
+	],
+	"c107": [
+		"Bantlı yüz",
+		"Burnuna ve yanaklarına bir parça bant yapıştır ve selfie çek.",
+		""
+	],
+	"c108": [
+		"Parmak bıyık",
+		"Parmağına bıyık çiz ve burnunun altına tut.",
+		""
+	],
+	"c109": [
+		"Kremşanti sakal",
+		"Çenene sakal gibi kremşanti sık ve selfie çek.",
+		""
+	],
+	"c110": [
+		"Çılgın aile selfie'si",
+		"Ailenle herkesin komik surat yaptığı bir selfie çek.",
+		""
+	],
+	"c111": [
+		"Utandıran fotoğraf",
+		"Eskiden çekilmiş en utandırıcı fotoğrafını göster.",
+		""
+	],
+	"c112": [
+		"Bebeklik fotoğrafını canlandır",
+		"Bebekken çekilmiş bir fotoğrafını olabildiğince aynısıyla yeniden çek.",
+		""
+	],
+	"c113": [
+		"Evcil hayvan fotoğrafı",
+		"Evcil hayvanının en komik fotoğrafını çek.",
+		""
+	],
+	"c114": [
+		"Tuhaf uyku pozu",
+		"Evcil hayvanını en tuhaf uyku pozunda fotoğrafla.",
+		""
+	],
+	"c115": [
+		"Evcil hayvanla selfie",
+		"Evcil hayvanınla birlikte bir selfie çek.",
+		""
+	],
+	"c116": [
+		"Eve hoş geldin",
+		"Eve geldiğinde evcil hayvanını videoya çek.",
+		""
+	],
+	"c117": [
+		"Evcil hayvan numarası",
+		"Evcil hayvanının yapabildiği numarayı göster.",
+		""
+	],
+	"c118": [
+		"Yeni oyuncak",
+		"Evcil hayvanına yeni bir oyuncak ver ve ne yaptığını videoya çek.",
+		""
+	],
+	"c119": [
+		"Birini korkut",
+		"Saklan ve bir arkadaşını ya da ev arkadaşını korkut. Merdivendeyken yapma.",
+		""
+	],
+	"c120": [
+		"Usta hırsız",
+		"Bir arkadaşından fark ettirmeden bir şey al, sonra geri ver.",
+		""
+	],
+	"c121": [
+		"Sahte dövme",
+		"Kendine sahte bir dövme çiz ve birini gerçek olduğuna inandır.",
+		""
+	],
+	"c122": [
+		"Neden?",
+		"Birinin söylediği her şeye “Neden?” diye cevap ver ve bunu videoya çek.",
+		""
+	],
+	"c123": [
+		"Sahte doğum günü",
+		"Dışarıda yemek yerken restorana birinin doğum günü olduğunu söyle, aslında olmasa da.",
+		""
+	],
+	"c124": [
+		"Kırık ekran",
+		"Evdeki birinin telefonuna duvar kâğıdı olarak çatlak ekran fotoğrafı koy.",
+		""
+	],
+	"c125": [
+		"Sırtta not",
+		"Bir arkadaşının sırtına gizlice komik bir not yapıştır. Ne kadar süre fark edilmeden kalıyor?",
+		""
+	],
+	"c126": [
+		"Fare çalışmıyor",
+		"Birinin bilgisayar faresinin altına bir kâğıt yapıştır, böylece çalışmasın.",
+		""
+	],
+	"c127": [
+		"Fotoğraf çerçevesi",
+		"Evdeki bir çerçeveye kendi fotoğrafını koy ve birinin fark etmesini bekle.",
+		""
+	],
+	"c128": [
+		"Papağan",
+		"Bir dakika boyunca kardeşinin ya da bir arkadaşının söylediği her şeyi tekrarla.",
+		""
+	],
+	"c129": [
+		"Şarkıyı tahmin et",
+		"Bilinen bir şarkının bir kısmına sessizce playback yap. İzleyenler hangi şarkı olduğunu tahmin eder.",
+		""
+	],
+	"c130": [
+		"Gözü kapalı tadım",
+		"Gözlerin kapalıyken birinin verdiği şeyi tat ve ne olduğunu tahmin et.",
+		"Önce bir şeye alerjin olup olmadığını söyle."
+	],
+	"c131": [
+		"Ben kimim?",
+		"Alnına ünlü bir ismin yazılı olduğu bir kâğıt yapıştır ve sorular sorarak kim olduğunu bul.",
+		""
+	],
+	"c132": [
+		"Hızlı çizim",
+		"10 saniyede bir şey çiz. İzleyenler ne olduğunu tahmin eder.",
+		""
+	],
+	"c133": [
+		"Arkadaştan makyaj",
+		"Bir arkadaşının sana makyaj yapmasına izin ver.",
+		""
+	],
+	"c134": [
+		"Ağız dolusu su",
+		"Biri fıkra anlatırken ağzında bir yudum su tut. Püskürtürsen kaybedersin.",
+		""
+	],
+	"c135": [
+		"Dil dışarıda",
+		"Dilin dışarıdayken bir cümleyi yüksek sesle oku.",
+		""
+	],
+	"c136": [
+		"En çılgın kahkaha",
+		"En çılgın kahkahanı at.",
+		""
+	],
+	"c137": [
+		"Yemekten yüz",
+		"Tabağındaki yemekten bir yüz yap.",
+		""
+	],
+	"c138": [
+		"Çılgın saç modeli",
+		"Birinin saçını en çılgın tarzda yapmasına izin ver.",
+		""
+	],
+	"c139": [
+		"En sevdiğin yemek",
+		"En sevdiğin yemeğin fotoğrafını paylaş.",
+		""
+	],
+	"c140": [
+		"Sabah içeceği",
+		"Sabah içeceğinin fotoğrafını paylaş.",
+		""
+	],
+	"c141": [
+		"Sevmediğin yemek",
+		"Yemeyi sevmediğin bir şeyin fotoğrafını paylaş.",
+		""
+	],
+	"c142": [
+		"Ucuz ve lezzetli",
+		"Ucuz ama lezzetli bir yemeğin fotoğrafını çek.",
+		""
+	],
+	"c143": [
+		"En güzel doğa fotoğrafı",
+		"En güzel doğa fotoğrafını çek.",
+		""
+	],
+	"c144": [
+		"En iyi yağmur fotoğrafı",
+		"Yağmurun en iyi fotoğrafını çek.",
+		""
+	],
+	"c145": [
+		"En güzel bulut fotoğrafı",
+		"Bulutların en güzel fotoğrafını çek.",
+		""
+	],
+	"c146": [
+		"Sokakta komik bir şey",
+		"Sokakta gördüğün komik bir şeyin fotoğrafını çek.",
+		""
+	],
+	"c147": [
+		"En tuhaf yemek",
+		"En tuhaf yemeğinin fotoğrafını çek.",
+		""
+	],
+	"c148": [
+		"En sevdiğin şeker",
+		"En sevdiğin şekerin fotoğrafını çek.",
+		""
+	],
+	"c149": [
+		"Ailenin çirkin kıyafetleri",
+		"Annenle babanın en çirkin kıyafetlerinin fotoğrafını çek.",
+		""
+	],
+	"c150": [
+		"Cadılar Bayramı kostümü",
+		"En iyi Cadılar Bayramı kostümünü göster.",
+		""
+	],
+	"c151": [
+		"Parti kostümü",
+		"En iyi parti kostümünü göster.",
+		""
+	],
+	"c152": [
+		"Eşleşmeyen çift",
+		"İki farklı ayakkabı ya da çorap giy.",
+		""
+	],
+	"c153": [
+		"Şekeri yakala",
+		"Bir şekeri havaya at ve ağzınla yakala.",
+		"Küçük ve yumuşak bir şeker kullan."
+	],
+	"c154": [
+		"Kâğıt top atışı",
+		"Odanın öbür ucundan kâğıt topu çöp kutusuna at.",
+		""
+	],
+	"c155": [
+		"En komik fotoğraf",
+		"En komik fotoğrafını paylaş.",
+		""
+	],
+	"c156": [
+		"Argo kelime",
+		"Annene, babana, büyükbabana ya da büyükannene bir argo kelime öğret.",
+		""
+	],
+	"c157": [
+		"Durduk yere hediye",
+		"Durduk yere birine küçük bir hediye al.",
+		""
+	],
+	"c158": [
+		"Emoji mesajı",
+		"Ailene sadece emojilerden oluşan bir mesaj gönder.",
+		""
+	],
+	"c159": [
+		"Yatakta kahvaltı",
+		"Evden birine yatakta kahvaltı hazırla.",
+		""
+	],
+	"c160": [
+		"İkram et",
+		"İşe ya da okula herkes için güzel bir şey götür.",
+		""
+	],
+	"c161": [
+		"Parti ver",
+		"Bir parti ver.",
+		""
+	],
+	"c162": [
+		"Bir tur ısmarla",
+		"Arkadaşlarına birer içecek ısmarla.",
+		""
+	],
+	"c163": [
+		"Fıkra anlat",
+		"Bir fıkra anlat.",
+		""
+	],
+	"c164": [
+		"Yastık savaşı",
+		"Kardeşinle ya da bir arkadaşınla yastık savaşı yap.",
+		""
+	],
+	"c165": [
+		"Ailenle dans",
+		"Annen ya da babanla birlikte bir dans yap.",
+		""
+	],
+	"d001": [
+		"Bakışma yarışması",
+		"30 saniye boyunca gülmeden birinin gözlerinin içine bak. Gülen kaybeder.",
+		""
+	],
+	"d002": [
+		"Ciddi kal",
+		"30 saniye boyunca gülmeden ciddi kal.",
+		""
+	],
+	"d003": [
+		"Kızgın bakış",
+		"Gülmeden birine çok kızgın bak.",
+		""
+	],
+	"d004": [
+		"Üzgün bakış",
+		"Gülmeden birine çok üzgün bak.",
+		""
+	],
+	"d005": [
+		"Emojiyi taklit et",
+		"İkiniz de aynı emojiyi alıyorsunuz ve onu taklit ediyorsunuz.",
+		""
+	],
+	"d006": [
+		"En çılgın dans hareketi",
+		"10 saniyede en çılgın dans hareketini göster.",
+		""
+	],
+	"d007": [
+		"Hayvanı tahmin et",
+		"Sessizce bir hayvanı taklit et. En anlaşılır olan kazanır.",
+		""
+	],
+	"d008": [
+		"Hava gitarı",
+		"Bir rock yıldızı gibi hava gitarı çal. En iyi çalan kazanır.",
+		""
+	],
+	"d009": [
+		"Arkamdan söyle",
+		"İlk giden bir şarkının bir kısmını söyler. Diğeri onu tekrar söyler.",
+		""
+	],
+	"d010": [
+		"Taş, kâğıt, makas",
+		"Taş, kâğıt ya da makas çiz ve göster. Kazanan düelloyu kazanır.",
+		""
+	],
+	"d011": [
+		"Sadece evet ya da hayır",
+		"Biri sana sorular sorarken bir dakika boyunca sadece “evet” ya da “hayır” diyebilirsin.",
+		""
+	],
+	"d012": [
+		"Kelimeyi tahmin et",
+		"İlk giden dişlerinin arasına bir kalem sıkıştırır ve kolay bir kelime söyler. Diğeri kelimeyi tahmin eder.",
+		""
+	],
+	"d013": [
+		"Odayı tahmin et",
+		"İlk giden bulunduğu odanın küçük bir kısmını videoya çeker. Diğeri hangi oda olduğunu tahmin eder.",
+		""
+	],
+	"d014": [
+		"En çılgın kahkaha",
+		"En çılgın kahkahanı at. En çılgın kahkaha kazanır.",
+		""
+	],
+	"d015": [
+		"En komik ses",
+		"En komik sesinle “Acıktım” de.",
+		""
+	],
+	"d016": [
+		"En iyi fıkra",
+		"En komik fıkranı anlat. En komiği kazanır.",
+		""
+	],
+	"d017": [
+		"En iyi bahane",
+		"Geç kaldın. En çılgın bahaneyi uydur.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"10 saniye beatbox yap. En iyi yapan kazanır.",
+		""
+	]
+}

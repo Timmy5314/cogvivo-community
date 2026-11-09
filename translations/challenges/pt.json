@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Cara de paisagem com limão",
+		"Morda uma fatia de limão e mantenha a cara séria por 10 segundos. Uma careta e você perdeu.",
+		""
+	],
+	"c003": [
+		"Você consegue?",
+		"Tente estas quatro: enrolar a língua, levantar uma sobrancelha só, mexer as orelhas e tocar o nariz com a língua. Quantas você consegue?",
+		""
+	],
+	"c004": [
+		"Caras de emoji",
+		"Imite estes cinco emojis só com o rosto, dois segundos cada: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Câmera lenta",
+		"Faça algo bem comum, como pentear o cabelo ou encher um copo, em câmera lenta extrema por 20 segundos, com o rosto também.",
+		""
+	],
+	"c008": [
+		"Adivinhe a frase",
+		"Alguém diz uma frase sem som. Você adivinha o que foi dito.",
+		""
+	],
+	"c010": [
+		"Rebobinar",
+		"Grave algo ao contrário, como tirar o casaco, e reproduza de trás para frente para parecer quase normal. Quanto mais real parecer, melhor.",
+		""
+	],
+	"c014": [
+		"História de meia",
+		"Faça fantoches de meia e conte uma história com eles.",
+		""
+	],
+	"c016": [
+		"O que seu pet está pensando?",
+		"Filme seu pet, seu bicho de pelúcia ou sua planta e dê voz, por 20 segundos, ao que está passando pela cabeça dele.",
+		""
+	],
+	"c018": [
+		"Narração esportiva ao vivo",
+		"Narre ao vivo como num jogo enquanto alguém faz algo do dia a dia.",
+		""
+	],
+	"c027": [
+		"Objeto com rosto",
+		"Tire uma foto de um objeto que parece ter um rosto.",
+		""
+	],
+	"c028": [
+		"Segure a lua",
+		"Tire uma foto em que você segura a lua entre dois dedos.",
+		""
+	],
+	"c029": [
+		"Adivinha o que é",
+		"Fotografe algo da sua casa tão de perto que ninguém saiba o que é, e deixe o público adivinhar.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Com pelo menos 30 fotos, faça um vídeo em stop motion em que as coisas da sua mesa ganham vida sozinhas.",
+		""
+	],
+	"c039": [
+		"Adivinhe o filme",
+		"Encene um filme. Quem assiste adivinha qual é.",
+		""
+	],
+	"c046": [
+		"Selfie mais feia",
+		"Mande sua selfie mais feia para alguém que você conhece.",
+		""
+	],
+	"c047": [
+		"Cante uma música",
+		"Cante uma música.",
+		""
+	],
+	"c049": [
+		"Roupa de outra pessoa",
+		"Use uma roupa que é de outra pessoa.",
+		""
+	],
+	"c050": [
+		"Adivinha quem eu sou",
+		"Imite três pessoas que você conhece, como o jeito de rir ou de falar, e deixe elas adivinharem quem é quem.",
+		"Faça com carinho, nunca para humilhar."
+	],
+	"c051": [
+		"Acene para um desconhecido",
+		"Acene para alguém que você não conhece e veja se recebe um aceno de volta.",
+		""
+	],
+	"c061": [
+		"Bilhetinho carinhoso",
+		"Escreva um bilhetinho carinhoso para alguém.",
+		""
+	],
+	"c062": [
+		"Mensagem de agradecimento",
+		"Mande uma mensagem para alguém para agradecer. Com um toque você compartilha pelo WhatsApp.",
+		""
+	],
+	"c063": [
+		"Faz tempo que não nos falamos",
+		"Mande uma mensagem para alguém com quem você não fala há muito tempo. Com um toque você compartilha pelo WhatsApp.",
+		""
+	],
+	"c064": [
+		"Tarefa secreta",
+		"Faça escondido uma tarefa que outra pessoa da casa costuma fazer, e filme a reação dela quando descobrir.",
+		""
+	],
+	"c077": [
+		"Colher no nariz",
+		"Pendure uma colher na ponta do nariz. Quantos segundos ela fica?",
+		""
+	],
+	"c080": [
+		"Garrafa em pé",
+		"Jogue uma garrafa de plástico com um pouco de água para ela cair em pé. Quantas vezes seguidas você consegue?",
+		""
+	],
+	"c094": [
+		"Espelho",
+		"Por 30 segundos, imite exatamente tudo o que a pessoa à sua frente faz, como um espelho, enquanto ela deixa tudo cada vez mais difícil.",
+		""
+	],
+	"c098": [
+		"Dance como se ninguém estivesse vendo",
+		"Dance como se ninguém estivesse vendo.",
+		""
+	],
+	"c099": [
+		"Dança com amigos",
+		"Faça uma dancinha com seus amigos.",
+		""
+	],
+	"c101": [
+		"Selfie mais engraçada",
+		"Tire a selfie mais engraçada que conseguir.",
+		""
+	],
+	"c102": [
+		"Imite uma celebridade",
+		"Imite uma pessoa famosa.",
+		""
+	],
+	"c103": [
+		"Foto de criança",
+		"Compartilhe uma foto sua de quando era criança.",
+		""
+	],
+	"c104": [
+		"Papada",
+		"Tire uma selfie com a maior papada que conseguir fazer.",
+		""
+	],
+	"c105": [
+		"Selfie de narinas",
+		"Tire uma selfie de baixo, bem dentro das suas narinas.",
+		""
+	],
+	"c106": [
+		"Cara na janela",
+		"Aperte o rosto contra uma janela e peça para alguém do outro lado tirar uma foto.",
+		""
+	],
+	"c107": [
+		"Cara de fita",
+		"Cole um pedaço de fita adesiva no nariz e nas bochechas e tire uma selfie.",
+		""
+	],
+	"c108": [
+		"Bigode no dedo",
+		"Desenhe um bigode no dedo e segure embaixo do nariz.",
+		""
+	],
+	"c109": [
+		"Barba de chantilly",
+		"Passe chantilly no queixo como barba e tire uma selfie.",
+		""
+	],
+	"c110": [
+		"Selfie maluca em família",
+		"Tire uma selfie com sua família em que todo mundo faz careta.",
+		""
+	],
+	"c111": [
+		"Foto constrangedora",
+		"Mostre sua foto mais constrangedora de antigamente.",
+		""
+	],
+	"c112": [
+		"Refaça sua foto de bebê",
+		"Refaça uma foto sua de bebê o mais parecido possível.",
+		""
+	],
+	"c113": [
+		"Foto do pet",
+		"Tire a foto mais engraçada do seu pet.",
+		""
+	],
+	"c114": [
+		"Posição de dormir esquisita",
+		"Fotografe seu pet na posição de dormir mais esquisita.",
+		""
+	],
+	"c115": [
+		"Selfie com o pet",
+		"Tire uma selfie junto com seu pet.",
+		""
+	],
+	"c116": [
+		"Bem-vindo em casa",
+		"Filme seu pet quando você chega em casa.",
+		""
+	],
+	"c117": [
+		"Truque do pet",
+		"Mostre o truque que seu pet sabe fazer.",
+		""
+	],
+	"c118": [
+		"Brinquedo novo",
+		"Dê um brinquedo novo para seu pet e filme o que ele faz.",
+		""
+	],
+	"c119": [
+		"Dê um susto",
+		"Esconda-se e dê um susto em um amigo ou em alguém da sua casa. Não quando a pessoa estiver na escada.",
+		""
+	],
+	"c120": [
+		"Ladrão mestre",
+		"Pegue algo de um amigo escondido, sem ser percebido, e depois devolva.",
+		""
+	],
+	"c121": [
+		"Tatuagem falsa",
+		"Desenhe uma tatuagem falsa e faça alguém acreditar que é de verdade.",
+		""
+	],
+	"c122": [
+		"Por quê?",
+		"Responda “por quê?” a tudo o que alguém disser e filme.",
+		""
+	],
+	"c123": [
+		"Aniversário falso",
+		"Quando for comer fora, diga ao restaurante que é aniversário de alguém, mesmo não sendo.",
+		""
+	],
+	"c124": [
+		"Tela quebrada",
+		"Coloque a foto de uma tela trincada como papel de parede no celular de alguém da sua casa.",
+		""
+	],
+	"c125": [
+		"Bilhete nas costas",
+		"Cole escondido um bilhete engraçado nas costas de um amigo. Quanto tempo ele fica lá?",
+		""
+	],
+	"c126": [
+		"Mouse quebrado",
+		"Cole um papelzinho embaixo do mouse do computador de alguém para ele parar de funcionar.",
+		""
+	],
+	"c127": [
+		"Porta-retrato",
+		"Coloque uma foto sua em um porta-retrato em casa e espere alguém perceber.",
+		""
+	],
+	"c128": [
+		"Papagaio",
+		"Durante um minuto, repita tudo o que seu irmão, sua irmã ou um amigo disser.",
+		""
+	],
+	"c129": [
+		"Adivinhe a música",
+		"Faça playback de um trecho de uma música conhecida, sem som. Quem assiste adivinha qual é.",
+		""
+	],
+	"c130": [
+		"Prova às cegas",
+		"De olhos fechados, prove o que alguém te der e adivinhe o que é.",
+		"Diga antes se você tem alergia a alguma coisa."
+	],
+	"c131": [
+		"Quem sou eu?",
+		"Cole na testa um papel com um nome famoso e faça perguntas para adivinhar quem você é.",
+		""
+	],
+	"c132": [
+		"Desenho rápido",
+		"Desenhe algo em 10 segundos. Quem assiste adivinha o que é.",
+		""
+	],
+	"c133": [
+		"Maquiagem por um amigo",
+		"Deixe um amigo fazer sua maquiagem.",
+		""
+	],
+	"c134": [
+		"Boca cheia de água",
+		"Segure um gole de água na boca enquanto alguém conta piadas. Se cuspir, você perde.",
+		""
+	],
+	"c135": [
+		"Língua pra fora",
+		"Leia uma frase em voz alta com a língua pra fora.",
+		""
+	],
+	"c136": [
+		"Risada mais doida",
+		"Solte sua risada mais doida.",
+		""
+	],
+	"c137": [
+		"Rosto de comida",
+		"Faça um rosto com a comida do seu prato.",
+		""
+	],
+	"c138": [
+		"Penteado maluco",
+		"Deixe alguém fazer seu cabelo no estilo mais maluco.",
+		""
+	],
+	"c139": [
+		"Comida favorita",
+		"Compartilhe uma foto da sua comida favorita.",
+		""
+	],
+	"c140": [
+		"Bebida da manhã",
+		"Compartilhe uma foto da sua bebida da manhã.",
+		""
+	],
+	"c141": [
+		"O que você não gosta",
+		"Compartilhe uma foto de algo que você não gosta de comer.",
+		""
+	],
+	"c142": [
+		"Barato e gostoso",
+		"Tire uma foto de uma comida barata mas gostosa.",
+		""
+	],
+	"c143": [
+		"Foto de natureza mais bonita",
+		"Tire sua foto de natureza mais bonita.",
+		""
+	],
+	"c144": [
+		"Melhor foto de chuva",
+		"Tire a melhor foto da chuva.",
+		""
+	],
+	"c145": [
+		"Foto de nuvens mais bonita",
+		"Tire a foto mais bonita das nuvens.",
+		""
+	],
+	"c146": [
+		"Algo engraçado na rua",
+		"Tire uma foto de algo engraçado que você vê na rua.",
+		""
+	],
+	"c147": [
+		"Comida mais esquisita",
+		"Fotografe sua comida mais esquisita.",
+		""
+	],
+	"c148": [
+		"Doce favorito",
+		"Tire uma foto do seu doce favorito.",
+		""
+	],
+	"c149": [
+		"Roupa feia dos pais",
+		"Tire uma foto da roupa mais feia dos seus pais.",
+		""
+	],
+	"c150": [
+		"Fantasia de Halloween",
+		"Mostre sua melhor fantasia de Halloween.",
+		""
+	],
+	"c151": [
+		"Fantasia de festa",
+		"Mostre sua melhor fantasia de festa.",
+		""
+	],
+	"c152": [
+		"Par trocado",
+		"Use dois sapatos ou duas meias diferentes.",
+		""
+	],
+	"c153": [
+		"Pegue o doce",
+		"Jogue um docinho para cima e pegue com a boca.",
+		"Use um docinho pequeno e macio."
+	],
+	"c154": [
+		"Bolinha no lixo",
+		"Jogue uma bolinha de papel no lixo do outro lado do quarto.",
+		""
+	],
+	"c155": [
+		"Foto mais engraçada",
+		"Compartilhe sua foto mais engraçada.",
+		""
+	],
+	"c156": [
+		"Gíria",
+		"Ensine uma gíria para seu pai, sua mãe, seu avô ou sua avó.",
+		""
+	],
+	"c157": [
+		"Presentinho do nada",
+		"Compre um presentinho para alguém, do nada.",
+		""
+	],
+	"c158": [
+		"Mensagem de emojis",
+		"Mande para seus pais uma mensagem só com emojis.",
+		""
+	],
+	"c159": [
+		"Café da manhã na cama",
+		"Faça um café da manhã na cama para alguém da sua casa.",
+		""
+	],
+	"c160": [
+		"Leve um agrado",
+		"Leve algo gostoso para todo mundo no trabalho ou na escola.",
+		""
+	],
+	"c161": [
+		"Dê uma festa",
+		"Dê uma festa.",
+		""
+	],
+	"c162": [
+		"Pague uma rodada",
+		"Pague uma rodada de bebidas para seus amigos.",
+		""
+	],
+	"c163": [
+		"Conte uma piada",
+		"Conte uma piada.",
+		""
+	],
+	"c164": [
+		"Guerra de travesseiros",
+		"Faça uma guerra de travesseiros com seu irmão, sua irmã ou um amigo.",
+		""
+	],
+	"c165": [
+		"Dança com os pais",
+		"Faça uma dancinha junto com seu pai ou sua mãe.",
+		""
+	],
+	"d001": [
+		"Competição de encarar",
+		"Olhe alguém nos olhos por 30 segundos sem rir. Quem rir perde.",
+		""
+	],
+	"d002": [
+		"Fique sério",
+		"Fique sério por 30 segundos sem rir.",
+		""
+	],
+	"d003": [
+		"Cara de bravo",
+		"Olhe para alguém com muita cara de bravo sem rir.",
+		""
+	],
+	"d004": [
+		"Olhar de pidão",
+		"Olhe para alguém com muita cara de triste sem rir.",
+		""
+	],
+	"d005": [
+		"Imite o emoji",
+		"Vocês dois recebem o mesmo emoji e imitam.",
+		""
+	],
+	"d006": [
+		"Passo de dança mais doido",
+		"Mostre seu passo de dança mais doido em 10 segundos.",
+		""
+	],
+	"d007": [
+		"Adivinhe o bicho",
+		"Imite um bicho sem som. Ganha quem for mais claro.",
+		""
+	],
+	"d008": [
+		"Guitarra no ar",
+		"Toque guitarra no ar como um astro do rock. Ganha quem tocar melhor.",
+		""
+	],
+	"d009": [
+		"Cante de volta",
+		"Quem vai primeiro canta um trecho de uma música. O outro canta de volta.",
+		""
+	],
+	"d010": [
+		"Pedra, papel e tesoura",
+		"Desenhe pedra, papel ou tesoura e mostre. Quem ganhar vence o duelo.",
+		""
+	],
+	"d011": [
+		"Só sim ou não",
+		"Durante um minuto você só pode dizer “sim” ou “não” enquanto alguém te faz perguntas.",
+		""
+	],
+	"d012": [
+		"Adivinhe a palavra",
+		"Quem vai primeiro prende uma caneta entre os dentes e diz uma palavra fácil. O outro adivinha a palavra.",
+		""
+	],
+	"d013": [
+		"Adivinhe o cômodo",
+		"Quem vai primeiro filma um pedacinho do cômodo onde está. O outro adivinha que cômodo é.",
+		""
+	],
+	"d014": [
+		"Risada mais doida",
+		"Solte sua risada mais doida. A risada mais doida ganha.",
+		""
+	],
+	"d015": [
+		"Voz mais maluca",
+		"Diga “Tô com fome” com sua voz mais maluca.",
+		""
+	],
+	"d016": [
+		"Melhor piada",
+		"Conte sua piada mais engraçada. A mais engraçada ganha.",
+		""
+	],
+	"d017": [
+		"Melhor desculpa",
+		"Você está atrasado. Invente a desculpa mais maluca.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Faça beatbox por 10 segundos. Ganha quem fizer melhor.",
+		""
+	]
+}

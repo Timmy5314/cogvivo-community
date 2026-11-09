@@ -1,0 +1,25 @@
+name: 🌍 Translation / Vertaling
+description: A wrong or odd text, or a language you want to add · Een rare tekst of een nieuwe taal
+labels: [translation]
+body:
+  - type: input
+    id: taal
+    attributes:
+      label: Language · Taal
+      placeholder: Deutsch, 한국어, Português (Brasil) ...
+    validations:
+      required: true
+  - type: textarea
+    id: tekst
+    attributes:
+      label: Which text, and what should it say? · Welke tekst, en wat moet het zijn?
+      description: Copy the key or the sentence from translations/, or describe where you saw it in the app.
+  - type: checkboxes
+    id: zelf
+    attributes:
+      label: Help
+      options:
+        - label: I would like to translate this myself · Ik vertaal het graag zelf
+  - type: markdown
+    attributes:
+      value: By submitting you agree to [BIJDRAGEN.md](https://github.com/Timmy5314/cogvivo-community/blob/main/BIJDRAGEN.md).

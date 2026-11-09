@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Lemon Poker Face",
+		"Bite into a lemon wedge and keep a straight face for 10 seconds. One grimace and you've lost.",
+		""
+	],
+	"c003": [
+		"Can You Do This?",
+		"Try these four: roll your tongue, raise one eyebrow, wiggle your ears and touch your nose with your tongue. How many of the four can you do?",
+		""
+	],
+	"c004": [
+		"Emoji Faces",
+		"Copy these five emojis using only your face, two seconds each: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Slow Motion",
+		"Do something completely ordinary, like combing your hair or pouring a glass, in extreme slow motion for 20 seconds, face included.",
+		""
+	],
+	"c008": [
+		"Guess the Sentence",
+		"Someone says a sentence without sound. You guess what they said.",
+		""
+	],
+	"c010": [
+		"Rewind",
+		"Film something backwards, like taking your coat off, and play it in reverse so it looks almost normal. The more real it looks, the better.",
+		""
+	],
+	"c014": [
+		"Sock Puppet Story",
+		"Make sock puppets and tell a story with them.",
+		""
+	],
+	"c016": [
+		"What's Your Pet Thinking?",
+		"Film your pet, stuffed animal or houseplant and voice 20 seconds of what's going on in its head.",
+		""
+	],
+	"c018": [
+		"Live Sports Commentary",
+		"Give live sports commentary while someone does something everyday.",
+		""
+	],
+	"c027": [
+		"Object with a Face",
+		"Take a photo of an object that seems to have a face.",
+		""
+	],
+	"c028": [
+		"Hold the Moon",
+		"Take a photo where you hold the moon between two fingers.",
+		""
+	],
+	"c029": [
+		"Guess What It Is",
+		"Photograph something at home so close up that nobody can tell what it is, and let viewers guess.",
+		""
+	],
+	"c033": [
+		"Stop Motion",
+		"Use at least 30 photos to make a stop-motion clip in which things on your table come to life by themselves.",
+		""
+	],
+	"c039": [
+		"Guess the Movie",
+		"Act out a movie. Viewers guess which movie it is.",
+		""
+	],
+	"c046": [
+		"Ugliest Selfie",
+		"Send your ugliest selfie to someone you know.",
+		""
+	],
+	"c047": [
+		"Sing a Song",
+		"Sing a song.",
+		""
+	],
+	"c049": [
+		"Someone Else's Outfit",
+		"Wear an outfit that belongs to someone else.",
+		""
+	],
+	"c050": [
+		"Guess Who I Am",
+		"Impersonate three people you know, like how they laugh or talk, and let them guess who's who.",
+		"Keep it kind, not mean."
+	],
+	"c051": [
+		"Wave at a Stranger",
+		"Wave at a stranger and see if they wave back.",
+		""
+	],
+	"c061": [
+		"Sweet Note",
+		"Write someone a sweet note.",
+		""
+	],
+	"c062": [
+		"Thank-You Message",
+		"Send someone a message to thank them. One tap shares it on WhatsApp.",
+		""
+	],
+	"c063": [
+		"Long Time No Talk",
+		"Send a message to someone you haven't talked to in a long time. One tap shares it on WhatsApp.",
+		""
+	],
+	"c064": [
+		"Secret Chore",
+		"Secretly do a chore someone else at home usually does, and film their reaction when they find out.",
+		""
+	],
+	"c077": [
+		"Spoon on Your Nose",
+		"Hang a spoon from the tip of your nose. How many seconds does it stay there?",
+		""
+	],
+	"c080": [
+		"Bottle Flip",
+		"Flip a plastic bottle with a little water in it so it lands upright. How many in a row can you land?",
+		""
+	],
+	"c094": [
+		"Mirror Me",
+		"For 30 seconds, copy everything the person facing you does, like a mirror, while they keep making it harder.",
+		""
+	],
+	"c098": [
+		"Dance Like Nobody's Watching",
+		"Dance like nobody's watching.",
+		""
+	],
+	"c099": [
+		"Dance with Friends",
+		"Do a dance with your friends.",
+		""
+	],
+	"c101": [
+		"Funniest Selfie",
+		"Take the funniest selfie you can.",
+		""
+	],
+	"c102": [
+		"Celebrity Impression",
+		"Do an impression of a famous person.",
+		""
+	],
+	"c103": [
+		"Childhood Photo",
+		"Share a photo of yourself as a kid.",
+		""
+	],
+	"c104": [
+		"Double Chin",
+		"Take a selfie with the biggest double chin you can make.",
+		""
+	],
+	"c105": [
+		"Nostril Selfie",
+		"Take a selfie from below, straight up your nostrils.",
+		""
+	],
+	"c106": [
+		"Face on the Window",
+		"Press your face flat against a window and have someone take a photo from the other side.",
+		""
+	],
+	"c107": [
+		"Tape Face",
+		"Stick a piece of tape over your nose and cheeks and take a selfie.",
+		""
+	],
+	"c108": [
+		"Finger Mustache",
+		"Draw a mustache on your finger and hold it under your nose.",
+		""
+	],
+	"c109": [
+		"Whipped Cream Beard",
+		"Spray whipped cream on your chin like a beard and take a selfie.",
+		""
+	],
+	"c110": [
+		"Silly Family Selfie",
+		"Take a selfie with your family where everyone pulls a silly face.",
+		""
+	],
+	"c111": [
+		"Embarrassing Photo",
+		"Show your most embarrassing photo from the past.",
+		""
+	],
+	"c112": [
+		"Recreate Your Baby Photo",
+		"Recreate a baby photo of yourself as exactly as you can.",
+		""
+	],
+	"c113": [
+		"Pet Photo",
+		"Take the funniest photo of your pet.",
+		""
+	],
+	"c114": [
+		"Weird Sleeping Pose",
+		"Photograph your pet in its weirdest sleeping position.",
+		""
+	],
+	"c115": [
+		"Selfie with Your Pet",
+		"Take a selfie together with your pet.",
+		""
+	],
+	"c116": [
+		"Welcome Home",
+		"Film your pet when you come home.",
+		""
+	],
+	"c117": [
+		"Pet Trick",
+		"Show the trick your pet can do.",
+		""
+	],
+	"c118": [
+		"New Toy",
+		"Give your pet a new toy and film what it does.",
+		""
+	],
+	"c119": [
+		"Scare Someone",
+		"Hide and give a friend or housemate a fright. Not when they're on the stairs.",
+		""
+	],
+	"c120": [
+		"Master Thief",
+		"Secretly take something from a friend without them noticing, then give it back.",
+		""
+	],
+	"c121": [
+		"Fake Tattoo",
+		"Draw a fake tattoo and make someone believe it's real.",
+		""
+	],
+	"c122": [
+		"Why?",
+		"Answer everything someone says with \"why?\" and film it.",
+		""
+	],
+	"c123": [
+		"Fake Birthday",
+		"When you eat out, tell the restaurant it's someone's birthday when it isn't.",
+		""
+	],
+	"c124": [
+		"Cracked Screen",
+		"Set a photo of a cracked screen as the wallpaper on the phone of someone at home.",
+		""
+	],
+	"c125": [
+		"Note on the Back",
+		"Secretly stick a funny note on a friend's back. How long do they walk around with it?",
+		""
+	],
+	"c126": [
+		"Broken Mouse",
+		"Stick a note under someone's computer mouse so it stops working.",
+		""
+	],
+	"c127": [
+		"Photo Frame",
+		"Put a photo of yourself in a picture frame at home and wait until someone notices.",
+		""
+	],
+	"c128": [
+		"Copycat",
+		"For one minute, repeat everything your brother, sister or friend says.",
+		""
+	],
+	"c129": [
+		"Guess the Song",
+		"Lip-sync part of a well-known song without sound. Viewers guess which song it is.",
+		""
+	],
+	"c130": [
+		"Blind Taste Test",
+		"With your eyes closed, taste what someone gives you and guess what it is.",
+		"Say first if you're allergic to anything."
+	],
+	"c131": [
+		"Who Am I?",
+		"Stick a note with a famous name on your forehead and ask questions to guess who you are.",
+		""
+	],
+	"c132": [
+		"Quick Drawing",
+		"Draw something in 10 seconds. Viewers guess what it is.",
+		""
+	],
+	"c133": [
+		"Makeover by a Friend",
+		"Let a friend do your make-up.",
+		""
+	],
+	"c134": [
+		"Mouth Full of Water",
+		"Keep a sip of water in your mouth while someone tells jokes. Spit it out and you're out.",
+		""
+	],
+	"c135": [
+		"Tongue Out",
+		"Read a sentence aloud with your tongue sticking out.",
+		""
+	],
+	"c136": [
+		"Craziest Laugh",
+		"Let out your craziest laugh.",
+		""
+	],
+	"c137": [
+		"Food Face",
+		"Make a face out of the food on your plate.",
+		""
+	],
+	"c138": [
+		"Crazy Hairdo",
+		"Let someone do your hair in the craziest style.",
+		""
+	],
+	"c139": [
+		"Favorite Food",
+		"Share a photo of your favorite food.",
+		""
+	],
+	"c140": [
+		"Morning Drink",
+		"Share a photo of your morning drink.",
+		""
+	],
+	"c141": [
+		"Food You Hate",
+		"Share a photo of something you don't like to eat.",
+		""
+	],
+	"c142": [
+		"Cheap Tasty Food",
+		"Take a photo of cheap but tasty food.",
+		""
+	],
+	"c143": [
+		"Best Nature Photo",
+		"Take your most beautiful nature photo.",
+		""
+	],
+	"c144": [
+		"Best Rain Photo",
+		"Take the best photo of the rain.",
+		""
+	],
+	"c145": [
+		"Best Cloud Photo",
+		"Take the most beautiful photo of the clouds.",
+		""
+	],
+	"c146": [
+		"Funny Street Find",
+		"Take a photo of something funny you see on the street.",
+		""
+	],
+	"c147": [
+		"Weirdest Food",
+		"Photograph your weirdest food.",
+		""
+	],
+	"c148": [
+		"Favorite Candy",
+		"Take a photo of your favorite candy.",
+		""
+	],
+	"c149": [
+		"Parents' Ugliest Clothes",
+		"Take a photo of your parents' ugliest clothes.",
+		""
+	],
+	"c150": [
+		"Halloween Costume",
+		"Show your best Halloween costume.",
+		""
+	],
+	"c151": [
+		"Party Costume",
+		"Show your best party costume.",
+		""
+	],
+	"c152": [
+		"Odd Pair",
+		"Wear two different shoes or socks.",
+		""
+	],
+	"c153": [
+		"Catch the Candy",
+		"Toss a piece of candy up and catch it in your mouth.",
+		"Use a small, soft candy."
+	],
+	"c154": [
+		"Paper Ball Shot",
+		"Throw a ball of paper into the bin from across the room.",
+		""
+	],
+	"c155": [
+		"Funniest Photo",
+		"Share your funniest photo.",
+		""
+	],
+	"c156": [
+		"Slang Lesson",
+		"Teach your dad, mom, grandpa or grandma a slang word.",
+		""
+	],
+	"c157": [
+		"Just-Because Gift",
+		"Buy someone a little gift, just because.",
+		""
+	],
+	"c158": [
+		"Emoji Message",
+		"Send your parents a message with only emojis.",
+		""
+	],
+	"c159": [
+		"Breakfast in Bed",
+		"Make breakfast in bed for someone at home.",
+		""
+	],
+	"c160": [
+		"Bring Treats",
+		"Bring treats for everyone at work or school.",
+		""
+	],
+	"c161": [
+		"Throw a Party",
+		"Throw a party.",
+		""
+	],
+	"c162": [
+		"Buy a Round",
+		"Treat your friends to a round of drinks.",
+		""
+	],
+	"c163": [
+		"Tell a Joke",
+		"Tell a joke.",
+		""
+	],
+	"c164": [
+		"Pillow Fight",
+		"Have a pillow fight with your brother, sister or friend.",
+		""
+	],
+	"c165": [
+		"Dance with Your Parents",
+		"Do a dance together with your dad or mom.",
+		""
+	],
+	"d001": [
+		"Staring Contest",
+		"Look someone straight in the eyes for 30 seconds without laughing. Whoever laughs loses.",
+		""
+	],
+	"d002": [
+		"Keep a Straight Face",
+		"Stay serious for 30 seconds without laughing.",
+		""
+	],
+	"d003": [
+		"Angry Stare",
+		"Give someone a really angry look without laughing.",
+		""
+	],
+	"d004": [
+		"Puppy Eyes",
+		"Give someone a really sad look without laughing.",
+		""
+	],
+	"d005": [
+		"Copy the Emoji",
+		"You both get the same emoji and copy it.",
+		""
+	],
+	"d006": [
+		"Craziest Dance Move",
+		"Show your craziest dance move in 10 seconds.",
+		""
+	],
+	"d007": [
+		"Guess the Animal",
+		"Act out an animal without sound. Whoever is clearest wins.",
+		""
+	],
+	"d008": [
+		"Air Guitar",
+		"Play air guitar like a rock star. Whoever plays best wins.",
+		""
+	],
+	"d009": [
+		"Sing It Back",
+		"Whoever goes first sings part of a song. The other sings it back.",
+		""
+	],
+	"d010": [
+		"Rock, Paper, Scissors",
+		"Draw rock, paper or scissors and show it. Whoever wins, wins the duel.",
+		""
+	],
+	"d011": [
+		"Only Yes or No",
+		"For one minute you may only say \"yes\" or \"no\" while someone asks you questions.",
+		""
+	],
+	"d012": [
+		"Guess the Word",
+		"Whoever goes first holds a pen between their teeth and says an easy word. The other guesses the word.",
+		""
+	],
+	"d013": [
+		"Guess the Room",
+		"Whoever goes first films a small part of the room they're in. The other guesses which room it is.",
+		""
+	],
+	"d014": [
+		"Craziest Laugh",
+		"Let out your craziest laugh. The craziest laugh wins.",
+		""
+	],
+	"d015": [
+		"Silliest Voice",
+		"Say \"I'm hungry\" in your silliest voice.",
+		""
+	],
+	"d016": [
+		"Best Joke",
+		"Tell your funniest joke. The funniest one wins.",
+		""
+	],
+	"d017": [
+		"Best Excuse",
+		"You're late. Come up with the craziest excuse.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatbox for 10 seconds. Whoever beatboxes best wins.",
+		""
+	]
+}

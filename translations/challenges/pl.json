@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Cytrynowa pokerowa twarz",
+		"Ugryź cząstkę cytryny i zachowaj poważną minę przez 10 sekund. Jeden grymas i przegrywasz.",
+		""
+	],
+	"c003": [
+		"Umiesz tak?",
+		"Spróbuj tych czterech: zwiń język w rurkę, unieś jedną brew, porusz uszami i dotknij językiem nosa. Ile z nich ci wychodzi?",
+		""
+	],
+	"c004": [
+		"Emoji-miny",
+		"Naśladuj te pięć emoji samą twarzą, po dwie sekundy każde: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Zwolnione tempo",
+		"Zrób coś zupełnie zwyczajnego, na przykład uczesz się albo nalej wodę do szklanki, w ekstremalnie zwolnionym tempie przez 20 sekund, łącznie z twarzą.",
+		""
+	],
+	"c008": [
+		"Zgadnij zdanie",
+		"Ktoś mówi zdanie bez dźwięku. Ty zgadujesz, co padło.",
+		""
+	],
+	"c010": [
+		"Przewijanie",
+		"Nagraj coś od tyłu, na przykład zdejmowanie kurtki, i puść to wspak, żeby wyglądało prawie normalnie. Im bardziej realistycznie, tym lepiej.",
+		""
+	],
+	"c014": [
+		"Historia ze skarpetek",
+		"Zrób pacynki ze skarpetek i opowiedz nimi historię.",
+		""
+	],
+	"c016": [
+		"O czym myśli twój zwierzak?",
+		"Nagraj swojego zwierzaka, pluszaka albo roślinę i przez 20 sekund podkładaj głos temu, co chodzi mu po głowie.",
+		""
+	],
+	"c018": [
+		"Komentarz sportowy na żywo",
+		"Komentuj na żywo jak mecz, kiedy ktoś robi coś codziennego.",
+		""
+	],
+	"c027": [
+		"Przedmiot z twarzą",
+		"Zrób zdjęcie przedmiotu, który wygląda, jakby miał twarz.",
+		""
+	],
+	"c028": [
+		"Trzymaj księżyc",
+		"Zrób zdjęcie, na którym trzymasz księżyc między dwoma palcami.",
+		""
+	],
+	"c029": [
+		"Zgadnij, co to",
+		"Sfotografuj coś w domu tak z bliska, żeby nikt nie wiedział, co to jest, i pozwól widzom zgadywać.",
+		""
+	],
+	"c033": [
+		"Animacja poklatkowa",
+		"Z co najmniej 30 zdjęć zrób animację poklatkową, w której rzeczy na twoim stole same ożywają.",
+		""
+	],
+	"c039": [
+		"Zgadnij film",
+		"Odegraj film. Widzowie zgadują, co to za film.",
+		""
+	],
+	"c046": [
+		"Najbrzydsze selfie",
+		"Wyślij swoje najbrzydsze selfie komuś, kogo znasz.",
+		""
+	],
+	"c047": [
+		"Zaśpiewaj piosenkę",
+		"Zaśpiewaj piosenkę.",
+		""
+	],
+	"c049": [
+		"Cudzy strój",
+		"Załóż strój, który należy do kogoś innego.",
+		""
+	],
+	"c050": [
+		"Zgadnij, kim jestem",
+		"Naśladuj trzy znane ci osoby, na przykład to, jak się śmieją albo mówią, i niech zgadną, kto jest kim.",
+		"Z sympatią, nigdy złośliwie."
+	],
+	"c051": [
+		"Pomachaj nieznajomemu",
+		"Pomachaj komuś nieznajomemu i zobacz, czy odmacha.",
+		""
+	],
+	"c061": [
+		"Miły liścik",
+		"Napisz komuś miły liścik.",
+		""
+	],
+	"c062": [
+		"Wiadomość z podziękowaniem",
+		"Wyślij komuś wiadomość z podziękowaniem. Jednym dotknięciem udostępnisz ją przez WhatsApp.",
+		""
+	],
+	"c063": [
+		"Dawno się nie słyszeliśmy",
+		"Wyślij wiadomość komuś, z kim dawno nie było kontaktu. Jednym dotknięciem udostępnisz ją przez WhatsApp.",
+		""
+	],
+	"c064": [
+		"Tajne zadanie",
+		"Zrób po kryjomu domowy obowiązek, który zwykle robi ktoś inny, i nagraj reakcję, gdy ta osoba to odkryje.",
+		""
+	],
+	"c077": [
+		"Łyżka na nosie",
+		"Zawieś łyżkę na czubku nosa. Ile sekund się utrzyma?",
+		""
+	],
+	"c080": [
+		"Bottle flip",
+		"Podrzuć plastikową butelkę z odrobiną wody tak, żeby wylądowała pionowo. Ile razy z rzędu ci się uda?",
+		""
+	],
+	"c094": [
+		"Lustro",
+		"Przez 30 sekund naśladuj dokładnie wszystko, co robi osoba naprzeciwko ciebie, jak lustro, a ona niech utrudnia coraz bardziej.",
+		""
+	],
+	"c098": [
+		"Tańcz, jakby nikt nie patrzył",
+		"Tańcz, jakby nikt nie patrzył.",
+		""
+	],
+	"c099": [
+		"Taniec z przyjaciółmi",
+		"Zatańcz coś razem z przyjaciółmi.",
+		""
+	],
+	"c101": [
+		"Najśmieszniejsze selfie",
+		"Zrób najśmieszniejsze selfie, jakie potrafisz.",
+		""
+	],
+	"c102": [
+		"Naśladuj gwiazdę",
+		"Naśladuj znaną osobę.",
+		""
+	],
+	"c103": [
+		"Zdjęcie z dzieciństwa",
+		"Pokaż swoje zdjęcie z dzieciństwa.",
+		""
+	],
+	"c104": [
+		"Podwójny podbródek",
+		"Zrób selfie z największym podwójnym podbródkiem, jaki potrafisz zrobić.",
+		""
+	],
+	"c105": [
+		"Selfie z dziurkami w nosie",
+		"Zrób selfie od dołu, prosto w dziurki nosa.",
+		""
+	],
+	"c106": [
+		"Twarz na szybie",
+		"Przyciśnij twarz do szyby i poproś kogoś po drugiej stronie o zdjęcie.",
+		""
+	],
+	"c107": [
+		"Twarz z taśmą",
+		"Naklej kawałek taśmy na nos i policzki i zrób selfie.",
+		""
+	],
+	"c108": [
+		"Wąsy na palcu",
+		"Narysuj wąsy na palcu i przyłóż go pod nos.",
+		""
+	],
+	"c109": [
+		"Broda z bitej śmietany",
+		"Nałóż bitą śmietanę na brodę jak zarost i zrób selfie.",
+		""
+	],
+	"c110": [
+		"Szalone rodzinne selfie",
+		"Zrób selfie z rodziną, na którym wszyscy robią głupią minę.",
+		""
+	],
+	"c111": [
+		"Wstydliwe zdjęcie",
+		"Pokaż swoje najbardziej wstydliwe zdjęcie z dawnych lat.",
+		""
+	],
+	"c112": [
+		"Odtwórz zdjęcie z niemowlęctwa",
+		"Odtwórz swoje zdjęcie z okresu niemowlęcego jak najdokładniej.",
+		""
+	],
+	"c113": [
+		"Zdjęcie zwierzaka",
+		"Zrób najśmieszniejsze zdjęcie swojego zwierzaka.",
+		""
+	],
+	"c114": [
+		"Dziwna pozycja do spania",
+		"Sfotografuj swojego zwierzaka w jego najdziwniejszej pozycji do spania.",
+		""
+	],
+	"c115": [
+		"Selfie ze zwierzakiem",
+		"Zrób selfie razem ze swoim zwierzakiem.",
+		""
+	],
+	"c116": [
+		"Witaj w domu",
+		"Nagraj swojego zwierzaka, kiedy wracasz do domu.",
+		""
+	],
+	"c117": [
+		"Sztuczka zwierzaka",
+		"Pokaż sztuczkę, którą umie twój zwierzak.",
+		""
+	],
+	"c118": [
+		"Nowa zabawka",
+		"Daj zwierzakowi nową zabawkę i nagraj, co robi.",
+		""
+	],
+	"c119": [
+		"Przestrasz kogoś",
+		"Schowaj się i przestrasz przyjaciela albo domownika. Nie wtedy, gdy stoi na schodach.",
+		""
+	],
+	"c120": [
+		"Mistrz złodziei",
+		"Weź niepostrzeżenie coś przyjacielowi, a potem to oddaj.",
+		""
+	],
+	"c121": [
+		"Fałszywy tatuaż",
+		"Narysuj sobie fałszywy tatuaż i przekonaj kogoś, że jest prawdziwy.",
+		""
+	],
+	"c122": [
+		"Dlaczego?",
+		"Na wszystko, co ktoś powie, odpowiadaj „dlaczego?” i nagraj to.",
+		""
+	],
+	"c123": [
+		"Udawane urodziny",
+		"Gdy jesz na mieście, powiedz w restauracji, że ktoś ma urodziny, choć to nieprawda.",
+		""
+	],
+	"c124": [
+		"Rozbity ekran",
+		"Ustaw zdjęcie pękniętego ekranu jako tapetę na telefonie kogoś z domowników.",
+		""
+	],
+	"c125": [
+		"Karteczka na plecach",
+		"Przyklej ukradkiem śmieszną karteczkę na plecy przyjaciela. Jak długo się utrzyma?",
+		""
+	],
+	"c126": [
+		"Zepsuta mysz",
+		"Przyklej karteczkę pod czyjąś myszkę komputerową, żeby przestała działać.",
+		""
+	],
+	"c127": [
+		"Ramka na zdjęcie",
+		"Włóż swoje zdjęcie do ramki w domu i czekaj, aż ktoś to zauważy.",
+		""
+	],
+	"c128": [
+		"Papuga",
+		"Przez minutę powtarzaj wszystko, co mówi twój brat, siostra albo przyjaciel.",
+		""
+	],
+	"c129": [
+		"Zgadnij piosenkę",
+		"Zrób playback fragmentu znanej piosenki bez dźwięku. Widzowie zgadują, co to za piosenka.",
+		""
+	],
+	"c130": [
+		"Degustacja na ślepo",
+		"Z zamkniętymi oczami spróbuj tego, co ktoś ci da, i zgadnij, co to jest.",
+		"Najpierw powiedz, czy masz na coś alergię."
+	],
+	"c131": [
+		"Kim jestem?",
+		"Przyklej sobie na czoło karteczkę ze znanym nazwiskiem i zadając pytania, zgadnij, kim jesteś.",
+		""
+	],
+	"c132": [
+		"Szybki rysunek",
+		"Narysuj coś w 10 sekund. Widzowie zgadują, co to jest.",
+		""
+	],
+	"c133": [
+		"Makijaż od przyjaciela",
+		"Pozwól, żeby przyjaciel zrobił ci makijaż.",
+		""
+	],
+	"c134": [
+		"Usta pełne wody",
+		"Trzymaj łyk wody w ustach, kiedy ktoś opowiada dowcipy. Jak parskniesz, odpadasz.",
+		""
+	],
+	"c135": [
+		"Język na wierzchu",
+		"Przeczytaj na głos zdanie z językiem na wierzchu.",
+		""
+	],
+	"c136": [
+		"Najbardziej szalony śmiech",
+		"Pokaż swój najbardziej szalony śmiech.",
+		""
+	],
+	"c137": [
+		"Twarz z jedzenia",
+		"Ułóż twarz z jedzenia na talerzu.",
+		""
+	],
+	"c138": [
+		"Szalona fryzura",
+		"Pozwól komuś zrobić ci najbardziej szaloną fryzurę.",
+		""
+	],
+	"c139": [
+		"Ulubione jedzenie",
+		"Pokaż zdjęcie swojego ulubionego jedzenia.",
+		""
+	],
+	"c140": [
+		"Poranny napój",
+		"Pokaż zdjęcie swojego porannego napoju.",
+		""
+	],
+	"c141": [
+		"Czego nie lubisz",
+		"Pokaż zdjęcie czegoś, czego nie lubisz jeść.",
+		""
+	],
+	"c142": [
+		"Tanie i pyszne",
+		"Zrób zdjęcie taniego, ale pysznego jedzenia.",
+		""
+	],
+	"c143": [
+		"Najpiękniejsze zdjęcie natury",
+		"Zrób swoje najpiękniejsze zdjęcie przyrody.",
+		""
+	],
+	"c144": [
+		"Najlepsze zdjęcie deszczu",
+		"Zrób najlepsze zdjęcie deszczu.",
+		""
+	],
+	"c145": [
+		"Najpiękniejsze zdjęcie chmur",
+		"Zrób najpiękniejsze zdjęcie chmur.",
+		""
+	],
+	"c146": [
+		"Coś śmiesznego na ulicy",
+		"Zrób zdjęcie czegoś śmiesznego, co widzisz na ulicy.",
+		""
+	],
+	"c147": [
+		"Najdziwniejsze jedzenie",
+		"Sfotografuj swoje najdziwniejsze jedzenie.",
+		""
+	],
+	"c148": [
+		"Ulubione słodycze",
+		"Zrób zdjęcie swoich ulubionych słodyczy.",
+		""
+	],
+	"c149": [
+		"Brzydkie ubrania rodziców",
+		"Zrób zdjęcie najbrzydszych ubrań swoich rodziców.",
+		""
+	],
+	"c150": [
+		"Kostium na Halloween",
+		"Pokaż swój najlepszy kostium na Halloween.",
+		""
+	],
+	"c151": [
+		"Kostium imprezowy",
+		"Pokaż swój najlepszy kostium imprezowy.",
+		""
+	],
+	"c152": [
+		"Nie do pary",
+		"Załóż dwa różne buty albo dwie różne skarpetki.",
+		""
+	],
+	"c153": [
+		"Złap cukierka",
+		"Podrzuć cukierka i złap go ustami.",
+		"Weź małego, miękkiego cukierka."
+	],
+	"c154": [
+		"Kulka do kosza",
+		"Rzuć papierową kulkę do kosza z drugiego końca pokoju.",
+		""
+	],
+	"c155": [
+		"Najśmieszniejsze zdjęcie",
+		"Pokaż swoje najśmieszniejsze zdjęcie.",
+		""
+	],
+	"c156": [
+		"Słowo ze slangu",
+		"Naucz tatę, mamę, dziadka albo babcię jednego słowa ze slangu.",
+		""
+	],
+	"c157": [
+		"Prezent bez okazji",
+		"Kup komuś mały prezent, tak bez okazji.",
+		""
+	],
+	"c158": [
+		"Wiadomość z emoji",
+		"Wyślij rodzicom wiadomość złożoną tylko z emoji.",
+		""
+	],
+	"c159": [
+		"Śniadanie do łóżka",
+		"Przygotuj komuś z domowników śniadanie do łóżka.",
+		""
+	],
+	"c160": [
+		"Poczęstunek",
+		"Przynieś coś dobrego dla wszystkich do pracy albo do szkoły.",
+		""
+	],
+	"c161": [
+		"Zrób imprezę",
+		"Zrób imprezę.",
+		""
+	],
+	"c162": [
+		"Postaw kolejkę",
+		"Postaw znajomym kolejkę napojów.",
+		""
+	],
+	"c163": [
+		"Opowiedz dowcip",
+		"Opowiedz dowcip.",
+		""
+	],
+	"c164": [
+		"Bitwa na poduszki",
+		"Zrób bitwę na poduszki z bratem, siostrą albo przyjacielem.",
+		""
+	],
+	"c165": [
+		"Taniec z rodzicami",
+		"Zatańcz coś razem z tatą albo mamą.",
+		""
+	],
+	"d001": [
+		"Pojedynek na spojrzenia",
+		"Patrz komuś prosto w oczy przez 30 sekund i się nie śmiej. Kto się zaśmieje, przegrywa.",
+		""
+	],
+	"d002": [
+		"Zachowaj powagę",
+		"Zachowaj powagę przez 30 sekund i się nie śmiej.",
+		""
+	],
+	"d003": [
+		"Groźna mina",
+		"Spójrz na kogoś bardzo groźnie i się nie śmiej.",
+		""
+	],
+	"d004": [
+		"Smutne oczka",
+		"Spójrz na kogoś bardzo smutno i się nie śmiej.",
+		""
+	],
+	"d005": [
+		"Naśladuj emoji",
+		"Oboje dostajecie to samo emoji i je naśladujecie.",
+		""
+	],
+	"d006": [
+		"Najbardziej szalony ruch",
+		"Pokaż w 10 sekund swój najbardziej szalony ruch taneczny.",
+		""
+	],
+	"d007": [
+		"Zgadnij zwierzę",
+		"Naśladuj zwierzę bez dźwięku. Wygrywa ten, kto jest najbardziej czytelny.",
+		""
+	],
+	"d008": [
+		"Gitara powietrzna",
+		"Zagraj na powietrznej gitarze jak gwiazda rocka. Wygrywa ten, kto zagra najlepiej.",
+		""
+	],
+	"d009": [
+		"Zaśpiewaj za mną",
+		"Kto idzie pierwszy, śpiewa fragment piosenki. Druga osoba go powtarza.",
+		""
+	],
+	"d010": [
+		"Papier, kamień, nożyce",
+		"Narysuj papier, kamień albo nożyce i pokaż. Kto wygra, wygrywa pojedynek.",
+		""
+	],
+	"d011": [
+		"Tylko tak albo nie",
+		"Przez minutę możesz mówić tylko „tak” albo „nie”, a ktoś zadaje ci pytania.",
+		""
+	],
+	"d012": [
+		"Zgadnij słowo",
+		"Kto idzie pierwszy, trzyma długopis w zębach i mówi łatwe słowo. Druga osoba zgaduje to słowo.",
+		""
+	],
+	"d013": [
+		"Zgadnij pokój",
+		"Kto idzie pierwszy, nagrywa mały kawałek pokoju, w którym jest. Druga osoba zgaduje, co to za pokój.",
+		""
+	],
+	"d014": [
+		"Najbardziej szalony śmiech",
+		"Pokaż swój najbardziej szalony śmiech. Wygrywa najbardziej szalony.",
+		""
+	],
+	"d015": [
+		"Najśmieszniejszy głos",
+		"Powiedz „Chce mi się jeść” najśmieszniejszym głosem.",
+		""
+	],
+	"d016": [
+		"Najlepszy dowcip",
+		"Opowiedz swój najśmieszniejszy dowcip. Wygrywa najśmieszniejszy.",
+		""
+	],
+	"d017": [
+		"Najlepsza wymówka",
+		"Spóźniasz się. Wymyśl najbardziej szaloną wymówkę.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatboxuj przez 10 sekund. Wygrywa ten, kto zrobi to najlepiej.",
+		""
+	]
+}

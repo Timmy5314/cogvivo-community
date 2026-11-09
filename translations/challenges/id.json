@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Wajah datar makan lemon",
+		"Gigit seiris lemon dan pertahankan wajah datar selama 10 detik. Satu kali meringis, kamu kalah.",
+		""
+	],
+	"c003": [
+		"Kamu bisa ini?",
+		"Coba empat hal ini: menggulung lidah, mengangkat satu alis, menggerakkan telinga, dan menyentuh hidung dengan lidah. Berapa yang berhasil?",
+		""
+	],
+	"c004": [
+		"Wajah emoji",
+		"Tiru lima emoji ini hanya dengan wajahmu, masing-masing dua detik: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Gerak lambat",
+		"Lakukan hal yang sangat biasa, seperti menyisir rambut atau menuang air ke gelas, dalam gerak super lambat selama 20 detik, termasuk wajahmu.",
+		""
+	],
+	"c008": [
+		"Tebak kalimat",
+		"Seseorang mengucapkan kalimat tanpa suara. Kamu menebak apa yang dikatakannya.",
+		""
+	],
+	"c010": [
+		"Putar mundur",
+		"Rekam sesuatu secara terbalik, misalnya melepas jaket, lalu putar mundur sampai terlihat hampir normal. Makin terlihat asli, makin bagus.",
+		""
+	],
+	"c014": [
+		"Cerita boneka kaus kaki",
+		"Buat boneka dari kaus kaki dan ceritakan sebuah kisah dengannya.",
+		""
+	],
+	"c016": [
+		"Apa yang dipikirkan hewanmu?",
+		"Rekam hewan peliharaan, boneka, atau tanamanmu, lalu isi suaranya selama 20 detik tentang apa yang sedang ia pikirkan.",
+		""
+	],
+	"c018": [
+		"Komentator olahraga langsung",
+		"Jadilah komentator olahraga langsung saat seseorang melakukan hal sehari-hari.",
+		""
+	],
+	"c027": [
+		"Benda berwajah",
+		"Foto benda yang kelihatan seperti punya wajah.",
+		""
+	],
+	"c028": [
+		"Pegang bulan",
+		"Ambil foto seolah kamu memegang bulan di antara dua jari.",
+		""
+	],
+	"c029": [
+		"Tebak ini apa",
+		"Foto sesuatu di rumah dari jarak sangat dekat sampai tidak ada yang tahu itu apa, lalu biarkan penonton menebak.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Dengan minimal 30 foto, buat video stop motion di mana barang-barang di mejamu hidup dengan sendirinya.",
+		""
+	],
+	"c039": [
+		"Tebak film",
+		"Peragakan sebuah film. Penonton menebak filmnya.",
+		""
+	],
+	"c046": [
+		"Selfie terjelek",
+		"Kirim selfie terjelekmu ke orang yang kamu kenal.",
+		""
+	],
+	"c047": [
+		"Nyanyikan lagu",
+		"Nyanyikan sebuah lagu.",
+		""
+	],
+	"c049": [
+		"Baju orang lain",
+		"Pakai baju milik orang lain.",
+		""
+	],
+	"c050": [
+		"Tebak aku siapa",
+		"Tiru tiga orang yang kamu kenal, misalnya cara mereka tertawa atau bicara, lalu biarkan mereka menebak siapa yang mana.",
+		"Lakukan dengan baik, jangan mengejek."
+	],
+	"c051": [
+		"Lambaikan tangan ke orang asing",
+		"Lambaikan tangan ke orang asing dan lihat apakah dia membalas.",
+		""
+	],
+	"c061": [
+		"Surat manis",
+		"Tulis surat kecil yang manis untuk seseorang.",
+		""
+	],
+	"c062": [
+		"Pesan terima kasih",
+		"Kirim pesan ke seseorang untuk berterima kasih. Sekali ketuk, kamu bagikan lewat WhatsApp.",
+		""
+	],
+	"c063": [
+		"Lama tak bicara",
+		"Kirim pesan ke seseorang yang sudah lama tidak kamu ajak bicara. Sekali ketuk, kamu bagikan lewat WhatsApp.",
+		""
+	],
+	"c064": [
+		"Tugas rahasia",
+		"Diam-diam kerjakan tugas rumah yang biasanya dilakukan orang lain di rumah, lalu rekam reaksinya saat ia tahu.",
+		""
+	],
+	"c077": [
+		"Sendok di hidung",
+		"Gantungkan sendok di ujung hidungmu. Berapa detik sendok itu bertahan?",
+		""
+	],
+	"c080": [
+		"Lempar botol",
+		"Lempar botol plastik berisi sedikit air sampai mendarat berdiri. Berapa kali berturut-turut kamu bisa?",
+		""
+	],
+	"c094": [
+		"Cermin",
+		"Selama 30 detik, tiru persis semua yang dilakukan orang di depanmu seperti cermin, sementara ia membuatnya makin sulit.",
+		""
+	],
+	"c098": [
+		"Menari seolah tak ada yang melihat",
+		"Menarilah seolah tak ada yang melihat.",
+		""
+	],
+	"c099": [
+		"Joget bareng teman",
+		"Joget bareng teman-temanmu.",
+		""
+	],
+	"c101": [
+		"Selfie terlucu",
+		"Ambil selfie paling lucu yang kamu bisa.",
+		""
+	],
+	"c102": [
+		"Tiru seleb",
+		"Tirukan orang terkenal.",
+		""
+	],
+	"c103": [
+		"Foto masa kecil",
+		"Bagikan fotomu waktu kecil.",
+		""
+	],
+	"c104": [
+		"Dagu berlipat",
+		"Ambil selfie dengan dagu berlipat paling tebal yang bisa kamu buat.",
+		""
+	],
+	"c105": [
+		"Selfie lubang hidung",
+		"Ambil selfie dari bawah, langsung ke lubang hidungmu.",
+		""
+	],
+	"c106": [
+		"Wajah di kaca",
+		"Tempelkan wajahmu rata ke kaca jendela dan minta seseorang di sisi lain memotretnya.",
+		""
+	],
+	"c107": [
+		"Wajah selotip",
+		"Tempel selotip di hidung dan pipimu, lalu ambil selfie.",
+		""
+	],
+	"c108": [
+		"Kumis jari",
+		"Gambar kumis di jarimu dan taruh di bawah hidung.",
+		""
+	],
+	"c109": [
+		"Jenggot krim kocok",
+		"Semprotkan krim kocok di dagumu seperti jenggot, lalu ambil selfie.",
+		""
+	],
+	"c110": [
+		"Selfie keluarga kocak",
+		"Ambil selfie bersama keluargamu dengan semua orang pasang muka aneh.",
+		""
+	],
+	"c111": [
+		"Foto memalukan",
+		"Tunjukkan fotomu yang paling memalukan dari dulu.",
+		""
+	],
+	"c112": [
+		"Tiru foto bayimu",
+		"Tiru foto bayimu semirip mungkin.",
+		""
+	],
+	"c113": [
+		"Foto hewan peliharaan",
+		"Ambil foto paling lucu hewan peliharaanmu.",
+		""
+	],
+	"c114": [
+		"Pose tidur aneh",
+		"Foto hewan peliharaanmu dalam pose tidurnya yang paling aneh.",
+		""
+	],
+	"c115": [
+		"Selfie dengan peliharaan",
+		"Ambil selfie bersama hewan peliharaanmu.",
+		""
+	],
+	"c116": [
+		"Selamat datang di rumah",
+		"Rekam hewan peliharaanmu saat kamu pulang.",
+		""
+	],
+	"c117": [
+		"Trik hewan peliharaan",
+		"Tunjukkan trik yang bisa dilakukan hewan peliharaanmu.",
+		""
+	],
+	"c118": [
+		"Mainan baru",
+		"Beri hewan peliharaanmu mainan baru dan rekam apa yang dilakukannya.",
+		""
+	],
+	"c119": [
+		"Kagetkan seseorang",
+		"Sembunyi dan kagetkan teman atau orang serumah. Jangan saat dia di tangga.",
+		""
+	],
+	"c120": [
+		"Pencuri ulung",
+		"Ambil sesuatu dari teman diam-diam tanpa ketahuan, lalu kembalikan.",
+		""
+	],
+	"c121": [
+		"Tato palsu",
+		"Gambar tato palsu dan buat seseorang percaya itu asli.",
+		""
+	],
+	"c122": [
+		"Kenapa?",
+		"Jawab semua yang dikatakan seseorang dengan “kenapa?” dan rekam.",
+		""
+	],
+	"c123": [
+		"Ulang tahun palsu",
+		"Saat makan di luar, bilang ke restoran bahwa seseorang sedang ulang tahun padahal tidak.",
+		""
+	],
+	"c124": [
+		"Layar retak",
+		"Pasang foto layar retak sebagai wallpaper di HP orang serumah.",
+		""
+	],
+	"c125": [
+		"Kertas di punggung",
+		"Tempel diam-diam kertas lucu di punggung teman. Berapa lama dia jalan-jalan dengan itu?",
+		""
+	],
+	"c126": [
+		"Mouse rusak",
+		"Tempel kertas di bawah mouse komputer seseorang supaya tidak berfungsi.",
+		""
+	],
+	"c127": [
+		"Bingkai foto",
+		"Taruh fotomu di bingkai foto di rumah dan tunggu sampai ada yang sadar.",
+		""
+	],
+	"c128": [
+		"Tukang tiru",
+		"Selama satu menit, ulangi semua yang dikatakan kakak, adik, atau temanmu.",
+		""
+	],
+	"c129": [
+		"Tebak lagu",
+		"Lakukan lip sync sepotong lagu terkenal tanpa suara. Penonton menebak lagunya.",
+		""
+	],
+	"c130": [
+		"Cicip mata tertutup",
+		"Dengan mata tertutup, cicipi apa yang diberikan seseorang dan tebak apa itu.",
+		"Bilang dulu kalau kamu alergi sesuatu."
+	],
+	"c131": [
+		"Siapa aku?",
+		"Tempel kertas bertuliskan nama terkenal di dahimu dan ajukan pertanyaan untuk menebak siapa dirimu.",
+		""
+	],
+	"c132": [
+		"Gambar kilat",
+		"Gambar sesuatu dalam 10 detik. Penonton menebak apa itu.",
+		""
+	],
+	"c133": [
+		"Dirias teman",
+		"Biarkan teman meriasmu.",
+		""
+	],
+	"c134": [
+		"Mulut penuh air",
+		"Tahan seteguk air di mulut saat seseorang bercerita lelucon. Kalau tersembur, kamu kalah.",
+		""
+	],
+	"c135": [
+		"Lidah keluar",
+		"Baca satu kalimat keras-keras dengan lidah menjulur.",
+		""
+	],
+	"c136": [
+		"Tawa paling gila",
+		"Perdengarkan tawamu yang paling gila.",
+		""
+	],
+	"c137": [
+		"Wajah dari makanan",
+		"Buat wajah dari makanan di piringmu.",
+		""
+	],
+	"c138": [
+		"Gaya rambut gila",
+		"Biarkan seseorang menata rambutmu dengan gaya paling gila.",
+		""
+	],
+	"c139": [
+		"Makanan favorit",
+		"Bagikan foto makanan favoritmu.",
+		""
+	],
+	"c140": [
+		"Minuman pagi",
+		"Bagikan foto minuman pagimu.",
+		""
+	],
+	"c141": [
+		"Yang tidak kamu suka",
+		"Bagikan foto makanan yang tidak kamu suka.",
+		""
+	],
+	"c142": [
+		"Murah tapi enak",
+		"Foto makanan yang murah tapi enak.",
+		""
+	],
+	"c143": [
+		"Foto alam terindah",
+		"Ambil foto alammu yang paling indah.",
+		""
+	],
+	"c144": [
+		"Foto hujan terbaik",
+		"Ambil foto hujan terbaik.",
+		""
+	],
+	"c145": [
+		"Foto awan terindah",
+		"Ambil foto awan paling indah.",
+		""
+	],
+	"c146": [
+		"Hal lucu di jalan",
+		"Foto sesuatu yang lucu yang kamu lihat di jalan.",
+		""
+	],
+	"c147": [
+		"Makanan teraneh",
+		"Foto makananmu yang paling aneh.",
+		""
+	],
+	"c148": [
+		"Permen favorit",
+		"Foto permen favoritmu.",
+		""
+	],
+	"c149": [
+		"Baju jelek orang tua",
+		"Foto baju paling jelek milik orang tuamu.",
+		""
+	],
+	"c150": [
+		"Kostum Halloween",
+		"Tunjukkan kostum Halloween terbaikmu.",
+		""
+	],
+	"c151": [
+		"Kostum pesta",
+		"Tunjukkan kostum pesta terbaikmu.",
+		""
+	],
+	"c152": [
+		"Tidak sepasang",
+		"Pakai dua sepatu atau dua kaus kaki yang berbeda.",
+		""
+	],
+	"c153": [
+		"Tangkap permen",
+		"Lempar permen ke atas dan tangkap dengan mulut.",
+		"Pakai permen yang kecil dan lunak."
+	],
+	"c154": [
+		"Lempar ke tong sampah",
+		"Lempar gumpalan kertas ke tong sampah dari ujung lain ruangan.",
+		""
+	],
+	"c155": [
+		"Foto terlucu",
+		"Bagikan fotomu yang paling lucu.",
+		""
+	],
+	"c156": [
+		"Kata gaul",
+		"Ajari ayah, ibu, kakek, atau nenekmu satu kata gaul.",
+		""
+	],
+	"c157": [
+		"Hadiah tanpa alasan",
+		"Belikan seseorang hadiah kecil, tanpa alasan.",
+		""
+	],
+	"c158": [
+		"Pesan emoji",
+		"Kirim pesan ke orang tuamu yang isinya hanya emoji.",
+		""
+	],
+	"c159": [
+		"Sarapan di tempat tidur",
+		"Siapkan sarapan di tempat tidur untuk orang serumah.",
+		""
+	],
+	"c160": [
+		"Bawa camilan",
+		"Bawa camilan untuk semua orang di kantor atau sekolah.",
+		""
+	],
+	"c161": [
+		"Adakan pesta",
+		"Adakan pesta.",
+		""
+	],
+	"c162": [
+		"Traktir minum",
+		"Traktir teman-temanmu minum.",
+		""
+	],
+	"c163": [
+		"Ceritakan lelucon",
+		"Ceritakan sebuah lelucon.",
+		""
+	],
+	"c164": [
+		"Perang bantal",
+		"Perang bantal dengan kakak, adik, atau temanmu.",
+		""
+	],
+	"c165": [
+		"Joget bareng orang tua",
+		"Joget bareng ayah atau ibumu.",
+		""
+	],
+	"d001": [
+		"Lomba tatap",
+		"Tatap mata seseorang selama 30 detik tanpa tertawa. Yang tertawa kalah.",
+		""
+	],
+	"d002": [
+		"Tetap serius",
+		"Tetap serius selama 30 detik tanpa tertawa.",
+		""
+	],
+	"d003": [
+		"Tatapan marah",
+		"Tatap seseorang dengan sangat marah tanpa tertawa.",
+		""
+	],
+	"d004": [
+		"Tatapan memelas",
+		"Tatap seseorang dengan sangat sedih tanpa tertawa.",
+		""
+	],
+	"d005": [
+		"Tiru emoji",
+		"Kalian berdua dapat emoji yang sama dan menirunya.",
+		""
+	],
+	"d006": [
+		"Gerakan joget tergila",
+		"Tunjukkan gerakan jogetmu yang paling gila dalam 10 detik.",
+		""
+	],
+	"d007": [
+		"Tebak hewan",
+		"Tirukan hewan tanpa suara. Yang paling jelas menang.",
+		""
+	],
+	"d008": [
+		"Gitar udara",
+		"Main gitar udara seperti bintang rock. Yang main paling bagus menang.",
+		""
+	],
+	"d009": [
+		"Nyanyikan ulang",
+		"Yang duluan menyanyikan sepotong lagu. Yang lain menyanyikannya ulang.",
+		""
+	],
+	"d010": [
+		"Gunting, batu, kertas",
+		"Gambar gunting, batu, atau kertas lalu tunjukkan. Yang menang, memenangkan duel.",
+		""
+	],
+	"d011": [
+		"Hanya ya atau tidak",
+		"Selama satu menit kamu hanya boleh bilang “ya” atau “tidak” sementara seseorang bertanya padamu.",
+		""
+	],
+	"d012": [
+		"Tebak kata",
+		"Yang duluan menjepit pulpen di antara gigi dan mengucapkan kata yang mudah. Yang lain menebak katanya.",
+		""
+	],
+	"d013": [
+		"Tebak ruangan",
+		"Yang duluan merekam sebagian kecil ruangan tempat dia berada. Yang lain menebak ruangan apa itu.",
+		""
+	],
+	"d014": [
+		"Tawa paling gila",
+		"Perdengarkan tawamu yang paling gila. Tawa paling gila menang.",
+		""
+	],
+	"d015": [
+		"Suara teraneh",
+		"Ucapkan “Aku lapar” dengan suaramu yang paling aneh.",
+		""
+	],
+	"d016": [
+		"Lelucon terbaik",
+		"Ceritakan leluconmu yang paling lucu. Yang paling lucu menang.",
+		""
+	],
+	"d017": [
+		"Alasan terbaik",
+		"Kamu terlambat. Karang alasan paling gila.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatbox selama 10 detik. Yang paling bagus menang.",
+		""
+	]
+}

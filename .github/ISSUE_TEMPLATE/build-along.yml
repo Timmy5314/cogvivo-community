@@ -1,0 +1,18 @@
+name: 🧑‍💻 Build along / Meebouwen
+description: You want to help regularly with code, design, translation or testing · Je wilt structureel helpen
+labels: [build along]
+body:
+  - type: textarea
+    id: wat
+    attributes:
+      label: What would you like to help with? · Waarmee wil je helpen?
+    validations:
+      required: true
+  - type: input
+    id: werk
+    attributes:
+      label: Earlier work (optional) · Eerder werk (optioneel)
+      placeholder: A link to your work or profile
+  - type: markdown
+    attributes:
+      value: By submitting you agree to [BIJDRAGEN.md](https://github.com/Timmy5314/cogvivo-community/blob/main/BIJDRAGEN.md).

@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Citroen-pokerface",
+		"Bijt in een partje citroen en houd 10 seconden een strak gezicht. Eén grimas en je hebt verloren.",
+		""
+	],
+	"c003": [
+		"Kun jij dit?",
+		"Probeer deze vier: je tong rollen, één wenkbrauw optrekken, je oren bewegen en met je tong je neus raken. Hoeveel van de vier lukken?",
+		""
+	],
+	"c004": [
+		"Emoji-gezichten",
+		"Doe deze vijf emoji's na met alleen je gezicht, twee seconden per stuk: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Slow motion",
+		"Doe iets heel gewoons, zoals je haar kammen of een glas inschenken, 20 seconden in extreme slow motion, ook met je gezicht.",
+		""
+	],
+	"c008": [
+		"Raad de zin",
+		"Iemand zegt een zin zonder geluid. Jij raadt wat die zei.",
+		""
+	],
+	"c010": [
+		"Achteruit",
+		"Film iets achterstevoren, zoals je jas uittrekken, en speel het omgekeerd af zodat het er bijna normaal uitziet. Hoe echter het lijkt, hoe beter.",
+		""
+	],
+	"c014": [
+		"Sokpoppenverhaal",
+		"Maak sokpoppen en vertel er een verhaal mee.",
+		""
+	],
+	"c016": [
+		"Wat denkt je huisdier?",
+		"Film je huisdier, knuffel of kamerplant en spreek 20 seconden in wat er in zijn hoofd omgaat.",
+		""
+	],
+	"c018": [
+		"Live sportcommentaar",
+		"Geef live sportcommentaar terwijl iemand iets alledaags doet.",
+		""
+	],
+	"c027": [
+		"Voorwerp met een gezicht",
+		"Maak een foto van een voorwerp dat een gezicht lijkt te hebben.",
+		""
+	],
+	"c028": [
+		"Maan vasthouden",
+		"Maak een foto waarop je de maan tussen twee vingers vasthoudt.",
+		""
+	],
+	"c029": [
+		"Raad wat het is",
+		"Fotografeer iets in huis zo dichtbij dat niemand ziet wat het is, en laat de kijkers raden.",
+		""
+	],
+	"c033": [
+		"Stop-motion",
+		"Maak met minstens 30 foto's een stop-motionfilmpje waarin spullen op tafel vanzelf tot leven komen.",
+		""
+	],
+	"c039": [
+		"Raad de film",
+		"Speel een film na. De kijkers raden welke film het is.",
+		""
+	],
+	"c046": [
+		"Lelijkste selfie",
+		"Stuur je lelijkste selfie naar iemand die je kent.",
+		""
+	],
+	"c047": [
+		"Zing een liedje",
+		"Zing een liedje.",
+		""
+	],
+	"c049": [
+		"Outfit van een ander",
+		"Draag een outfit van iemand anders.",
+		""
+	],
+	"c050": [
+		"Raad wie ik ben",
+		"Doe drie mensen die je kent na, zoals hoe ze lachen of praten, en laat hen raden wie wie is.",
+		"Houd het lief, niet gemeen."
+	],
+	"c051": [
+		"Zwaai naar een onbekende",
+		"Zwaai naar een onbekende en kijk of die terugzwaait.",
+		""
+	],
+	"c061": [
+		"Lief briefje",
+		"Schrijf iemand een lief briefje.",
+		""
+	],
+	"c062": [
+		"Dankberichtje",
+		"Stuur iemand een berichtje om diegene te bedanken. Met één tik deel je het via WhatsApp.",
+		""
+	],
+	"c063": [
+		"Lang niet gesproken",
+		"Stuur iemand die je lang niet sprak een berichtje. Met één tik deel je het via WhatsApp.",
+		""
+	],
+	"c064": [
+		"Stiekeme klus",
+		"Doe stiekem een klusje dat normaal iemand anders in huis doet, en film de reactie als die het ontdekt.",
+		""
+	],
+	"c077": [
+		"Lepel op je neus",
+		"Laat een lepel aan het puntje van je neus hangen. Hoeveel seconden blijft hij hangen?",
+		""
+	],
+	"c080": [
+		"Flesflip",
+		"Gooi een plastic fles met een laagje water zo dat hij rechtop landt. Hoe vaak lukt het achter elkaar?",
+		""
+	],
+	"c094": [
+		"Spiegelbeeld",
+		"Doe 30 seconden lang precies alles na wat iemand tegenover je doet, alsof je een spiegel bent, terwijl die het steeds moeilijker maakt.",
+		""
+	],
+	"c098": [
+		"Dans alsof niemand kijkt",
+		"Dans alsof niemand kijkt.",
+		""
+	],
+	"c099": [
+		"Dansje met vrienden",
+		"Doe een dansje met je vrienden.",
+		""
+	],
+	"c101": [
+		"Grappigste selfie",
+		"Maak de grappigste selfie die je kunt.",
+		""
+	],
+	"c102": [
+		"Doe een celebrity na",
+		"Doe een bekend persoon na.",
+		""
+	],
+	"c103": [
+		"Kinderfoto",
+		"Stuur een foto van jezelf als kind.",
+		""
+	],
+	"c104": [
+		"Dubbele kin",
+		"Maak een selfie met de dikste dubbele kin die je kunt maken.",
+		""
+	],
+	"c105": [
+		"Neusgaten-selfie",
+		"Maak een selfie van onderaf, recht in je neusgaten.",
+		""
+	],
+	"c106": [
+		"Gezicht tegen het raam",
+		"Druk je gezicht plat tegen een raam en laat iemand aan de andere kant een foto maken.",
+		""
+	],
+	"c107": [
+		"Plakbandgezicht",
+		"Plak een stuk plakband over je neus en wangen en maak een selfie.",
+		""
+	],
+	"c108": [
+		"Vingersnor",
+		"Teken een snor op je vinger en houd hem onder je neus.",
+		""
+	],
+	"c109": [
+		"Slagroombaard",
+		"Spuit slagroom op je kin als baard en maak een selfie.",
+		""
+	],
+	"c110": [
+		"Gekke familieselfie",
+		"Maak een selfie met je familie waarop iedereen een gek gezicht trekt.",
+		""
+	],
+	"c111": [
+		"Gênante foto",
+		"Laat je gênantste foto van vroeger zien.",
+		""
+	],
+	"c112": [
+		"Babyfoto nadoen",
+		"Doe een babyfoto van jezelf zo precies mogelijk na.",
+		""
+	],
+	"c113": [
+		"Huisdierfoto",
+		"Maak de grappigste foto van je huisdier.",
+		""
+	],
+	"c114": [
+		"Rare slaaphouding",
+		"Fotografeer je huisdier in zijn raarste slaaphouding.",
+		""
+	],
+	"c115": [
+		"Selfie met je huisdier",
+		"Maak een selfie samen met je huisdier.",
+		""
+	],
+	"c116": [
+		"Welkom thuis",
+		"Film je huisdier als je thuiskomt.",
+		""
+	],
+	"c117": [
+		"Huisdiertrucje",
+		"Laat zien welk trucje je huisdier kan.",
+		""
+	],
+	"c118": [
+		"Nieuw speeltje",
+		"Geef je huisdier een nieuw speeltje en film wat het doet.",
+		""
+	],
+	"c119": [
+		"Laat iemand schrikken",
+		"Verstop je en laat een vriend of huisgenoot schrikken. Niet als die op de trap staat.",
+		""
+	],
+	"c120": [
+		"Meesterdief",
+		"Pik stiekem iets van een vriend zonder dat die het merkt, en geef het daarna terug.",
+		""
+	],
+	"c121": [
+		"Nep-tattoo",
+		"Teken een nep-tattoo en laat iemand geloven dat hij echt is.",
+		""
+	],
+	"c122": [
+		"Waarom?",
+		"Zeg op alles wat iemand zegt \"waarom?\" en film het.",
+		""
+	],
+	"c123": [
+		"Nepverjaardag",
+		"Vertel bij het uit eten aan het restaurant dat iemand jarig is, terwijl die niet jarig is.",
+		""
+	],
+	"c124": [
+		"Kapot scherm",
+		"Zet een foto van een gebarsten scherm als achtergrond op de telefoon van iemand thuis.",
+		""
+	],
+	"c125": [
+		"Briefje op je rug",
+		"Plak stiekem een grappig briefje op de rug van een vriend. Hoe lang loopt die ermee rond?",
+		""
+	],
+	"c126": [
+		"Muis werkt niet",
+		"Plak een briefje onder iemands computermuis, zodat die niet meer werkt.",
+		""
+	],
+	"c127": [
+		"Fotolijstje",
+		"Zet een foto van jezelf in een fotolijstje thuis en wacht tot iemand het ziet.",
+		""
+	],
+	"c128": [
+		"Na-aap",
+		"Herhaal een minuut lang alles wat je broer, zus of vriend zegt.",
+		""
+	],
+	"c129": [
+		"Raad het liedje",
+		"Playback een stukje van een bekend liedje zonder geluid. De kijkers raden welk liedje het is.",
+		""
+	],
+	"c130": [
+		"Blind proeven",
+		"Proef met je ogen dicht wat iemand je geeft en raad wat het is.",
+		"Zeg eerst of je ergens allergisch voor bent."
+	],
+	"c131": [
+		"Wie ben ik?",
+		"Plak een briefje met een bekende naam op je voorhoofd en raad door vragen te stellen wie je bent.",
+		""
+	],
+	"c132": [
+		"Snelle tekening",
+		"Teken iets in 10 seconden. De kijkers raden wat het is.",
+		""
+	],
+	"c133": [
+		"Make-up door een vriend",
+		"Laat een vriend je opmaken.",
+		""
+	],
+	"c134": [
+		"Mond vol water",
+		"Houd een slok water in je mond terwijl iemand moppen vertelt. Proest je, dan ben je af.",
+		""
+	],
+	"c135": [
+		"Tong uit",
+		"Lees een zin voor met je tong uit je mond.",
+		""
+	],
+	"c136": [
+		"Gekste lach",
+		"Laat je allergekste lach horen.",
+		""
+	],
+	"c137": [
+		"Gezicht van je eten",
+		"Maak een gezicht van het eten op je bord.",
+		""
+	],
+	"c138": [
+		"Gek kapsel",
+		"Laat iemand je haar in de gekste stijl doen.",
+		""
+	],
+	"c139": [
+		"Lievelingseten",
+		"Stuur een foto van je lievelingseten.",
+		""
+	],
+	"c140": [
+		"Ochtenddrankje",
+		"Stuur een foto van je ochtenddrankje.",
+		""
+	],
+	"c141": [
+		"Wat je niet lust",
+		"Stuur een foto van iets wat je niet lust.",
+		""
+	],
+	"c142": [
+		"Goedkoop lekker eten",
+		"Maak een foto van goedkoop maar lekker eten.",
+		""
+	],
+	"c143": [
+		"Mooiste natuurfoto",
+		"Maak je mooiste natuurfoto.",
+		""
+	],
+	"c144": [
+		"Beste regenfoto",
+		"Maak de beste foto van de regen.",
+		""
+	],
+	"c145": [
+		"Mooiste wolkenfoto",
+		"Maak de mooiste foto van de wolken.",
+		""
+	],
+	"c146": [
+		"Iets grappigs op straat",
+		"Maak een foto van iets grappigs dat je op straat ziet.",
+		""
+	],
+	"c147": [
+		"Raarste eten",
+		"Fotografeer je raarste eten.",
+		""
+	],
+	"c148": [
+		"Lievelingssnoep",
+		"Maak een foto van je lievelingssnoep.",
+		""
+	],
+	"c149": [
+		"Lelijke kleren van je ouders",
+		"Maak een foto van de lelijkste kleren van je ouders.",
+		""
+	],
+	"c150": [
+		"Halloweenkostuum",
+		"Laat je beste halloweenkostuum zien.",
+		""
+	],
+	"c151": [
+		"Feestkostuum",
+		"Laat je beste feestkostuum zien.",
+		""
+	],
+	"c152": [
+		"Twee verschillende",
+		"Draag twee verschillende schoenen of sokken.",
+		""
+	],
+	"c153": [
+		"Snoepje vangen",
+		"Gooi een snoepje omhoog en vang het met je mond.",
+		"Neem een klein, zacht snoepje."
+	],
+	"c154": [
+		"Prop in de prullenbak",
+		"Gooi een prop papier van de andere kant van de kamer in de prullenbak.",
+		""
+	],
+	"c155": [
+		"Grappigste foto",
+		"Stuur je grappigste foto.",
+		""
+	],
+	"c156": [
+		"Straattaalwoord",
+		"Leer je vader, moeder, opa of oma een straattaalwoord.",
+		""
+	],
+	"c157": [
+		"Zomaar een cadeautje",
+		"Koop zomaar een cadeautje voor iemand.",
+		""
+	],
+	"c158": [
+		"Emoji-bericht",
+		"Stuur je ouders een bericht met alleen emoji's.",
+		""
+	],
+	"c159": [
+		"Ontbijt op bed",
+		"Maak ontbijt op bed voor iemand thuis.",
+		""
+	],
+	"c160": [
+		"Trakteren",
+		"Trakteer op je werk of school.",
+		""
+	],
+	"c161": [
+		"Geef een feestje",
+		"Geef een feestje.",
+		""
+	],
+	"c162": [
+		"Rondje drinken",
+		"Geef een rondje drinken.",
+		""
+	],
+	"c163": [
+		"Vertel een mop",
+		"Vertel een mop.",
+		""
+	],
+	"c164": [
+		"Kussengevecht",
+		"Houd een kussengevecht met je broer, zus of vriend.",
+		""
+	],
+	"c165": [
+		"Dansje met je ouders",
+		"Doe een dansje samen met je vader of moeder.",
+		""
+	],
+	"d001": [
+		"Staarwedstrijd",
+		"Kijk iemand 30 seconden recht in de ogen zonder te lachen. Wie lacht, verliest.",
+		""
+	],
+	"d002": [
+		"Serieus blijven",
+		"Blijf 30 seconden serieus zonder te lachen.",
+		""
+	],
+	"d003": [
+		"Boos kijken",
+		"Kijk iemand heel boos aan zonder te lachen.",
+		""
+	],
+	"d004": [
+		"Zielig kijken",
+		"Kijk iemand heel zielig aan zonder te lachen.",
+		""
+	],
+	"d005": [
+		"Emoji nadoen",
+		"Jullie krijgen allebei dezelfde emoji en doen die na.",
+		""
+	],
+	"d006": [
+		"Gekste dansmove",
+		"Laat in 10 seconden je allergekste dansmove zien.",
+		""
+	],
+	"d007": [
+		"Raad het dier",
+		"Doe zonder geluid een dier na. Wie het duidelijkst is, wint.",
+		""
+	],
+	"d008": [
+		"Luchtgitaar",
+		"Speel luchtgitaar alsof je een rockster bent. Wie het best speelt, wint.",
+		""
+	],
+	"d009": [
+		"Nazingen",
+		"Wie als eerste gaat, zingt een stukje van een liedje. De ander zingt het na.",
+		""
+	],
+	"d010": [
+		"Steen, papier, schaar",
+		"Teken steen, papier of schaar en laat het zien. Wie wint, wint het duel.",
+		""
+	],
+	"d011": [
+		"Alleen ja of nee",
+		"Je mag één minuut lang alleen \"ja\" of \"nee\" zeggen terwijl iemand je vragen stelt.",
+		""
+	],
+	"d012": [
+		"Raad het woord",
+		"Wie als eerste gaat, klemt een pen tussen de tanden en zegt een makkelijk woord. De ander raadt het woord.",
+		""
+	],
+	"d013": [
+		"Raad de kamer",
+		"Wie als eerste gaat, filmt een klein stukje van de kamer waar die is. De ander raadt welke kamer het is.",
+		""
+	],
+	"d014": [
+		"Gekste lach",
+		"Laat je allergekste lach horen. De gekste lach wint.",
+		""
+	],
+	"d015": [
+		"Gekste stem",
+		"Zeg \"Ik heb honger\" in je gekste stem.",
+		""
+	],
+	"d016": [
+		"Beste mop",
+		"Vertel je grappigste mop. De grappigste wint.",
+		""
+	],
+	"d017": [
+		"Beste smoes",
+		"Je bent te laat. Verzin de gekste smoes.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatbox 10 seconden. Wie het best beatboxt, wint.",
+		""
+	]
+}

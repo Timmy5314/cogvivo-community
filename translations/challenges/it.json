@@ -1,0 +1,558 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Faccia da poker col limone",
+		"Mordi uno spicchio di limone e mantieni una faccia seria per 10 secondi. Una smorfia e hai perso.",
+		""
+	],
+	"c003": [
+		"Sai farlo?",
+		"Prova questi quattro: arrotolare la lingua, alzare un solo sopracciglio, muovere le orecchie e toccarti il naso con la lingua. Quanti te ne riescono?",
+		""
+	],
+	"c004": [
+		"Facce da emoji",
+		"Imita queste cinque emoji solo con la faccia, due secondi ciascuna: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Rallentatore",
+		"Fai una cosa del tutto normale, come pettinarti o versare un bicchiere, al rallentatore estremo per 20 secondi, faccia compresa.",
+		""
+	],
+	"c008": [
+		"Indovina la frase",
+		"Qualcuno dice una frase senza voce. Tu indovini cosa ha detto.",
+		""
+	],
+	"c010": [
+		"Riavvolgi",
+		"Riprendi un gesto al contrario, come toglierti la giacca, e fallo scorrere all'indietro così sembra quasi normale. Più sembra vero, meglio è.",
+		""
+	],
+	"c014": [
+		"Storia con i calzini",
+		"Fai dei pupazzi con i calzini e racconta una storia con loro.",
+		""
+	],
+	"c016": [
+		"Cosa pensa il tuo animale?",
+		"Riprendi il tuo animale, il tuo peluche o la tua pianta e dai voce per 20 secondi a quello che gli passa per la testa.",
+		""
+	],
+	"c018": [
+		"Telecronaca in diretta",
+		"Fai una telecronaca sportiva in diretta mentre qualcuno fa una cosa di tutti i giorni.",
+		""
+	],
+	"c027": [
+		"Oggetto con una faccia",
+		"Scatta una foto di un oggetto che sembra avere una faccia.",
+		""
+	],
+	"c028": [
+		"Tieni la luna",
+		"Scatta una foto in cui tieni la luna tra due dita.",
+		""
+	],
+	"c029": [
+		"Indovina cos'è",
+		"Fotografa qualcosa di casa tua così da vicino che nessuno capisca cos'è, e lascia indovinare il pubblico.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Con almeno 30 foto, crea un video in stop motion in cui gli oggetti sul tuo tavolo prendono vita da soli.",
+		""
+	],
+	"c039": [
+		"Indovina il film",
+		"Recita un film. Chi guarda indovina quale film è.",
+		""
+	],
+	"c046": [
+		"Il selfie più brutto",
+		"Manda il tuo selfie più brutto a qualcuno che conosci.",
+		""
+	],
+	"c047": [
+		"Canta una canzone",
+		"Canta una canzone.",
+		""
+	],
+	"c049": [
+		"L'outfit di un altro",
+		"Indossa un outfit di qualcun altro.",
+		""
+	],
+	"c050": [
+		"Indovina chi sono",
+		"Imita tre persone che conosci, per esempio come ridono o parlano, e lascia che indovinino chi è chi.",
+		"Con affetto, mai con cattiveria."
+	],
+	"c051": [
+		"Saluta uno sconosciuto",
+		"Saluta con la mano qualcuno che non conosci e guarda se ricambia.",
+		""
+	],
+	"c061": [
+		"Bigliettino dolce",
+		"Scrivi un bigliettino dolce a qualcuno.",
+		""
+	],
+	"c062": [
+		"Messaggio di ringraziamento",
+		"Manda un messaggio a qualcuno per dire grazie. Con un tocco lo condividi su WhatsApp.",
+		""
+	],
+	"c063": [
+		"È da tanto che non ci sentiamo",
+		"Manda un messaggio a qualcuno che non senti da tanto. Con un tocco lo condividi su WhatsApp.",
+		""
+	],
+	"c064": [
+		"Lavoretto segreto",
+		"Fai di nascosto una faccenda che di solito fa qualcun altro in casa, e riprendi la sua reazione quando se ne accorge.",
+		""
+	],
+	"c077": [
+		"Cucchiaio sul naso",
+		"Appendi un cucchiaio alla punta del naso. Quanti secondi resta su?",
+		""
+	],
+	"c080": [
+		"Bottle flip",
+		"Lancia una bottiglia di plastica con un po' d'acqua in modo che atterri dritta. Quante volte di fila ci riesci?",
+		""
+	],
+	"c094": [
+		"Specchio",
+		"Per 30 secondi imita esattamente tutto quello che fa la persona davanti a te, come uno specchio, mentre lei lo rende sempre più difficile.",
+		""
+	],
+	"c098": [
+		"Balla come se nessuno ti guardasse",
+		"Balla come se nessuno ti guardasse.",
+		""
+	],
+	"c099": [
+		"Balletto con gli amici",
+		"Fai un balletto con i tuoi amici.",
+		""
+	],
+	"c101": [
+		"Il selfie più buffo",
+		"Fatti il selfie più buffo che riesci.",
+		""
+	],
+	"c102": [
+		"Imita una celebrità",
+		"Imita una persona famosa.",
+		""
+	],
+	"c103": [
+		"Foto da piccolo",
+		"Condividi una foto di te da piccolo.",
+		""
+	],
+	"c104": [
+		"Doppio mento",
+		"Fatti un selfie con il doppio mento più grosso che riesci a fare.",
+		""
+	],
+	"c105": [
+		"Selfie alle narici",
+		"Fatti un selfie dal basso, dritto nelle narici.",
+		""
+	],
+	"c106": [
+		"Faccia sul vetro",
+		"Schiaccia la faccia contro una finestra e fatti fare una foto da qualcuno dall'altra parte.",
+		""
+	],
+	"c107": [
+		"Faccia con lo scotch",
+		"Metti un pezzo di scotch su naso e guance e fatti un selfie.",
+		""
+	],
+	"c108": [
+		"Baffi sul dito",
+		"Disegna dei baffi sul dito e tienilo sotto il naso.",
+		""
+	],
+	"c109": [
+		"Barba di panna",
+		"Spruzza la panna sul mento come una barba e fatti un selfie.",
+		""
+	],
+	"c110": [
+		"Selfie di famiglia pazzo",
+		"Fatti un selfie con la tua famiglia in cui tutti fanno una smorfia.",
+		""
+	],
+	"c111": [
+		"Foto imbarazzante",
+		"Mostra la tua foto più imbarazzante di una volta.",
+		""
+	],
+	"c112": [
+		"Rifai la foto da neonato",
+		"Rifai una tua foto da neonato nel modo più preciso possibile.",
+		""
+	],
+	"c113": [
+		"Foto del tuo animale",
+		"Scatta la foto più buffa del tuo animale.",
+		""
+	],
+	"c114": [
+		"Posizione strana nel sonno",
+		"Fotografa il tuo animale nella posizione più strana mentre dorme.",
+		""
+	],
+	"c115": [
+		"Selfie con il tuo animale",
+		"Fatti un selfie insieme al tuo animale.",
+		""
+	],
+	"c116": [
+		"Bentornato a casa",
+		"Filma il tuo animale quando torni a casa.",
+		""
+	],
+	"c117": [
+		"Il trucco del tuo animale",
+		"Mostra il trucco che sa fare il tuo animale.",
+		""
+	],
+	"c118": [
+		"Gioco nuovo",
+		"Dai un gioco nuovo al tuo animale e filma cosa fa.",
+		""
+	],
+	"c119": [
+		"Fai prendere uno spavento",
+		"Nasconditi e fai prendere uno spavento a un amico o a qualcuno di casa. Non quando è sulle scale.",
+		""
+	],
+	"c120": [
+		"Ladro provetto",
+		"Prendi di nascosto qualcosa a un amico senza farti notare, poi restituiscilo.",
+		""
+	],
+	"c121": [
+		"Tatuaggio finto",
+		"Disegnati un tatuaggio finto e fai credere a qualcuno che è vero.",
+		""
+	],
+	"c122": [
+		"Perché?",
+		"Rispondi «perché?» a tutto quello che dice qualcuno e filmalo.",
+		""
+	],
+	"c123": [
+		"Finto compleanno",
+		"Quando mangi fuori, di' al ristorante che è il compleanno di qualcuno anche se non è vero.",
+		""
+	],
+	"c124": [
+		"Schermo rotto",
+		"Metti la foto di uno schermo crepato come sfondo sul telefono di qualcuno di casa.",
+		""
+	],
+	"c125": [
+		"Biglietto sulla schiena",
+		"Attacca di nascosto un biglietto buffo sulla schiena di un amico. Quanto tempo resta lì?",
+		""
+	],
+	"c126": [
+		"Mouse in sciopero",
+		"Attacca un foglietto sotto il mouse del computer di qualcuno così non funziona più.",
+		""
+	],
+	"c127": [
+		"Cornice",
+		"Metti una tua foto in una cornice in casa e aspetta che qualcuno se ne accorga.",
+		""
+	],
+	"c128": [
+		"Pappagallo",
+		"Per un minuto ripeti tutto quello che dice tuo fratello, tua sorella o un amico.",
+		""
+	],
+	"c129": [
+		"Indovina la canzone",
+		"Fai il playback di un pezzo di una canzone famosa, senza audio. Chi guarda indovina qual è.",
+		""
+	],
+	"c130": [
+		"Assaggio alla cieca",
+		"A occhi chiusi assaggia quello che ti dà qualcuno e indovina cos'è.",
+		"Prima di' se hai qualche allergia."
+	],
+	"c131": [
+		"Chi sono?",
+		"Attaccati sulla fronte un foglietto con un nome famoso e fai domande per indovinare chi sei.",
+		""
+	],
+	"c132": [
+		"Disegno lampo",
+		"Disegna qualcosa in 10 secondi. Chi guarda indovina cos'è.",
+		""
+	],
+	"c133": [
+		"Trucco fatto da un amico",
+		"Fatti truccare da un amico.",
+		""
+	],
+	"c134": [
+		"Bocca piena d'acqua",
+		"Tieni un sorso d'acqua in bocca mentre qualcuno racconta barzellette. Se lo sputi, hai perso.",
+		""
+	],
+	"c135": [
+		"Lingua fuori",
+		"Leggi una frase ad alta voce con la lingua fuori.",
+		""
+	],
+	"c136": [
+		"La risata più pazza",
+		"Fai sentire la tua risata più pazza.",
+		""
+	],
+	"c137": [
+		"Faccia di cibo",
+		"Fai una faccia con il cibo nel tuo piatto.",
+		""
+	],
+	"c138": [
+		"Acconciatura pazza",
+		"Fatti sistemare i capelli da qualcuno nello stile più pazzo.",
+		""
+	],
+	"c139": [
+		"Cibo preferito",
+		"Condividi una foto del tuo cibo preferito.",
+		""
+	],
+	"c140": [
+		"Bevanda del mattino",
+		"Condividi una foto della tua bevanda del mattino.",
+		""
+	],
+	"c141": [
+		"Quello che non ti piace",
+		"Condividi una foto di qualcosa che non ti piace mangiare.",
+		""
+	],
+	"c142": [
+		"Economico e buono",
+		"Scatta una foto di un cibo economico ma buono.",
+		""
+	],
+	"c143": [
+		"La foto di natura più bella",
+		"Scatta la tua foto di natura più bella.",
+		""
+	],
+	"c144": [
+		"La foto di pioggia migliore",
+		"Scatta la foto migliore della pioggia.",
+		""
+	],
+	"c145": [
+		"La foto di nuvole più bella",
+		"Scatta la foto più bella delle nuvole.",
+		""
+	],
+	"c146": [
+		"Qualcosa di buffo per strada",
+		"Scatta una foto di qualcosa di buffo che vedi per strada.",
+		""
+	],
+	"c147": [
+		"Il cibo più strano",
+		"Fotografa il tuo cibo più strano.",
+		""
+	],
+	"c148": [
+		"Caramella preferita",
+		"Scatta una foto della tua caramella preferita.",
+		""
+	],
+	"c149": [
+		"I vestiti brutti dei tuoi",
+		"Scatta una foto dei vestiti più brutti dei tuoi genitori.",
+		""
+	],
+	"c150": [
+		"Costume di Halloween",
+		"Mostra il tuo costume di Halloween migliore.",
+		""
+	],
+	"c151": [
+		"Costume da festa",
+		"Mostra il tuo costume da festa migliore.",
+		""
+	],
+	"c152": [
+		"Spaiati",
+		"Indossa due scarpe o due calzini diversi.",
+		""
+	],
+	"c153": [
+		"Prendi la caramella",
+		"Lancia in aria una caramella e prendila con la bocca.",
+		"Usa una caramella piccola e morbida."
+	],
+	"c154": [
+		"Pallina nel cestino",
+		"Lancia una pallina di carta nel cestino dall'altra parte della stanza.",
+		""
+	],
+	"c155": [
+		"La foto più buffa",
+		"Condividi la tua foto più buffa.",
+		""
+	],
+	"c156": [
+		"Parola in slang",
+		"Insegna una parola in slang a tuo padre, tua madre, tuo nonno o tua nonna.",
+		""
+	],
+	"c157": [
+		"Regalino così",
+		"Compra un regalino a qualcuno, così, senza motivo.",
+		""
+	],
+	"c158": [
+		"Messaggio di emoji",
+		"Manda ai tuoi genitori un messaggio fatto solo di emoji.",
+		""
+	],
+	"c159": [
+		"Colazione a letto",
+		"Prepara la colazione a letto per qualcuno di casa.",
+		""
+	],
+	"c160": [
+		"Porta qualcosa di buono",
+		"Porta qualcosa di buono per tutti al lavoro o a scuola.",
+		""
+	],
+	"c161": [
+		"Fai una festa",
+		"Fai una festa.",
+		""
+	],
+	"c162": [
+		"Offri un giro",
+		"Offri un giro da bere ai tuoi amici.",
+		""
+	],
+	"c163": [
+		"Racconta una barzelletta",
+		"Racconta una barzelletta.",
+		""
+	],
+	"c164": [
+		"Battaglia di cuscini",
+		"Fai una battaglia di cuscini con tuo fratello, tua sorella o un amico.",
+		""
+	],
+	"c165": [
+		"Balletto con i tuoi",
+		"Fai un balletto insieme a tuo padre o tua madre.",
+		""
+	],
+	"d001": [
+		"Gara di sguardi",
+		"Guarda qualcuno dritto negli occhi per 30 secondi senza ridere. Chi ride perde.",
+		""
+	],
+	"d002": [
+		"Resta serio",
+		"Resta serio per 30 secondi senza ridere.",
+		""
+	],
+	"d003": [
+		"Sguardo arrabbiato",
+		"Guarda qualcuno con un'aria arrabbiatissima senza ridere.",
+		""
+	],
+	"d004": [
+		"Occhi da cucciolo",
+		"Guarda qualcuno con un'aria tristissima senza ridere.",
+		""
+	],
+	"d005": [
+		"Imita l'emoji",
+		"Ricevete entrambi la stessa emoji e la imitate.",
+		""
+	],
+	"d006": [
+		"La mossa di ballo più pazza",
+		"Mostra in 10 secondi la tua mossa di ballo più pazza.",
+		""
+	],
+	"d007": [
+		"Indovina l'animale",
+		"Imita un animale senza suoni. Vince chi è più chiaro.",
+		""
+	],
+	"d008": [
+		"Chitarra immaginaria",
+		"Suona la chitarra immaginaria come una rockstar. Vince chi suona meglio.",
+		""
+	],
+	"d009": [
+		"Canta dopo di me",
+		"Chi va per primo canta un pezzo di una canzone. L'altro lo ricanta.",
+		""
+	],
+	"d010": [
+		"Carta, sasso, forbici",
+		"Disegna carta, sasso o forbici e mostralo. Chi vince si aggiudica il duello.",
+		""
+	],
+	"d011": [
+		"Solo sì o no",
+		"Per un minuto puoi dire solo «sì» o «no» mentre qualcuno ti fa domande.",
+		""
+	],
+	"d012": [
+		"Indovina la parola",
+		"Chi va per primo tiene una penna tra i denti e dice una parola facile. L'altro indovina la parola.",
+		""
+	],
+	"d013": [
+		"Indovina la stanza",
+		"Chi va per primo filma un pezzetto della stanza in cui si trova. L'altro indovina quale stanza è.",
+		""
+	],
+	"d014": [
+		"La risata più pazza",
+		"Fai sentire la tua risata più pazza. Vince la risata più pazza.",
+		""
+	],
+	"d015": [
+		"La voce più buffa",
+		"Di' «Ho fame» con la tua voce più buffa.",
+		""
+	],
+	"d016": [
+		"La barzelletta migliore",
+		"Racconta la tua barzelletta più divertente. Vince la più divertente.",
+		""
+	],
+	"d017": [
+		"La scusa migliore",
+		"Sei in ritardo. Inventa la scusa più assurda.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Fai beatbox per 10 secondi. Vince chi lo fa meglio.",
+		""
+	]
+}

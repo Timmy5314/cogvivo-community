@@ -1,0 +1,23 @@
+name: Check translations
+
+# Runs on pull requests only, with a read-only token and no secrets,
+# so a pull request from anyone can never change or publish anything.
+on:
+  pull_request:
+    paths:
+      - 'translations/**'
+      - '.github/scripts/check-translations.mjs'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Check keys, placeholders, links and HTML
+        run: node .github/scripts/check-translations.mjs

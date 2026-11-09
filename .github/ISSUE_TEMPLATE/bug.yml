@@ -1,0 +1,28 @@
+name: 🐞 Bug / Fout
+description: Something in Cogvivo does not work right · Iets werkt niet zoals het hoort
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Security problem?** Do not post it here. Report it privately via *Security → Report a vulnerability*.
+        **Beveiligingslek?** Meld het niet hier, maar privé via *Security → Report a vulnerability*.
+  - type: textarea
+    id: wat
+    attributes:
+      label: What went wrong? · Wat ging er mis?
+    validations:
+      required: true
+  - type: textarea
+    id: stappen
+    attributes:
+      label: How can we repeat it? · Hoe kunnen we het nadoen?
+      placeholder: "1. Open ...\n2. Tap ...\n3. See ..."
+  - type: input
+    id: toestel
+    attributes:
+      label: Phone/computer and browser · Toestel en browser
+      placeholder: Android 15, Chrome
+  - type: markdown
+    attributes:
+      value: By submitting you agree to [BIJDRAGEN.md](https://github.com/Timmy5314/cogvivo-community/blob/main/BIJDRAGEN.md).

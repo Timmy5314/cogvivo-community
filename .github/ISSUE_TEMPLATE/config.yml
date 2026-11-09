@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 Idea for a challenge, place or feature · Idee
+    url: https://github.com/Timmy5314/cogvivo-community/discussions/categories/ideas
+    about: Share it in Discussions so others can react and vote.
+  - name: 🔒 Security problem · Beveiligingslek
+    url: https://github.com/Timmy5314/cogvivo-community/security/advisories/new
+    about: Report it privately. Never in a public issue.
+  - name: ▶ Play Cogvivo
+    url: https://cogvivo.com
+    about: The app itself, free in 12 languages.
