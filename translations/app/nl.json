@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Probeer het zo nog eens.",
 	"fout_naar_feed": "Naar de feed",
 	"wz_kies_titel": "Kies je maatje",
-	"wz_kies_uitleg": "Hij woont bij jou op Cogvivo en leeft mee met alles wat je doet. Zorg goed voor hem!",
+	"wz_kies_uitleg": "Elk maatje is uniek, niemand heeft dezelfde. Hij leeft mee met alles wat je doet op Cogvivo. Zorg goed voor hem!",
 	"wz_naam_label": "Hoe gaat het heten?",
 	"wz_naam_fout": "Kies een naam van 1 tot 16 tekens.",
 	"wz_kies_knop": "Klaar",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Tik het ei open!",
 	"wz_ziek": "{naam} is ziek! Geef eten of aai hem.",
 	"wz_afscheid_dood": "{naam} is doodgegaan.",
-	"wz_afscheid_verhuisd": "{naam} is verhuisd naar zijn familie.",
 	"wz_afscheid_dagen": "{naam} woonde {dagen} dagen bij jou en staat nu in je stamboom.",
 	"wz_afscheid_ei": "Er ligt een nieuw ei voor je klaar.",
 	"wz_afscheid_knop": "Naar het ei",
 	"wz_stamboom_dood": "overleden",
-	"wz_stamboom_verhuisd": "verhuisd"
+	"wz_andere": "Andere maatjes"
 }

@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Birazdan tekrar dene.",
 	"fout_naar_feed": "Akışa git",
 	"wz_kies_titel": "Arkadaşını seç",
-	"wz_kies_uitleg": "Cogvivo’da seninle yaşar ve yaptığın her şeye katılır. Ona iyi bak!",
+	"wz_kies_uitleg": "Her arkadaş benzersizdir, kimsede aynısı yok. Cogvivo’da yaptığın her şeye katılır. Ona iyi bak!",
 	"wz_naam_label": "Adı ne olsun?",
 	"wz_naam_fout": "1 ile 16 karakter arasında bir ad seç.",
 	"wz_kies_knop": "Tamam",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Yumurtayı açmak için dokun!",
 	"wz_ziek": "{naam} hasta! Onu besle ya da sev.",
 	"wz_afscheid_dood": "{naam} öldü.",
-	"wz_afscheid_verhuisd": "{naam} ailesinin yanına taşındı.",
 	"wz_afscheid_dagen": "{naam} seninle {dagen} gün yaşadı ve artık soy ağacında.",
 	"wz_afscheid_ei": "Seni yeni bir yumurta bekliyor.",
 	"wz_afscheid_knop": "Yumurtaya git",
 	"wz_stamboom_dood": "öldü",
-	"wz_stamboom_verhuisd": "taşındı"
+	"wz_andere": "Başkalarını göster"
 }

@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Réessaie dans un instant.",
 	"fout_naar_feed": "Aller au fil",
 	"wz_kies_titel": "Choisis ton compagnon",
-	"wz_kies_uitleg": "Il vit avec toi sur Cogvivo et participe à tout ce que tu fais. Prends-en bien soin !",
+	"wz_kies_uitleg": "Chaque compagnon est unique, personne n’a le même. Il participe à tout ce que tu fais sur Cogvivo. Prends-en bien soin !",
 	"wz_naam_label": "Comment va-t-il s’appeler ?",
 	"wz_naam_fout": "Choisis un nom de 1 à 16 caractères.",
 	"wz_kies_knop": "Terminé",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Tape pour ouvrir l’œuf !",
 	"wz_ziek": "{naam} est malade ! Nourris-le ou caresse-le.",
 	"wz_afscheid_dood": "{naam} est mort.",
-	"wz_afscheid_verhuisd": "{naam} est parti vivre avec sa famille.",
 	"wz_afscheid_dagen": "{naam} a vécu {dagen} jours avec toi et figure maintenant dans ton arbre généalogique.",
 	"wz_afscheid_ei": "Un nouvel œuf t’attend.",
 	"wz_afscheid_knop": "Vers l’œuf",
 	"wz_stamboom_dood": "décédé",
-	"wz_stamboom_verhuisd": "déménagé"
+	"wz_andere": "Voir d’autres"
 }

@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "حاول مرة أخرى بعد قليل.",
 	"fout_naar_feed": "إلى الصفحة الرئيسية",
 	"wz_kies_titel": "اختر رفيقك",
-	"wz_kies_uitleg": "يعيش معك على Cogvivo ويشاركك كل ما تفعله. اعتنِ به جيدًا!",
+	"wz_kies_uitleg": "كل رفيق فريد، لا أحد يملك مثله. يشاركك كل ما تفعله على Cogvivo. اعتنِ به جيدًا!",
 	"wz_naam_label": "ماذا ستسميه؟",
 	"wz_naam_fout": "اختر اسمًا من 1 إلى 16 حرفًا.",
 	"wz_kies_knop": "تم",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "انقر لفتح البيضة!",
 	"wz_ziek": "{naam} مريض! أطعمه أو دلّله.",
 	"wz_afscheid_dood": "مات {naam}.",
-	"wz_afscheid_verhuisd": "انتقل {naam} للعيش مع عائلته.",
 	"wz_afscheid_dagen": "عاش {naam} معك {dagen} يومًا وهو الآن في شجرة عائلتك.",
 	"wz_afscheid_ei": "بيضة جديدة بانتظارك.",
 	"wz_afscheid_knop": "إلى البيضة",
 	"wz_stamboom_dood": "مات",
-	"wz_stamboom_verhuisd": "انتقل"
+	"wz_andere": "اعرض غيرها"
 }

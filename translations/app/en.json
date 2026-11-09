@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Please try again in a moment.",
 	"fout_naar_feed": "Go to the feed",
 	"wz_kies_titel": "Choose your buddy",
-	"wz_kies_uitleg": "It lives with you on Cogvivo and joins in with everything you do. Take good care of it!",
+	"wz_kies_uitleg": "Every buddy is unique – nobody has the same one. It joins in with everything you do on Cogvivo. Take good care of it!",
 	"wz_naam_label": "What will you call it?",
 	"wz_naam_fout": "Pick a name of 1 to 16 characters.",
 	"wz_kies_knop": "Done",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Tap the egg open!",
 	"wz_ziek": "{naam} is sick! Feed or pet it.",
 	"wz_afscheid_dood": "{naam} has died.",
-	"wz_afscheid_verhuisd": "{naam} has moved in with its family.",
 	"wz_afscheid_dagen": "{naam} lived with you for {dagen} days and is now in your family tree.",
 	"wz_afscheid_ei": "There’s a new egg waiting for you.",
 	"wz_afscheid_knop": "To the egg",
 	"wz_stamboom_dood": "died",
-	"wz_stamboom_verhuisd": "moved to its family"
+	"wz_andere": "Show others"
 }

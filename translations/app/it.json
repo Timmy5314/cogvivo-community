@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Riprova tra un momento.",
 	"fout_naar_feed": "Vai al feed",
 	"wz_kies_titel": "Scegli il tuo amichetto",
-	"wz_kies_uitleg": "Vive con te su Cogvivo e partecipa a tutto quello che fai. Prenditene cura!",
+	"wz_kies_uitleg": "Ogni amichetto è unico, nessuno ne ha uno uguale. Partecipa a tutto quello che fai su Cogvivo. Prenditene cura!",
 	"wz_naam_label": "Come si chiamerà?",
 	"wz_naam_fout": "Scegli un nome da 1 a 16 caratteri.",
 	"wz_kies_knop": "Fatto",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Tocca per aprire l’uovo!",
 	"wz_ziek": "{naam} è malato! Dagli da mangiare o accarezzalo.",
 	"wz_afscheid_dood": "{naam} è morto.",
-	"wz_afscheid_verhuisd": "{naam} è andato a vivere con la sua famiglia.",
 	"wz_afscheid_dagen": "{naam} ha vissuto {dagen} giorni con te e ora è nel tuo albero genealogico.",
 	"wz_afscheid_ei": "Ti aspetta un uovo nuovo.",
 	"wz_afscheid_knop": "All’uovo",
 	"wz_stamboom_dood": "morto",
-	"wz_stamboom_verhuisd": "trasferito"
+	"wz_andere": "Mostrane altri"
 }

@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Versuch es gleich noch einmal.",
 	"fout_naar_feed": "Zum Feed",
 	"wz_kies_titel": "Wähle deinen Kumpel",
-	"wz_kies_uitleg": "Er wohnt bei dir auf Cogvivo und ist bei allem dabei, was du tust. Kümmere dich gut um ihn!",
+	"wz_kies_uitleg": "Jeder Kumpel ist einzigartig – niemand hat denselben. Er ist bei allem dabei, was du auf Cogvivo tust. Kümmere dich gut um ihn!",
 	"wz_naam_label": "Wie soll es heißen?",
 	"wz_naam_fout": "Wähle einen Namen mit 1 bis 16 Zeichen.",
 	"wz_kies_knop": "Fertig",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Tipp das Ei auf!",
 	"wz_ziek": "{naam} ist krank! Füttere oder streichle ihn.",
 	"wz_afscheid_dood": "{naam} ist gestorben.",
-	"wz_afscheid_verhuisd": "{naam} ist zu seiner Familie gezogen.",
 	"wz_afscheid_dagen": "{naam} hat {dagen} Tage bei dir gewohnt und steht jetzt in deinem Stammbaum.",
 	"wz_afscheid_ei": "Ein neues Ei wartet auf dich.",
 	"wz_afscheid_knop": "Zum Ei",
 	"wz_stamboom_dood": "gestorben",
-	"wz_stamboom_verhuisd": "umgezogen"
+	"wz_andere": "Andere zeigen"
 }

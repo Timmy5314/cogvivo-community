@@ -1465,7 +1465,7 @@
 	"fout_mis_tekst": "Spróbuj ponownie za chwilę.",
 	"fout_naar_feed": "Przejdź do feedu",
 	"wz_kies_titel": "Wybierz swojego kumpla",
-	"wz_kies_uitleg": "Mieszka z tobą na Cogvivo i towarzyszy ci we wszystkim. Dbaj o niego!",
+	"wz_kies_uitleg": "Każdy kumpel jest wyjątkowy, nikt nie ma takiego samego. Towarzyszy ci we wszystkim na Cogvivo. Dbaj o niego!",
 	"wz_naam_label": "Jak będzie się nazywać?",
 	"wz_naam_fout": "Wybierz imię od 1 do 16 znaków.",
 	"wz_kies_knop": "Gotowe",
@@ -1662,10 +1662,9 @@
 	"wz_ei_tik_open": "Stukaj, by otworzyć jajko!",
 	"wz_ziek": "{naam} jest chory! Nakarm go albo pogłaszcz.",
 	"wz_afscheid_dood": "{naam} umarł.",
-	"wz_afscheid_verhuisd": "{naam} przeprowadził się do swojej rodziny.",
 	"wz_afscheid_dagen": "{naam} mieszkał z tobą {dagen} dni i jest teraz w twoim drzewie rodzinnym.",
 	"wz_afscheid_ei": "Czeka na ciebie nowe jajko.",
 	"wz_afscheid_knop": "Do jajka",
 	"wz_stamboom_dood": "zmarły",
-	"wz_stamboom_verhuisd": "przeprowadził się"
+	"wz_andere": "Pokaż inne"
 }
