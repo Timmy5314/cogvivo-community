@@ -525,11 +525,6 @@
 		"Chi va per primo tiene una penna tra i denti e dice una parola facile. L'altro indovina la parola.",
 		""
 	],
-	"d013": [
-		"Indovina la stanza",
-		"Chi va per primo filma un pezzetto della stanza in cui si trova. L'altro indovina quale stanza è.",
-		""
-	],
 	"d014": [
 		"La risata più pazza",
 		"Fai sentire la tua risata più pazza. Vince la risata più pazza.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Fai beatbox per 10 secondi. Vince chi lo fa meglio.",
 		""
+	],
+	"d019": [
+		"Le scarpe più belle e più brutte",
+		"Scatta una foto delle tue scarpe più belle e più brutte una accanto all'altra: belle a sinistra, brutte a destra.",
+		""
+	],
+	"d020": [
+		"I calzini più pazzi",
+		"Scatta una foto del tuo paio di calzini più strano, ai piedi.",
+		""
+	],
+	"d022": [
+		"Il vestito più brutto",
+		"Indossa il tuo capo più brutto e fatti un selfie.",
+		""
+	],
+	"d025": [
+		"L'acconciatura più pazza in 1 minuto",
+		"Fatti l'acconciatura più pazza in 1 minuto e scatta un selfie.",
+		"Non tagliare niente: solo mani, acqua o un pettine."
+	],
+	"d026": [
+		"Torre della cucina",
+		"Costruisci una torre con 5 oggetti della cucina. Vince la più alta o la più pazza.",
+		"Niente vetro, coltelli o altri oggetti taglienti."
 	]
 }

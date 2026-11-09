@@ -16,12 +16,16 @@ Challenge a friend, or a random player, and do the same thing. Viewers decide wh
 | 010 | **Rock, Paper, Scissors** | Draw rock, paper or scissors and show it. Whoever wins, wins the duel. |
 | 011 | **Only Yes or No** | For one minute you may only say "yes" or "no" while someone asks you questions. |
 | 012 | **Guess the Word** | Whoever goes first holds a pen between their teeth and says an easy word. The other guesses the word. |
-| 013 | **Guess the Room** | Whoever goes first films a small part of the room they're in. The other guesses which room it is. |
 | 014 | **Craziest Laugh** | Let out your craziest laugh. The craziest laugh wins. |
 | 015 | **Silliest Voice** | Say "I'm hungry" in your silliest voice. |
 | 016 | **Best Joke** | Tell your funniest joke. The funniest one wins. |
 | 017 | **Best Excuse** | You're late. Come up with the craziest excuse. |
 | 018 | **Beatbox** | Beatbox for 10 seconds. Whoever beatboxes best wins. |
+| 019 | **Best and Worst Shoes** | Take one photo of your nicest and your ugliest shoes side by side: nice on the left, ugly on the right. |
+| 020 | **Craziest Socks** | Take a photo of your weirdest pair of socks, on your feet. |
+| 022 | **Ugliest Piece of Clothing** | Put on your ugliest piece of clothing and take a selfie. |
+| 025 | **One-Minute Crazy Hair** | Make your craziest hairstyle in 1 minute and take a selfie. |
+| 026 | **Kitchen Tower** | Build a tower out of 5 things from the kitchen. The tallest or craziest tower wins. |
 
 ---
 

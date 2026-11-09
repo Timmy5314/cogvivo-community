@@ -525,11 +525,6 @@
 		"Quien va primero sostiene una pluma entre los dientes y dice una palabra fácil. El otro adivina la palabra.",
 		""
 	],
-	"d013": [
-		"Adivina el cuarto",
-		"Quien va primero graba un pedacito del cuarto donde está. El otro adivina qué cuarto es.",
-		""
-	],
 	"d014": [
 		"La risa más loca",
 		"Deja oír tu risa más loca. Gana la risa más loca.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Haz beatbox durante 10 segundos. Gana quien lo haga mejor.",
 		""
+	],
+	"d019": [
+		"Los zapatos más bonitos y más feos",
+		"Toma una foto de tus zapatos más bonitos y más feos, uno al lado del otro: los bonitos a la izquierda, los feos a la derecha.",
+		""
+	],
+	"d020": [
+		"Los calcetines más locos",
+		"Toma una foto de tu par de calcetines más raro, puestos en los pies.",
+		""
+	],
+	"d022": [
+		"La prenda más fea",
+		"Ponte tu prenda más fea y tómate una selfie.",
+		""
+	],
+	"d025": [
+		"El peinado más loco en 1 minuto",
+		"Hazte el peinado más loco en 1 minuto y tómate una selfie.",
+		"No cortes nada: solo tus manos, agua o un peine."
+	],
+	"d026": [
+		"Torre de cocina",
+		"Construye una torre con 5 cosas de la cocina. Gana la más alta o la más loca.",
+		"Nada de vidrio, cuchillos ni otras cosas filosas."
 	]
 }

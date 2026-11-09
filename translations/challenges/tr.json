@@ -525,11 +525,6 @@
 		"İlk giden dişlerinin arasına bir kalem sıkıştırır ve kolay bir kelime söyler. Diğeri kelimeyi tahmin eder.",
 		""
 	],
-	"d013": [
-		"Odayı tahmin et",
-		"İlk giden bulunduğu odanın küçük bir kısmını videoya çeker. Diğeri hangi oda olduğunu tahmin eder.",
-		""
-	],
 	"d014": [
 		"En çılgın kahkaha",
 		"En çılgın kahkahanı at. En çılgın kahkaha kazanır.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"10 saniye beatbox yap. En iyi yapan kazanır.",
 		""
+	],
+	"d019": [
+		"En güzel ve en çirkin ayakkabılar",
+		"En güzel ve en çirkin ayakkabılarının yan yana tek bir fotoğrafını çek: güzeller solda, çirkinler sağda.",
+		""
+	],
+	"d020": [
+		"En çılgın çoraplar",
+		"En tuhaf çorap çiftinin ayağındayken fotoğrafını çek.",
+		""
+	],
+	"d022": [
+		"En çirkin kıyafet",
+		"En çirkin kıyafetini giy ve selfie çek.",
+		""
+	],
+	"d025": [
+		"1 dakikada en çılgın saç",
+		"1 dakikada en çılgın saç modelini yap ve selfie çek.",
+		"Hiçbir şey kesme: sadece ellerin, su ya da tarak."
+	],
+	"d026": [
+		"Mutfak kulesi",
+		"Mutfaktan 5 şeyle bir kule yap. En yüksek ya da en çılgın kule kazanır.",
+		"Cam, bıçak ya da başka keskin şeyler kullanma."
 	]
 }

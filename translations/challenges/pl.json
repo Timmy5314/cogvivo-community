@@ -525,11 +525,6 @@
 		"Kto idzie pierwszy, trzyma długopis w zębach i mówi łatwe słowo. Druga osoba zgaduje to słowo.",
 		""
 	],
-	"d013": [
-		"Zgadnij pokój",
-		"Kto idzie pierwszy, nagrywa mały kawałek pokoju, w którym jest. Druga osoba zgaduje, co to za pokój.",
-		""
-	],
 	"d014": [
 		"Najbardziej szalony śmiech",
 		"Pokaż swój najbardziej szalony śmiech. Wygrywa najbardziej szalony.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Beatboxuj przez 10 sekund. Wygrywa ten, kto zrobi to najlepiej.",
 		""
+	],
+	"d019": [
+		"Najładniejsze i najbrzydsze buty",
+		"Zrób jedno zdjęcie swoich najładniejszych i najbrzydszych butów obok siebie: ładne po lewej, brzydkie po prawej.",
+		""
+	],
+	"d020": [
+		"Najbardziej szalone skarpetki",
+		"Zrób zdjęcie swojej najdziwniejszej pary skarpetek na stopach.",
+		""
+	],
+	"d022": [
+		"Najbrzydsze ubranie",
+		"Załóż swoje najbrzydsze ubranie i zrób selfie.",
+		""
+	],
+	"d025": [
+		"Najbardziej szalona fryzura w 1 minutę",
+		"W 1 minutę zrób najbardziej szaloną fryzurę i zrób selfie.",
+		"Nic nie obcinaj: tylko ręce, woda albo grzebień."
+	],
+	"d026": [
+		"Kuchenna wieża",
+		"Zbuduj wieżę z 5 rzeczy z kuchni. Wygrywa najwyższa albo najbardziej szalona.",
+		"Bez szkła, noży i innych ostrych rzeczy."
 	]
 }

@@ -525,11 +525,6 @@
 		"Wie als eerste gaat, klemt een pen tussen de tanden en zegt een makkelijk woord. De ander raadt het woord.",
 		""
 	],
-	"d013": [
-		"Raad de kamer",
-		"Wie als eerste gaat, filmt een klein stukje van de kamer waar die is. De ander raadt welke kamer het is.",
-		""
-	],
 	"d014": [
 		"Gekste lach",
 		"Laat je allergekste lach horen. De gekste lach wint.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Beatbox 10 seconden. Wie het best beatboxt, wint.",
 		""
+	],
+	"d019": [
+		"Mooiste én lelijkste schoenen",
+		"Maak één foto van je mooiste en je lelijkste schoenen naast elkaar: links mooi, rechts lelijk.",
+		""
+	],
+	"d020": [
+		"Gekste sokken",
+		"Maak een foto van je raarste paar sokken, aan je voeten.",
+		""
+	],
+	"d022": [
+		"Lelijkste kledingstuk",
+		"Trek je lelijkste kledingstuk aan en maak een selfie.",
+		""
+	],
+	"d025": [
+		"Gekste kapsel in 1 minuut",
+		"Maak in 1 minuut je gekste kapsel en maak een selfie.",
+		"Niets knippen: alleen je handen, water of een kam."
+	],
+	"d026": [
+		"Keukentoren",
+		"Bouw een toren van 5 dingen uit de keuken. De hoogste of gekste toren wint.",
+		"Geen glas, messen of andere scherpe dingen."
 	]
 }

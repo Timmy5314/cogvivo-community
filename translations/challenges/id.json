@@ -525,11 +525,6 @@
 		"Yang duluan menjepit pulpen di antara gigi dan mengucapkan kata yang mudah. Yang lain menebak katanya.",
 		""
 	],
-	"d013": [
-		"Tebak ruangan",
-		"Yang duluan merekam sebagian kecil ruangan tempat dia berada. Yang lain menebak ruangan apa itu.",
-		""
-	],
 	"d014": [
 		"Tawa paling gila",
 		"Perdengarkan tawamu yang paling gila. Tawa paling gila menang.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Beatbox selama 10 detik. Yang paling bagus menang.",
 		""
+	],
+	"d019": [
+		"Sepatu terbagus dan terjelek",
+		"Foto sepatu terbagus dan terjelekmu berdampingan: yang bagus di kiri, yang jelek di kanan.",
+		""
+	],
+	"d020": [
+		"Kaus kaki tergila",
+		"Foto pasangan kaus kaki teranehmu saat dipakai.",
+		""
+	],
+	"d022": [
+		"Pakaian terjelek",
+		"Pakai baju terjelekmu dan ambil selfie.",
+		""
+	],
+	"d025": [
+		"Gaya rambut tergila dalam 1 menit",
+		"Buat gaya rambut tergilamu dalam 1 menit, lalu ambil selfie.",
+		"Jangan menggunting: cukup pakai tangan, air, atau sisir."
+	],
+	"d026": [
+		"Menara dapur",
+		"Bangun menara dari 5 barang dapur. Menara tertinggi atau teraneh menang.",
+		"Jangan pakai kaca, pisau, atau benda tajam lainnya."
 	]
 }

@@ -525,11 +525,6 @@
 		"Wer zuerst dran ist, klemmt einen Stift zwischen die Zähne und sagt ein einfaches Wort. Die andere Person errät das Wort.",
 		""
 	],
-	"d013": [
-		"Errate das Zimmer",
-		"Wer zuerst dran ist, filmt einen kleinen Ausschnitt des Zimmers, in dem er gerade ist. Die andere Person errät, welches Zimmer es ist.",
-		""
-	],
 	"d014": [
 		"Verrücktestes Lachen",
 		"Lass dein allerverrücktestes Lachen hören. Das verrückteste Lachen gewinnt.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Beatboxe 10 Sekunden lang. Wer am besten beatboxt, gewinnt.",
 		""
+	],
+	"d019": [
+		"Schönste und hässlichste Schuhe",
+		"Mach ein Foto von deinen schönsten und deinen hässlichsten Schuhen nebeneinander: links schön, rechts hässlich.",
+		""
+	],
+	"d020": [
+		"Verrückteste Socken",
+		"Mach ein Foto von deinem seltsamsten Paar Socken, an deinen Füßen.",
+		""
+	],
+	"d022": [
+		"Hässlichstes Kleidungsstück",
+		"Zieh dein hässlichstes Kleidungsstück an und mach ein Selfie.",
+		""
+	],
+	"d025": [
+		"Verrückteste Frisur in 1 Minute",
+		"Mach in 1 Minute deine verrückteste Frisur und mach ein Selfie.",
+		"Nichts abschneiden: nur Hände, Wasser oder ein Kamm."
+	],
+	"d026": [
+		"Küchenturm",
+		"Bau einen Turm aus 5 Dingen aus der Küche. Der höchste oder verrückteste Turm gewinnt.",
+		"Kein Glas, keine Messer und nichts anderes Scharfes."
 	]
 }

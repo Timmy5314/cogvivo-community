@@ -525,11 +525,6 @@
 		"Quem vai primeiro prende uma caneta entre os dentes e diz uma palavra fácil. O outro adivinha a palavra.",
 		""
 	],
-	"d013": [
-		"Adivinhe o cômodo",
-		"Quem vai primeiro filma um pedacinho do cômodo onde está. O outro adivinha que cômodo é.",
-		""
-	],
 	"d014": [
 		"Risada mais doida",
 		"Solte sua risada mais doida. A risada mais doida ganha.",
@@ -554,5 +549,30 @@
 		"Beatbox",
 		"Faça beatbox por 10 segundos. Ganha quem fizer melhor.",
 		""
+	],
+	"d019": [
+		"Sapatos mais bonitos e mais feios",
+		"Tire uma foto dos seus sapatos mais bonitos e mais feios lado a lado: bonitos à esquerda, feios à direita.",
+		""
+	],
+	"d020": [
+		"Meias mais malucas",
+		"Tire uma foto do seu par de meias mais esquisito, nos seus pés.",
+		""
+	],
+	"d022": [
+		"Roupa mais feia",
+		"Vista sua roupa mais feia e tire uma selfie.",
+		""
+	],
+	"d025": [
+		"Penteado mais maluco em 1 minuto",
+		"Faça seu penteado mais maluco em 1 minuto e tire uma selfie.",
+		"Nada de cortar: só as mãos, água ou um pente."
+	],
+	"d026": [
+		"Torre da cozinha",
+		"Monte uma torre com 5 coisas da cozinha. Ganha a mais alta ou a mais maluca.",
+		"Nada de vidro, facas ou outras coisas afiadas."
 	]
 }
