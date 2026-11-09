@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Asla",
 	"bu_tab_feed": "Akış",
 	"bu_tab_chat": "Sohbet",
-	"bu_feed_dichtbij": "Yakında: {naam}"
+	"bu_feed_dichtbij": "Yakında: {naam}",
+	"wz_z_verstop_eerst": "Saklambaç!",
+	"wz_z_verstop": "Beni bul! 🙈"
 }

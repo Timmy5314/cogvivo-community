@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Jamais",
 	"bu_tab_feed": "Fil",
 	"bu_tab_chat": "Discussion",
-	"bu_feed_dichtbij": "À proximité : {naam}"
+	"bu_feed_dichtbij": "À proximité : {naam}",
+	"wz_z_verstop_eerst": "Cache-cache !",
+	"wz_z_verstop": "Viens me trouver ! 🙈"
 }

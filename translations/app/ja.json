@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "しない",
 	"bu_tab_feed": "フィード",
 	"bu_tab_chat": "チャット",
-	"bu_feed_dichtbij": "近く：{naam}"
+	"bu_feed_dichtbij": "近く：{naam}",
+	"wz_z_verstop_eerst": "かくれんぼ!",
+	"wz_z_verstop": "さがしてね!🙈"
 }

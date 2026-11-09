@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Mai",
 	"bu_tab_feed": "Feed",
 	"bu_tab_chat": "Chat",
-	"bu_feed_dichtbij": "Vicino: {naam}"
+	"bu_feed_dichtbij": "Vicino: {naam}",
+	"wz_z_verstop_eerst": "Nascondino!",
+	"wz_z_verstop": "Vieni a cercarmi! 🙈"
 }

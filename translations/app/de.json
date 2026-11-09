@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Nie",
 	"bu_tab_feed": "Feed",
 	"bu_tab_chat": "Chat",
-	"bu_feed_dichtbij": "In der Nähe: {naam}"
+	"bu_feed_dichtbij": "In der Nähe: {naam}",
+	"wz_z_verstop_eerst": "Verstecken!",
+	"wz_z_verstop": "Such mich! 🙈"
 }

@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Nunca",
 	"bu_tab_feed": "Novedades",
 	"bu_tab_chat": "Chat",
-	"bu_feed_dichtbij": "Cerca: {naam}"
+	"bu_feed_dichtbij": "Cerca: {naam}",
+	"wz_z_verstop_eerst": "¡Escondite!",
+	"wz_z_verstop": "¡Búscame! 🙈"
 }

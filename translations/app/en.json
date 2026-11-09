@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Never",
 	"bu_tab_feed": "Feed",
 	"bu_tab_chat": "Chat",
-	"bu_feed_dichtbij": "Nearby: {naam}"
+	"bu_feed_dichtbij": "Nearby: {naam}",
+	"wz_z_verstop_eerst": "Hide and seek!",
+	"wz_z_verstop": "Come find me! 🙈"
 }

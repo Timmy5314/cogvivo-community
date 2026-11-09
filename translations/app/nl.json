@@ -1657,5 +1657,7 @@
 	"wz_av_nooit": "Nooit",
 	"bu_tab_feed": "Feed",
 	"bu_tab_chat": "Chat",
-	"bu_feed_dichtbij": "Dichtbij: {naam}"
+	"bu_feed_dichtbij": "Dichtbij: {naam}",
+	"wz_z_verstop_eerst": "Verstoppertje!",
+	"wz_z_verstop": "Zoek me maar! 🙈"
 }
