@@ -28,7 +28,7 @@ Most texts were translated with help from software. **Native speakers make them 
 3. A check runs on every pull request. It makes sure the keys and `{placeholders}` match English and that there are no links or HTML in the texts.
 4. We take your translation into the app. After that it shows up here and on [cogvivo.com](https://cogvivo.com).
 
-Look for issues labelled [`translation`](https://github.com/Timmy5314/cogvivo-community/labels/translation) or [`good first issue`](https://github.com/Timmy5314/cogvivo-community/labels/good%20first%20issue). Read the [contribution terms](../BIJDRAGEN.md) before you start.
+Look for issues labelled [`translation`](https://github.com/Timmy5314/cogvivo-community/labels/translation) or [`good first issue`](https://github.com/Timmy5314/cogvivo-community/labels/good%20first%20issue). Read [CONTRIBUTING.md](../CONTRIBUTING.md) before you start.
 
 ---
 

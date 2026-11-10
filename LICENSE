@@ -1,5 +1,19 @@
-Copyright (c) 2026 Tim Wijnands (GitHub: Timmy5314). Alle rechten voorbehouden.
-Cogvivo(TM) is een merknaam van Tim Wijnands.
+Copyright (c) 2026 Tim Wijnands (GitHub: Timmy5314). All rights reserved.
+Cogvivo(TM) is a brand name of Tim Wijnands.
+
+ENGLISH
+
+This repository is public so people can follow along and help. Public does not mean
+free to use. All texts, translations, names, badges, icons and designs are protected by
+copyright. They may not be copied, reproduced, distributed, adapted or used outside
+this repository, including in any product or service or for training AI models,
+without prior written permission from Tim Wijnands.
+
+Allowed:
+- viewing the repository and forking it on GitHub to propose a contribution;
+- submitting a contribution under CONTRIBUTING.md.
+
+No licence is granted: no open-source licence and no Creative Commons licence.
 
 NEDERLANDS
 
@@ -12,16 +26,6 @@ het trainen van AI-modellen.
 
 Wel toegestaan:
 - de repository bekijken en binnen GitHub forken om een bijdrage voor te stellen;
-- een bijdrage insturen volgens BIJDRAGEN.md.
+- een bijdrage insturen volgens CONTRIBUTING.md.
 
 Er wordt geen licentie verleend: geen open-sourcelicentie en geen Creative Commons-licentie.
-
-ENGLISH
-
-This repository is public so people can follow along and help. Public does not mean
-free to use. All texts, translations, names, badges, icons and designs are protected by
-copyright. They may not be copied, reproduced, distributed, adapted or used outside
-this repository, including in any product or service or for training AI models,
-without prior written permission from Tim Wijnands. You may view the repository, fork it
-on GitHub to propose a contribution, and submit contributions under BIJDRAGEN.md.
-No open-source or Creative Commons licence is granted.
