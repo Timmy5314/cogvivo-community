@@ -1702,5 +1702,10 @@
 	"bu_w_droog_vanaf": "{tijd} itibarıyla kuru",
 	"bu_w_regen_blijft": "Yağmur sürüyor",
 	"bu_w_sneeuw_blijft": "Kar yağışı sürüyor",
-	"bu_bron_veiligheid": "Polis ve güvenlik"
+	"bu_bron_veiligheid": "Polis ve güvenlik",
+	"bu_pub_buren_1": "1 komşu katıldı",
+	"bu_welkom_eerste": "Buradaki ilk komşu sensin",
+	"bu_welkom_buren": "{n} komşu katıldı",
+	"bu_welkom_meldingen": "bu hafta {n} bildirim",
+	"bu_welkom_melding_1": "bu hafta 1 bildirim"
 }

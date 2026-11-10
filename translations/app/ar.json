@@ -1702,5 +1702,10 @@
 	"bu_w_droog_vanaf": "جفاف ابتداءً من {tijd}",
 	"bu_w_regen_blijft": "المطر مستمر",
 	"bu_w_sneeuw_blijft": "الثلج مستمر",
-	"bu_bron_veiligheid": "الشرطة والأمن"
+	"bu_bron_veiligheid": "الشرطة والأمن",
+	"bu_pub_buren_1": "انضم جار واحد بالفعل",
+	"bu_welkom_eerste": "أنت أول من انضم هنا",
+	"bu_welkom_buren": "انضم {n} من الجيران",
+	"bu_welkom_meldingen": "تنبيهات هذا الأسبوع: {n}",
+	"bu_welkom_melding_1": "تنبيه واحد هذا الأسبوع"
 }

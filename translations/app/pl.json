@@ -1702,5 +1702,10 @@
 	"bu_w_droog_vanaf": "Sucho od {tijd}",
 	"bu_w_regen_blijft": "Nadal pada deszcz",
 	"bu_w_sneeuw_blijft": "Nadal pada śnieg",
-	"bu_bron_veiligheid": "Policja i bezpieczeństwo"
+	"bu_bron_veiligheid": "Policja i bezpieczeństwo",
+	"bu_pub_buren_1": "1 sąsiad już dołączył",
+	"bu_welkom_eerste": "Jesteś tu pierwszą osobą",
+	"bu_welkom_buren": "{n} sąsiadów dołączyło",
+	"bu_welkom_meldingen": "Komunikaty w tym tygodniu: {n}",
+	"bu_welkom_melding_1": "1 komunikat w tym tygodniu"
 }

@@ -1702,5 +1702,10 @@
 	"bu_w_droog_vanaf": "Kering mulai {tijd}",
 	"bu_w_regen_blijft": "Hujan berlanjut",
 	"bu_w_sneeuw_blijft": "Salju berlanjut",
-	"bu_bron_veiligheid": "Polisi dan keamanan"
+	"bu_bron_veiligheid": "Polisi dan keamanan",
+	"bu_pub_buren_1": "1 tetangga sudah bergabung",
+	"bu_welkom_eerste": "Kamu tetangga pertama di sini",
+	"bu_welkom_buren": "{n} tetangga bergabung",
+	"bu_welkom_meldingen": "{n} peringatan minggu ini",
+	"bu_welkom_melding_1": "1 peringatan minggu ini"
 }

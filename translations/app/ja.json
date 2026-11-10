@@ -1702,5 +1702,10 @@
 	"bu_w_droog_vanaf": "{tijd}から止む見込み",
 	"bu_w_regen_blijft": "雨が続きます",
 	"bu_w_sneeuw_blijft": "雪が続きます",
-	"bu_bron_veiligheid": "警察・安全"
+	"bu_bron_veiligheid": "警察・安全",
+	"bu_pub_buren_1": "1人が参加中",
+	"bu_welkom_eerste": "あなたが最初の参加者です",
+	"bu_welkom_buren": "{n}人が参加中",
+	"bu_welkom_meldingen": "今週のお知らせ {n}件",
+	"bu_welkom_melding_1": "今週のお知らせ 1件"
 }

@@ -1702,5 +1702,10 @@
 	"bu_w_droog_vanaf": "Trocken ab {tijd}",
 	"bu_w_regen_blijft": "Es regnet weiter",
 	"bu_w_sneeuw_blijft": "Es schneit weiter",
-	"bu_bron_veiligheid": "Polizei und Sicherheit"
+	"bu_bron_veiligheid": "Polizei und Sicherheit",
+	"bu_pub_buren_1": "1 Nachbar ist schon dabei",
+	"bu_welkom_eerste": "Du bist die erste Person hier",
+	"bu_welkom_buren": "{n} Nachbarn sind dabei",
+	"bu_welkom_meldingen": "{n} Meldungen diese Woche",
+	"bu_welkom_melding_1": "1 Meldung diese Woche"
 }
