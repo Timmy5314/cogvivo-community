@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "{maatje} s’est échappé !",
 	"fn_pu_maatje_weg_b": "Il est près d’un monument tout proche. Prends une photo et il reviendra d’un bond.",
 	"fn_pu_maatje_wacht": "{maatje} t’attend toujours",
-	"fn_pu_maatje_wacht_b": "Il est toujours près du monument. Prends une photo et il reviendra."
+	"fn_pu_maatje_wacht_b": "Il est toujours près du monument. Prends une photo et il reviendra.",
+	"info_delete_title": "Supprimer ton compte",
+	"auth_review": "Connexion par mot de passe (examen de l’appli)"
 }

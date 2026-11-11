@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "{maatje} هرب!",
 	"fn_pu_maatje_weg_b": "إنه عند معلم قريب. التقط صورة وسيعود قافزًا.",
 	"fn_pu_maatje_wacht": "{maatje} ما زال ينتظرك",
-	"fn_pu_maatje_wacht_b": "ما زال عند المعلم. التقط صورة وسيعود."
+	"fn_pu_maatje_wacht_b": "ما زال عند المعلم. التقط صورة وسيعود.",
+	"info_delete_title": "حذف حسابك",
+	"auth_review": "الدخول بكلمة مرور (مراجعة التطبيق)"
 }

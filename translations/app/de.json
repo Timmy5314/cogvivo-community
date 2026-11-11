@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "{maatje} ist ausgebüxt!",
 	"fn_pu_maatje_weg_b": "Er sitzt bei einem Monument in der Nähe. Mach ein Foto, dann hüpft er zurück.",
 	"fn_pu_maatje_wacht": "{maatje} wartet noch auf dich",
-	"fn_pu_maatje_wacht_b": "Er sitzt noch beim Monument. Mach ein Foto und er kommt zurück."
+	"fn_pu_maatje_wacht_b": "Er sitzt noch beim Monument. Mach ein Foto und er kommt zurück.",
+	"info_delete_title": "Konto löschen",
+	"auth_review": "Mit Passwort anmelden (App-Prüfung)"
 }

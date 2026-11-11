@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "¡{maatje} se ha escapado!",
 	"fn_pu_maatje_weg_b": "Está en un monumento cercano. Haz una foto y volverá de un salto.",
 	"fn_pu_maatje_wacht": "{maatje} sigue esperándote",
-	"fn_pu_maatje_wacht_b": "Sigue en el monumento. Haz una foto y volverá."
+	"fn_pu_maatje_wacht_b": "Sigue en el monumento. Haz una foto y volverá.",
+	"info_delete_title": "Eliminar tu cuenta",
+	"auth_review": "Entrar con contraseña (revisión de la app)"
 }

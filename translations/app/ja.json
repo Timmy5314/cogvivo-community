@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "{maatje}がにげちゃった!",
 	"fn_pu_maatje_weg_b": "近くの名所にいるよ。写真をとると、すぐもどってくるよ。",
 	"fn_pu_maatje_wacht": "{maatje}がまだ待ってるよ",
-	"fn_pu_maatje_wacht_b": "まだ名所にいるよ。写真をとると、もどってくるよ。"
+	"fn_pu_maatje_wacht_b": "まだ名所にいるよ。写真をとると、もどってくるよ。",
+	"info_delete_title": "アカウントの削除",
+	"auth_review": "パスワードでログイン(アプリ審査用)"
 }

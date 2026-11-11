@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "{maatje} kaçtı!",
 	"fn_pu_maatje_weg_b": "Yakındaki bir anıtta. Bir fotoğraf çek, hemen geri atlasın.",
 	"fn_pu_maatje_wacht": "{maatje} hâlâ seni bekliyor",
-	"fn_pu_maatje_wacht_b": "Hâlâ anıtta. Bir fotoğraf çek, geri gelsin."
+	"fn_pu_maatje_wacht_b": "Hâlâ anıtta. Bir fotoğraf çek, geri gelsin.",
+	"info_delete_title": "Hesabını sil",
+	"auth_review": "Şifreyle giriş (uygulama incelemesi)"
 }

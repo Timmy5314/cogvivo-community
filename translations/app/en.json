@@ -1831,5 +1831,7 @@
 	"fn_pu_maatje_weg": "{maatje} ran off!",
 	"fn_pu_maatje_weg_b": "It’s at a monument nearby. Take a photo and it hops right back.",
 	"fn_pu_maatje_wacht": "{maatje} is still waiting for you",
-	"fn_pu_maatje_wacht_b": "It’s still at the monument. Take a photo and it comes back."
+	"fn_pu_maatje_wacht_b": "It’s still at the monument. Take a photo and it comes back.",
+	"info_delete_title": "Delete your account",
+	"auth_review": "Sign in with a password (app review)"
 }
