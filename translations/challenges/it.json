@@ -465,6 +465,551 @@
 		"Fai un balletto insieme a tuo padre o tua madre.",
 		""
 	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Rovesciati in testa un secchio d'acqua ghiacciata.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Restate immobili con i tuoi amici a metà di un movimento mentre la videocamera passa.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Prima balla uno solo, poi all'improvviso si scatenano tutti.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Fai saltare il tappo di una bottiglia con un calcio senza far cadere la bottiglia.",
+		""
+	],
+	"c170": [
+		"Flip the Switch",
+		"Luce spenta, luce accesa, e tu e qualcun altro avete addosso i vestiti dell'altro.",
+		""
+	],
+	"c171": [
+		"10 Year Challenge",
+		"Metti una foto di 10 anni fa accanto a una foto di adesso.",
+		""
+	],
+	"c172": [
+		"Palleggi con la carta igienica",
+		"Palleggia con un rotolo di carta igienica col piede, come con un pallone.",
+		""
+	],
+	"c173": [
+		"Planking",
+		"Sdraiati rigido come un'asse nel posto più pazzo di casa.",
+		""
+	],
+	"c174": [
+		"Whisper Challenge",
+		"Metti le cuffie con la musica a tutto volume e indovina cosa ti dice qualcuno.",
+		""
+	],
+	"c175": [
+		"Mentos e Coca-Cola",
+		"Butta delle Mentos in una bottiglia di Coca-Cola.",
+		""
+	],
+	"c176": [
+		"Servizio fotografico da fantasma",
+		"Fai un servizio fotografico con un lenzuolo in testa e gli occhiali da sole.",
+		""
+	],
+	"c177": [
+		"Il pavimento è lava",
+		"Grida «il pavimento è lava!» e tutti devono staccarsi dal pavimento.",
+		""
+	],
+	"c178": [
+		"La caramella più aspra",
+		"Mangia la caramella più aspra che trovi.",
+		""
+	],
+	"c179": [
+		"Schiaffo con la tortilla",
+		"Giocate a carta, sasso, forbice con la bocca piena d'acqua. Chi perde si prende uno schiaffo con una tortilla.",
+		""
+	],
+	"c180": [
+		"Duckface",
+		"Fatti il selfie esagerato a becco d'anatra di una volta.",
+		""
+	],
+	"c181": [
+		"Ciambella appesa",
+		"Mangia una ciambella appesa a uno spago, senza mani.",
+		""
+	],
+	"c182": [
+		"Pesca della mela",
+		"Prendi una mela da una bacinella d'acqua senza usare le mani.",
+		""
+	],
+	"c183": [
+		"Brain freeze",
+		"Mangia un gelato più veloce che puoi.",
+		""
+	],
+	"c184": [
+		"Roulette delle uova",
+		"A turno rompetevi un uovo in testa. Un uovo è crudo.",
+		""
+	],
+	"c185": [
+		"Torta in faccia",
+		"Spiaccica un piatto di panna in faccia a un amico.",
+		""
+	],
+	"c186": [
+		"What's in the box?",
+		"Tocca a occhi chiusi cosa c'è nella scatola e indovina cos'è.",
+		""
+	],
+	"c187": [
+		"Battaglia di gavettoni",
+		"Fate una battaglia di gavettoni.",
+		""
+	],
+	"c188": [
+		"Corsa nei sacchi",
+		"Fate una corsa nei sacchi.",
+		""
+	],
+	"c189": [
+		"Gioco della sedia",
+		"Giocate al gioco della sedia.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Quanto riesci ad andare in basso sotto l'asta?",
+		""
+	],
+	"c191": [
+		"Nascondino",
+		"Giocate a nascondino.",
+		""
+	],
+	"c192": [
+		"Battaglia di palle di neve",
+		"Fate una battaglia di palle di neve.",
+		""
+	],
+	"c193": [
+		"Bomba",
+		"Tuffati a bomba.",
+		"Solo in acqua profonda."
+	],
+	"c194": [
+		"Scivolo d'acqua",
+		"Scendi da uno scivolo d'acqua.",
+		""
+	],
+	"c195": [
+		"Pigiama party",
+		"Fai un pigiama party.",
+		""
+	],
+	"c196": [
+		"Salto nella pozzanghera",
+		"Salta in una pozzanghera.",
+		""
+	],
+	"c197": [
+		"Palloncino in aria",
+		"Tieni un palloncino in aria senza che tocchi terra.",
+		""
+	],
+	"c198": [
+		"Tuffo ghiacciato",
+		"Tuffati nell'acqua fredda.",
+		"Mai da solo, e solo dove si può nuotare."
+	],
+	"c199": [
+		"Montagne russe",
+		"Fai un giro sulle montagne russe.",
+		""
+	],
+	"c200": [
+		"Trampolino",
+		"Salta su un trampolino.",
+		""
+	],
+	"c201": [
+		"Sepolto nella sabbia",
+		"Fatti seppellire nella sabbia.",
+		"La testa resta fuori."
+	],
+	"c202": [
+		"Palleggi",
+		"Quanti palleggi riesci a fare con un pallone?",
+		""
+	],
+	"c203": [
+		"Capelli del mattino",
+		"Fatti un selfie ai capelli appena sveglio.",
+		""
+	],
+	"c204": [
+		"Faccia da collant",
+		"Infilati un collant in testa e fatti un selfie.",
+		""
+	],
+	"c205": [
+		"Capelli elettrici",
+		"Strofina un palloncino sui capelli e scatta una foto.",
+		""
+	],
+	"c206": [
+		"Parrucca",
+		"Mettiti una parrucca.",
+		""
+	],
+	"c207": [
+		"Il cappello più pazzo",
+		"Mettiti il cappello più pazzo.",
+		""
+	],
+	"c208": [
+		"Il verso più strano",
+		"Fai il verso più strano che riesci.",
+		""
+	],
+	"c209": [
+		"Occhi storti",
+		"Fatti un selfie con gli occhi storti.",
+		""
+	],
+	"c210": [
+		"Cuffia da piscina",
+		"Mettiti una cuffia da piscina e fatti un selfie.",
+		""
+	],
+	"c211": [
+		"Occhiali da sole in casa",
+		"Porta gli occhiali da sole in casa.",
+		""
+	],
+	"c212": [
+		"Occhietti mobili",
+		"Attacca degli occhietti mobili da qualche parte.",
+		""
+	],
+	"c213": [
+		"Caramella finta",
+		"Dai a qualcuno una caramella che in segreto è tutt'altro.",
+		""
+	],
+	"c214": [
+		"Sale nella zuccheriera",
+		"Sostituisci di nascosto lo zucchero con il sale.",
+		""
+	],
+	"c215": [
+		"Schiuma da barba",
+		"Metti della schiuma da barba sulla mano di qualcuno che dorme e fagli il solletico sul naso.",
+		""
+	],
+	"c216": [
+		"Cubetto di ghiaccio",
+		"Infila di nascosto un cubetto di ghiaccio nella maglietta di qualcuno.",
+		""
+	],
+	"c217": [
+		"Invisibile",
+		"Fai finta che qualcuno sia invisibile.",
+		""
+	],
+	"c218": [
+		"Nome sbagliato",
+		"Chiama qualcuno sempre col nome sbagliato.",
+		""
+	],
+	"c219": [
+		"Darla a bere",
+		"Fai credere a qualcuno una cosa non vera.",
+		""
+	],
+	"c220": [
+		"Insetto finto",
+		"Spaventa qualcuno con un insetto finto.",
+		""
+	],
+	"c221": [
+		"Finta caduta",
+		"Fai finta di far cadere qualcosa di costoso.",
+		""
+	],
+	"c222": [
+		"Pistola ad acqua",
+		"Bagna qualcuno con una pistola ad acqua.",
+		""
+	],
+	"c223": [
+		"Cuscino delle puzzette",
+		"Fai suonare un cuscino delle puzzette.",
+		""
+	],
+	"c224": [
+		"What the Fluff",
+		"Tieni una coperta davanti a te, lasciala cadere e nasconditi. Cosa fa il tuo cane o il tuo gatto?",
+		""
+	],
+	"c225": [
+		"Imita il tuo animale",
+		"Imita il tuo animale.",
+		""
+	],
+	"c226": [
+		"Nascondino con il tuo animale",
+		"Nasconditi e lascia che il tuo animale ti cerchi.",
+		""
+	],
+	"c227": [
+		"Ora della pappa",
+		"Filma il tuo animale quando riceve da mangiare.",
+		""
+	],
+	"c228": [
+		"Specchio",
+		"Fai guardare il tuo animale allo specchio.",
+		""
+	],
+	"c229": [
+		"La bolla di gomma più grande",
+		"Fai la bolla di gomma da masticare più grande che puoi.",
+		""
+	],
+	"c230": [
+		"Pallina da ping pong nel bicchiere",
+		"Fai rimbalzare una pallina da ping pong dentro un bicchiere.",
+		""
+	],
+	"c231": [
+		"Hula hoop",
+		"Per quanto tempo riesci a far girare un hula hoop?",
+		""
+	],
+	"c232": [
+		"Pupazzo di neve",
+		"Fai un pupazzo di neve.",
+		""
+	],
+	"c233": [
+		"Prendi la moneta",
+		"Metti una moneta sul gomito e prendila al volo.",
+		""
+	],
+	"c234": [
+		"Fischiare con le dita",
+		"Fischia con le dita.",
+		""
+	],
+	"c235": [
+		"Trucco di magia",
+		"Mostra un trucco di magia.",
+		""
+	],
+	"c236": [
+		"Rimbalzello",
+		"Fai rimbalzare un sasso sull'acqua.",
+		""
+	],
+	"c237": [
+		"Salto della corda",
+		"Quanti salti riesci a fare con la corda?",
+		""
+	],
+	"c238": [
+		"Schiocco della lingua",
+		"Schiocca la lingua più forte che puoi.",
+		""
+	],
+	"c239": [
+		"Indovina il suono",
+		"Qualcuno fa un suono e tu indovini cos'è.",
+		""
+	],
+	"c240": [
+		"Disegno sulla schiena",
+		"Disegna qualcosa sulla schiena di qualcuno e fagli indovinare cos'è.",
+		""
+	],
+	"c241": [
+		"Vedo, vedo",
+		"Giocate a «vedo una cosa che tu non vedi».",
+		""
+	],
+	"c242": [
+		"Indovina il prezzo",
+		"Indovina quanto costa qualcosa.",
+		""
+	],
+	"c243": [
+		"Chi è?",
+		"Tocca un viso a occhi chiusi e indovina di chi è.",
+		""
+	],
+	"c244": [
+		"Tramonto",
+		"Scatta la foto più bella di un tramonto.",
+		""
+	],
+	"c245": [
+		"Arcobaleno",
+		"Scatta una foto di un arcobaleno.",
+		""
+	],
+	"c246": [
+		"Neve",
+		"Scatta la foto di neve più bella.",
+		""
+	],
+	"c247": [
+		"Cielo stellato",
+		"Scatta una foto delle stelle.",
+		""
+	],
+	"c248": [
+		"Fulmine",
+		"Scatta una foto di un fulmine.",
+		"Solo da dentro casa."
+	],
+	"c249": [
+		"Nebbia",
+		"Scatta la foto di nebbia più bella.",
+		""
+	],
+	"c250": [
+		"Riflesso",
+		"Scatta una foto di un riflesso in una pozzanghera.",
+		""
+	],
+	"c251": [
+		"Il fiore più bello",
+		"Scatta una foto del fiore più bello.",
+		""
+	],
+	"c252": [
+		"Uccello",
+		"Scatta una foto di un uccello.",
+		""
+	],
+	"c253": [
+		"Alba",
+		"Scatta una foto dell'alba.",
+		""
+	],
+	"c254": [
+		"Brina",
+		"Scatta la foto più bella della brina.",
+		""
+	],
+	"c255": [
+		"Ombra",
+		"Scatta una foto della tua ombra.",
+		""
+	],
+	"c256": [
+		"Fuochi d'artificio",
+		"Scatta una foto dei fuochi d'artificio.",
+		""
+	],
+	"c257": [
+		"Di notte",
+		"Scatta una foto della città di notte.",
+		""
+	],
+	"c258": [
+		"Mare",
+		"Scatta una foto del mare.",
+		""
+	],
+	"c259": [
+		"Autunno",
+		"Scatta la foto d'autunno più bella.",
+		""
+	],
+	"c260": [
+		"Complimento",
+		"Fai un complimento a qualcuno.",
+		""
+	],
+	"c261": [
+		"Abbraccio",
+		"Abbraccia qualcuno, così, senza motivo.",
+		""
+	],
+	"c262": [
+		"Fiore",
+		"Regala un fiore a qualcuno.",
+		""
+	],
+	"c263": [
+		"Cucina per qualcuno",
+		"Cucina per qualcuno.",
+		""
+	],
+	"c264": [
+		"Chiama e basta",
+		"Chiama qualcuno, così, senza motivo.",
+		""
+	],
+	"c265": [
+		"Aiuta qualcuno",
+		"Aiuta qualcuno, così, senza motivo.",
+		""
+	],
+	"c266": [
+		"Condividere",
+		"Condividi qualcosa di buono con qualcuno.",
+		""
+	],
+	"c267": [
+		"Far ridere",
+		"Fai ridere qualcuno.",
+		""
+	],
+	"c268": [
+		"Grazie e basta",
+		"Ringrazia qualcuno, così, senza motivo.",
+		""
+	],
+	"c269": [
+		"Picnic",
+		"Fai un picnic.",
+		""
+	],
+	"c270": [
+		"Serata giochi",
+		"Organizza una serata giochi.",
+		""
+	],
+	"c271": [
+		"Serata film",
+		"Organizza una serata film.",
+		""
+	],
+	"c272": [
+		"Scusa",
+		"Chiedi scusa a qualcuno.",
+		""
+	],
+	"c273": [
+		"Come stai?",
+		"Chiedi a qualcuno come sta davvero.",
+		""
+	],
+	"c274": [
+		"Ti voglio bene",
+		"Di' «ti voglio bene» a qualcuno, così, senza motivo.",
+		""
+	],
 	"d001": [
 		"Gara di sguardi",
 		"Guarda qualcuno dritto negli occhi per 30 secondi senza ridere. Chi ride perde.",

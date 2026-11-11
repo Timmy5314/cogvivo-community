@@ -465,6 +465,551 @@
 		"Mach einen Tanz zusammen mit deinem Vater oder deiner Mutter.",
 		""
 	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Kipp dir einen Eimer Eiswasser über den Kopf.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Erstarrt mit deinen Freunden mitten in einer Bewegung, während die Kamera vorbeiläuft.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Erst tanzt einer allein, dann rasten plötzlich alle aus.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Kick den Deckel von einer Flasche, ohne dass die Flasche umfällt.",
+		""
+	],
+	"c170": [
+		"Flip the Switch",
+		"Licht aus, Licht an, und du und jemand anderes habt die Kleidung des anderen an.",
+		""
+	],
+	"c171": [
+		"10 Year Challenge",
+		"Stell ein Foto von vor 10 Jahren neben ein Foto von heute.",
+		""
+	],
+	"c172": [
+		"Klorolle hochhalten",
+		"Halte eine Klorolle mit dem Fuß hoch, genau wie einen Fußball.",
+		""
+	],
+	"c173": [
+		"Planking",
+		"Leg dich steif wie ein Brett an die verrückteste Stelle in deinem Zuhause.",
+		""
+	],
+	"c174": [
+		"Whisper Challenge",
+		"Setz Kopfhörer mit lauter Musik auf und errate, was jemand zu dir sagt.",
+		""
+	],
+	"c175": [
+		"Mentos & Cola",
+		"Wirf Mentos in eine Flasche Cola.",
+		""
+	],
+	"c176": [
+		"Geister-Fotoshooting",
+		"Mach ein Fotoshooting mit einem Laken über dem Kopf und einer Sonnenbrille auf.",
+		""
+	],
+	"c177": [
+		"Der Boden ist Lava",
+		"Ruf „Der Boden ist Lava!“ und alle müssen runter vom Boden.",
+		""
+	],
+	"c178": [
+		"Saurste Süßigkeit",
+		"Iss die saurste Süßigkeit, die du finden kannst.",
+		""
+	],
+	"c179": [
+		"Tortilla-Klatsche",
+		"Spielt Schere-Stein-Papier mit dem Mund voller Wasser. Wer verliert, kriegt einen Klaps mit einer Tortilla.",
+		""
+	],
+	"c180": [
+		"Duckface",
+		"Mach das übertriebene Duckface-Selfie von früher.",
+		""
+	],
+	"c181": [
+		"Donut an der Schnur",
+		"Iss einen Donut, der an einer Schnur hängt, ohne Hände.",
+		""
+	],
+	"c182": [
+		"Apfeltauchen",
+		"Schnapp dir einen Apfel aus einer Wanne Wasser, ohne deine Hände.",
+		""
+	],
+	"c183": [
+		"Brain Freeze",
+		"Iss ein Eis so schnell du kannst.",
+		""
+	],
+	"c184": [
+		"Eier-Roulette",
+		"Schlagt euch abwechselnd ein Ei auf dem Kopf kaputt. Ein Ei ist roh.",
+		""
+	],
+	"c185": [
+		"Torte ins Gesicht",
+		"Drück einem Freund einen Teller Sahne ins Gesicht.",
+		""
+	],
+	"c186": [
+		"What's in the Box?",
+		"Fühl mit geschlossenen Augen, was in der Kiste ist, und errate es.",
+		""
+	],
+	"c187": [
+		"Wasserbombenschlacht",
+		"Macht eine Wasserbombenschlacht.",
+		""
+	],
+	"c188": [
+		"Sackhüpfen",
+		"Macht ein Wettrennen im Sackhüpfen.",
+		""
+	],
+	"c189": [
+		"Reise nach Jerusalem",
+		"Spielt Reise nach Jerusalem.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Wie tief kommst du unter der Stange durch?",
+		""
+	],
+	"c191": [
+		"Verstecken",
+		"Spielt Verstecken.",
+		""
+	],
+	"c192": [
+		"Schneeballschlacht",
+		"Macht eine Schneeballschlacht.",
+		""
+	],
+	"c193": [
+		"Arschbombe",
+		"Spring eine Arschbombe.",
+		"Nur in tiefem Wasser."
+	],
+	"c194": [
+		"Wasserrutsche",
+		"Rutsch eine Wasserrutsche runter.",
+		""
+	],
+	"c195": [
+		"Pyjamaparty",
+		"Mach eine Pyjamaparty.",
+		""
+	],
+	"c196": [
+		"In eine Pfütze springen",
+		"Spring in eine Pfütze.",
+		""
+	],
+	"c197": [
+		"Ballon hochhalten",
+		"Halte einen Ballon in der Luft, ohne dass er den Boden berührt.",
+		""
+	],
+	"c198": [
+		"Eisbaden",
+		"Spring in kaltes Wasser.",
+		"Nie allein, und nur wo Schwimmen erlaubt ist."
+	],
+	"c199": [
+		"Achterbahn",
+		"Fahr Achterbahn.",
+		""
+	],
+	"c200": [
+		"Trampolin",
+		"Spring auf einem Trampolin.",
+		""
+	],
+	"c201": [
+		"Eingegraben",
+		"Lass dich im Sand eingraben.",
+		"Dein Kopf bleibt frei."
+	],
+	"c202": [
+		"Ball hochhalten",
+		"Wie oft kannst du einen Ball hochhalten?",
+		""
+	],
+	"c203": [
+		"Morgenhaare",
+		"Mach ein Selfie von deinen Haaren, sobald du aufwachst.",
+		""
+	],
+	"c204": [
+		"Strumpfhosengesicht",
+		"Zieh dir eine Strumpfhose über den Kopf und mach ein Selfie.",
+		""
+	],
+	"c205": [
+		"Ballonhaare",
+		"Reib einen Ballon an deinen Haaren und mach ein Foto.",
+		""
+	],
+	"c206": [
+		"Perücke",
+		"Setz eine Perücke auf.",
+		""
+	],
+	"c207": [
+		"Verrücktester Hut",
+		"Setz den verrücktesten Hut auf.",
+		""
+	],
+	"c208": [
+		"Komischstes Geräusch",
+		"Mach das komischste Geräusch, das du kannst.",
+		""
+	],
+	"c209": [
+		"Schielen",
+		"Mach ein Selfie, während du schielst.",
+		""
+	],
+	"c210": [
+		"Badekappe",
+		"Setz eine Badekappe auf und mach ein Selfie.",
+		""
+	],
+	"c211": [
+		"Sonnenbrille drinnen",
+		"Trag drinnen eine Sonnenbrille.",
+		""
+	],
+	"c212": [
+		"Wackelaugen",
+		"Kleb irgendwo Wackelaugen drauf.",
+		""
+	],
+	"c213": [
+		"Falsche Süßigkeit",
+		"Gib jemandem eine Süßigkeit, die heimlich etwas ganz anderes ist.",
+		""
+	],
+	"c214": [
+		"Salz in der Zuckerdose",
+		"Tausch heimlich den Zucker gegen Salz.",
+		""
+	],
+	"c215": [
+		"Rasierschaum",
+		"Mach jemandem, der schläft, Rasierschaum auf die Hand und kitzle ihn an der Nase.",
+		""
+	],
+	"c216": [
+		"Eiswürfel",
+		"Steck jemandem heimlich einen Eiswürfel ins Shirt.",
+		""
+	],
+	"c217": [
+		"Unsichtbar",
+		"Tu so, als wäre jemand unsichtbar.",
+		""
+	],
+	"c218": [
+		"Falscher Name",
+		"Nenn jemanden immer wieder beim falschen Namen.",
+		""
+	],
+	"c219": [
+		"Einen Bären aufbinden",
+		"Binde jemandem einen Bären auf.",
+		""
+	],
+	"c220": [
+		"Falsches Insekt",
+		"Erschreck jemanden mit einem falschen Insekt.",
+		""
+	],
+	"c221": [
+		"Fallen lassen",
+		"Tu so, als ließest du etwas Teures fallen.",
+		""
+	],
+	"c222": [
+		"Wasserpistole",
+		"Spritz jemanden mit einer Wasserpistole nass.",
+		""
+	],
+	"c223": [
+		"Furzkissen",
+		"Lass ein Furzkissen los.",
+		""
+	],
+	"c224": [
+		"What the Fluff",
+		"Halte eine Decke vor dich, lass sie fallen und versteck dich. Was macht dein Hund oder deine Katze?",
+		""
+	],
+	"c225": [
+		"Mach dein Haustier nach",
+		"Mach dein Haustier nach.",
+		""
+	],
+	"c226": [
+		"Verstecken mit deinem Haustier",
+		"Versteck dich und lass dein Haustier dich suchen.",
+		""
+	],
+	"c227": [
+		"Fütterungszeit",
+		"Filme dein Haustier, wenn es sein Futter bekommt.",
+		""
+	],
+	"c228": [
+		"Spiegel",
+		"Lass dein Haustier in den Spiegel schauen.",
+		""
+	],
+	"c229": [
+		"Größte Kaugummiblase",
+		"Mach die größte Kaugummiblase, die du kannst.",
+		""
+	],
+	"c230": [
+		"Tischtennisball im Becher",
+		"Lass einen Tischtennisball in einen Becher springen.",
+		""
+	],
+	"c231": [
+		"Hula-Hoop",
+		"Wie lange hältst du einen Hula-Hoop-Reifen oben?",
+		""
+	],
+	"c232": [
+		"Schneemann",
+		"Bau einen Schneemann.",
+		""
+	],
+	"c233": [
+		"Münze fangen",
+		"Leg eine Münze auf deinen Ellbogen und fang sie.",
+		""
+	],
+	"c234": [
+		"Mit den Fingern pfeifen",
+		"Pfeif mit den Fingern.",
+		""
+	],
+	"c235": [
+		"Zaubertrick",
+		"Zeig einen Zaubertrick.",
+		""
+	],
+	"c236": [
+		"Steine flitschen",
+		"Lass einen Stein übers Wasser springen.",
+		""
+	],
+	"c237": [
+		"Seilspringen",
+		"Wie oft schaffst du es beim Seilspringen?",
+		""
+	],
+	"c238": [
+		"Zungenschnalzen",
+		"Schnalz so laut du kannst mit der Zunge.",
+		""
+	],
+	"c239": [
+		"Errate das Geräusch",
+		"Jemand macht ein Geräusch, du errätst, was es ist.",
+		""
+	],
+	"c240": [
+		"Auf den Rücken malen",
+		"Mal jemandem etwas auf den Rücken und lass ihn raten, was es ist.",
+		""
+	],
+	"c241": [
+		"Ich sehe was",
+		"Spielt „Ich sehe was, was du nicht siehst“.",
+		""
+	],
+	"c242": [
+		"Errate den Preis",
+		"Errate, was etwas kostet.",
+		""
+	],
+	"c243": [
+		"Wer ist das?",
+		"Fühl mit geschlossenen Augen, wessen Gesicht das ist.",
+		""
+	],
+	"c244": [
+		"Sonnenuntergang",
+		"Mach das schönste Foto von einem Sonnenuntergang.",
+		""
+	],
+	"c245": [
+		"Regenbogen",
+		"Mach ein Foto von einem Regenbogen.",
+		""
+	],
+	"c246": [
+		"Schnee",
+		"Mach das schönste Schneefoto.",
+		""
+	],
+	"c247": [
+		"Sternenhimmel",
+		"Mach ein Foto von den Sternen.",
+		""
+	],
+	"c248": [
+		"Blitz",
+		"Mach ein Foto von einem Blitz.",
+		"Nur von drinnen."
+	],
+	"c249": [
+		"Nebel",
+		"Mach das schönste Nebelfoto.",
+		""
+	],
+	"c250": [
+		"Spiegelung",
+		"Mach ein Foto von einer Spiegelung in einer Pfütze.",
+		""
+	],
+	"c251": [
+		"Schönste Blume",
+		"Mach ein Foto von der schönsten Blume.",
+		""
+	],
+	"c252": [
+		"Vogel",
+		"Mach ein Foto von einem Vogel.",
+		""
+	],
+	"c253": [
+		"Sonnenaufgang",
+		"Mach ein Foto vom Sonnenaufgang.",
+		""
+	],
+	"c254": [
+		"Frost",
+		"Mach das schönste Foto von Frost.",
+		""
+	],
+	"c255": [
+		"Schatten",
+		"Mach ein Foto von deinem Schatten.",
+		""
+	],
+	"c256": [
+		"Feuerwerk",
+		"Mach ein Foto von einem Feuerwerk.",
+		""
+	],
+	"c257": [
+		"Bei Nacht",
+		"Mach ein Foto von der Stadt bei Nacht.",
+		""
+	],
+	"c258": [
+		"Meer",
+		"Mach ein Foto vom Meer.",
+		""
+	],
+	"c259": [
+		"Herbst",
+		"Mach das schönste Herbstfoto.",
+		""
+	],
+	"c260": [
+		"Kompliment",
+		"Mach jemandem ein Kompliment.",
+		""
+	],
+	"c261": [
+		"Umarmung",
+		"Umarme jemanden einfach so.",
+		""
+	],
+	"c262": [
+		"Blume",
+		"Schenk jemandem eine Blume.",
+		""
+	],
+	"c263": [
+		"Koch für jemanden",
+		"Koch für jemanden.",
+		""
+	],
+	"c264": [
+		"Einfach anrufen",
+		"Ruf jemanden einfach so an.",
+		""
+	],
+	"c265": [
+		"Hilf jemandem",
+		"Hilf jemandem einfach so.",
+		""
+	],
+	"c266": [
+		"Teilen",
+		"Teil etwas Leckeres mit jemandem.",
+		""
+	],
+	"c267": [
+		"Zum Lachen bringen",
+		"Bring jemanden zum Lachen.",
+		""
+	],
+	"c268": [
+		"Einfach danke sagen",
+		"Bedank dich einfach so bei jemandem.",
+		""
+	],
+	"c269": [
+		"Picknick",
+		"Mach ein Picknick.",
+		""
+	],
+	"c270": [
+		"Spieleabend",
+		"Mach einen Spieleabend.",
+		""
+	],
+	"c271": [
+		"Filmabend",
+		"Mach einen Filmabend.",
+		""
+	],
+	"c272": [
+		"Entschuldigung",
+		"Entschuldige dich bei jemandem.",
+		""
+	],
+	"c273": [
+		"Wie geht's dir?",
+		"Frag jemanden, wie es ihm wirklich geht.",
+		""
+	],
+	"c274": [
+		"Ich hab dich lieb",
+		"Sag einfach so „Ich hab dich lieb“ zu jemandem.",
+		""
+	],
 	"d001": [
 		"Anstarren",
 		"Schau jemandem 30 Sekunden lang direkt in die Augen, ohne zu lachen. Wer lacht, verliert.",

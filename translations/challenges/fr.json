@@ -465,6 +465,551 @@
 		"Fais une danse avec ton père ou ta mère.",
 		""
 	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Renverse-toi un seau d'eau glacée sur la tête.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Figez-vous en plein mouvement avec tes amis pendant que la caméra passe.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"D'abord une seule personne danse, puis d'un coup tout le monde se lâche.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Fais sauter le bouchon d'une bouteille d'un coup de pied sans la renverser.",
+		""
+	],
+	"c170": [
+		"Flip the Switch",
+		"Lumière éteinte, lumière allumée, et toi et quelqu'un d'autre portez les vêtements de l'autre.",
+		""
+	],
+	"c171": [
+		"10 Year Challenge",
+		"Mets une photo d'il y a 10 ans à côté d'une photo d'aujourd'hui.",
+		""
+	],
+	"c172": [
+		"Jongler avec du PQ",
+		"Jongle avec un rouleau de papier toilette avec ton pied, comme avec un ballon de foot.",
+		""
+	],
+	"c173": [
+		"Planking",
+		"Allonge-toi raide comme une planche à l'endroit le plus fou de chez toi.",
+		""
+	],
+	"c174": [
+		"Whisper Challenge",
+		"Mets un casque avec de la musique à fond et devine ce que quelqu'un te dit.",
+		""
+	],
+	"c175": [
+		"Mentos & Coca",
+		"Mets des Mentos dans une bouteille de coca.",
+		""
+	],
+	"c176": [
+		"Shooting fantôme",
+		"Fais un shooting photo avec un drap sur la tête et des lunettes de soleil.",
+		""
+	],
+	"c177": [
+		"Le sol, c'est de la lave",
+		"Crie « le sol, c'est de la lave ! » et tout le monde doit quitter le sol.",
+		""
+	],
+	"c178": [
+		"Bonbon le plus acide",
+		"Mange le bonbon le plus acide que tu puisses trouver.",
+		""
+	],
+	"c179": [
+		"Claque à la tortilla",
+		"Jouez à pierre-feuille-ciseaux avec la bouche pleine d'eau. Le perdant reçoit une claque avec une tortilla.",
+		""
+	],
+	"c180": [
+		"Duckface",
+		"Fais le selfie duckface exagéré d'autrefois.",
+		""
+	],
+	"c181": [
+		"Donut à la ficelle",
+		"Mange un donut suspendu à une ficelle, sans les mains.",
+		""
+	],
+	"c182": [
+		"Pêche aux pommes",
+		"Attrape une pomme dans une bassine d'eau sans les mains.",
+		""
+	],
+	"c183": [
+		"Brain freeze",
+		"Mange une glace aussi vite que possible.",
+		""
+	],
+	"c184": [
+		"Roulette aux œufs",
+		"Cassez-vous un œuf sur la tête à tour de rôle. Un des œufs est cru.",
+		""
+	],
+	"c185": [
+		"Tarte dans la figure",
+		"Écrase une assiette de chantilly sur le visage d'un ami.",
+		""
+	],
+	"c186": [
+		"What's in the box?",
+		"Touche les yeux fermés ce qu'il y a dans la boîte et devine ce que c'est.",
+		""
+	],
+	"c187": [
+		"Bataille de ballons d'eau",
+		"Faites une bataille de ballons d'eau.",
+		""
+	],
+	"c188": [
+		"Course en sac",
+		"Faites une course en sac.",
+		""
+	],
+	"c189": [
+		"Chaises musicales",
+		"Jouez aux chaises musicales.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Jusqu'où peux-tu descendre sous la barre ?",
+		""
+	],
+	"c191": [
+		"Cache-cache",
+		"Jouez à cache-cache.",
+		""
+	],
+	"c192": [
+		"Bataille de boules de neige",
+		"Faites une bataille de boules de neige.",
+		""
+	],
+	"c193": [
+		"Bombe",
+		"Saute en faisant la bombe.",
+		"Seulement en eau profonde."
+	],
+	"c194": [
+		"Toboggan aquatique",
+		"Descends un toboggan aquatique.",
+		""
+	],
+	"c195": [
+		"Soirée pyjama",
+		"Organise une soirée pyjama.",
+		""
+	],
+	"c196": [
+		"Sauter dans une flaque",
+		"Saute dans une flaque.",
+		""
+	],
+	"c197": [
+		"Ballon en l'air",
+		"Garde un ballon en l'air sans qu'il touche le sol.",
+		""
+	],
+	"c198": [
+		"Bain glacé",
+		"Saute dans de l'eau froide.",
+		"Jamais seul, et seulement là où la baignade est autorisée."
+	],
+	"c199": [
+		"Montagnes russes",
+		"Fais un tour de montagnes russes.",
+		""
+	],
+	"c200": [
+		"Trampoline",
+		"Saute sur un trampoline.",
+		""
+	],
+	"c201": [
+		"Enterré dans le sable",
+		"Fais-toi enterrer dans le sable.",
+		"Ta tête reste dégagée."
+	],
+	"c202": [
+		"Jongles",
+		"Combien de jongles peux-tu faire avec un ballon ?",
+		""
+	],
+	"c203": [
+		"Cheveux du matin",
+		"Prends un selfie de tes cheveux dès que tu te réveilles.",
+		""
+	],
+	"c204": [
+		"Tête de collant",
+		"Enfile un collant sur ta tête et prends un selfie.",
+		""
+	],
+	"c205": [
+		"Cheveux électriques",
+		"Frotte un ballon sur tes cheveux et prends une photo.",
+		""
+	],
+	"c206": [
+		"Perruque",
+		"Mets une perruque.",
+		""
+	],
+	"c207": [
+		"Chapeau le plus fou",
+		"Mets le chapeau le plus fou.",
+		""
+	],
+	"c208": [
+		"Bruit le plus bizarre",
+		"Fais le bruit le plus bizarre possible.",
+		""
+	],
+	"c209": [
+		"Loucher",
+		"Prends un selfie en louchant.",
+		""
+	],
+	"c210": [
+		"Bonnet de bain",
+		"Mets un bonnet de bain et prends un selfie.",
+		""
+	],
+	"c211": [
+		"Lunettes de soleil à l'intérieur",
+		"Porte des lunettes de soleil à l'intérieur.",
+		""
+	],
+	"c212": [
+		"Yeux rigolos",
+		"Colle des yeux rigolos quelque part.",
+		""
+	],
+	"c213": [
+		"Faux bonbon",
+		"Donne à quelqu'un un bonbon qui est en secret tout autre chose.",
+		""
+	],
+	"c214": [
+		"Sel dans le sucrier",
+		"Remplace en douce le sucre par du sel.",
+		""
+	],
+	"c215": [
+		"Mousse à raser",
+		"Mets de la mousse à raser dans la main de quelqu'un qui dort et chatouille-lui le nez.",
+		""
+	],
+	"c216": [
+		"Glaçon",
+		"Glisse en douce un glaçon dans le t-shirt de quelqu'un.",
+		""
+	],
+	"c217": [
+		"Invisible",
+		"Fais comme si quelqu'un était invisible.",
+		""
+	],
+	"c218": [
+		"Mauvais prénom",
+		"Appelle quelqu'un sans arrêt par le mauvais prénom.",
+		""
+	],
+	"c219": [
+		"Faire croire",
+		"Fais croire quelque chose à quelqu'un.",
+		""
+	],
+	"c220": [
+		"Faux insecte",
+		"Fais peur à quelqu'un avec un faux insecte.",
+		""
+	],
+	"c221": [
+		"Fausse chute",
+		"Fais semblant de faire tomber quelque chose de cher.",
+		""
+	],
+	"c222": [
+		"Pistolet à eau",
+		"Arrose quelqu'un avec un pistolet à eau.",
+		""
+	],
+	"c223": [
+		"Coussin péteur",
+		"Fais péter un coussin péteur.",
+		""
+	],
+	"c224": [
+		"What the Fluff",
+		"Tiens une couverture devant toi, lâche-la et cache-toi. Que fait ton chien ou ton chat ?",
+		""
+	],
+	"c225": [
+		"Imite ton animal",
+		"Imite ton animal.",
+		""
+	],
+	"c226": [
+		"Cache-cache avec ton animal",
+		"Cache-toi et laisse ton animal te chercher.",
+		""
+	],
+	"c227": [
+		"L'heure du repas",
+		"Filme ton animal quand il reçoit à manger.",
+		""
+	],
+	"c228": [
+		"Miroir",
+		"Fais regarder ton animal dans le miroir.",
+		""
+	],
+	"c229": [
+		"Plus grosse bulle",
+		"Fais la plus grosse bulle de chewing-gum possible.",
+		""
+	],
+	"c230": [
+		"Balle de ping-pong dans un gobelet",
+		"Fais rebondir une balle de ping-pong dans un gobelet.",
+		""
+	],
+	"c231": [
+		"Hula hoop",
+		"Combien de temps peux-tu faire tourner un hula hoop ?",
+		""
+	],
+	"c232": [
+		"Bonhomme de neige",
+		"Fais un bonhomme de neige.",
+		""
+	],
+	"c233": [
+		"Attraper la pièce",
+		"Pose une pièce sur ton coude et attrape-la.",
+		""
+	],
+	"c234": [
+		"Siffler avec les doigts",
+		"Siffle avec tes doigts.",
+		""
+	],
+	"c235": [
+		"Tour de magie",
+		"Montre un tour de magie.",
+		""
+	],
+	"c236": [
+		"Ricochets",
+		"Fais un ricochet sur l'eau.",
+		""
+	],
+	"c237": [
+		"Corde à sauter",
+		"Combien de sauts fais-tu à la corde à sauter ?",
+		""
+	],
+	"c238": [
+		"Claquer la langue",
+		"Claque ta langue aussi fort que possible.",
+		""
+	],
+	"c239": [
+		"Devine le bruit",
+		"Quelqu'un fait un bruit, tu devines ce que c'est.",
+		""
+	],
+	"c240": [
+		"Dessin dans le dos",
+		"Dessine quelque chose dans le dos de quelqu'un et laisse-le deviner ce que c'est.",
+		""
+	],
+	"c241": [
+		"Je vois, je vois",
+		"Jouez à « je vois quelque chose que tu ne vois pas ».",
+		""
+	],
+	"c242": [
+		"Devine le prix",
+		"Devine combien coûte quelque chose.",
+		""
+	],
+	"c243": [
+		"C'est qui ?",
+		"Touche un visage les yeux fermés et devine à qui il est.",
+		""
+	],
+	"c244": [
+		"Coucher de soleil",
+		"Prends la plus belle photo d'un coucher de soleil.",
+		""
+	],
+	"c245": [
+		"Arc-en-ciel",
+		"Prends une photo d'un arc-en-ciel.",
+		""
+	],
+	"c246": [
+		"Neige",
+		"Prends la plus belle photo de neige.",
+		""
+	],
+	"c247": [
+		"Ciel étoilé",
+		"Prends une photo des étoiles.",
+		""
+	],
+	"c248": [
+		"Éclair",
+		"Prends une photo d'un éclair.",
+		"Seulement depuis l'intérieur."
+	],
+	"c249": [
+		"Brouillard",
+		"Prends la plus belle photo de brouillard.",
+		""
+	],
+	"c250": [
+		"Reflet",
+		"Prends une photo d'un reflet dans une flaque.",
+		""
+	],
+	"c251": [
+		"Plus belle fleur",
+		"Prends une photo de la plus belle fleur.",
+		""
+	],
+	"c252": [
+		"Oiseau",
+		"Prends une photo d'un oiseau.",
+		""
+	],
+	"c253": [
+		"Lever de soleil",
+		"Prends une photo du lever de soleil.",
+		""
+	],
+	"c254": [
+		"Givre",
+		"Prends la plus belle photo de givre.",
+		""
+	],
+	"c255": [
+		"Ombre",
+		"Prends une photo de ton ombre.",
+		""
+	],
+	"c256": [
+		"Feu d'artifice",
+		"Prends une photo d'un feu d'artifice.",
+		""
+	],
+	"c257": [
+		"De nuit",
+		"Prends une photo de la ville la nuit.",
+		""
+	],
+	"c258": [
+		"Mer",
+		"Prends une photo de la mer.",
+		""
+	],
+	"c259": [
+		"Automne",
+		"Prends la plus belle photo d'automne.",
+		""
+	],
+	"c260": [
+		"Compliment",
+		"Fais un compliment à quelqu'un.",
+		""
+	],
+	"c261": [
+		"Câlin",
+		"Fais un câlin à quelqu'un, juste comme ça.",
+		""
+	],
+	"c262": [
+		"Fleur",
+		"Offre une fleur à quelqu'un.",
+		""
+	],
+	"c263": [
+		"Cuisine pour quelqu'un",
+		"Cuisine pour quelqu'un.",
+		""
+	],
+	"c264": [
+		"Juste appeler",
+		"Appelle quelqu'un, juste comme ça.",
+		""
+	],
+	"c265": [
+		"Aide quelqu'un",
+		"Aide quelqu'un, juste comme ça.",
+		""
+	],
+	"c266": [
+		"Partager",
+		"Partage quelque chose de bon avec quelqu'un.",
+		""
+	],
+	"c267": [
+		"Faire rire",
+		"Fais rire quelqu'un.",
+		""
+	],
+	"c268": [
+		"Juste dire merci",
+		"Remercie quelqu'un, juste comme ça.",
+		""
+	],
+	"c269": [
+		"Pique-nique",
+		"Fais un pique-nique.",
+		""
+	],
+	"c270": [
+		"Soirée jeux",
+		"Organise une soirée jeux.",
+		""
+	],
+	"c271": [
+		"Soirée film",
+		"Organise une soirée film.",
+		""
+	],
+	"c272": [
+		"Pardon",
+		"Dis pardon à quelqu'un.",
+		""
+	],
+	"c273": [
+		"Comment ça va ?",
+		"Demande à quelqu'un comment il va vraiment.",
+		""
+	],
+	"c274": [
+		"Je t'aime",
+		"Dis « je t'aime » à quelqu'un, juste comme ça.",
+		""
+	],
 	"d001": [
 		"Concours de regards",
 		"Regarde quelqu'un droit dans les yeux pendant 30 secondes sans rire. Le premier qui rit perd.",

@@ -1,6 +1,6 @@
 # Challenges
 
-The **93 challenges** everyone can do on Cogvivo. Film it or take a photo, post it, and the community gives your attempt 0 to 5 stars. Tap a title to open it in the app.
+The **202 challenges** everyone can do on Cogvivo. Film it or take a photo, post it, and the community gives your attempt 0 to 5 stars. Tap a title to open it in the app.
 
 There are also [21 duels](duels.md) to do against someone else, and [198 countries with five challenges each](countries/README.md).
 
@@ -99,6 +99,115 @@ There are also [21 duels](duels.md) to do against someone else, and [198 countri
 | 163 | [Tell a Joke](https://cogvivo.com/en/challenge/tell-a-joke-163) | Tell a joke. |
 | 164 | [Pillow Fight](https://cogvivo.com/en/challenge/pillow-fight-164) | Have a pillow fight with your brother, sister or friend. |
 | 165 | [Dance with Your Parents](https://cogvivo.com/en/challenge/dance-with-your-parents-165) | Do a dance together with your dad or mom. |
+| 166 | [Ice Bucket Challenge](https://cogvivo.com/en/challenge/ice-bucket-challenge-166) | Pour a bucket of ice water over your head. |
+| 167 | [Mannequin Challenge](https://cogvivo.com/en/challenge/mannequin-challenge-167) | Freeze mid-move with your friends while the camera walks past. |
+| 168 | [Harlem Shake](https://cogvivo.com/en/challenge/harlem-shake-168) | First one person dances, then suddenly everyone goes wild. |
+| 169 | [Bottle Cap Challenge](https://cogvivo.com/en/challenge/bottle-cap-challenge-169) | Kick the cap off a bottle without knocking the bottle over. |
+| 170 | [Flip the Switch](https://cogvivo.com/en/challenge/flip-the-switch-170) | Lights off, lights on, and you and someone else are wearing each other's clothes. |
+| 171 | [10 Year Challenge](https://cogvivo.com/en/challenge/10-year-challenge-171) | Put a photo from 10 years ago next to a photo from now. |
+| 172 | [Toilet Roll Keepy-Uppy](https://cogvivo.com/en/challenge/toilet-roll-keepy-uppy-172) | Keep a toilet roll up with your foot, just like a football. |
+| 173 | [Planking](https://cogvivo.com/en/challenge/planking-173) | Lie stiff as a plank in the craziest spot in your home. |
+| 174 | [Whisper Challenge](https://cogvivo.com/en/challenge/whisper-challenge-174) | Put on headphones with loud music and guess what someone is saying to you. |
+| 175 | [Mentos & Cola](https://cogvivo.com/en/challenge/mentos-cola-175) | Drop Mentos into a bottle of cola. |
+| 176 | [Ghost Photoshoot](https://cogvivo.com/en/challenge/ghost-photoshoot-176) | Do a photoshoot with a sheet over your head and sunglasses on. |
+| 177 | [The Floor Is Lava](https://cogvivo.com/en/challenge/the-floor-is-lava-177) | Shout "the floor is lava!" and everyone has to get off the floor. |
+| 178 | [Sourest Candy](https://cogvivo.com/en/challenge/sourest-candy-178) | Eat the sourest candy you can find. |
+| 179 | [Tortilla Slap](https://cogvivo.com/en/challenge/tortilla-slap-179) | Play rock-paper-scissors with a mouth full of water. The loser gets a slap with a tortilla. |
+| 180 | [Duck Face](https://cogvivo.com/en/challenge/duck-face-180) | Take that over-the-top duck face selfie from back in the day. |
+| 181 | [Donut on a String](https://cogvivo.com/en/challenge/donut-on-a-string-181) | Eat a donut hanging from a string, without using your hands. |
+| 182 | [Apple Bobbing](https://cogvivo.com/en/challenge/apple-bobbing-182) | Grab an apple out of a tub of water without using your hands. |
+| 183 | [Brain Freeze](https://cogvivo.com/en/challenge/brain-freeze-183) | Eat an ice cream as fast as you can. |
+| 184 | [Egg Roulette](https://cogvivo.com/en/challenge/egg-roulette-184) | Take turns smashing an egg on your head. One egg is raw. |
+| 185 | [Pie in the Face](https://cogvivo.com/en/challenge/pie-in-the-face-185) | Push a plate of whipped cream into a friend's face. |
+| 186 | [What's in the Box?](https://cogvivo.com/en/challenge/what-s-in-the-box-186) | Feel with your eyes closed what's in the box and guess what it is. |
+| 187 | [Water Balloon Fight](https://cogvivo.com/en/challenge/water-balloon-fight-187) | Have a water balloon fight. |
+| 188 | [Sack Race](https://cogvivo.com/en/challenge/sack-race-188) | Have a sack race. |
+| 189 | [Musical Chairs](https://cogvivo.com/en/challenge/musical-chairs-189) | Play musical chairs. |
+| 190 | [Limbo](https://cogvivo.com/en/challenge/limbo-190) | How low can you go under the stick? |
+| 191 | [Hide and Seek](https://cogvivo.com/en/challenge/hide-and-seek-191) | Play hide and seek. |
+| 192 | [Snowball Fight](https://cogvivo.com/en/challenge/snowball-fight-192) | Have a snowball fight. |
+| 193 | [Cannonball](https://cogvivo.com/en/challenge/cannonball-193) | Do a cannonball jump. |
+| 194 | [Water Slide](https://cogvivo.com/en/challenge/water-slide-194) | Go down a water slide. |
+| 195 | [Sleepover](https://cogvivo.com/en/challenge/sleepover-195) | Have a sleepover. |
+| 196 | [Puddle Jump](https://cogvivo.com/en/challenge/puddle-jump-196) | Jump into a puddle. |
+| 197 | [Keep the Balloon Up](https://cogvivo.com/en/challenge/keep-the-balloon-up-197) | Keep a balloon in the air without letting it touch the ground. |
+| 198 | [Polar Plunge](https://cogvivo.com/en/challenge/polar-plunge-198) | Jump into cold water. |
+| 199 | [Roller Coaster](https://cogvivo.com/en/challenge/roller-coaster-199) | Ride a roller coaster. |
+| 200 | [Trampoline](https://cogvivo.com/en/challenge/trampoline-200) | Jump on a trampoline. |
+| 201 | [Buried in the Sand](https://cogvivo.com/en/challenge/buried-in-the-sand-201) | Get buried in the sand. |
+| 202 | [Keepy-Uppy](https://cogvivo.com/en/challenge/keepy-uppy-202) | How many times can you keep a ball up? |
+| 203 | [Morning Hair](https://cogvivo.com/en/challenge/morning-hair-203) | Take a selfie of your hair as soon as you wake up. |
+| 204 | [Tights Face](https://cogvivo.com/en/challenge/tights-face-204) | Pull a pair of tights over your head and take a selfie. |
+| 205 | [Balloon Hair](https://cogvivo.com/en/challenge/balloon-hair-205) | Rub a balloon on your hair and take a photo. |
+| 206 | [Wig](https://cogvivo.com/en/challenge/wig-206) | Put on a wig. |
+| 207 | [Craziest Hat](https://cogvivo.com/en/challenge/craziest-hat-207) | Put on the craziest hat. |
+| 208 | [Weirdest Sound](https://cogvivo.com/en/challenge/weirdest-sound-208) | Make the weirdest sound you can. |
+| 209 | [Cross-Eyed](https://cogvivo.com/en/challenge/cross-eyed-209) | Take a selfie while going cross-eyed. |
+| 210 | [Swim Cap](https://cogvivo.com/en/challenge/swim-cap-210) | Put on a swim cap and take a selfie. |
+| 211 | [Sunglasses Indoors](https://cogvivo.com/en/challenge/sunglasses-indoors-211) | Wear sunglasses indoors. |
+| 212 | [Googly Eyes](https://cogvivo.com/en/challenge/googly-eyes-212) | Stick googly eyes on something. |
+| 213 | [Fake Candy](https://cogvivo.com/en/challenge/fake-candy-213) | Give someone a candy that is secretly something else entirely. |
+| 214 | [Salt in the Sugar Bowl](https://cogvivo.com/en/challenge/salt-in-the-sugar-bowl-214) | Secretly swap the sugar for salt. |
+| 215 | [Shaving Foam](https://cogvivo.com/en/challenge/shaving-foam-215) | Put shaving foam on the hand of someone who's asleep and tickle their nose. |
+| 216 | [Ice Cube](https://cogvivo.com/en/challenge/ice-cube-216) | Secretly drop an ice cube down someone's shirt. |
+| 217 | [Invisible](https://cogvivo.com/en/challenge/invisible-217) | Pretend someone is invisible. |
+| 218 | [Wrong Name](https://cogvivo.com/en/challenge/wrong-name-218) | Keep calling someone by the wrong name. |
+| 219 | [Make Them Believe It](https://cogvivo.com/en/challenge/make-them-believe-it-219) | Make someone believe something that isn't true. |
+| 220 | [Fake Bug](https://cogvivo.com/en/challenge/fake-bug-220) | Scare someone with a fake bug. |
+| 221 | [Fake Drop](https://cogvivo.com/en/challenge/fake-drop-221) | Pretend to drop something expensive. |
+| 222 | [Water Pistol](https://cogvivo.com/en/challenge/water-pistol-222) | Squirt someone with a water pistol. |
+| 223 | [Whoopee Cushion](https://cogvivo.com/en/challenge/whoopee-cushion-223) | Set off a whoopee cushion. |
+| 224 | [What the Fluff](https://cogvivo.com/en/challenge/what-the-fluff-224) | Hold up a blanket, drop it and hide. What does your dog or cat do? |
+| 225 | [Copy Your Pet](https://cogvivo.com/en/challenge/copy-your-pet-225) | Copy your pet. |
+| 226 | [Hide and Seek with Your Pet](https://cogvivo.com/en/challenge/hide-and-seek-with-your-pet-226) | Hide and let your pet find you. |
+| 227 | [Dinner Time](https://cogvivo.com/en/challenge/dinner-time-227) | Film your pet when it gets its food. |
+| 228 | [Mirror](https://cogvivo.com/en/challenge/mirror-228) | Let your pet look in the mirror. |
+| 229 | [Biggest Bubble](https://cogvivo.com/en/challenge/biggest-bubble-229) | Blow the biggest bubble gum bubble you can. |
+| 230 | [Ping Pong Ball in a Cup](https://cogvivo.com/en/challenge/ping-pong-ball-in-a-cup-230) | Bounce a ping pong ball into a cup. |
+| 231 | [Hula Hoop](https://cogvivo.com/en/challenge/hula-hoop-231) | How long can you keep a hula hoop going? |
+| 232 | [Snowman](https://cogvivo.com/en/challenge/snowman-232) | Build a snowman. |
+| 233 | [Elbow Coin Catch](https://cogvivo.com/en/challenge/elbow-coin-catch-233) | Put a coin on your elbow and catch it. |
+| 234 | [Finger Whistle](https://cogvivo.com/en/challenge/finger-whistle-234) | Whistle with your fingers. |
+| 235 | [Magic Trick](https://cogvivo.com/en/challenge/magic-trick-235) | Show a magic trick. |
+| 236 | [Stone Skipping](https://cogvivo.com/en/challenge/stone-skipping-236) | Skip a stone across the water. |
+| 237 | [Jump Rope](https://cogvivo.com/en/challenge/jump-rope-237) | How many jumps can you do with a jump rope? |
+| 238 | [Tongue Click](https://cogvivo.com/en/challenge/tongue-click-238) | Click your tongue as loud as you can. |
+| 239 | [Guess the Sound](https://cogvivo.com/en/challenge/guess-the-sound-239) | Someone makes a sound, you guess what it is. |
+| 240 | [Back Drawing](https://cogvivo.com/en/challenge/back-drawing-240) | Draw something on someone's back and let them guess what it is. |
+| 241 | [I Spy](https://cogvivo.com/en/challenge/i-spy-241) | Play "I spy with my little eye". |
+| 242 | [Guess the Price](https://cogvivo.com/en/challenge/guess-the-price-242) | Guess what something costs. |
+| 243 | [Who Is It?](https://cogvivo.com/en/challenge/who-is-it-243) | Feel with your eyes closed whose face it is. |
+| 244 | [Sunset](https://cogvivo.com/en/challenge/sunset-244) | Take the most beautiful photo of a sunset. |
+| 245 | [Rainbow](https://cogvivo.com/en/challenge/rainbow-245) | Take a photo of a rainbow. |
+| 246 | [Snow](https://cogvivo.com/en/challenge/snow-246) | Take the most beautiful snow photo. |
+| 247 | [Starry Sky](https://cogvivo.com/en/challenge/starry-sky-247) | Take a photo of the stars. |
+| 248 | [Lightning](https://cogvivo.com/en/challenge/lightning-248) | Take a photo of lightning. |
+| 249 | [Fog](https://cogvivo.com/en/challenge/fog-249) | Take the most beautiful fog photo. |
+| 250 | [Reflection](https://cogvivo.com/en/challenge/reflection-250) | Take a photo of a reflection in a puddle. |
+| 251 | [Prettiest Flower](https://cogvivo.com/en/challenge/prettiest-flower-251) | Take a photo of the prettiest flower. |
+| 252 | [Bird](https://cogvivo.com/en/challenge/bird-252) | Take a photo of a bird. |
+| 253 | [Sunrise](https://cogvivo.com/en/challenge/sunrise-253) | Take a photo of the sunrise. |
+| 254 | [Frost](https://cogvivo.com/en/challenge/frost-254) | Take the most beautiful photo of frost. |
+| 255 | [Shadow](https://cogvivo.com/en/challenge/shadow-255) | Take a photo of your shadow. |
+| 256 | [Fireworks](https://cogvivo.com/en/challenge/fireworks-256) | Take a photo of fireworks. |
+| 257 | [By Night](https://cogvivo.com/en/challenge/by-night-257) | Take a photo of the city at night. |
+| 258 | [Sea](https://cogvivo.com/en/challenge/sea-258) | Take a photo of the sea. |
+| 259 | [Autumn](https://cogvivo.com/en/challenge/autumn-259) | Take the most beautiful autumn photo. |
+| 260 | [Compliment](https://cogvivo.com/en/challenge/compliment-260) | Give someone a compliment. |
+| 261 | [Hug](https://cogvivo.com/en/challenge/hug-261) | Give someone a hug, just because. |
+| 262 | [Flower](https://cogvivo.com/en/challenge/flower-262) | Give someone a flower. |
+| 263 | [Cook for Someone](https://cogvivo.com/en/challenge/cook-for-someone-263) | Cook for someone. |
+| 264 | [Just Call](https://cogvivo.com/en/challenge/just-call-264) | Call someone, just because. |
+| 265 | [Help Someone](https://cogvivo.com/en/challenge/help-someone-265) | Help someone, just because. |
+| 266 | [Share](https://cogvivo.com/en/challenge/share-266) | Share something tasty with someone. |
+| 267 | [Make Them Laugh](https://cogvivo.com/en/challenge/make-them-laugh-267) | Make someone laugh. |
+| 268 | [Just Say Thanks](https://cogvivo.com/en/challenge/just-say-thanks-268) | Thank someone, just because. |
+| 269 | [Picnic](https://cogvivo.com/en/challenge/picnic-269) | Have a picnic. |
+| 270 | [Game Night](https://cogvivo.com/en/challenge/game-night-270) | Have a game night. |
+| 271 | [Movie Night](https://cogvivo.com/en/challenge/movie-night-271) | Have a movie night. |
+| 272 | [Sorry](https://cogvivo.com/en/challenge/sorry-272) | Say sorry to someone. |
+| 273 | [How Are You?](https://cogvivo.com/en/challenge/how-are-you-273) | Ask someone how they're really doing. |
+| 274 | [I Love You](https://cogvivo.com/en/challenge/i-love-you-274) | Say "I love you" to someone, just because. |
 
 These challenges also exist in 12 languages: see [translations/challenges](../translations/challenges/).
 

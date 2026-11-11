@@ -465,6 +465,551 @@
 		"Annen ya da babanla birlikte bir dans yap.",
 		""
 	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Başından aşağı bir kova buzlu su dök.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Kamera yanınızdan geçerken arkadaşlarınla bir hareketin ortasında donup kalın.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Önce bir kişi tek başına dans eder, sonra birden herkes çılgına döner.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Şişeyi devirmeden bir tekmeyle şişenin kapağını aç.",
+		""
+	],
+	"c170": [
+		"Flip the Switch",
+		"Işık söner, ışık yanar ve sen ile başka biri birbirinizin kıyafetlerini giymiş olursunuz.",
+		""
+	],
+	"c171": [
+		"10 Year Challenge",
+		"10 yıl önceki bir fotoğrafını şimdiki bir fotoğrafının yanına koy.",
+		""
+	],
+	"c172": [
+		"Tuvalet kâğıdıyla top sektirme",
+		"Bir tuvalet kâğıdı rulosunu ayağınla top gibi havada tut.",
+		""
+	],
+	"c173": [
+		"Planking",
+		"Evdeki en çılgın yere tahta gibi dümdüz uzan.",
+		""
+	],
+	"c174": [
+		"Whisper Challenge",
+		"Yüksek sesli müzik çalan bir kulaklık tak ve birinin sana ne dediğini tahmin et.",
+		""
+	],
+	"c175": [
+		"Mentos ve kola",
+		"Bir şişe kolanın içine Mentos at.",
+		""
+	],
+	"c176": [
+		"Hayalet fotoğraf çekimi",
+		"Başında çarşaf ve gözünde güneş gözlüğüyle bir fotoğraf çekimi yap.",
+		""
+	],
+	"c177": [
+		"Yer lav",
+		"\"Yer lav!\" diye bağır, herkes yerden kalkmak zorunda.",
+		""
+	],
+	"c178": [
+		"En ekşi şeker",
+		"Bulabildiğin en ekşi şekeri ye.",
+		""
+	],
+	"c179": [
+		"Tortilla tokadı",
+		"Ağzınız suyla doluyken taş-kâğıt-makas oynayın. Kaybeden bir tortillayla tokat yer.",
+		""
+	],
+	"c180": [
+		"Duckface",
+		"Eskilerin o abartılı ördek dudak selfiesini çek.",
+		""
+	],
+	"c181": [
+		"İpe asılı donut",
+		"İpe asılı bir donutu ellerini kullanmadan ye.",
+		""
+	],
+	"c182": [
+		"Elma kapma",
+		"Bir leğen sudan ellerini kullanmadan bir elma kap.",
+		""
+	],
+	"c183": [
+		"Brain freeze",
+		"Bir dondurmayı yiyebildiğin kadar hızlı ye.",
+		""
+	],
+	"c184": [
+		"Yumurta ruleti",
+		"Sırayla kafanızda bir yumurta kırın. Yumurtalardan biri çiğ.",
+		""
+	],
+	"c185": [
+		"Yüze pasta",
+		"Bir arkadaşının yüzüne bir tabak krem şanti bastır.",
+		""
+	],
+	"c186": [
+		"What's in the box?",
+		"Gözlerin kapalıyken kutunun içindekine dokun ve ne olduğunu tahmin et.",
+		""
+	],
+	"c187": [
+		"Su balonu savaşı",
+		"Su balonu savaşı yapın.",
+		""
+	],
+	"c188": [
+		"Çuval yarışı",
+		"Çuval yarışı yapın.",
+		""
+	],
+	"c189": [
+		"Sandalye kapmaca",
+		"Sandalye kapmaca oynayın.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Sopanın altından ne kadar alçaktan geçebilirsin?",
+		""
+	],
+	"c191": [
+		"Saklambaç",
+		"Saklambaç oynayın.",
+		""
+	],
+	"c192": [
+		"Kartopu savaşı",
+		"Kartopu savaşı yapın.",
+		""
+	],
+	"c193": [
+		"Bomba",
+		"Suya bomba gibi atla.",
+		"Sadece derin suya."
+	],
+	"c194": [
+		"Su kaydırağı",
+		"Bir su kaydırağından kay.",
+		""
+	],
+	"c195": [
+		"Pijama partisi",
+		"Bir pijama partisi yap.",
+		""
+	],
+	"c196": [
+		"Su birikintisine atla",
+		"Bir su birikintisine atla.",
+		""
+	],
+	"c197": [
+		"Balonu havada tut",
+		"Bir balonu yere değdirmeden havada tut.",
+		""
+	],
+	"c198": [
+		"Buz gibi suya dalış",
+		"Soğuk suya atla.",
+		"Asla yalnız değil ve sadece yüzmenin serbest olduğu yerde."
+	],
+	"c199": [
+		"Hız treni",
+		"Hız trenine bin.",
+		""
+	],
+	"c200": [
+		"Trambolin",
+		"Trambolinde zıpla.",
+		""
+	],
+	"c201": [
+		"Kuma gömülmek",
+		"Kendini kuma gömdür.",
+		"Başın açıkta kalsın."
+	],
+	"c202": [
+		"Top sektirme",
+		"Bir topu kaç kez havada tutabilirsin?",
+		""
+	],
+	"c203": [
+		"Sabah saçı",
+		"Uyanır uyanmaz saçının selfiesini çek.",
+		""
+	],
+	"c204": [
+		"Külotlu çorap yüzü",
+		"Başına külotlu çorap geçir ve selfie çek.",
+		""
+	],
+	"c205": [
+		"Balon saçı",
+		"Saçına balon sürt ve fotoğraf çek.",
+		""
+	],
+	"c206": [
+		"Peruk",
+		"Bir peruk tak.",
+		""
+	],
+	"c207": [
+		"En çılgın şapka",
+		"En çılgın şapkayı tak.",
+		""
+	],
+	"c208": [
+		"En tuhaf ses",
+		"Çıkarabildiğin en tuhaf sesi çıkar.",
+		""
+	],
+	"c209": [
+		"Şaşı bakış",
+		"Gözlerini şaşı yaparak selfie çek.",
+		""
+	],
+	"c210": [
+		"Bone",
+		"Bir yüzücü bonesi tak ve selfie çek.",
+		""
+	],
+	"c211": [
+		"İçeride güneş gözlüğü",
+		"İçeride güneş gözlüğü tak.",
+		""
+	],
+	"c212": [
+		"Oynar gözler",
+		"Bir yere oynar gözler yapıştır.",
+		""
+	],
+	"c213": [
+		"Sahte şeker",
+		"Birine aslında bambaşka bir şey olan bir şeker ver.",
+		""
+	],
+	"c214": [
+		"Şekerlikte tuz",
+		"Gizlice şekeri tuzla değiştir.",
+		""
+	],
+	"c215": [
+		"Tıraş köpüğü",
+		"Uyuyan birinin eline tıraş köpüğü koy ve burnunu gıdıkla.",
+		""
+	],
+	"c216": [
+		"Buz küpü",
+		"Gizlice birinin tişörtüne buz küpü at.",
+		""
+	],
+	"c217": [
+		"Görünmez",
+		"Biri görünmezmiş gibi davran.",
+		""
+	],
+	"c218": [
+		"Yanlış isim",
+		"Birine sürekli yanlış isimle seslen.",
+		""
+	],
+	"c219": [
+		"Kandırmaca",
+		"Birini doğru olmayan bir şeye inandır.",
+		""
+	],
+	"c220": [
+		"Sahte böcek",
+		"Birini sahte bir böcekle korkut.",
+		""
+	],
+	"c221": [
+		"Sahte düşürme",
+		"Pahalı bir şeyi düşürüyormuş gibi yap.",
+		""
+	],
+	"c222": [
+		"Su tabancası",
+		"Birini su tabancasıyla ıslat.",
+		""
+	],
+	"c223": [
+		"Osuruk yastığı",
+		"Bir osuruk yastığını öttür.",
+		""
+	],
+	"c224": [
+		"What the Fluff",
+		"Önüne bir battaniye tut, bırak ve saklan. Köpeğin ya da kedin ne yapıyor?",
+		""
+	],
+	"c225": [
+		"Hayvanını taklit et",
+		"Evcil hayvanını taklit et.",
+		""
+	],
+	"c226": [
+		"Hayvanınla saklambaç",
+		"Saklan ve evcil hayvanının seni aramasına izin ver.",
+		""
+	],
+	"c227": [
+		"Yemek vakti",
+		"Evcil hayvanına yemek verildiğinde onu çek.",
+		""
+	],
+	"c228": [
+		"Ayna",
+		"Evcil hayvanının aynaya bakmasına izin ver.",
+		""
+	],
+	"c229": [
+		"En büyük sakız balonu",
+		"Yapabildiğin en büyük sakız balonunu yap.",
+		""
+	],
+	"c230": [
+		"Bardağa pinpon topu",
+		"Bir pinpon topunu sektirip bardağa sok.",
+		""
+	],
+	"c231": [
+		"Hula hoop",
+		"Hula hoop'u ne kadar süre döndürebilirsin?",
+		""
+	],
+	"c232": [
+		"Kardan adam",
+		"Bir kardan adam yap.",
+		""
+	],
+	"c233": [
+		"Bozuk para yakalama",
+		"Dirseğine bir bozuk para koy ve yakala.",
+		""
+	],
+	"c234": [
+		"Parmakla ıslık",
+		"Parmaklarınla ıslık çal.",
+		""
+	],
+	"c235": [
+		"Sihirbazlık numarası",
+		"Bir sihirbazlık numarası göster.",
+		""
+	],
+	"c236": [
+		"Taş sektirme",
+		"Suyun üstünde taş sektir.",
+		""
+	],
+	"c237": [
+		"İp atlama",
+		"Kaç kez ip atlayabilirsin?",
+		""
+	],
+	"c238": [
+		"Dil şaklatma",
+		"Dilini olabildiğince yüksek sesle şaklat.",
+		""
+	],
+	"c239": [
+		"Sesi tahmin et",
+		"Biri bir ses çıkarır, sen ne olduğunu tahmin edersin.",
+		""
+	],
+	"c240": [
+		"Sırta çizim",
+		"Birinin sırtına bir şey çiz ve ne olduğunu tahmin etmesini iste.",
+		""
+	],
+	"c241": [
+		"Ben bir şey görüyorum",
+		"\"Ben bir şey görüyorum, sen göremiyorsun\" oyununu oynayın.",
+		""
+	],
+	"c242": [
+		"Fiyatı tahmin et",
+		"Bir şeyin kaç para olduğunu tahmin et.",
+		""
+	],
+	"c243": [
+		"Kim bu?",
+		"Gözlerin kapalıyken bir yüze dokun ve kimin yüzü olduğunu tahmin et.",
+		""
+	],
+	"c244": [
+		"Gün batımı",
+		"Bir gün batımının en güzel fotoğrafını çek.",
+		""
+	],
+	"c245": [
+		"Gökkuşağı",
+		"Bir gökkuşağının fotoğrafını çek.",
+		""
+	],
+	"c246": [
+		"Kar",
+		"En güzel kar fotoğrafını çek.",
+		""
+	],
+	"c247": [
+		"Yıldızlı gökyüzü",
+		"Yıldızların fotoğrafını çek.",
+		""
+	],
+	"c248": [
+		"Şimşek",
+		"Bir şimşeğin fotoğrafını çek.",
+		"Sadece içeriden."
+	],
+	"c249": [
+		"Sis",
+		"En güzel sis fotoğrafını çek.",
+		""
+	],
+	"c250": [
+		"Yansıma",
+		"Bir su birikintisindeki yansımanın fotoğrafını çek.",
+		""
+	],
+	"c251": [
+		"En güzel çiçek",
+		"En güzel çiçeğin fotoğrafını çek.",
+		""
+	],
+	"c252": [
+		"Kuş",
+		"Bir kuşun fotoğrafını çek.",
+		""
+	],
+	"c253": [
+		"Gün doğumu",
+		"Gün doğumunun fotoğrafını çek.",
+		""
+	],
+	"c254": [
+		"Kırağı",
+		"Kırağının en güzel fotoğrafını çek.",
+		""
+	],
+	"c255": [
+		"Gölge",
+		"Gölgenin fotoğrafını çek.",
+		""
+	],
+	"c256": [
+		"Havai fişek",
+		"Havai fişeklerin fotoğrafını çek.",
+		""
+	],
+	"c257": [
+		"Gece",
+		"Şehrin gece fotoğrafını çek.",
+		""
+	],
+	"c258": [
+		"Deniz",
+		"Denizin fotoğrafını çek.",
+		""
+	],
+	"c259": [
+		"Sonbahar",
+		"En güzel sonbahar fotoğrafını çek.",
+		""
+	],
+	"c260": [
+		"İltifat",
+		"Birine iltifat et.",
+		""
+	],
+	"c261": [
+		"Sarılma",
+		"Birine öylesine sarıl.",
+		""
+	],
+	"c262": [
+		"Çiçek",
+		"Birine bir çiçek ver.",
+		""
+	],
+	"c263": [
+		"Birine yemek yap",
+		"Birine yemek yap.",
+		""
+	],
+	"c264": [
+		"Öylesine ara",
+		"Birini öylesine ara.",
+		""
+	],
+	"c265": [
+		"Birine yardım et",
+		"Birine öylesine yardım et.",
+		""
+	],
+	"c266": [
+		"Paylaş",
+		"Lezzetli bir şeyi biriyle paylaş.",
+		""
+	],
+	"c267": [
+		"Güldür",
+		"Birini güldür.",
+		""
+	],
+	"c268": [
+		"Öylesine teşekkür et",
+		"Birine öylesine teşekkür et.",
+		""
+	],
+	"c269": [
+		"Piknik",
+		"Bir piknik yap.",
+		""
+	],
+	"c270": [
+		"Oyun gecesi",
+		"Bir oyun gecesi yap.",
+		""
+	],
+	"c271": [
+		"Film gecesi",
+		"Bir film gecesi yap.",
+		""
+	],
+	"c272": [
+		"Özür",
+		"Birinden özür dile.",
+		""
+	],
+	"c273": [
+		"Nasılsın?",
+		"Birine gerçekten nasıl olduğunu sor.",
+		""
+	],
+	"c274": [
+		"Seni seviyorum",
+		"Birine öylesine \"seni seviyorum\" de.",
+		""
+	],
 	"d001": [
 		"Bakışma yarışması",
 		"30 saniye boyunca gülmeden birinin gözlerinin içine bak. Gülen kaybeder.",
