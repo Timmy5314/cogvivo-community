@@ -6,10 +6,10 @@
 
 **Stop scrolling. Collect the world for real.**
 
-A free social app for real-life photo and video challenges, travel badges for 198 countries, 150 famous landmarks and monuments around the world. In 12 languages.
+A free social app for real-life photo and video challenges, travel badges for 198 countries, 150 famous landmarks and monuments around the world. In 24 languages.
 
 [![Play free at cogvivo.com](https://img.shields.io/badge/Play_free-cogvivo.com-FF3B5C?style=for-the-badge)](https://cogvivo.com)
-[![12 languages](https://img.shields.io/badge/languages-12-2EC4B6?style=for-the-badge)](translations/)
+[![24 languages](https://img.shields.io/badge/languages-24-2EC4B6?style=for-the-badge)](translations/)
 [![Translators welcome](https://img.shields.io/badge/translators-welcome-8B7CFF?style=for-the-badge)](translations/)
 
 <a href="https://timmy5314.github.io/cogvivo-community/"><img src="badges/star.png" width="64" alt="Star badge"> <img src="badges/monument-gold.png" width="64" alt="Gold monument badge"> <img src="badges/countries/japan.png" width="64" alt="Japan country badge"> <img src="badges/countries/netherlands-superbadge.png" width="64" alt="Netherlands superbadge"> <img src="badges/landmarks/eiffel-tower.png" width="64" alt="Eiffel Tower landmark badge"> <img src="badges/daily-streak-gold.png" width="64" alt="7-day streak badge"></a>
@@ -26,7 +26,7 @@ Cogvivo is a free social app where you **do** things instead of only watching th
 - **Monuments and places.** Visit a monument and add it to your collection. Add a place that is not on the map yet and it says *discovered by you*.
 - **Country badges.** Every country has its own badge and five lifelong challenges. Finish all five and it turns into a superbadge.
 - **Landmark badges.** The Eiffel Tower, the Great Wall of China, Machu Picchu and 147 more famous places each have a unique badge.
-- **Everywhere.** Free on [cogvivo.com](https://cogvivo.com), installable as an app on any phone, in 12 languages.
+- **Everywhere.** Free on [cogvivo.com](https://cogvivo.com), installable as an app on any phone, in 24 languages.
 
 ## Explore
 
@@ -36,8 +36,8 @@ Cogvivo is a free social app where you **do** things instead of only watching th
 | ⚔️ [**Duels**](challenges/duels.md) | Do the same thing as someone else and let viewers decide |
 | 🌍 [**198 countries**](challenges/countries/README.md) | Five challenges per country, by continent |
 | 🏅 [**Badge gallery**](https://timmy5314.github.io/cogvivo-community/) | [Achievements](https://timmy5314.github.io/cogvivo-community/badges/), [countries](https://timmy5314.github.io/cogvivo-community/countries/) and [landmarks](https://timmy5314.github.io/cogvivo-community/landmarks/) |
-| 🗣️ [**Translations**](translations/README.md) | Every app text in 12 languages |
-| 🛠️ [**How it is built**](HOW-IT-WORKS.md) | SvelteKit on Cloudflare Workers, Supabase, 12 languages |
+| 🗣️ [**Translations**](translations/README.md) | Every app text in 24 languages |
+| 🛠️ [**How it is built**](HOW-IT-WORKS.md) | SvelteKit on Cloudflare Workers, Supabase, 24 languages |
 
 ## Help make Cogvivo
 
