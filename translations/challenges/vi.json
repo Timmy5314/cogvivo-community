@@ -1,0 +1,1118 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Mặt lạnh với chanh",
+		"Cắn một miếng chanh và giữ vẻ mặt nghiêm túc trong 10 giây. Nhăn mặt một cái là thua.",
+		""
+	],
+	"c003": [
+		"Bạn làm được không?",
+		"Thử bốn việc này: cuộn lưỡi, nhướng một bên lông mày, ngoáy tai và chạm lưỡi vào mũi. Bạn làm được mấy việc?",
+		""
+	],
+	"c004": [
+		"Mặt emoji",
+		"Chỉ dùng khuôn mặt bắt chước năm emoji này, mỗi cái hai giây: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Quay chậm",
+		"Làm một việc thật bình thường, như chải tóc hay rót nước vào ly, trong 20 giây với tốc độ siêu chậm, cả nét mặt nữa.",
+		""
+	],
+	"c008": [
+		"Đoán câu nói",
+		"Ai đó nói một câu không có tiếng. Bạn đoán xem họ đã nói gì.",
+		""
+	],
+	"c010": [
+		"Tua ngược",
+		"Quay một việc theo chiều ngược lại, như cởi áo khoác, rồi chiếu ngược để trông gần như bình thường. Càng thật càng hay.",
+		""
+	],
+	"c014": [
+		"Chuyện rối tất",
+		"Làm rối từ những chiếc tất và kể một câu chuyện bằng chúng.",
+		""
+	],
+	"c016": [
+		"Thú cưng nghĩ gì?",
+		"Quay thú cưng, thú nhồi bông hay chậu cây của bạn và lồng tiếng 20 giây cho những gì nó đang nghĩ.",
+		""
+	],
+	"c018": [
+		"Bình luận thể thao trực tiếp",
+		"Bình luận thể thao trực tiếp trong lúc ai đó làm một việc hằng ngày.",
+		""
+	],
+	"c027": [
+		"Đồ vật có mặt",
+		"Chụp ảnh một đồ vật trông như có khuôn mặt.",
+		""
+	],
+	"c028": [
+		"Cầm mặt trăng",
+		"Chụp một tấm ảnh bạn cầm mặt trăng giữa hai ngón tay.",
+		""
+	],
+	"c029": [
+		"Đoán xem là gì",
+		"Chụp một thứ trong nhà thật gần để không ai nhận ra, rồi để người xem đoán.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Dùng ít nhất 30 tấm ảnh để làm một clip stop motion, trong đó đồ vật trên bàn tự sống dậy.",
+		""
+	],
+	"c039": [
+		"Đoán phim",
+		"Diễn một bộ phim. Người xem đoán đó là phim nào.",
+		""
+	],
+	"c046": [
+		"Selfie xấu nhất",
+		"Gửi tấm selfie xấu nhất của bạn cho một người bạn quen.",
+		""
+	],
+	"c047": [
+		"Hát một bài",
+		"Hát một bài hát.",
+		""
+	],
+	"c049": [
+		"Đồ của người khác",
+		"Mặc một bộ đồ của người khác.",
+		""
+	],
+	"c050": [
+		"Đoán xem tôi là ai",
+		"Bắt chước ba người bạn quen, như cách họ cười hay nói chuyện, và để họ đoán ai là ai.",
+		"Hãy vui vẻ, đừng ác ý."
+	],
+	"c051": [
+		"Vẫy chào người lạ",
+		"Vẫy tay chào một người lạ và xem họ có vẫy lại không.",
+		""
+	],
+	"c061": [
+		"Mẩu giấy ngọt ngào",
+		"Viết một mẩu giấy ngọt ngào cho ai đó.",
+		""
+	],
+	"c062": [
+		"Tin nhắn cảm ơn",
+		"Gửi tin nhắn cảm ơn ai đó. Một chạm là chia sẻ qua WhatsApp.",
+		""
+	],
+	"c063": [
+		"Lâu rồi không nói chuyện",
+		"Nhắn tin cho một người đã lâu bạn không nói chuyện. Một chạm là chia sẻ qua WhatsApp.",
+		""
+	],
+	"c064": [
+		"Việc nhà bí mật",
+		"Lén làm một việc nhà mà người khác trong nhà thường làm, và quay lại phản ứng của họ khi phát hiện ra.",
+		""
+	],
+	"c077": [
+		"Thìa trên mũi",
+		"Treo một chiếc thìa trên đầu mũi. Nó giữ được bao nhiêu giây?",
+		""
+	],
+	"c080": [
+		"Tung chai",
+		"Tung một chai nhựa có chút nước để nó đáp xuống đứng thẳng. Bạn làm được mấy lần liên tiếp?",
+		""
+	],
+	"c094": [
+		"Gương soi",
+		"Trong 30 giây, bắt chước mọi động tác của người đối diện như một chiếc gương, trong khi họ cố làm khó hơn.",
+		""
+	],
+	"c098": [
+		"Nhảy như không ai nhìn",
+		"Nhảy như thể không ai đang nhìn.",
+		""
+	],
+	"c099": [
+		"Nhảy cùng bạn bè",
+		"Nhảy một điệu cùng bạn bè.",
+		""
+	],
+	"c101": [
+		"Selfie hài nhất",
+		"Chụp tấm selfie hài hước nhất có thể.",
+		""
+	],
+	"c102": [
+		"Nhại người nổi tiếng",
+		"Nhại một người nổi tiếng.",
+		""
+	],
+	"c103": [
+		"Ảnh thời bé",
+		"Chia sẻ một tấm ảnh hồi bé của bạn.",
+		""
+	],
+	"c104": [
+		"Cằm đôi",
+		"Chụp selfie với cái cằm đôi to nhất bạn có thể làm.",
+		""
+	],
+	"c105": [
+		"Selfie lỗ mũi",
+		"Chụp selfie từ phía dưới, thẳng vào lỗ mũi.",
+		""
+	],
+	"c106": [
+		"Mặt trên cửa sổ",
+		"Áp mặt phẳng vào cửa sổ và nhờ ai đó chụp ảnh từ phía bên kia.",
+		""
+	],
+	"c107": [
+		"Mặt dán băng keo",
+		"Dán băng keo lên mũi và má rồi chụp selfie.",
+		""
+	],
+	"c108": [
+		"Ria mép ngón tay",
+		"Vẽ một bộ ria lên ngón tay và đặt dưới mũi.",
+		""
+	],
+	"c109": [
+		"Râu kem tươi",
+		"Xịt kem tươi lên cằm làm râu và chụp selfie.",
+		""
+	],
+	"c110": [
+		"Selfie gia đình tếu táo",
+		"Chụp selfie cùng gia đình, ai cũng làm mặt hài.",
+		""
+	],
+	"c111": [
+		"Ảnh xấu hổ",
+		"Khoe tấm ảnh xấu hổ nhất của bạn ngày xưa.",
+		""
+	],
+	"c112": [
+		"Tái hiện ảnh em bé",
+		"Tái hiện tấm ảnh hồi bé của bạn giống nhất có thể.",
+		""
+	],
+	"c113": [
+		"Ảnh thú cưng",
+		"Chụp tấm ảnh hài nhất của thú cưng.",
+		""
+	],
+	"c114": [
+		"Tư thế ngủ kỳ quặc",
+		"Chụp thú cưng ở tư thế ngủ kỳ quặc nhất.",
+		""
+	],
+	"c115": [
+		"Selfie với thú cưng",
+		"Chụp selfie cùng thú cưng.",
+		""
+	],
+	"c116": [
+		"Chào mừng về nhà",
+		"Quay thú cưng khi bạn về đến nhà.",
+		""
+	],
+	"c117": [
+		"Trò của thú cưng",
+		"Khoe trò mà thú cưng của bạn làm được.",
+		""
+	],
+	"c118": [
+		"Đồ chơi mới",
+		"Tặng thú cưng một món đồ chơi mới và quay lại những gì nó làm.",
+		""
+	],
+	"c119": [
+		"Hù ai đó",
+		"Trốn đi rồi hù một người bạn hoặc người ở cùng nhà. Không phải lúc họ đang ở cầu thang.",
+		""
+	],
+	"c120": [
+		"Siêu trộm",
+		"Lén lấy một món đồ của bạn mà họ không để ý, rồi trả lại.",
+		""
+	],
+	"c121": [
+		"Hình xăm giả",
+		"Vẽ một hình xăm giả và làm ai đó tin là thật.",
+		""
+	],
+	"c122": [
+		"Tại sao?",
+		"Đáp lại mọi điều ai đó nói bằng \"tại sao?\" và quay lại.",
+		""
+	],
+	"c123": [
+		"Sinh nhật giả",
+		"Khi đi ăn ngoài, nói với nhà hàng hôm nay là sinh nhật ai đó dù không phải.",
+		""
+	],
+	"c124": [
+		"Màn hình nứt",
+		"Đặt ảnh một màn hình bị nứt làm hình nền điện thoại của một người trong nhà.",
+		""
+	],
+	"c125": [
+		"Mẩu giấy sau lưng",
+		"Lén dán một mẩu giấy hài hước lên lưng một người bạn. Họ đi loanh quanh với nó được bao lâu?",
+		""
+	],
+	"c126": [
+		"Chuột hỏng",
+		"Dán một mẩu giấy dưới con chuột máy tính của ai đó để nó không chạy nữa.",
+		""
+	],
+	"c127": [
+		"Khung ảnh",
+		"Đặt ảnh của bạn vào một khung ảnh trong nhà và chờ đến khi có người nhận ra.",
+		""
+	],
+	"c128": [
+		"Con vẹt",
+		"Trong một phút, lặp lại mọi điều anh, chị, em hoặc bạn của bạn nói.",
+		""
+	],
+	"c129": [
+		"Đoán bài hát",
+		"Hát nhép một đoạn bài hát nổi tiếng không có tiếng. Người xem đoán đó là bài nào.",
+		""
+	],
+	"c130": [
+		"Thử vị bịt mắt",
+		"Nhắm mắt nếm món ai đó đưa cho và đoán đó là gì.",
+		"Hãy nói trước nếu bạn bị dị ứng với thứ gì."
+	],
+	"c131": [
+		"Tôi là ai?",
+		"Dán một mẩu giấy ghi tên người nổi tiếng lên trán và đặt câu hỏi để đoán mình là ai.",
+		""
+	],
+	"c132": [
+		"Vẽ nhanh",
+		"Vẽ một thứ trong 10 giây. Người xem đoán đó là gì.",
+		""
+	],
+	"c133": [
+		"Bạn trang điểm cho bạn",
+		"Để một người bạn trang điểm cho bạn.",
+		""
+	],
+	"c134": [
+		"Ngậm đầy nước",
+		"Ngậm một ngụm nước trong miệng trong khi ai đó kể chuyện cười. Phun ra là bị loại.",
+		""
+	],
+	"c135": [
+		"Lè lưỡi",
+		"Đọc to một câu trong khi lè lưỡi ra.",
+		""
+	],
+	"c136": [
+		"Tiếng cười điên nhất",
+		"Bật ra tiếng cười điên nhất của bạn.",
+		""
+	],
+	"c137": [
+		"Mặt bằng đồ ăn",
+		"Xếp đồ ăn trên đĩa thành một khuôn mặt.",
+		""
+	],
+	"c138": [
+		"Kiểu tóc điên",
+		"Nhờ ai đó làm cho bạn kiểu tóc điên nhất.",
+		""
+	],
+	"c139": [
+		"Món ăn yêu thích",
+		"Chia sẻ ảnh món ăn yêu thích của bạn.",
+		""
+	],
+	"c140": [
+		"Đồ uống buổi sáng",
+		"Chia sẻ ảnh đồ uống buổi sáng của bạn.",
+		""
+	],
+	"c141": [
+		"Món bạn ghét",
+		"Chia sẻ ảnh một món bạn không thích ăn.",
+		""
+	],
+	"c142": [
+		"Ngon bổ rẻ",
+		"Chụp ảnh một món vừa rẻ vừa ngon.",
+		""
+	],
+	"c143": [
+		"Ảnh thiên nhiên đẹp nhất",
+		"Chụp tấm ảnh thiên nhiên đẹp nhất của bạn.",
+		""
+	],
+	"c144": [
+		"Ảnh mưa đẹp nhất",
+		"Chụp tấm ảnh đẹp nhất về cơn mưa.",
+		""
+	],
+	"c145": [
+		"Ảnh mây đẹp nhất",
+		"Chụp tấm ảnh đẹp nhất về những đám mây.",
+		""
+	],
+	"c146": [
+		"Thứ hài trên phố",
+		"Chụp ảnh một thứ buồn cười bạn thấy trên đường phố.",
+		""
+	],
+	"c147": [
+		"Món lạ nhất",
+		"Chụp ảnh món ăn lạ nhất của bạn.",
+		""
+	],
+	"c148": [
+		"Kẹo yêu thích",
+		"Chụp ảnh loại kẹo yêu thích của bạn.",
+		""
+	],
+	"c149": [
+		"Đồ xấu nhất của bố mẹ",
+		"Chụp ảnh bộ đồ xấu nhất của bố mẹ bạn.",
+		""
+	],
+	"c150": [
+		"Hóa trang Halloween",
+		"Khoe bộ hóa trang Halloween đẹp nhất của bạn.",
+		""
+	],
+	"c151": [
+		"Hóa trang tiệc",
+		"Khoe bộ hóa trang tiệc đẹp nhất của bạn.",
+		""
+	],
+	"c152": [
+		"Cặp lệch",
+		"Mang hai chiếc giày hoặc hai chiếc tất khác nhau.",
+		""
+	],
+	"c153": [
+		"Bắt kẹo",
+		"Tung một viên kẹo lên và bắt bằng miệng.",
+		"Hãy dùng viên kẹo nhỏ và mềm."
+	],
+	"c154": [
+		"Ném giấy vào sọt",
+		"Ném một cục giấy vào thùng rác từ phía bên kia phòng.",
+		""
+	],
+	"c155": [
+		"Ảnh hài nhất",
+		"Chia sẻ tấm ảnh hài nhất của bạn.",
+		""
+	],
+	"c156": [
+		"Bài học tiếng lóng",
+		"Dạy bố, mẹ, ông hoặc bà một từ lóng.",
+		""
+	],
+	"c157": [
+		"Quà vu vơ",
+		"Mua tặng ai đó một món quà nhỏ, không vì lý do gì.",
+		""
+	],
+	"c158": [
+		"Tin nhắn toàn emoji",
+		"Gửi bố mẹ một tin nhắn chỉ có emoji.",
+		""
+	],
+	"c159": [
+		"Bữa sáng trên giường",
+		"Làm bữa sáng trên giường cho một người trong nhà.",
+		""
+	],
+	"c160": [
+		"Mang quà vặt",
+		"Mang đồ ăn vặt cho mọi người ở chỗ làm hoặc ở trường.",
+		""
+	],
+	"c161": [
+		"Tổ chức tiệc",
+		"Tổ chức một bữa tiệc.",
+		""
+	],
+	"c162": [
+		"Khao một vòng",
+		"Khao bạn bè một vòng đồ uống.",
+		""
+	],
+	"c163": [
+		"Kể chuyện cười",
+		"Kể một câu chuyện cười.",
+		""
+	],
+	"c164": [
+		"Đánh nhau bằng gối",
+		"Đánh nhau bằng gối với anh, chị, em hoặc bạn của bạn.",
+		""
+	],
+	"c165": [
+		"Nhảy cùng bố mẹ",
+		"Nhảy một điệu cùng bố hoặc mẹ.",
+		""
+	],
+	"c166": [
+		"Thử thách xô nước đá",
+		"Dội một xô nước đá lên đầu.",
+		""
+	],
+	"c167": [
+		"Thử thách tượng sáp",
+		"Đứng yên giữa động tác cùng bạn bè trong khi máy quay đi ngang qua.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Đầu tiên một người nhảy, rồi bỗng nhiên cả đám quậy tưng bừng.",
+		""
+	],
+	"c169": [
+		"Thử thách nắp chai",
+		"Đá văng nắp chai mà không làm đổ cái chai.",
+		""
+	],
+	"c170": [
+		"Đổi đồ trong chớp mắt",
+		"Tắt đèn, bật đèn, và bạn với người kia đang mặc đồ của nhau.",
+		""
+	],
+	"c171": [
+		"Thử thách 10 năm",
+		"Đặt ảnh cách đây 10 năm cạnh ảnh bây giờ.",
+		""
+	],
+	"c172": [
+		"Tâng cuộn giấy vệ sinh",
+		"Tâng một cuộn giấy vệ sinh bằng chân, như tâng bóng đá.",
+		""
+	],
+	"c173": [
+		"Nằm thẳng như tấm ván",
+		"Nằm cứng đơ như tấm ván ở chỗ điên nhất trong nhà.",
+		""
+	],
+	"c174": [
+		"Thử thách thì thầm",
+		"Đeo tai nghe bật nhạc to và đoán xem ai đó đang nói gì với bạn.",
+		""
+	],
+	"c175": [
+		"Mentos và cola",
+		"Thả kẹo Mentos vào chai cola.",
+		""
+	],
+	"c176": [
+		"Chụp ảnh ma",
+		"Chụp một bộ ảnh với tấm ga trùm đầu và đeo kính râm.",
+		""
+	],
+	"c177": [
+		"Sàn nhà là dung nham",
+		"Hét lên \"sàn nhà là dung nham!\" và mọi người phải rời khỏi sàn.",
+		""
+	],
+	"c178": [
+		"Kẹo chua nhất",
+		"Ăn loại kẹo chua nhất bạn tìm được.",
+		""
+	],
+	"c179": [
+		"Tát bằng bánh tortilla",
+		"Chơi oẳn tù tì khi miệng đầy nước. Người thua bị tát bằng bánh tortilla.",
+		""
+	],
+	"c180": [
+		"Mặt vịt",
+		"Chụp lại tấm selfie môi vịt quá đà ngày xưa.",
+		""
+	],
+	"c181": [
+		"Bánh donut treo dây",
+		"Ăn một chiếc bánh donut treo trên dây mà không dùng tay.",
+		""
+	],
+	"c182": [
+		"Táo trong chậu",
+		"Ngoạm một quả táo trong chậu nước mà không dùng tay.",
+		""
+	],
+	"c183": [
+		"Đau buốt óc",
+		"Ăn kem nhanh nhất có thể.",
+		""
+	],
+	"c184": [
+		"Trứng may rủi",
+		"Lần lượt đập một quả trứng lên đầu. Có một quả là trứng sống.",
+		""
+	],
+	"c185": [
+		"Kem vào mặt",
+		"Úp một đĩa kem tươi vào mặt một người bạn.",
+		""
+	],
+	"c186": [
+		"Trong hộp có gì?",
+		"Nhắm mắt sờ xem trong hộp có gì và đoán đó là gì.",
+		""
+	],
+	"c187": [
+		"Đánh nhau bằng bóng nước",
+		"Chơi trận đánh nhau bằng bóng nước.",
+		""
+	],
+	"c188": [
+		"Nhảy bao bố",
+		"Chơi nhảy bao bố.",
+		""
+	],
+	"c189": [
+		"Ghế âm nhạc",
+		"Chơi trò ghế âm nhạc.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Bạn có thể chui qua thanh thấp đến đâu?",
+		""
+	],
+	"c191": [
+		"Trốn tìm",
+		"Chơi trốn tìm.",
+		""
+	],
+	"c192": [
+		"Ném tuyết",
+		"Chơi trận ném tuyết.",
+		""
+	],
+	"c193": [
+		"Nhảy bom",
+		"Nhảy bom xuống nước.",
+		"Chỉ ở chỗ nước sâu."
+	],
+	"c194": [
+		"Cầu trượt nước",
+		"Trượt cầu trượt nước.",
+		""
+	],
+	"c195": [
+		"Ngủ lại nhà bạn",
+		"Tổ chức một đêm ngủ lại cùng bạn bè.",
+		""
+	],
+	"c196": [
+		"Nhảy vũng nước",
+		"Nhảy vào vũng nước.",
+		""
+	],
+	"c197": [
+		"Giữ bóng bay",
+		"Giữ một quả bóng bay trên không mà không cho chạm đất.",
+		""
+	],
+	"c198": [
+		"Nhảy xuống nước lạnh",
+		"Nhảy xuống nước lạnh.",
+		"Không bao giờ đi một mình, và chỉ ở nơi được phép bơi."
+	],
+	"c199": [
+		"Tàu lượn siêu tốc",
+		"Đi tàu lượn siêu tốc.",
+		""
+	],
+	"c200": [
+		"Nhảy bạt lò xo",
+		"Nhảy trên bạt lò xo.",
+		""
+	],
+	"c201": [
+		"Chôn trong cát",
+		"Để người ta chôn bạn trong cát.",
+		"Giữ cho đầu ở ngoài."
+	],
+	"c202": [
+		"Tâng bóng",
+		"Bạn tâng bóng được bao nhiêu lần?",
+		""
+	],
+	"c203": [
+		"Tóc buổi sáng",
+		"Chụp selfie mái tóc của bạn ngay khi vừa thức dậy.",
+		""
+	],
+	"c204": [
+		"Mặt tất quần",
+		"Kéo một chiếc quần tất trùm lên đầu và chụp selfie.",
+		""
+	],
+	"c205": [
+		"Tóc bóng bay",
+		"Chà bóng bay lên tóc và chụp ảnh.",
+		""
+	],
+	"c206": [
+		"Tóc giả",
+		"Đội một bộ tóc giả.",
+		""
+	],
+	"c207": [
+		"Chiếc mũ điên nhất",
+		"Đội chiếc mũ điên nhất.",
+		""
+	],
+	"c208": [
+		"Âm thanh kỳ quặc nhất",
+		"Tạo ra âm thanh kỳ quặc nhất có thể.",
+		""
+	],
+	"c209": [
+		"Mắt lé",
+		"Chụp selfie khi làm mắt lé.",
+		""
+	],
+	"c210": [
+		"Mũ bơi",
+		"Đội mũ bơi và chụp selfie.",
+		""
+	],
+	"c211": [
+		"Kính râm trong nhà",
+		"Đeo kính râm trong nhà.",
+		""
+	],
+	"c212": [
+		"Mắt tròn xoe",
+		"Dán đôi mắt nhựa lên một thứ gì đó.",
+		""
+	],
+	"c213": [
+		"Kẹo giả",
+		"Đưa cho ai đó một viên kẹo mà thực ra là thứ hoàn toàn khác.",
+		""
+	],
+	"c214": [
+		"Muối trong hũ đường",
+		"Lén đổi đường thành muối.",
+		""
+	],
+	"c215": [
+		"Bọt cạo râu",
+		"Bôi bọt cạo râu lên tay người đang ngủ rồi cù vào mũi họ.",
+		""
+	],
+	"c216": [
+		"Cục đá",
+		"Lén thả một cục đá vào trong áo ai đó.",
+		""
+	],
+	"c217": [
+		"Tàng hình",
+		"Giả vờ như ai đó vô hình.",
+		""
+	],
+	"c218": [
+		"Gọi sai tên",
+		"Cứ gọi ai đó bằng tên sai.",
+		""
+	],
+	"c219": [
+		"Làm họ tin",
+		"Làm ai đó tin một điều không có thật.",
+		""
+	],
+	"c220": [
+		"Con bọ giả",
+		"Hù ai đó bằng một con bọ giả.",
+		""
+	],
+	"c221": [
+		"Làm rơi giả",
+		"Giả vờ làm rơi một món đồ đắt tiền.",
+		""
+	],
+	"c222": [
+		"Súng nước",
+		"Xịt ai đó bằng súng nước.",
+		""
+	],
+	"c223": [
+		"Gối đánh rắm",
+		"Bấm gối đánh rắm.",
+		""
+	],
+	"c224": [
+		"Tấm chăn bất ngờ",
+		"Giơ tấm chăn lên, thả xuống rồi trốn đi. Chó hay mèo của bạn sẽ làm gì?",
+		""
+	],
+	"c225": [
+		"Bắt chước thú cưng",
+		"Bắt chước thú cưng của bạn.",
+		""
+	],
+	"c226": [
+		"Trốn tìm với thú cưng",
+		"Trốn đi và để thú cưng tìm bạn.",
+		""
+	],
+	"c227": [
+		"Giờ ăn",
+		"Quay thú cưng khi nó được cho ăn.",
+		""
+	],
+	"c228": [
+		"Gương",
+		"Cho thú cưng soi gương.",
+		""
+	],
+	"c229": [
+		"Bong bóng to nhất",
+		"Thổi bong bóng kẹo cao su to nhất có thể.",
+		""
+	],
+	"c230": [
+		"Bóng bàn vào cốc",
+		"Nảy một quả bóng bàn vào cốc.",
+		""
+	],
+	"c231": [
+		"Vòng lắc",
+		"Bạn lắc vòng được bao lâu?",
+		""
+	],
+	"c232": [
+		"Người tuyết",
+		"Làm một người tuyết.",
+		""
+	],
+	"c233": [
+		"Bắt xu bằng khuỷu tay",
+		"Đặt một đồng xu lên khuỷu tay rồi bắt lấy.",
+		""
+	],
+	"c234": [
+		"Huýt sáo bằng ngón tay",
+		"Huýt sáo bằng ngón tay.",
+		""
+	],
+	"c235": [
+		"Ảo thuật",
+		"Biểu diễn một trò ảo thuật.",
+		""
+	],
+	"c236": [
+		"Ném thia lia",
+		"Ném một viên đá thia lia trên mặt nước.",
+		""
+	],
+	"c237": [
+		"Nhảy dây",
+		"Bạn nhảy dây được bao nhiêu cái?",
+		""
+	],
+	"c238": [
+		"Tặc lưỡi",
+		"Tặc lưỡi to hết mức có thể.",
+		""
+	],
+	"c239": [
+		"Đoán âm thanh",
+		"Ai đó tạo ra một âm thanh, bạn đoán đó là gì.",
+		""
+	],
+	"c240": [
+		"Vẽ trên lưng",
+		"Vẽ một thứ lên lưng ai đó và để họ đoán đó là gì.",
+		""
+	],
+	"c241": [
+		"Tôi nhìn thấy",
+		"Chơi trò \"tôi nhìn thấy một thứ bằng đôi mắt nhỏ của mình\".",
+		""
+	],
+	"c242": [
+		"Đoán giá",
+		"Đoán xem một món đồ giá bao nhiêu.",
+		""
+	],
+	"c243": [
+		"Ai đây?",
+		"Nhắm mắt sờ xem đó là mặt của ai.",
+		""
+	],
+	"c244": [
+		"Hoàng hôn",
+		"Chụp tấm ảnh hoàng hôn đẹp nhất.",
+		""
+	],
+	"c245": [
+		"Cầu vồng",
+		"Chụp ảnh một chiếc cầu vồng.",
+		""
+	],
+	"c246": [
+		"Tuyết",
+		"Chụp tấm ảnh tuyết đẹp nhất.",
+		""
+	],
+	"c247": [
+		"Bầu trời sao",
+		"Chụp ảnh các vì sao.",
+		""
+	],
+	"c248": [
+		"Tia chớp",
+		"Chụp ảnh tia chớp.",
+		"Chỉ chụp từ trong nhà."
+	],
+	"c249": [
+		"Sương mù",
+		"Chụp tấm ảnh sương mù đẹp nhất.",
+		""
+	],
+	"c250": [
+		"Bóng phản chiếu",
+		"Chụp ảnh hình phản chiếu trong vũng nước.",
+		""
+	],
+	"c251": [
+		"Bông hoa đẹp nhất",
+		"Chụp ảnh bông hoa đẹp nhất.",
+		""
+	],
+	"c252": [
+		"Chim",
+		"Chụp ảnh một chú chim.",
+		""
+	],
+	"c253": [
+		"Bình minh",
+		"Chụp ảnh bình minh.",
+		""
+	],
+	"c254": [
+		"Sương giá",
+		"Chụp tấm ảnh sương giá đẹp nhất.",
+		""
+	],
+	"c255": [
+		"Cái bóng",
+		"Chụp ảnh cái bóng của bạn.",
+		""
+	],
+	"c256": [
+		"Pháo hoa",
+		"Chụp ảnh pháo hoa.",
+		""
+	],
+	"c257": [
+		"Về đêm",
+		"Chụp ảnh thành phố về đêm.",
+		""
+	],
+	"c258": [
+		"Biển",
+		"Chụp ảnh biển.",
+		""
+	],
+	"c259": [
+		"Mùa thu",
+		"Chụp tấm ảnh mùa thu đẹp nhất.",
+		""
+	],
+	"c260": [
+		"Lời khen",
+		"Khen ai đó một câu.",
+		""
+	],
+	"c261": [
+		"Ôm",
+		"Ôm ai đó, không vì lý do gì.",
+		""
+	],
+	"c262": [
+		"Bông hoa",
+		"Tặng ai đó một bông hoa.",
+		""
+	],
+	"c263": [
+		"Nấu ăn cho ai đó",
+		"Nấu ăn cho ai đó.",
+		""
+	],
+	"c264": [
+		"Gọi chơi thôi",
+		"Gọi cho ai đó, không vì lý do gì.",
+		""
+	],
+	"c265": [
+		"Giúp ai đó",
+		"Giúp ai đó, không vì lý do gì.",
+		""
+	],
+	"c266": [
+		"Chia sẻ",
+		"Chia sẻ món gì đó ngon với ai đó.",
+		""
+	],
+	"c267": [
+		"Làm họ cười",
+		"Làm ai đó bật cười.",
+		""
+	],
+	"c268": [
+		"Chỉ nói cảm ơn",
+		"Cảm ơn ai đó, không vì lý do gì.",
+		""
+	],
+	"c269": [
+		"Dã ngoại",
+		"Đi dã ngoại.",
+		""
+	],
+	"c270": [
+		"Đêm chơi game",
+		"Tổ chức một đêm chơi game.",
+		""
+	],
+	"c271": [
+		"Đêm xem phim",
+		"Tổ chức một đêm xem phim.",
+		""
+	],
+	"c272": [
+		"Xin lỗi",
+		"Nói lời xin lỗi với ai đó.",
+		""
+	],
+	"c273": [
+		"Bạn khỏe không?",
+		"Hỏi xem ai đó thật sự đang thế nào.",
+		""
+	],
+	"c274": [
+		"Nói lời yêu thương",
+		"Nói \"tôi yêu bạn\" với ai đó, không vì lý do gì.",
+		""
+	],
+	"d001": [
+		"Thi nhìn nhau",
+		"Nhìn thẳng vào mắt ai đó trong 30 giây mà không cười. Ai cười là thua.",
+		""
+	],
+	"d002": [
+		"Giữ mặt nghiêm",
+		"Giữ vẻ nghiêm túc trong 30 giây mà không cười.",
+		""
+	],
+	"d003": [
+		"Nhìn giận dữ",
+		"Nhìn ai đó bằng ánh mắt thật giận dữ mà không cười.",
+		""
+	],
+	"d004": [
+		"Mắt cún con",
+		"Nhìn ai đó bằng ánh mắt thật buồn mà không cười.",
+		""
+	],
+	"d005": [
+		"Bắt chước emoji",
+		"Cả hai nhận cùng một emoji và bắt chước nó.",
+		""
+	],
+	"d006": [
+		"Bước nhảy điên nhất",
+		"Trình diễn bước nhảy điên nhất của bạn trong 10 giây.",
+		""
+	],
+	"d007": [
+		"Đoán con vật",
+		"Diễn một con vật không có tiếng. Ai rõ nhất thì thắng.",
+		""
+	],
+	"d008": [
+		"Guitar không khí",
+		"Chơi guitar không khí như một ngôi sao nhạc rock. Ai chơi hay nhất thì thắng.",
+		""
+	],
+	"d009": [
+		"Hát lại",
+		"Người đi trước hát một đoạn bài hát. Người kia hát lại.",
+		""
+	],
+	"d010": [
+		"Oẳn tù tì",
+		"Ra búa, bao hoặc kéo và đưa ra. Ai thắng thì thắng trận đối đầu.",
+		""
+	],
+	"d011": [
+		"Chỉ có hoặc không",
+		"Trong một phút, bạn chỉ được nói \"có\" hoặc \"không\" trong khi ai đó đặt câu hỏi cho bạn.",
+		""
+	],
+	"d012": [
+		"Đoán từ",
+		"Người đi trước ngậm một cây bút giữa hai hàm răng và nói một từ dễ. Người kia đoán từ đó.",
+		""
+	],
+	"d014": [
+		"Tiếng cười điên nhất",
+		"Bật ra tiếng cười điên nhất của bạn. Tiếng cười điên nhất thắng.",
+		""
+	],
+	"d015": [
+		"Giọng ngớ ngẩn nhất",
+		"Nói \"tôi đói\" bằng giọng ngớ ngẩn nhất của bạn.",
+		""
+	],
+	"d016": [
+		"Chuyện cười hay nhất",
+		"Kể câu chuyện cười hài nhất của bạn. Ai hài nhất thì thắng.",
+		""
+	],
+	"d017": [
+		"Lý do hay nhất",
+		"Bạn đến muộn. Hãy nghĩ ra lý do điên nhất.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatbox trong 10 giây. Ai beatbox hay nhất thì thắng.",
+		""
+	],
+	"d019": [
+		"Giày đẹp và giày xấu",
+		"Chụp một tấm ảnh đôi giày đẹp nhất và xấu nhất của bạn cạnh nhau: đẹp bên trái, xấu bên phải.",
+		""
+	],
+	"d020": [
+		"Tất điên nhất",
+		"Chụp ảnh đôi tất kỳ quặc nhất của bạn, đang đi trên chân.",
+		""
+	],
+	"d022": [
+		"Món đồ xấu nhất",
+		"Mặc món đồ xấu nhất của bạn và chụp selfie.",
+		""
+	],
+	"d025": [
+		"Tóc điên một phút",
+		"Làm kiểu tóc điên nhất của bạn trong 1 phút rồi chụp selfie.",
+		"Không cắt tóc: chỉ dùng tay, nước hoặc lược."
+	]
+}

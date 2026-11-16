@@ -1,0 +1,1118 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Fața de poker cu lămâie",
+		"Mușcă dintr-o felie de lămâie și păstrează o față serioasă 10 secunde. O strâmbătură și ai pierdut.",
+		""
+	],
+	"c003": [
+		"Tu poți asta?",
+		"Încearcă aceste patru: rulează limba, ridică o sprânceană, mișcă urechile și atinge-ți nasul cu limba. Câte din cele patru poți?",
+		""
+	],
+	"c004": [
+		"Fețe emoji",
+		"Imită aceste cinci emoji doar cu fața, câte două secunde fiecare: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Reluare lentă",
+		"Fă ceva cât se poate de obișnuit, ca pieptănatul sau turnarea unui pahar, în reluare extrem de lentă timp de 20 de secunde, inclusiv cu fața.",
+		""
+	],
+	"c008": [
+		"Ghicește propoziția",
+		"Cineva spune o propoziție fără sunet. Tu ghicești ce a spus.",
+		""
+	],
+	"c010": [
+		"Invers",
+		"Filmează ceva invers, de exemplu cum îți scoți haina, și redă-l înapoi ca să arate aproape normal. Cu cât pare mai real, cu atât mai bine.",
+		""
+	],
+	"c014": [
+		"Poveste cu păpuși din șosete",
+		"Fă păpuși din șosete și spune o poveste cu ele.",
+		""
+	],
+	"c016": [
+		"Ce gândește animalul tău?",
+		"Filmează-ți animalul de companie, un animal de pluș sau o plantă de apartament și spune în 20 de secunde ce i se învârte prin cap.",
+		""
+	],
+	"c018": [
+		"Comentariu sportiv live",
+		"Fă un comentariu sportiv live în timp ce cineva face ceva de zi cu zi.",
+		""
+	],
+	"c027": [
+		"Obiect cu față",
+		"Fotografiază un obiect care pare să aibă o față.",
+		""
+	],
+	"c028": [
+		"Ține luna",
+		"Fă o poză în care ții luna între două degete.",
+		""
+	],
+	"c029": [
+		"Ghicește ce e",
+		"Fotografiază ceva din casă atât de de aproape încât nimeni să nu-și dea seama ce este, și lasă spectatorii să ghicească.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Folosește cel puțin 30 de fotografii ca să faci un clip stop motion în care lucrurile de pe masa ta prind viață singure.",
+		""
+	],
+	"c039": [
+		"Ghicește filmul",
+		"Mimează un film. Spectatorii ghicesc ce film este.",
+		""
+	],
+	"c046": [
+		"Cel mai urât selfie",
+		"Trimite cel mai urât selfie al tău cuiva pe care îl cunoști.",
+		""
+	],
+	"c047": [
+		"Cântă o melodie",
+		"Cântă o melodie.",
+		""
+	],
+	"c049": [
+		"Hainele altcuiva",
+		"Poartă o ținută care aparține altcuiva.",
+		""
+	],
+	"c050": [
+		"Ghicește cine sunt",
+		"Imită trei oameni pe care îi cunoști, de exemplu cum râd sau cum vorbesc, și lasă-i să ghicească cine e cine.",
+		"Fă-o cu blândețe, nu cu răutate."
+	],
+	"c051": [
+		"Salută un necunoscut",
+		"Fă cu mâna unui necunoscut și vezi dacă îți răspunde.",
+		""
+	],
+	"c061": [
+		"Bilețel dulce",
+		"Scrie-i cuiva un bilețel dulce.",
+		""
+	],
+	"c062": [
+		"Mesaj de mulțumire",
+		"Trimite cuiva un mesaj ca să-i mulțumești. Cu o atingere îl partajezi pe WhatsApp.",
+		""
+	],
+	"c063": [
+		"Mult timp fără veste",
+		"Trimite un mesaj cuiva cu care nu ai mai vorbit de mult timp. Cu o atingere îl partajezi pe WhatsApp.",
+		""
+	],
+	"c064": [
+		"Treabă pe ascuns",
+		"Fă pe ascuns o treabă pe care o face de obicei altcineva din casă și filmează-i reacția când află.",
+		""
+	],
+	"c077": [
+		"Lingură pe nas",
+		"Atârnă o lingură de vârful nasului. Câte secunde stă acolo?",
+		""
+	],
+	"c080": [
+		"Bottle flip",
+		"Aruncă o sticlă de plastic cu puțină apă în ea, astfel încât să aterizeze în picioare. Câte la rând poți reuși?",
+		""
+	],
+	"c094": [
+		"Oglinda",
+		"Timp de 30 de secunde, copiază tot ce face persoana din fața ta, ca o oglindă, în timp ce ea îți îngreunează sarcina.",
+		""
+	],
+	"c098": [
+		"Dansează de parcă nu te vede nimeni",
+		"Dansează de parcă nu te vede nimeni.",
+		""
+	],
+	"c099": [
+		"Dans cu prietenii",
+		"Fă un dans cu prietenii tăi.",
+		""
+	],
+	"c101": [
+		"Cel mai amuzant selfie",
+		"Fă cel mai amuzant selfie posibil.",
+		""
+	],
+	"c102": [
+		"Imitație de celebritate",
+		"Imită o persoană faimoasă.",
+		""
+	],
+	"c103": [
+		"Poză din copilărie",
+		"Postează o poză cu tine de când erai copil.",
+		""
+	],
+	"c104": [
+		"Bărbie dublă",
+		"Fă un selfie cu cea mai mare bărbie dublă pe care o poți face.",
+		""
+	],
+	"c105": [
+		"Selfie în nări",
+		"Fă un selfie de jos, direct în nări.",
+		""
+	],
+	"c106": [
+		"Fața pe geam",
+		"Lipește-ți fața de un geam și roagă pe cineva să te fotografieze din partea cealaltă.",
+		""
+	],
+	"c107": [
+		"Față cu bandă adezivă",
+		"Lipește o bucată de bandă adezivă peste nas și obraji și fă un selfie.",
+		""
+	],
+	"c108": [
+		"Mustață pe deget",
+		"Desenează o mustață pe deget și ține-l sub nas.",
+		""
+	],
+	"c109": [
+		"Barbă din frișcă",
+		"Pune frișcă spray pe bărbie ca pe o barbă și fă un selfie.",
+		""
+	],
+	"c110": [
+		"Selfie caraghios cu familia",
+		"Fă un selfie cu familia în care toți fac o grimasă caraghioasă.",
+		""
+	],
+	"c111": [
+		"Poză rușinoasă",
+		"Arată cea mai rușinoasă poză a ta din trecut.",
+		""
+	],
+	"c112": [
+		"Refă poza de bebeluș",
+		"Refă o poză de bebeluș cu tine cât de exact poți.",
+		""
+	],
+	"c113": [
+		"Poza animalului",
+		"Fă cea mai amuzantă poză a animalului tău de companie.",
+		""
+	],
+	"c114": [
+		"Poziție ciudată de dormit",
+		"Fotografiază-ți animalul în cea mai ciudată poziție de dormit.",
+		""
+	],
+	"c115": [
+		"Selfie cu animalul tău",
+		"Fă un selfie împreună cu animalul tău de companie.",
+		""
+	],
+	"c116": [
+		"Bine ai venit acasă",
+		"Filmează-ți animalul când ajungi acasă.",
+		""
+	],
+	"c117": [
+		"Truc de animal",
+		"Arată ce truc știe animalul tău.",
+		""
+	],
+	"c118": [
+		"Jucărie nouă",
+		"Dă-i animalului tău o jucărie nouă și filmează ce face.",
+		""
+	],
+	"c119": [
+		"Sperie pe cineva",
+		"Ascunde-te și sperie un prieten sau un coleg de casă. Nu atunci când e pe scări.",
+		""
+	],
+	"c120": [
+		"Hoț de geniu",
+		"Ia pe ascuns ceva de la un prieten fără ca el să observe, apoi dă-i-l înapoi.",
+		""
+	],
+	"c121": [
+		"Tatuaj fals",
+		"Desenează un tatuaj fals și fă pe cineva să creadă că e adevărat.",
+		""
+	],
+	"c122": [
+		"De ce?",
+		"Răspunde la tot ce spune cineva cu „de ce?” și filmează.",
+		""
+	],
+	"c123": [
+		"Zi de naștere falsă",
+		"Când mănânci la restaurant, spune-le că e ziua cuiva, deși nu e.",
+		""
+	],
+	"c124": [
+		"Ecran spart",
+		"Pune o poză cu un ecran spart ca fundal pe telefonul cuiva din casă.",
+		""
+	],
+	"c125": [
+		"Bilețel pe spate",
+		"Lipește pe ascuns un bilețel amuzant pe spatele unui prieten. Cât timp umblă cu el?",
+		""
+	],
+	"c126": [
+		"Mouse stricat",
+		"Lipește un bilețel sub mouse-ul cuiva ca să nu mai funcționeze.",
+		""
+	],
+	"c127": [
+		"Poza în ramă",
+		"Pune o poză cu tine într-o ramă din casă și așteaptă până observă cineva.",
+		""
+	],
+	"c128": [
+		"Papagal",
+		"Timp de un minut, repetă tot ce spune fratele, sora sau prietenul tău.",
+		""
+	],
+	"c129": [
+		"Ghicește melodia",
+		"Mimează cu buzele o parte dintr-o melodie cunoscută, fără sunet. Spectatorii ghicesc ce melodie este.",
+		""
+	],
+	"c130": [
+		"Test de gust legat la ochi",
+		"Cu ochii închiși, gustă ce-ți dă cineva și ghicește ce este.",
+		"Spune mai întâi dacă ești alergic la ceva."
+	],
+	"c131": [
+		"Cine sunt?",
+		"Lipește pe frunte un bilețel cu un nume celebru și pune întrebări ca să ghicești cine ești.",
+		""
+	],
+	"c132": [
+		"Desen rapid",
+		"Desenează ceva în 10 secunde. Spectatorii ghicesc ce este.",
+		""
+	],
+	"c133": [
+		"Machiaj de la un prieten",
+		"Lasă un prieten să te machieze.",
+		""
+	],
+	"c134": [
+		"Gura plină cu apă",
+		"Ține o gură de apă în gură în timp ce cineva spune glume. Dacă o scuipi, ești eliminat.",
+		""
+	],
+	"c135": [
+		"Cu limba scoasă",
+		"Citește o propoziție cu voce tare cu limba scoasă.",
+		""
+	],
+	"c136": [
+		"Cel mai nebun râs",
+		"Dă drumul celui mai nebun râs al tău.",
+		""
+	],
+	"c137": [
+		"Față din mâncare",
+		"Fă o față din mâncarea din farfuria ta.",
+		""
+	],
+	"c138": [
+		"Coafură nebună",
+		"Lasă pe cineva să te coafeze în cel mai nebun stil.",
+		""
+	],
+	"c139": [
+		"Mâncarea preferată",
+		"Postează o poză cu mâncarea ta preferată.",
+		""
+	],
+	"c140": [
+		"Băutura de dimineață",
+		"Postează o poză cu băutura ta de dimineață.",
+		""
+	],
+	"c141": [
+		"Mâncarea pe care o urăști",
+		"Postează o poză cu ceva ce nu-ți place să mănânci.",
+		""
+	],
+	"c142": [
+		"Mâncare ieftină și gustoasă",
+		"Fă o poză cu mâncare ieftină, dar gustoasă.",
+		""
+	],
+	"c143": [
+		"Cea mai frumoasă poză din natură",
+		"Fă cea mai frumoasă poză a ta din natură.",
+		""
+	],
+	"c144": [
+		"Cea mai bună poză cu ploaia",
+		"Fă cea mai bună poză cu ploaia.",
+		""
+	],
+	"c145": [
+		"Cea mai bună poză cu nori",
+		"Fă cea mai frumoasă poză cu norii.",
+		""
+	],
+	"c146": [
+		"Descoperire amuzantă pe stradă",
+		"Fotografiază ceva amuzant pe care îl vezi pe stradă.",
+		""
+	],
+	"c147": [
+		"Cea mai ciudată mâncare",
+		"Fotografiază cea mai ciudată mâncare a ta.",
+		""
+	],
+	"c148": [
+		"Dulciurile preferate",
+		"Fă o poză cu dulciurile tale preferate.",
+		""
+	],
+	"c149": [
+		"Cele mai urâte haine ale părinților",
+		"Fotografiază cele mai urâte haine ale părinților tăi.",
+		""
+	],
+	"c150": [
+		"Costum de Halloween",
+		"Arată-ți cel mai bun costum de Halloween.",
+		""
+	],
+	"c151": [
+		"Costum de petrecere",
+		"Arată-ți cel mai bun costum de petrecere.",
+		""
+	],
+	"c152": [
+		"Pereche dezasortată",
+		"Poartă doi pantofi sau doi ciorapi diferiți.",
+		""
+	],
+	"c153": [
+		"Prinde bomboana",
+		"Aruncă o bomboană în sus și prinde-o cu gura.",
+		"Folosește o bomboană mică și moale."
+	],
+	"c154": [
+		"Aruncă bila de hârtie",
+		"Aruncă o minge de hârtie în coș din partea cealaltă a camerei.",
+		""
+	],
+	"c155": [
+		"Cea mai amuzantă poză",
+		"Postează cea mai amuzantă poză a ta.",
+		""
+	],
+	"c156": [
+		"Lecție de argou",
+		"Învață-l pe tata, pe mama, pe bunicul sau pe bunica un cuvânt de argou.",
+		""
+	],
+	"c157": [
+		"Cadou fără motiv",
+		"Cumpără-i cuiva un cadouaș, doar așa.",
+		""
+	],
+	"c158": [
+		"Mesaj cu emoji",
+		"Trimite-le părinților un mesaj doar cu emoji.",
+		""
+	],
+	"c159": [
+		"Mic dejun la pat",
+		"Pregătește micul dejun la pat pentru cineva din casă.",
+		""
+	],
+	"c160": [
+		"Adu dulciuri",
+		"Adu dulciuri pentru toți de la serviciu sau de la școală.",
+		""
+	],
+	"c161": [
+		"Dă o petrecere",
+		"Dă o petrecere.",
+		""
+	],
+	"c162": [
+		"Dă o rundă",
+		"Fă cinste prietenilor cu o rundă de băuturi.",
+		""
+	],
+	"c163": [
+		"Spune o glumă",
+		"Spune o glumă.",
+		""
+	],
+	"c164": [
+		"Bătaie cu perne",
+		"Fă o bătaie cu perne cu fratele, sora sau prietenul tău.",
+		""
+	],
+	"c165": [
+		"Dans cu părinții",
+		"Dansează împreună cu tata sau cu mama.",
+		""
+	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Toarnă-ți o găleată cu apă cu gheață în cap.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Îngheață în mijlocul unei mișcări cu prietenii tăi în timp ce camera trece pe lângă voi.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Mai întâi dansează o singură persoană, apoi deodată toți o iau razna.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Dă dopul jos de pe o sticlă cu piciorul, fără să dărâmi sticla.",
+		""
+	],
+	"c170": [
+		"Schimbă comutatorul",
+		"Lumina se stinge, lumina se aprinde, iar tu și altcineva purtați hainele celuilalt.",
+		""
+	],
+	"c171": [
+		"Provocarea celor 10 ani",
+		"Pune o poză de acum 10 ani lângă o poză de acum.",
+		""
+	],
+	"c172": [
+		"Rola de hârtie igienică în aer",
+		"Ține în aer o rolă de hârtie igienică cu piciorul, exact ca pe o minge de fotbal.",
+		""
+	],
+	"c173": [
+		"Planking",
+		"Întinde-te țeapăn ca o scândură în cel mai nebun loc din casă.",
+		""
+	],
+	"c174": [
+		"Provocarea șoaptei",
+		"Pune căști cu muzică tare și ghicește ce îți spune cineva.",
+		""
+	],
+	"c175": [
+		"Mentos și Cola",
+		"Aruncă Mentos într-o sticlă de cola.",
+		""
+	],
+	"c176": [
+		"Ședință foto de fantomă",
+		"Fă o ședință foto cu un cearșaf pe cap și ochelari de soare.",
+		""
+	],
+	"c177": [
+		"Podeaua e lavă",
+		"Strigă „podeaua e lavă!” și toți trebuie să urce de pe podea.",
+		""
+	],
+	"c178": [
+		"Cea mai acră bomboană",
+		"Mănâncă cea mai acră bomboană pe care o găsești.",
+		""
+	],
+	"c179": [
+		"Palmă cu tortilla",
+		"Jucați piatră-foarfecă-hârtie cu gura plină de apă. Cine pierde primește o palmă cu o tortilla.",
+		""
+	],
+	"c180": [
+		"Gură de rățușcă",
+		"Fă selfie-ul acela exagerat cu gură de rățușcă din vremurile de demult.",
+		""
+	],
+	"c181": [
+		"Gogoașă pe sfoară",
+		"Mănâncă o gogoașă atârnată de o sfoară, fără să folosești mâinile.",
+		""
+	],
+	"c182": [
+		"Mere în apă",
+		"Scoate un măr dintr-un lighean cu apă fără să folosești mâinile.",
+		""
+	],
+	"c183": [
+		"Îngheț de creier",
+		"Mănâncă o înghețată cât de repede poți.",
+		""
+	],
+	"c184": [
+		"Ruleta cu ouă",
+		"Spargeți pe rând un ou în cap. Unul dintre ouă este crud.",
+		""
+	],
+	"c185": [
+		"Plăcintă în față",
+		"Împinge o farfurie cu frișcă în fața unui prieten.",
+		""
+	],
+	"c186": [
+		"Ce e în cutie?",
+		"Pipăie cu ochii închiși ce e în cutie și ghicește ce este.",
+		""
+	],
+	"c187": [
+		"Bătaie cu baloane cu apă",
+		"Faceți o bătaie cu baloane cu apă.",
+		""
+	],
+	"c188": [
+		"Cursă în sac",
+		"Faceți o cursă în sac.",
+		""
+	],
+	"c189": [
+		"Scaunele muzicale",
+		"Jucați-vă de-a scaunele muzicale.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Cât de jos poți trece pe sub băț?",
+		""
+	],
+	"c191": [
+		"De-a ascunselea",
+		"Jucați-vă de-a v-ați ascunselea.",
+		""
+	],
+	"c192": [
+		"Bătaie cu bulgări",
+		"Faceți o bătaie cu bulgări de zăpadă.",
+		""
+	],
+	"c193": [
+		"Săritură ghiulea",
+		"Fă o săritură în apă ca o ghiulea.",
+		"Doar în apă adâncă."
+	],
+	"c194": [
+		"Tobogan cu apă",
+		"Dă-te pe un tobogan cu apă.",
+		""
+	],
+	"c195": [
+		"Pijama party",
+		"Fă o pijama party.",
+		""
+	],
+	"c196": [
+		"Sări în baltă",
+		"Sari într-o baltă.",
+		""
+	],
+	"c197": [
+		"Ține balonul sus",
+		"Ține un balon în aer fără să-l lași să atingă pământul.",
+		""
+	],
+	"c198": [
+		"Baie în apă rece",
+		"Sari în apă rece.",
+		"Niciodată singur și doar unde ai voie să înoți."
+	],
+	"c199": [
+		"Montagne russe",
+		"Urcă într-un montagne russe.",
+		""
+	],
+	"c200": [
+		"Trambulină",
+		"Sari pe o trambulină.",
+		""
+	],
+	"c201": [
+		"Îngropat în nisip",
+		"Lasă-te îngropat în nisip.",
+		"Ține capul liber."
+	],
+	"c202": [
+		"Jonglat cu mingea",
+		"De câte ori poți ține o minge în aer?",
+		""
+	],
+	"c203": [
+		"Părul de dimineață",
+		"Fă un selfie cu părul tău imediat ce te trezești.",
+		""
+	],
+	"c204": [
+		"Față cu ciorap",
+		"Trage un ciorap pe cap și fă un selfie.",
+		""
+	],
+	"c205": [
+		"Păr cu balon",
+		"Freacă un balon de păr și fă o poză.",
+		""
+	],
+	"c206": [
+		"Perucă",
+		"Pune-ți o perucă.",
+		""
+	],
+	"c207": [
+		"Cea mai nebună pălărie",
+		"Pune-ți cea mai nebună pălărie.",
+		""
+	],
+	"c208": [
+		"Cel mai ciudat sunet",
+		"Scoate cel mai ciudat sunet pe care îl poți scoate.",
+		""
+	],
+	"c209": [
+		"Ochi încrucișați",
+		"Fă un selfie cu ochii încrucișați.",
+		""
+	],
+	"c210": [
+		"Cască de înot",
+		"Pune-ți o cască de înot și fă un selfie.",
+		""
+	],
+	"c211": [
+		"Ochelari de soare în casă",
+		"Poartă ochelari de soare în casă.",
+		""
+	],
+	"c212": [
+		"Ochi mobili",
+		"Lipește ochi mobili pe ceva.",
+		""
+	],
+	"c213": [
+		"Bomboană falsă",
+		"Dă-i cuiva o bomboană care e pe ascuns cu totul altceva.",
+		""
+	],
+	"c214": [
+		"Sare în zahăr",
+		"Schimbă pe ascuns zahărul cu sare.",
+		""
+	],
+	"c215": [
+		"Spumă de ras",
+		"Pune spumă de ras pe mâna cuiva care doarme și gâdilă-l pe nas.",
+		""
+	],
+	"c216": [
+		"Cub de gheață",
+		"Strecoară pe ascuns un cub de gheață pe sub tricoul cuiva.",
+		""
+	],
+	"c217": [
+		"Invizibil",
+		"Preface-te că cineva e invizibil.",
+		""
+	],
+	"c218": [
+		"Nume greșit",
+		"Strigă-l mereu pe cineva cu numele greșit.",
+		""
+	],
+	"c219": [
+		"Fă-l să creadă",
+		"Fă pe cineva să creadă ceva ce nu e adevărat.",
+		""
+	],
+	"c220": [
+		"Gânganie falsă",
+		"Sperie pe cineva cu o gânganie falsă.",
+		""
+	],
+	"c221": [
+		"Scăpat de mână",
+		"Preface-te că ai scăpat ceva scump.",
+		""
+	],
+	"c222": [
+		"Pistol cu apă",
+		"Stropește pe cineva cu un pistol cu apă.",
+		""
+	],
+	"c223": [
+		"Pernă pârâitoare",
+		"Pune în funcțiune o pernă pârâitoare.",
+		""
+	],
+	"c224": [
+		"Ce naiba e asta",
+		"Ține sus o pătură, las-o să cadă și ascunde-te. Ce face câinele sau pisica ta?",
+		""
+	],
+	"c225": [
+		"Imită-ți animalul",
+		"Imită-ți animalul de companie.",
+		""
+	],
+	"c226": [
+		"De-a v-ați ascunselea cu animalul",
+		"Ascunde-te și lasă-ți animalul să te găsească.",
+		""
+	],
+	"c227": [
+		"Ora mesei",
+		"Filmează-ți animalul când primește mâncarea.",
+		""
+	],
+	"c228": [
+		"Oglinda",
+		"Lasă-ți animalul să se uite în oglindă.",
+		""
+	],
+	"c229": [
+		"Cel mai mare balon",
+		"Fă cel mai mare balon de gumă de mestecat pe care îl poți face.",
+		""
+	],
+	"c230": [
+		"Minge de ping-pong în pahar",
+		"Fă o minge de ping-pong să sară într-un pahar.",
+		""
+	],
+	"c231": [
+		"Hula hoop",
+		"Cât timp poți ține un hula hoop în mișcare?",
+		""
+	],
+	"c232": [
+		"Om de zăpadă",
+		"Fă un om de zăpadă.",
+		""
+	],
+	"c233": [
+		"Moneda de pe cot",
+		"Pune o monedă pe cot și prinde-o.",
+		""
+	],
+	"c234": [
+		"Fluier cu degetele",
+		"Fluieră cu degetele.",
+		""
+	],
+	"c235": [
+		"Truc de magie",
+		"Arată un truc de magie.",
+		""
+	],
+	"c236": [
+		"Pietre pe apă",
+		"Aruncă o piatră să sară pe apă.",
+		""
+	],
+	"c237": [
+		"Coarda",
+		"Câte sărituri poți face cu coarda?",
+		""
+	],
+	"c238": [
+		"Pocnit din limbă",
+		"Pocnește din limbă cât de tare poți.",
+		""
+	],
+	"c239": [
+		"Ghicește sunetul",
+		"Cineva scoate un sunet, tu ghicești ce este.",
+		""
+	],
+	"c240": [
+		"Desen pe spate",
+		"Desenează ceva pe spatele cuiva și lasă-l să ghicească ce este.",
+		""
+	],
+	"c241": [
+		"Văd ceva",
+		"Joacă „văd ceva ce tu nu vezi”.",
+		""
+	],
+	"c242": [
+		"Ghicește prețul",
+		"Ghicește cât costă ceva.",
+		""
+	],
+	"c243": [
+		"Cine e?",
+		"Pipăie cu ochii închiși a cui este fața.",
+		""
+	],
+	"c244": [
+		"Apus de soare",
+		"Fă cea mai frumoasă poză cu un apus de soare.",
+		""
+	],
+	"c245": [
+		"Curcubeu",
+		"Fă o poză cu un curcubeu.",
+		""
+	],
+	"c246": [
+		"Zăpadă",
+		"Fă cea mai frumoasă poză cu zăpadă.",
+		""
+	],
+	"c247": [
+		"Cer înstelat",
+		"Fă o poză cu stelele.",
+		""
+	],
+	"c248": [
+		"Fulger",
+		"Fă o poză cu un fulger.",
+		"Doar dinăuntru."
+	],
+	"c249": [
+		"Ceață",
+		"Fă cea mai frumoasă poză cu ceață.",
+		""
+	],
+	"c250": [
+		"Reflexie",
+		"Fă o poză cu o reflexie într-o baltă.",
+		""
+	],
+	"c251": [
+		"Cea mai frumoasă floare",
+		"Fă o poză cu cea mai frumoasă floare.",
+		""
+	],
+	"c252": [
+		"Pasăre",
+		"Fă o poză cu o pasăre.",
+		""
+	],
+	"c253": [
+		"Răsărit de soare",
+		"Fă o poză cu răsăritul soarelui.",
+		""
+	],
+	"c254": [
+		"Chiciură",
+		"Fă cea mai frumoasă poză cu chiciură.",
+		""
+	],
+	"c255": [
+		"Umbră",
+		"Fă o poză cu umbra ta.",
+		""
+	],
+	"c256": [
+		"Artificii",
+		"Fă o poză cu artificii.",
+		""
+	],
+	"c257": [
+		"Noaptea",
+		"Fă o poză cu orașul noaptea.",
+		""
+	],
+	"c258": [
+		"Marea",
+		"Fă o poză cu marea.",
+		""
+	],
+	"c259": [
+		"Toamnă",
+		"Fă cea mai frumoasă poză de toamnă.",
+		""
+	],
+	"c260": [
+		"Compliment",
+		"Fă cuiva un compliment.",
+		""
+	],
+	"c261": [
+		"Îmbrățișare",
+		"Îmbrățișează pe cineva, doar așa.",
+		""
+	],
+	"c262": [
+		"Floare",
+		"Dă cuiva o floare.",
+		""
+	],
+	"c263": [
+		"Gătește pentru cineva",
+		"Gătește pentru cineva.",
+		""
+	],
+	"c264": [
+		"Doar un telefon",
+		"Sună pe cineva, doar așa.",
+		""
+	],
+	"c265": [
+		"Ajută pe cineva",
+		"Ajută pe cineva, doar așa.",
+		""
+	],
+	"c266": [
+		"Împarte",
+		"Împarte ceva gustos cu cineva.",
+		""
+	],
+	"c267": [
+		"Fă-l să râdă",
+		"Fă pe cineva să râdă.",
+		""
+	],
+	"c268": [
+		"Doar mulțumesc",
+		"Mulțumește cuiva, doar așa.",
+		""
+	],
+	"c269": [
+		"Picnic",
+		"Fă un picnic.",
+		""
+	],
+	"c270": [
+		"Seară de jocuri",
+		"Fă o seară de jocuri.",
+		""
+	],
+	"c271": [
+		"Seară de film",
+		"Fă o seară de film.",
+		""
+	],
+	"c272": [
+		"Iartă-mă",
+		"Cere-i iertare cuiva.",
+		""
+	],
+	"c273": [
+		"Ce mai faci?",
+		"Întreabă pe cineva cum se simte cu adevărat.",
+		""
+	],
+	"c274": [
+		"Te iubesc",
+		"Spune „te iubesc” cuiva, doar așa.",
+		""
+	],
+	"d001": [
+		"Concurs de privit",
+		"Privește pe cineva drept în ochi 30 de secunde fără să râzi. Cine râde pierde.",
+		""
+	],
+	"d002": [
+		"Rămâi serios",
+		"Rămâi serios 30 de secunde fără să râzi.",
+		""
+	],
+	"d003": [
+		"Privire furioasă",
+		"Aruncă cuiva o privire cu adevărat furioasă fără să râzi.",
+		""
+	],
+	"d004": [
+		"Ochi de cățeluș",
+		"Aruncă cuiva o privire cu adevărat tristă fără să râzi.",
+		""
+	],
+	"d005": [
+		"Copiază emoji-ul",
+		"Amândoi primiți același emoji și îl copiați.",
+		""
+	],
+	"d006": [
+		"Cea mai nebună mișcare de dans",
+		"Arată cea mai nebună mișcare de dans a ta în 10 secunde.",
+		""
+	],
+	"d007": [
+		"Ghicește animalul",
+		"Mimează un animal fără sunet. Cine e mai clar câștigă.",
+		""
+	],
+	"d008": [
+		"Chitară imaginară",
+		"Cântă la chitară imaginară ca o vedetă rock. Cine cântă mai bine câștigă.",
+		""
+	],
+	"d009": [
+		"Cântă înapoi",
+		"Cine începe cântă o parte dintr-o melodie. Celălalt o cântă înapoi.",
+		""
+	],
+	"d010": [
+		"Piatră, foarfecă, hârtie",
+		"Alege piatră, foarfecă sau hârtie și arată-o. Cine câștigă, câștigă duelul.",
+		""
+	],
+	"d011": [
+		"Doar da sau nu",
+		"Timp de un minut ai voie să spui doar „da” sau „nu” în timp ce cineva îți pune întrebări.",
+		""
+	],
+	"d012": [
+		"Ghicește cuvântul",
+		"Cine începe ține un pix între dinți și spune un cuvânt ușor. Celălalt ghicește cuvântul.",
+		""
+	],
+	"d014": [
+		"Cel mai nebun râs",
+		"Dă drumul celui mai nebun râs al tău. Cel mai nebun râs câștigă.",
+		""
+	],
+	"d015": [
+		"Cea mai caraghioasă voce",
+		"Spune „mi-e foame” cu cea mai caraghioasă voce a ta.",
+		""
+	],
+	"d016": [
+		"Cea mai bună glumă",
+		"Spune cea mai amuzantă glumă a ta. Cea mai amuzantă câștigă.",
+		""
+	],
+	"d017": [
+		"Cea mai bună scuză",
+		"Ai întârziat. Inventează cea mai nebună scuză.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Fă beatbox 10 secunde. Cine face beatbox mai bine câștigă.",
+		""
+	],
+	"d019": [
+		"Cei mai buni și cei mai urâți pantofi",
+		"Fă o poză cu cei mai frumoși și cei mai urâți pantofi ai tăi unul lângă altul: cel frumos la stânga, cel urât la dreapta.",
+		""
+	],
+	"d020": [
+		"Cei mai nebuni ciorapi",
+		"Fă o poză cu cea mai ciudată pereche de ciorapi a ta, în picioare.",
+		""
+	],
+	"d022": [
+		"Cea mai urâtă haină",
+		"Îmbracă cea mai urâtă haină a ta și fă un selfie.",
+		""
+	],
+	"d025": [
+		"Păr nebun într-un minut",
+		"Fă-ți cea mai nebună coafură într-un minut și fă un selfie.",
+		"Fără tăiat: doar cu mâinile, apă sau un pieptene."
+	]
+}

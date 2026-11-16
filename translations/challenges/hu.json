@@ -1,0 +1,1118 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Citrom pókerarc",
+		"Harapj bele egy citromkarélyba, és tartsd az arcod komolyan 10 másodpercig. Egy fintor, és vesztettél.",
+		""
+	],
+	"c003": [
+		"Meg tudod csinálni?",
+		"Próbáld ki ezt a négyet: nyelvcsavarás, fél szemöldök felhúzása, fülmozgatás és az orr megérintése a nyelveddel. Hányat tudsz a négyből?",
+		""
+	],
+	"c004": [
+		"Emoji-arcok",
+		"Utánozd ezt az öt emojit csak az arcoddal, egyenként két másodpercig: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Lassított felvétel",
+		"Csinálj valami teljesen hétköznapit, például fésüld meg a hajad vagy önts ki egy pohár italt, 20 másodpercig extrém lassítva, az arcoddal együtt.",
+		""
+	],
+	"c008": [
+		"Találd ki a mondatot",
+		"Valaki hang nélkül elmond egy mondatot. Te kitalálod, mit mondott.",
+		""
+	],
+	"c010": [
+		"Visszatekerés",
+		"Filmezz le valamit visszafelé, például ahogy leveszed a kabátod, és játszd le fordítva, hogy majdnem normálisnak tűnjön. Minél hitelesebb, annál jobb.",
+		""
+	],
+	"c014": [
+		"Zoknibáb-mese",
+		"Készíts zoknibábokat, és meséljetek velük egy történetet.",
+		""
+	],
+	"c016": [
+		"Mit gondol a kedvenced?",
+		"Filmezd le a kisállatodat, plüssödet vagy a szobanövényedet, és mondd el 20 másodpercig, mi jár a fejében.",
+		""
+	],
+	"c018": [
+		"Élő sportközvetítés",
+		"Adj élő sportközvetítést, miközben valaki valami hétköznapit csinál.",
+		""
+	],
+	"c027": [
+		"Arcos tárgy",
+		"Fotózz le egy tárgyat, amelynek arca van.",
+		""
+	],
+	"c028": [
+		"Fogd meg a Holdat",
+		"Készíts fotót, amelyen két ujjad közt tartod a Holdat.",
+		""
+	],
+	"c029": [
+		"Találd ki, mi az",
+		"Fotózz le valamit otthon olyan közelről, hogy senki se jöjjön rá, mi az, és hagyd, hogy a nézők találgassanak.",
+		""
+	],
+	"c033": [
+		"Stop-motion",
+		"Legalább 30 fotóból készíts stop-motion klipet, amelyben az asztalodon lévő dolgok maguktól életre kelnek.",
+		""
+	],
+	"c039": [
+		"Találd ki a filmet",
+		"Játssz el egy filmet. A nézők kitalálják, melyik az.",
+		""
+	],
+	"c046": [
+		"A legrondább szelfi",
+		"Küldd el a legrondább szelfidet valakinek, akit ismersz.",
+		""
+	],
+	"c047": [
+		"Énekelj egy dalt",
+		"Énekelj el egy dalt.",
+		""
+	],
+	"c049": [
+		"Más ruhájában",
+		"Vegyél fel egy ruhát, ami valaki másé.",
+		""
+	],
+	"c050": [
+		"Találd ki, ki vagyok",
+		"Utánozz három ismerősödet, például ahogy nevetnek vagy beszélnek, és hagyd, hogy kitalálják, ki kicsoda.",
+		"Légy kedves, ne bántó."
+	],
+	"c051": [
+		"Integess egy idegennek",
+		"Integess egy idegennek, és nézd meg, visszaint-e.",
+		""
+	],
+	"c061": [
+		"Kedves üzenet",
+		"Írj valakinek egy kedves üzenetet.",
+		""
+	],
+	"c062": [
+		"Köszönő üzenet",
+		"Küldj valakinek üzenetet, hogy megköszönd neki. Egy koppintással megosztod WhatsAppon.",
+		""
+	],
+	"c063": [
+		"Rég beszéltünk",
+		"Írj valakinek, akivel rég nem beszéltél. Egy koppintással megosztod WhatsAppon.",
+		""
+	],
+	"c064": [
+		"Titkos házimunka",
+		"Titokban csináld meg azt a házimunkát, amit otthon általában valaki más szokott, és filmezd le a reakcióját, amikor rájön.",
+		""
+	],
+	"c077": [
+		"Kanál az orrodon",
+		"Lógass egy kanalat az orrod hegyéről. Hány másodpercig marad ott?",
+		""
+	],
+	"c080": [
+		"Palackforgatás",
+		"Dobj fel egy kis vizet tartalmazó műanyag palackot úgy, hogy talpra érkezzen. Hányat tudsz egymás után?",
+		""
+	],
+	"c094": [
+		"Tükör vagyok",
+		"30 másodpercig másolj le mindent, amit a veled szemben álló csinál, mint egy tükör, miközben ő egyre nehezebbé teszi.",
+		""
+	],
+	"c098": [
+		"Táncolj, mintha senki sem látna",
+		"Táncolj úgy, mintha senki sem nézne.",
+		""
+	],
+	"c099": [
+		"Tánc a barátokkal",
+		"Járjatok el egy táncot a barátaiddal.",
+		""
+	],
+	"c101": [
+		"A legviccesebb szelfi",
+		"Készítsd el a lehető legviccesebb szelfit.",
+		""
+	],
+	"c102": [
+		"Hírességimitáció",
+		"Utánozz egy híres embert.",
+		""
+	],
+	"c103": [
+		"Gyerekkori fotó",
+		"Oszd meg egy fotódat gyerekkorodból.",
+		""
+	],
+	"c104": [
+		"Dupla áll",
+		"Készíts szelfit a lehető legnagyobb dupla állal.",
+		""
+	],
+	"c105": [
+		"Orrlyuk-szelfi",
+		"Készíts alulról szelfit, egyenesen az orrlyukaidba.",
+		""
+	],
+	"c106": [
+		"Arc az ablakon",
+		"Nyomd az arcod laposra egy ablakhoz, és kérd meg valakit, hogy a túloldalról fotózza le.",
+		""
+	],
+	"c107": [
+		"Ragasztószalag-arc",
+		"Ragassz egy csík ragasztószalagot az orrodra és az arcodra, és készíts szelfit.",
+		""
+	],
+	"c108": [
+		"Ujjbajusz",
+		"Rajzolj bajuszt az ujjadra, és tartsd az orrod alá.",
+		""
+	],
+	"c109": [
+		"Tejszínhab-szakáll",
+		"Fújj tejszínhabot az államra szakállnak, és készíts szelfit.",
+		""
+	],
+	"c110": [
+		"Hülye családi szelfi",
+		"Készíts szelfit a családoddal, amelyen mindenki vicces arcot vág.",
+		""
+	],
+	"c111": [
+		"Égő fotó",
+		"Mutasd meg a legkínosabb fotódat a múltból.",
+		""
+	],
+	"c112": [
+		"Utánozd a babafotódat",
+		"Játszd újra egy babakori fotódat a lehető legpontosabban.",
+		""
+	],
+	"c113": [
+		"Kedvencfotó",
+		"Készítsd el a kisállatod legviccesebb fotóját.",
+		""
+	],
+	"c114": [
+		"Fura alvópóz",
+		"Fotózd le a kisállatodat a legfurább alvópózában.",
+		""
+	],
+	"c115": [
+		"Szelfi a kedvenccel",
+		"Készíts szelfit a kisállatoddal együtt.",
+		""
+	],
+	"c116": [
+		"Üdv itthon",
+		"Filmezd le a kisállatodat, amikor hazaérsz.",
+		""
+	],
+	"c117": [
+		"Kisállat-trükk",
+		"Mutasd meg a kisállatod trükkjét.",
+		""
+	],
+	"c118": [
+		"Új játék",
+		"Adj a kisállatodnak egy új játékot, és filmezd le, mit csinál vele.",
+		""
+	],
+	"c119": [
+		"Ijesztgetés",
+		"Bújj el, és ijeszd meg a barátodat vagy a lakótársadat. Ne lépcsőn.",
+		""
+	],
+	"c120": [
+		"Mestertolvaj",
+		"Titokban vegyél el valamit a barátodtól úgy, hogy ne vegye észre, aztán add vissza.",
+		""
+	],
+	"c121": [
+		"Hamis tetoválás",
+		"Rajzolj egy hamis tetoválást, és hitesd el valakivel, hogy valódi.",
+		""
+	],
+	"c122": [
+		"Miért?",
+		"Válaszolj mindenre, amit valaki mond, azzal, hogy „miért?”, és filmezd le.",
+		""
+	],
+	"c123": [
+		"Hamis születésnap",
+		"Amikor étterembe mész, mondd azt a személyzetnek, hogy valakinek születésnapja van, pedig nincs.",
+		""
+	],
+	"c124": [
+		"Repedt kijelző",
+		"Állíts be egy repedt kijelzőről készült fotót háttérképnek valaki telefonján otthon.",
+		""
+	],
+	"c125": [
+		"Cetli a hátán",
+		"Titokban ragassz egy vicces cetlit egy barátod hátára. Mennyi ideig sétál vele?",
+		""
+	],
+	"c126": [
+		"Elromlott egér",
+		"Ragassz egy cetlit valaki számítógépes egere alá, hogy ne működjön.",
+		""
+	],
+	"c127": [
+		"Képkeret",
+		"Tegyél be egy fotót magadról egy otthoni képkeretbe, és várd meg, amíg valaki észreveszi.",
+		""
+	],
+	"c128": [
+		"Papagáj",
+		"Egy percig ismételj meg mindent, amit a bátyád, a húgod vagy a barátod mond.",
+		""
+	],
+	"c129": [
+		"Találd ki a dalt",
+		"Játssz el hang nélkül, szájmozgással egy ismert dal egy részét. A nézők kitalálják, melyik dal az.",
+		""
+	],
+	"c130": [
+		"Vakteszt",
+		"Csukott szemmel kóstold meg, amit valaki ad, és találd ki, mi az.",
+		"Előre mondd meg, ha allergiás vagy valamire."
+	],
+	"c131": [
+		"Ki vagyok?",
+		"Ragassz egy híres névvel ellátott cetlit a homlokodra, és kérdezgetve találd ki, ki vagy.",
+		""
+	],
+	"c132": [
+		"Gyorsrajz",
+		"Rajzolj valamit 10 másodperc alatt. A nézők kitalálják, mi az.",
+		""
+	],
+	"c133": [
+		"Barát sminkel",
+		"Hagyd, hogy egy barát kisminkeljen.",
+		""
+	],
+	"c134": [
+		"Szájban a víz",
+		"Tarts egy korty vizet a szádban, miközben valaki vicceket mesél. Ha kiköpöd, kiestél.",
+		""
+	],
+	"c135": [
+		"Nyelv kinn",
+		"Olvass fel egy mondatot hangosan kinyújtott nyelvvel.",
+		""
+	],
+	"c136": [
+		"A legőrültebb nevetés",
+		"Engedd ki a legőrültebb nevetésedet.",
+		""
+	],
+	"c137": [
+		"Ételarc",
+		"Rakj ki egy arcot a tányérodon lévő ételből.",
+		""
+	],
+	"c138": [
+		"Őrült frizura",
+		"Hagyd, hogy valaki a legőrültebb frizurát csinálja a hajadból.",
+		""
+	],
+	"c139": [
+		"Kedvenc étel",
+		"Oszd meg a kedvenc ételed fotóját.",
+		""
+	],
+	"c140": [
+		"Reggeli ital",
+		"Oszd meg a reggeli italod fotóját.",
+		""
+	],
+	"c141": [
+		"Amit utálsz megenni",
+		"Oszd meg egy olyan étel fotóját, amit nem szeretsz.",
+		""
+	],
+	"c142": [
+		"Olcsó és finom",
+		"Fotózz le valami olcsó, de finom ételt.",
+		""
+	],
+	"c143": [
+		"A legszebb természetfotó",
+		"Készítsd el a legszebb természetfotódat.",
+		""
+	],
+	"c144": [
+		"A legjobb esőfotó",
+		"Készítsd el az eső legjobb fotóját.",
+		""
+	],
+	"c145": [
+		"A legszebb felhőfotó",
+		"Készítsd el a legszebb fotót a felhőkről.",
+		""
+	],
+	"c146": [
+		"Vicces utcai lelet",
+		"Fotózz le valami viccest, amit az utcán látsz.",
+		""
+	],
+	"c147": [
+		"A legfurább étel",
+		"Fotózd le a legfurább ételedet.",
+		""
+	],
+	"c148": [
+		"Kedvenc édesség",
+		"Fotózd le a kedvenc édességedet.",
+		""
+	],
+	"c149": [
+		"A szülők legrondább ruhái",
+		"Fotózd le a szüleid legrondább ruháit.",
+		""
+	],
+	"c150": [
+		"Halloween-jelmez",
+		"Mutasd meg a legjobb Halloween-jelmezedet.",
+		""
+	],
+	"c151": [
+		"Partijelmez",
+		"Mutasd meg a legjobb partijelmezedet.",
+		""
+	],
+	"c152": [
+		"Nem egy pár",
+		"Vegyél fel két különböző cipőt vagy zoknit.",
+		""
+	],
+	"c153": [
+		"Kapd el a cukorkát",
+		"Dobj fel egy cukorkát, és kapd el a szájaddal.",
+		"Kicsi, puha cukorkát használj."
+	],
+	"c154": [
+		"Papírgolyó-dobás",
+		"Dobj egy papírgolyót a kukába a szoba túloldaláról.",
+		""
+	],
+	"c155": [
+		"A legviccesebb fotó",
+		"Oszd meg a legviccesebb fotódat.",
+		""
+	],
+	"c156": [
+		"Szlengóra",
+		"Taníts meg az apádnak, anyádnak, nagyapádnak vagy nagyanyádnak egy szlengszót.",
+		""
+	],
+	"c157": [
+		"Ajándék csak úgy",
+		"Végy valakinek egy kis ajándékot, csak úgy.",
+		""
+	],
+	"c158": [
+		"Emojiüzenet",
+		"Küldj a szüleidnek egy üzenetet csupa emojiból.",
+		""
+	],
+	"c159": [
+		"Reggeli az ágyba",
+		"Készíts reggelit az ágyba valakinek otthon.",
+		""
+	],
+	"c160": [
+		"Hozz nyalánkságot",
+		"Hozz nyalánkságot mindenkinek a munkahelyen vagy az iskolában.",
+		""
+	],
+	"c161": [
+		"Rendezz bulit",
+		"Rendezz egy bulit.",
+		""
+	],
+	"c162": [
+		"Fizess egy kört",
+		"Hívd meg a barátaidat egy körre.",
+		""
+	],
+	"c163": [
+		"Mesélj egy viccet",
+		"Mesélj el egy viccet.",
+		""
+	],
+	"c164": [
+		"Párnacsata",
+		"Csapjatok párnacsatát a testvéreddel vagy a barátoddal.",
+		""
+	],
+	"c165": [
+		"Tánc a szüleiddel",
+		"Táncoljatok együtt apáddal vagy anyáddal.",
+		""
+	],
+	"c166": [
+		"Jeges vödör kihívás",
+		"Önts egy vödör jeges vizet a fejedre.",
+		""
+	],
+	"c167": [
+		"Manöken-kihívás",
+		"Dermedj mozdulat közben a barátaiddal, miközben a kamera elsétál mellettetek.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Először csak egy valaki táncol, aztán hirtelen mindenki megvadul.",
+		""
+	],
+	"c169": [
+		"Kupakkihívás",
+		"Rúgd le a kupakot egy palackról anélkül, hogy a palack felborulna.",
+		""
+	],
+	"c170": [
+		"Fordított szerepek",
+		"Lekapcsolt, majd felkapcsolt villany, és te meg valaki más egymás ruháját viseli.",
+		""
+	],
+	"c171": [
+		"10 éves kihívás",
+		"Tegyél egymás mellé egy 10 évvel ezelőtti és egy mostani fotót.",
+		""
+	],
+	"c172": [
+		"WC-papír labdázás",
+		"Tartsd a levegőben a wc-papír gurigát a lábaddal, mint egy focilabdát.",
+		""
+	],
+	"c173": [
+		"Deszkapóz",
+		"Feküdj merev deszkaként otthonod legőrültebb helyén.",
+		""
+	],
+	"c174": [
+		"Suttogó-kihívás",
+		"Vegyél fel fejhallgatót hangos zenével, és találd ki, mit mond neked valaki.",
+		""
+	],
+	"c175": [
+		"Mentos és kóla",
+		"Dobj Mentost egy üveg kólába.",
+		""
+	],
+	"c176": [
+		"Szellem-fotózás",
+		"Csinálj fotózást egy lepedővel a fejeden és napszemüvegben.",
+		""
+	],
+	"c177": [
+		"A padló lávává vált",
+		"Kiáltsd, hogy „a padló láva!”, és mindenkinek le kell lépnie a földről.",
+		""
+	],
+	"c178": [
+		"A legsavanyúbb cukorka",
+		"Edd meg a legsavanyúbb cukorkát, amit találsz.",
+		""
+	],
+	"c179": [
+		"Tortilla-pofon",
+		"Játsszatok kő-papír-ollót tele szájjal vízzel. A vesztes kap egy pofont tortillával.",
+		""
+	],
+	"c180": [
+		"Kacsaszáj",
+		"Készítsd el azt a túlzó kacsaszájas szelfit a régi időkből.",
+		""
+	],
+	"c181": [
+		"Fánk a zsinóron",
+		"Edd meg a zsinegen lógó fánkot kéz nélkül.",
+		""
+	],
+	"c182": [
+		"Almahalászat",
+		"Fogj ki egy almát egy vízzel teli dézsából kéz nélkül.",
+		""
+	],
+	"c183": [
+		"Fagyfejfájás",
+		"Edj meg egy fagyit, amilyen gyorsan csak tudsz.",
+		""
+	],
+	"c184": [
+		"Tojásrulett",
+		"Felváltva törjetek tojást a fejetekre. Az egyik tojás nyers.",
+		""
+	],
+	"c185": [
+		"Tortát az arcba",
+		"Nyomj egy tányér tejszínhabot egy barátod arcába.",
+		""
+	],
+	"c186": [
+		"Mi van a dobozban?",
+		"Csukott szemmel tapintsd ki, mi van a dobozban, és találd ki, mi az.",
+		""
+	],
+	"c187": [
+		"Vízibombacsata",
+		"Csapjatok vízibombacsatát.",
+		""
+	],
+	"c188": [
+		"Zsákban futás",
+		"Rendezzetek zsákban futást.",
+		""
+	],
+	"c189": [
+		"Székfoglaló",
+		"Játsszatok székfoglalót.",
+		""
+	],
+	"c190": [
+		"Limbó",
+		"Milyen alacsonyan fértek át a rúd alatt?",
+		""
+	],
+	"c191": [
+		"Bújócska",
+		"Játsszatok bújócskát.",
+		""
+	],
+	"c192": [
+		"Hógolyócsata",
+		"Csapjatok hógolyócsatát.",
+		""
+	],
+	"c193": [
+		"Bombaugrás",
+		"Ugorj be egy bombaugrással.",
+		"Csak mély vízbe."
+	],
+	"c194": [
+		"Vízicsúszda",
+		"Csússz le egy vízicsúszdán.",
+		""
+	],
+	"c195": [
+		"Pizsamaparti",
+		"Rendezz pizsamapartit.",
+		""
+	],
+	"c196": [
+		"Pocsolyaugrás",
+		"Ugorj bele egy pocsolyába.",
+		""
+	],
+	"c197": [
+		"Tartsd fenn a lufit",
+		"Tarts egy lufit a levegőben úgy, hogy ne érjen földet.",
+		""
+	],
+	"c198": [
+		"Hideg vízbe ugrás",
+		"Ugorj bele a hideg vízbe.",
+		"Soha ne egyedül, és csak ott, ahol szabad fürdeni."
+	],
+	"c199": [
+		"Hullámvasút",
+		"Menj egy hullámvasúton.",
+		""
+	],
+	"c200": [
+		"Trambulin",
+		"Ugrálj egy trambulinon.",
+		""
+	],
+	"c201": [
+		"Homokba temetve",
+		"Hagyd, hogy betemessenek a homokba.",
+		"A fejed maradjon szabadon."
+	],
+	"c202": [
+		"Labdatartás",
+		"Hányszor tudod a levegőben tartani a labdát?",
+		""
+	],
+	"c203": [
+		"Reggeli haj",
+		"Készíts szelfit a hajadról, amint felébredsz.",
+		""
+	],
+	"c204": [
+		"Harisnyaarc",
+		"Húzz egy harisnyát a fejedre, és készíts szelfit.",
+		""
+	],
+	"c205": [
+		"Lufis haj",
+		"Dörzsölj egy lufit a hajadhoz, és készíts fotót.",
+		""
+	],
+	"c206": [
+		"Paróka",
+		"Vegyél fel egy parókát.",
+		""
+	],
+	"c207": [
+		"A legőrültebb kalap",
+		"Vedd fel a legőrültebb kalapot.",
+		""
+	],
+	"c208": [
+		"A legfurább hang",
+		"Add ki a lehető legfurább hangot.",
+		""
+	],
+	"c209": [
+		"Kancsal",
+		"Készíts szelfit kancsalítva.",
+		""
+	],
+	"c210": [
+		"Úszósapka",
+		"Vegyél fel egy úszósapkát, és készíts szelfit.",
+		""
+	],
+	"c211": [
+		"Napszemüveg bent",
+		"Viselj napszemüveget szobában.",
+		""
+	],
+	"c212": [
+		"Mozgó szemek",
+		"Ragassz mozgó műszemeket valamire.",
+		""
+	],
+	"c213": [
+		"Álcukorka",
+		"Adj valakinek egy cukorkát, ami titokban teljesen más.",
+		""
+	],
+	"c214": [
+		"Só a cukortartóban",
+		"Titokban cseréld ki a cukrot sóra.",
+		""
+	],
+	"c215": [
+		"Borotvahab",
+		"Fújj borotvahabot egy alvó ember kezére, és csiklandozd meg az orrát.",
+		""
+	],
+	"c216": [
+		"Jégkocka",
+		"Titokban ejts egy jégkockát valaki pólója alá.",
+		""
+	],
+	"c217": [
+		"Láthatatlan",
+		"Tégy úgy, mintha valaki láthatatlan lenne.",
+		""
+	],
+	"c218": [
+		"Rossz név",
+		"Hívj valakit folyamatosan rossz néven.",
+		""
+	],
+	"c219": [
+		"Hitesd el vele",
+		"Hitess el valakivel valamit, ami nem igaz.",
+		""
+	],
+	"c220": [
+		"Hamis bogár",
+		"Ijessz meg valakit egy hamis bogárral.",
+		""
+	],
+	"c221": [
+		"Hamis leejtés",
+		"Tégy úgy, mintha leejtenél valami drágát.",
+		""
+	],
+	"c222": [
+		"Vízipisztoly",
+		"Fröcsköld le valakit egy vízipisztollyal.",
+		""
+	],
+	"c223": [
+		"Pukipárna",
+		"Szólaltass meg egy pukipárnát.",
+		""
+	],
+	"c224": [
+		"Mi ez a bolyhos izé?",
+		"Tarts fel egy takarót, ejtsd el, és bújj el. Mit csinál a kutyád vagy a macskád?",
+		""
+	],
+	"c225": [
+		"Utánozd a kedvencedet",
+		"Utánozd a kisállatodat.",
+		""
+	],
+	"c226": [
+		"Bújócska a kedvenccel",
+		"Bújj el, és hagyd, hogy a kisállatod megtaláljon.",
+		""
+	],
+	"c227": [
+		"Vacsoraidő",
+		"Filmezd le a kisállatodat, amikor megkapja az ételét.",
+		""
+	],
+	"c228": [
+		"Tükör",
+		"Hagyd, hogy a kisállatod belenézzen a tükörbe.",
+		""
+	],
+	"c229": [
+		"A legnagyobb lufi",
+		"Fújd a lehető legnagyobb rágólufit.",
+		""
+	],
+	"c230": [
+		"Pingponglabda a pohárba",
+		"Pattogtass egy pingponglabdát egy pohárba.",
+		""
+	],
+	"c231": [
+		"Hulahoppkarika",
+		"Meddig tudod forgatni a hulahoppkarikát?",
+		""
+	],
+	"c232": [
+		"Hóember",
+		"Építs egy hóembert.",
+		""
+	],
+	"c233": [
+		"Pénzérme a könyökön",
+		"Tégy egy pénzérmét a könyöködre, és kapd el.",
+		""
+	],
+	"c234": [
+		"Ujjfütty",
+		"Fütyülj az ujjaiddal.",
+		""
+	],
+	"c235": [
+		"Bűvésztrükk",
+		"Mutass egy bűvésztrükköt.",
+		""
+	],
+	"c236": [
+		"Kacsázás",
+		"Kacsáztass egy kavicsot a vízen.",
+		""
+	],
+	"c237": [
+		"Ugrókötelezés",
+		"Hányszor tudsz ugrani az ugrókötéllel?",
+		""
+	],
+	"c238": [
+		"Nyelvcset",
+		"Csettintsd a nyelved olyan hangosan, ahogy csak tudod.",
+		""
+	],
+	"c239": [
+		"Találd ki a hangot",
+		"Valaki hangot ad ki, te kitalálod, mi az.",
+		""
+	],
+	"c240": [
+		"Hátrajz",
+		"Rajzolj valamit valaki hátára, és hagyd, hogy kitalálja, mi az.",
+		""
+	],
+	"c241": [
+		"Kémkedős játék",
+		"Játsszátok azt, hogy „én egy olyat látok, ami...”.",
+		""
+	],
+	"c242": [
+		"Találd ki az árat",
+		"Tippeld meg, mennyibe kerül valami.",
+		""
+	],
+	"c243": [
+		"Ki az?",
+		"Csukott szemmel tapintsd ki, kinek az arca az.",
+		""
+	],
+	"c244": [
+		"Naplemente",
+		"Készítsd el a legszebb fotót egy naplementéről.",
+		""
+	],
+	"c245": [
+		"Szivárvány",
+		"Fotózz le egy szivárványt.",
+		""
+	],
+	"c246": [
+		"Hó",
+		"Készítsd el a legszebb hófotót.",
+		""
+	],
+	"c247": [
+		"Csillagos ég",
+		"Fotózd le a csillagokat.",
+		""
+	],
+	"c248": [
+		"Villám",
+		"Fotózz le egy villámot.",
+		"Csak bentről."
+	],
+	"c249": [
+		"Köd",
+		"Készítsd el a legszebb ködfotót.",
+		""
+	],
+	"c250": [
+		"Tükröződés",
+		"Fotózd le egy pocsolya tükröződését.",
+		""
+	],
+	"c251": [
+		"A legszebb virág",
+		"Fotózd le a legszebb virágot.",
+		""
+	],
+	"c252": [
+		"Madár",
+		"Fotózz le egy madarat.",
+		""
+	],
+	"c253": [
+		"Napfelkelte",
+		"Fotózd le a napfelkeltét.",
+		""
+	],
+	"c254": [
+		"Dér",
+		"Készítsd el a legszebb fotót a dérről.",
+		""
+	],
+	"c255": [
+		"Árnyék",
+		"Fotózd le az árnyékodat.",
+		""
+	],
+	"c256": [
+		"Tűzijáték",
+		"Fotózz le egy tűzijátékot.",
+		""
+	],
+	"c257": [
+		"Éjjel",
+		"Fotózd le a várost éjjel.",
+		""
+	],
+	"c258": [
+		"Tenger",
+		"Fotózd le a tengert.",
+		""
+	],
+	"c259": [
+		"Ősz",
+		"Készítsd el a legszebb őszi fotót.",
+		""
+	],
+	"c260": [
+		"Bók",
+		"Mondj valakinek egy bókot.",
+		""
+	],
+	"c261": [
+		"Ölelés",
+		"Ölelj meg valakit csak úgy.",
+		""
+	],
+	"c262": [
+		"Virág",
+		"Adj valakinek egy virágot.",
+		""
+	],
+	"c263": [
+		"Főzz valakinek",
+		"Főzz valakinek.",
+		""
+	],
+	"c264": [
+		"Csak felhívom",
+		"Hívj fel valakit csak úgy.",
+		""
+	],
+	"c265": [
+		"Segíts valakinek",
+		"Segíts valakinek csak úgy.",
+		""
+	],
+	"c266": [
+		"Oszd meg",
+		"Oszd meg valakivel valami finomat.",
+		""
+	],
+	"c267": [
+		"Nevettesd meg",
+		"Nevettess meg valakit.",
+		""
+	],
+	"c268": [
+		"Csak köszönöm",
+		"Köszönj meg valamit valakinek csak úgy.",
+		""
+	],
+	"c269": [
+		"Piknik",
+		"Rendezzetek pikniket.",
+		""
+	],
+	"c270": [
+		"Játékest",
+		"Tartsatok játékestet.",
+		""
+	],
+	"c271": [
+		"Filmest",
+		"Tartsatok filmestet.",
+		""
+	],
+	"c272": [
+		"Bocsánat",
+		"Kérj bocsánatot valakitől.",
+		""
+	],
+	"c273": [
+		"Hogy vagy?",
+		"Kérdezd meg valakitől, hogy tényleg hogy van.",
+		""
+	],
+	"c274": [
+		"Szeretlek",
+		"Mondd azt valakinek, hogy „szeretlek”, csak úgy.",
+		""
+	],
+	"d001": [
+		"Bámészkodó párbaj",
+		"Nézz valakinek egyenesen a szemébe 30 másodpercig nevetés nélkül. Aki elneveti magát, veszít.",
+		""
+	],
+	"d002": [
+		"Komoly arc",
+		"Maradj komoly 30 másodpercig nevetés nélkül.",
+		""
+	],
+	"d003": [
+		"Dühös tekintet",
+		"Nézz valakire igazán dühösen nevetés nélkül.",
+		""
+	],
+	"d004": [
+		"Kutyaszemek",
+		"Nézz valakire igazán szomorúan nevetés nélkül.",
+		""
+	],
+	"d005": [
+		"Utánozd az emojit",
+		"Mindketten ugyanazt az emojit kapjátok, és utánozzátok.",
+		""
+	],
+	"d006": [
+		"A legőrültebb táncmozdulat",
+		"Mutasd meg a legőrültebb táncmozdulatodat 10 másodperc alatt.",
+		""
+	],
+	"d007": [
+		"Találd ki az állatot",
+		"Játssz el egy állatot hang nélkül. Aki érthetőbben csinálja, nyer.",
+		""
+	],
+	"d008": [
+		"Légygitár",
+		"Játssz légygitáron, mint egy rocksztár. Aki jobban játszik, nyer.",
+		""
+	],
+	"d009": [
+		"Énekeld vissza",
+		"Aki először jön, elénekel egy dalrészletet. A másik visszaénekli.",
+		""
+	],
+	"d010": [
+		"Kő, papír, olló",
+		"Húzz követ, papírt vagy ollót, és mutasd meg. Aki nyer, azé a párbaj.",
+		""
+	],
+	"d011": [
+		"Csak igen vagy nem",
+		"Egy percig csak azt mondhatod, hogy „igen” vagy „nem”, miközben valaki kérdez.",
+		""
+	],
+	"d012": [
+		"Találd ki a szót",
+		"Aki először jön, tollat tart a fogai közt, és kimond egy könnyű szót. A másik kitalálja a szót.",
+		""
+	],
+	"d014": [
+		"A legőrültebb nevetés",
+		"Engedd ki a legőrültebb nevetésedet. A legőrültebb nevetés nyer.",
+		""
+	],
+	"d015": [
+		"A legbolondabb hang",
+		"Mondd azt, hogy „éhes vagyok”, a legbolondabb hangodon.",
+		""
+	],
+	"d016": [
+		"A legjobb vicc",
+		"Mesélj el a legviccesebb viccedet. A legviccesebb nyer.",
+		""
+	],
+	"d017": [
+		"A legjobb kifogás",
+		"Elkéstél. Találj ki a legőrültebb kifogást.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatboxolj 10 másodpercig. Aki jobban beatboxol, nyer.",
+		""
+	],
+	"d019": [
+		"Legszebb és legrondább cipő",
+		"Készíts egy fotót a legszebb és a legrondább cipődről egymás mellett: a szép balra, a ronda jobbra.",
+		""
+	],
+	"d020": [
+		"A legőrültebb zokni",
+		"Fotózd le a legfurább zoknipárodat a lábadon.",
+		""
+	],
+	"d022": [
+		"A legrondább ruhadarab",
+		"Vedd fel a legrondább ruhadarabodat, és készíts szelfit.",
+		""
+	],
+	"d025": [
+		"Egyperces őrült haj",
+		"Alkoss egy perc alatt a legőrültebb frizurát, és készíts szelfit.",
+		"Nem vágunk: csak a kezed, víz vagy fésű."
+	]
+}

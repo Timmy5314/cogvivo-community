@@ -1,0 +1,1118 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Citron-pokerface",
+		"Bit i en citronklyfta och behåll en allvarlig min i 10 sekunder. En grimas och du har förlorat.",
+		""
+	],
+	"c003": [
+		"Klarar du det här?",
+		"Testa de här fyra: rulla tungan, höj ena ögonbrynet, vicka på öronen och nå näsan med tungan. Hur många av de fyra klarar du?",
+		""
+	],
+	"c004": [
+		"Emoji-ansikten",
+		"Härma de här fem emojierna bara med ansiktet, två sekunder var: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Slow motion",
+		"Gör något helt vardagligt, som att kamma håret eller hälla upp ett glas, i extrem slow motion i 20 sekunder, ansiktet också.",
+		""
+	],
+	"c008": [
+		"Gissa meningen",
+		"Någon säger en mening utan ljud. Du gissar vad som sades.",
+		""
+	],
+	"c010": [
+		"Spola tillbaka",
+		"Filma något baklänges, till exempel hur du tar av dig jackan, och spela upp det i omvänd ordning så att det ser nästan normalt ut. Ju äktare det ser ut, desto bättre.",
+		""
+	],
+	"c014": [
+		"Sockdocksberättelse",
+		"Gör sockdockor och berätta en historia med dem.",
+		""
+	],
+	"c016": [
+		"Vad tänker ditt husdjur?",
+		"Filma ditt husdjur, ditt gosedjur eller din krukväxt och berätta i 20 sekunder vad som försiggår i huvudet på den.",
+		""
+	],
+	"c018": [
+		"Direktkommentator",
+		"Kommentera live som en sportkommentator medan någon gör något vardagligt.",
+		""
+	],
+	"c027": [
+		"Sak med ansikte",
+		"Ta ett foto av en sak som verkar ha ett ansikte.",
+		""
+	],
+	"c028": [
+		"Håll månen",
+		"Ta ett foto där du håller månen mellan två fingrar.",
+		""
+	],
+	"c029": [
+		"Gissa vad det är",
+		"Fotografera något hemma så nära att ingen kan se vad det är, och låt tittarna gissa.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Använd minst 30 foton för att göra en stop motion-film där saker på ditt bord väcks till liv av sig själva.",
+		""
+	],
+	"c039": [
+		"Gissa filmen",
+		"Agera ut en film. Tittarna gissar vilken film det är.",
+		""
+	],
+	"c046": [
+		"Fulaste selfien",
+		"Skicka din fulaste selfie till någon du känner.",
+		""
+	],
+	"c047": [
+		"Sjung en sång",
+		"Sjung en sång.",
+		""
+	],
+	"c049": [
+		"Någon annans outfit",
+		"Ta på dig en outfit som tillhör någon annan.",
+		""
+	],
+	"c050": [
+		"Gissa vem jag är",
+		"Imitera tre personer du känner, till exempel hur de skrattar eller pratar, och låt dem gissa vem som är vem.",
+		"Var snäll, inte elak."
+	],
+	"c051": [
+		"Vinka till en främling",
+		"Vinka till en främling och se om de vinkar tillbaka.",
+		""
+	],
+	"c061": [
+		"Snällt brev",
+		"Skriv en snäll lapp till någon.",
+		""
+	],
+	"c062": [
+		"Tack-meddelande",
+		"Skicka ett meddelande till någon för att tacka dem. Med ett tryck delar du det på WhatsApp.",
+		""
+	],
+	"c063": [
+		"Länge sedan sist",
+		"Skicka ett meddelande till någon du inte har pratat med på länge. Med ett tryck delar du det på WhatsApp.",
+		""
+	],
+	"c064": [
+		"Hemligt hushållsjobb",
+		"Gör i hemlighet ett hushållsjobb som någon annan hemma brukar göra, och filma hur de reagerar när de upptäcker det.",
+		""
+	],
+	"c077": [
+		"Sked på näsan",
+		"Häng en sked på näsroten. Hur många sekunder sitter den kvar?",
+		""
+	],
+	"c080": [
+		"Flaskvändning",
+		"Slå en volt med en plastflaska med lite vatten i så att den landar upprätt. Hur många i rad klarar du?",
+		""
+	],
+	"c094": [
+		"Min spegelbild",
+		"Härma allt som personen framför dig gör i 30 sekunder, som en spegel, medan de gör det svårare och svårare.",
+		""
+	],
+	"c098": [
+		"Dansa som om ingen tittar",
+		"Dansa som om ingen tittar.",
+		""
+	],
+	"c099": [
+		"Dansa med kompisar",
+		"Gör en dans med dina kompisar.",
+		""
+	],
+	"c101": [
+		"Roligaste selfien",
+		"Ta den roligaste selfien du kan.",
+		""
+	],
+	"c102": [
+		"Kändisimitation",
+		"Imitera en känd person.",
+		""
+	],
+	"c103": [
+		"Barndomsfoto",
+		"Dela ett foto av dig själv som barn.",
+		""
+	],
+	"c104": [
+		"Dubbelhaka",
+		"Ta en selfie med den största dubbelhaka du kan göra.",
+		""
+	],
+	"c105": [
+		"Näsborrsselfie",
+		"Ta en selfie underifrån, rakt upp i näsborrarna.",
+		""
+	],
+	"c106": [
+		"Ansikte mot rutan",
+		"Tryck ansiktet platt mot ett fönster och be någon ta ett foto från andra sidan.",
+		""
+	],
+	"c107": [
+		"Tejpansikte",
+		"Sätt en bit tejp över näsan och kinderna och ta en selfie.",
+		""
+	],
+	"c108": [
+		"Fingermustasch",
+		"Rita en mustasch på ett finger och håll det under näsan.",
+		""
+	],
+	"c109": [
+		"Grädd-skägg",
+		"Spruta vispgrädde på hakan som ett skägg och ta en selfie.",
+		""
+	],
+	"c110": [
+		"Knasig familjeselfie",
+		"Ta en selfie med din familj där alla gör en knasig min.",
+		""
+	],
+	"c111": [
+		"Pinsamt foto",
+		"Visa ditt mest pinsamma foto från förr.",
+		""
+	],
+	"c112": [
+		"Återskapa ditt bebisfoto",
+		"Återskapa ett bebisfoto av dig själv så exakt du kan.",
+		""
+	],
+	"c113": [
+		"Husdjursfoto",
+		"Ta det roligaste fotot av ditt husdjur.",
+		""
+	],
+	"c114": [
+		"Konstig sovställning",
+		"Fotografera ditt husdjur i dess konstigaste sovställning.",
+		""
+	],
+	"c115": [
+		"Selfie med ditt husdjur",
+		"Ta en selfie tillsammans med ditt husdjur.",
+		""
+	],
+	"c116": [
+		"Välkommen hem",
+		"Filma ditt husdjur när du kommer hem.",
+		""
+	],
+	"c117": [
+		"Husdjurskonst",
+		"Visa tricket som ditt husdjur kan.",
+		""
+	],
+	"c118": [
+		"Ny leksak",
+		"Ge ditt husdjur en ny leksak och filma vad det gör.",
+		""
+	],
+	"c119": [
+		"Skrämma någon",
+		"Göm dig och skrämma en kompis eller någon du bor med. Inte när de står i en trappa.",
+		""
+	],
+	"c120": [
+		"Mästertjuv",
+		"Ta i hemlighet något från en kompis utan att de märker det, och ge tillbaka det sedan.",
+		""
+	],
+	"c121": [
+		"Fejktatuering",
+		"Rita en fejktatuering och få någon att tro att den är äkta.",
+		""
+	],
+	"c122": [
+		"Varför?",
+		"Svara på allt någon säger med ”varför?” och filma det.",
+		""
+	],
+	"c123": [
+		"Fejkad födelsedag",
+		"När du äter ute, berätta för restaurangen att det är någons födelsedag fast det inte är det.",
+		""
+	],
+	"c124": [
+		"Sprucken skärm",
+		"Sätt ett foto av en sprucken skärm som bakgrund på telefonen hos någon hemma.",
+		""
+	],
+	"c125": [
+		"Lapp på ryggen",
+		"Sätt i hemlighet en rolig lapp på en kompis rygg. Hur länge går de runt med den?",
+		""
+	],
+	"c126": [
+		"Trasig mus",
+		"Sätt en lapp under någons datormus så att den slutar fungera.",
+		""
+	],
+	"c127": [
+		"Fotoram",
+		"Sätt ett foto av dig själv i en bildram hemma och vänta tills någon märker det.",
+		""
+	],
+	"c128": [
+		"Papegoja",
+		"Upprepa allt som din bror, syster eller kompis säger i en minut.",
+		""
+	],
+	"c129": [
+		"Gissa låten",
+		"Läppsynka en del av en känd låt utan ljud. Tittarna gissar vilken låt det är.",
+		""
+	],
+	"c130": [
+		"Blindsmakning",
+		"Smaka med slutna ögon på det någon ger dig och gissa vad det är.",
+		"Säg först till om du är allergisk mot något."
+	],
+	"c131": [
+		"Vem är jag?",
+		"Sätt en lapp med ett känt namn i pannan och ställ frågor för att gissa vem du är.",
+		""
+	],
+	"c132": [
+		"Snabbteckning",
+		"Rita något på 10 sekunder. Tittarna gissar vad det är.",
+		""
+	],
+	"c133": [
+		"Makeover av en kompis",
+		"Låt en kompis sminka dig.",
+		""
+	],
+	"c134": [
+		"Munnen full av vatten",
+		"Håll en klunk vatten i munnen medan någon drar skämt. Spottar du ut det är du ute.",
+		""
+	],
+	"c135": [
+		"Tungan ut",
+		"Läs upp en mening högt med tungan utstucken.",
+		""
+	],
+	"c136": [
+		"Galnaste skrattet",
+		"Släpp loss ditt galnaste skratt.",
+		""
+	],
+	"c137": [
+		"Matansikte",
+		"Gör ett ansikte av maten på din tallrik.",
+		""
+	],
+	"c138": [
+		"Galen frisyr",
+		"Låt någon fixa håret i den galnaste stilen.",
+		""
+	],
+	"c139": [
+		"Favoritmat",
+		"Dela ett foto av din favoritmat.",
+		""
+	],
+	"c140": [
+		"Morgondrycken",
+		"Dela ett foto av din morgondryck.",
+		""
+	],
+	"c141": [
+		"Mat du hatar",
+		"Dela ett foto av något du inte tycker om att äta.",
+		""
+	],
+	"c142": [
+		"Billig och god mat",
+		"Ta ett foto av billig men god mat.",
+		""
+	],
+	"c143": [
+		"Bästa naturfoto",
+		"Ta ditt vackraste naturfoto.",
+		""
+	],
+	"c144": [
+		"Bästa regnfoto",
+		"Ta det bästa fotot av regnet.",
+		""
+	],
+	"c145": [
+		"Bästa molnfoto",
+		"Ta det vackraste fotot av molnen.",
+		""
+	],
+	"c146": [
+		"Rolig gatuupptäckt",
+		"Ta ett foto av något roligt du ser på gatan.",
+		""
+	],
+	"c147": [
+		"Konstigaste maten",
+		"Fotografera din konstigaste mat.",
+		""
+	],
+	"c148": [
+		"Favoritgodis",
+		"Ta ett foto av ditt favoritgodis.",
+		""
+	],
+	"c149": [
+		"Föräldrarnas fulaste kläder",
+		"Ta ett foto av dina föräldrars fulaste kläder.",
+		""
+	],
+	"c150": [
+		"Halloween-kostym",
+		"Visa din bästa Halloween-kostym.",
+		""
+	],
+	"c151": [
+		"Festkostym",
+		"Visa din bästa festkostym.",
+		""
+	],
+	"c152": [
+		"Udda par",
+		"Ta på dig två olika skor eller strumpor.",
+		""
+	],
+	"c153": [
+		"Fånga godiset",
+		"Kasta upp ett godis i luften och fånga det med munnen.",
+		"Använd ett litet, mjukt godis."
+	],
+	"c154": [
+		"Pappersbollsskott",
+		"Kasta en pappersboll i papperskorgen från andra sidan rummet.",
+		""
+	],
+	"c155": [
+		"Roligaste fotot",
+		"Dela ditt roligaste foto.",
+		""
+	],
+	"c156": [
+		"Slanglektion",
+		"Lär din pappa, mamma, morfar, farfar, mormor eller farmor ett slangord.",
+		""
+	],
+	"c157": [
+		"Present utan anledning",
+		"Köp en liten present till någon, bara för att.",
+		""
+	],
+	"c158": [
+		"Emoji-meddelande",
+		"Skicka ett meddelande med bara emojier till dina föräldrar.",
+		""
+	],
+	"c159": [
+		"Frukost på sängen",
+		"Gör frukost på sängen åt någon hemma.",
+		""
+	],
+	"c160": [
+		"Ta med fika",
+		"Ta med fika till alla på jobbet eller i skolan.",
+		""
+	],
+	"c161": [
+		"Fixa en fest",
+		"Fixa en fest.",
+		""
+	],
+	"c162": [
+		"Bjud på en runda",
+		"Bjud dina kompisar på en runda drycker.",
+		""
+	],
+	"c163": [
+		"Dra ett skämt",
+		"Dra ett skämt.",
+		""
+	],
+	"c164": [
+		"Kuddkrig",
+		"Ha ett kuddkrig med din bror, syster eller kompis.",
+		""
+	],
+	"c165": [
+		"Dansa med dina föräldrar",
+		"Gör en dans tillsammans med din pappa eller mamma.",
+		""
+	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Häll en hink isvatten över huvudet.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Frys mitt i en rörelse med dina kompisar medan kameran går förbi.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Först dansar en person, sedan blir plötsligt alla galna.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Spark av korken från en flaska utan att välta flaskan.",
+		""
+	],
+	"c170": [
+		"Byt kläder",
+		"Lamporna släcks, lamporna tänds, och du och någon annan har varandras kläder på sig.",
+		""
+	],
+	"c171": [
+		"10 Year Challenge",
+		"Lägg ett foto från för 10 år sedan bredvid ett foto från nu.",
+		""
+	],
+	"c172": [
+		"Toarulle-bollen",
+		"Håll en toarulle uppe med foten, precis som en fotboll.",
+		""
+	],
+	"c173": [
+		"Plankan",
+		"Ligg stel som en planka på den galnaste platsen hemma hos dig.",
+		""
+	],
+	"c174": [
+		"Viskutmaningen",
+		"Ta på hörlurar med hög musik och gissa vad någon säger till dig.",
+		""
+	],
+	"c175": [
+		"Mentos och cola",
+		"Släpp ner Mentos i en colaflaska.",
+		""
+	],
+	"c176": [
+		"Spökfotografering",
+		"Gör en fotosession med ett lakan över huvudet och solglasögon på.",
+		""
+	],
+	"c177": [
+		"Golvet är lava",
+		"Ropa ”golvet är lava!” och alla måste upp från golvet.",
+		""
+	],
+	"c178": [
+		"Surast godis",
+		"Ät det surast godis du kan hitta.",
+		""
+	],
+	"c179": [
+		"Tortillasmäll",
+		"Spela sten, sax, påse med munnen full av vatten. Förloraren får en smäll med en tortilla.",
+		""
+	],
+	"c180": [
+		"Anklipp",
+		"Ta den där överdrivna ankmunsselfien från förr i tiden.",
+		""
+	],
+	"c181": [
+		"Munk på ett snöre",
+		"Ät en munk som hänger i ett snöre, utan att använda händerna.",
+		""
+	],
+	"c182": [
+		"Äppelfiske",
+		"Ta ett äpple ur ett kar med vatten utan att använda händerna.",
+		""
+	],
+	"c183": [
+		"Isskallt huvud",
+		"Ät en glass så snabbt du kan.",
+		""
+	],
+	"c184": [
+		"Äggroulette",
+		"Turas om att krossa ett ägg på huvudet. Ett av äggen är rått.",
+		""
+	],
+	"c185": [
+		"Tårta i ansiktet",
+		"Tryck en tallrik vispgrädde i ansiktet på en kompis.",
+		""
+	],
+	"c186": [
+		"Vad finns i lådan?",
+		"Känn med slutna ögon vad som finns i lådan och gissa vad det är.",
+		""
+	],
+	"c187": [
+		"Vattenballongskrig",
+		"Ha ett vattenballongskrig.",
+		""
+	],
+	"c188": [
+		"Säcklöpning",
+		"Ha en säcklöpning.",
+		""
+	],
+	"c189": [
+		"Stoleken",
+		"Spela stolleken.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Hur lågt kan du gå under stången?",
+		""
+	],
+	"c191": [
+		"Kurragömma",
+		"Spela kurragömma.",
+		""
+	],
+	"c192": [
+		"Snöbollskrig",
+		"Ha ett snöbollskrig.",
+		""
+	],
+	"c193": [
+		"Bomben",
+		"Gör ett bombhopp.",
+		"Bara i djupt vatten."
+	],
+	"c194": [
+		"Vattenrutschbana",
+		"Åk en vattenrutschbana.",
+		""
+	],
+	"c195": [
+		"Pyjamasparty",
+		"Ha en pyjamasparty.",
+		""
+	],
+	"c196": [
+		"Hoppa i pölen",
+		"Hoppa i en vattenpöl.",
+		""
+	],
+	"c197": [
+		"Håll ballongen uppe",
+		"Håll en ballong i luften utan att låta den röra marken.",
+		""
+	],
+	"c198": [
+		"Kallbad",
+		"Hoppa i kallt vatten.",
+		"Aldrig ensam, och bara där det är tillåtet att bada."
+	],
+	"c199": [
+		"Berg-och-dalbana",
+		"Åk en berg-och-dalbana.",
+		""
+	],
+	"c200": [
+		"Studsmatta",
+		"Hoppa på en studsmatta.",
+		""
+	],
+	"c201": [
+		"Nedgrävd i sanden",
+		"Låt dig grävas ner i sanden.",
+		"Håll huvudet fritt."
+	],
+	"c202": [
+		"Hålla bollen uppe",
+		"Hur många gånger kan du hålla en boll uppe?",
+		""
+	],
+	"c203": [
+		"Morgonrufs",
+		"Ta en selfie av ditt hår så fort du vaknar.",
+		""
+	],
+	"c204": [
+		"Strumpbyxeansikte",
+		"Dra ett par strumpbyxor över huvudet och ta en selfie.",
+		""
+	],
+	"c205": [
+		"Ballonghår",
+		"Gnid en ballong mot håret och ta ett foto.",
+		""
+	],
+	"c206": [
+		"Peruk",
+		"Ta på dig en peruk.",
+		""
+	],
+	"c207": [
+		"Galnaste hatten",
+		"Ta på dig den galnaste hatten.",
+		""
+	],
+	"c208": [
+		"Konstigaste ljudet",
+		"Gör det konstigaste ljud du kan.",
+		""
+	],
+	"c209": [
+		"Skela",
+		"Ta en selfie medan du skelar.",
+		""
+	],
+	"c210": [
+		"Badmössa",
+		"Ta på dig en badmössa och ta en selfie.",
+		""
+	],
+	"c211": [
+		"Solglasögon inomhus",
+		"Ha solglasögon på dig inomhus.",
+		""
+	],
+	"c212": [
+		"Kulögon",
+		"Klistra kulögon på något.",
+		""
+	],
+	"c213": [
+		"Fejkgodis",
+		"Ge någon ett godis som i hemlighet är något helt annat.",
+		""
+	],
+	"c214": [
+		"Salt i sockerskålen",
+		"Byt i hemlighet ut sockret mot salt.",
+		""
+	],
+	"c215": [
+		"Rakskum",
+		"Lägg rakskum i handen på någon som sover och kittla dem på näsan.",
+		""
+	],
+	"c216": [
+		"Isbit",
+		"Släpp i hemlighet en isbit innanför någons tröja.",
+		""
+	],
+	"c217": [
+		"Osynlig",
+		"Låtsas att någon är osynlig.",
+		""
+	],
+	"c218": [
+		"Fel namn",
+		"Fortsätt kalla någon vid fel namn.",
+		""
+	],
+	"c219": [
+		"Få dem att tro det",
+		"Få någon att tro på något som inte är sant.",
+		""
+	],
+	"c220": [
+		"Fejkad insekt",
+		"Skrämma någon med en fejkad insekt.",
+		""
+	],
+	"c221": [
+		"Fejkat tappat",
+		"Låtsas tappa något dyrt.",
+		""
+	],
+	"c222": [
+		"Vattenpistol",
+		"Skvätt på någon med en vattenpistol.",
+		""
+	],
+	"c223": [
+		"Prutthyllan",
+		"Sätt igång en prutthylla.",
+		""
+	],
+	"c224": [
+		"Vad i hela friden",
+		"Håll upp en filt, släpp den och göm dig. Vad gör din hund eller katt?",
+		""
+	],
+	"c225": [
+		"Härma ditt husdjur",
+		"Härma ditt husdjur.",
+		""
+	],
+	"c226": [
+		"Kurragömma med ditt husdjur",
+		"Göm dig och låt ditt husdjur hitta dig.",
+		""
+	],
+	"c227": [
+		"Matdags",
+		"Filma ditt husdjur när det får sin mat.",
+		""
+	],
+	"c228": [
+		"Spegeln",
+		"Låt ditt husdjur titta i spegeln.",
+		""
+	],
+	"c229": [
+		"Största bubblan",
+		"Blås den största tuggummibubbla du kan.",
+		""
+	],
+	"c230": [
+		"Pingisboll i en mugg",
+		"Studsa en pingisboll ner i en mugg.",
+		""
+	],
+	"c231": [
+		"Hula hoop",
+		"Hur länge kan du hålla en hula hoop-ring igång?",
+		""
+	],
+	"c232": [
+		"Snögubbe",
+		"Bygg en snögubbe.",
+		""
+	],
+	"c233": [
+		"Mynt på armbågen",
+		"Lägg ett mynt på armbågen och fånga det.",
+		""
+	],
+	"c234": [
+		"Fingervissling",
+		"Vissla med fingrarna.",
+		""
+	],
+	"c235": [
+		"Trolleritrick",
+		"Visa en trolleritrick.",
+		""
+	],
+	"c236": [
+		"Kasta macka",
+		"Kasta macka med en sten över vattnet.",
+		""
+	],
+	"c237": [
+		"Hopprep",
+		"Hur många hopp kan du göra med ett hopprep?",
+		""
+	],
+	"c238": [
+		"Tungknäpp",
+		"Knäpp med tungan så högt du kan.",
+		""
+	],
+	"c239": [
+		"Gissa ljudet",
+		"Någon gör ett ljud, du gissar vad det är.",
+		""
+	],
+	"c240": [
+		"Ryggteckning",
+		"Rita något på någons rygg och låt dem gissa vad det är.",
+		""
+	],
+	"c241": [
+		"Jag ser något du inte ser",
+		"Spela ”jag ser något som du inte ser”.",
+		""
+	],
+	"c242": [
+		"Gissa priset",
+		"Gissa vad något kostar.",
+		""
+	],
+	"c243": [
+		"Vem är det?",
+		"Känn med slutna ögon vems ansikte det är.",
+		""
+	],
+	"c244": [
+		"Solnedgång",
+		"Ta det vackraste fotot av en solnedgång.",
+		""
+	],
+	"c245": [
+		"Regnbåge",
+		"Ta ett foto av en regnbåge.",
+		""
+	],
+	"c246": [
+		"Snö",
+		"Ta det vackraste snöfotot.",
+		""
+	],
+	"c247": [
+		"Stjärnhimmel",
+		"Ta ett foto av stjärnorna.",
+		""
+	],
+	"c248": [
+		"Blixt",
+		"Ta ett foto av en blixt.",
+		"Bara inifrån."
+	],
+	"c249": [
+		"Dimma",
+		"Ta det vackraste fotot av dimma.",
+		""
+	],
+	"c250": [
+		"Spegling",
+		"Ta ett foto av en spegling i en pöl.",
+		""
+	],
+	"c251": [
+		"Vackraste blomman",
+		"Ta ett foto av den vackraste blomman.",
+		""
+	],
+	"c252": [
+		"Fågel",
+		"Ta ett foto av en fågel.",
+		""
+	],
+	"c253": [
+		"Soluppgång",
+		"Ta ett foto av soluppgången.",
+		""
+	],
+	"c254": [
+		"Frost",
+		"Ta det vackraste fotot av frost.",
+		""
+	],
+	"c255": [
+		"Skugga",
+		"Ta ett foto av din skugga.",
+		""
+	],
+	"c256": [
+		"Fyrverkerier",
+		"Ta ett foto av fyrverkerier.",
+		""
+	],
+	"c257": [
+		"På natten",
+		"Ta ett foto av staden på natten.",
+		""
+	],
+	"c258": [
+		"Havet",
+		"Ta ett foto av havet.",
+		""
+	],
+	"c259": [
+		"Hösten",
+		"Ta det vackraste höstfotot.",
+		""
+	],
+	"c260": [
+		"Komplimang",
+		"Ge någon en komplimang.",
+		""
+	],
+	"c261": [
+		"Kram",
+		"Ge någon en kram, bara för att.",
+		""
+	],
+	"c262": [
+		"Blomma",
+		"Ge någon en blomma.",
+		""
+	],
+	"c263": [
+		"Laga mat åt någon",
+		"Laga mat åt någon.",
+		""
+	],
+	"c264": [
+		"Ring bara",
+		"Ring någon, bara för att.",
+		""
+	],
+	"c265": [
+		"Hjälp någon",
+		"Hjälp någon, bara för att.",
+		""
+	],
+	"c266": [
+		"Dela",
+		"Dela något gott med någon.",
+		""
+	],
+	"c267": [
+		"Få dem att skratta",
+		"Få någon att skratta.",
+		""
+	],
+	"c268": [
+		"Säg bara tack",
+		"Tacka någon, bara för att.",
+		""
+	],
+	"c269": [
+		"Picknick",
+		"Ha en picknick.",
+		""
+	],
+	"c270": [
+		"Spelkväll",
+		"Ha en spelkväll.",
+		""
+	],
+	"c271": [
+		"Filmkväll",
+		"Ha en filmkväll.",
+		""
+	],
+	"c272": [
+		"Förlåt",
+		"Be någon om förlåtelse.",
+		""
+	],
+	"c273": [
+		"Hur mår du?",
+		"Fråga någon hur de verkligen mår.",
+		""
+	],
+	"c274": [
+		"Jag älskar dig",
+		"Säg ”jag älskar dig” till någon, bara för att.",
+		""
+	],
+	"d001": [
+		"Stirrtävling",
+		"Titta någon rakt i ögonen i 30 sekunder utan att skratta. Den som skrattar förlorar.",
+		""
+	],
+	"d002": [
+		"Håll masken",
+		"Var allvarlig i 30 sekunder utan att skratta.",
+		""
+	],
+	"d003": [
+		"Arg blick",
+		"Ge någon en riktigt arg blick utan att skratta.",
+		""
+	],
+	"d004": [
+		"Hundvalpsögon",
+		"Ge någon en riktigt ledsen blick utan att skratta.",
+		""
+	],
+	"d005": [
+		"Härma emojin",
+		"Ni får samma emoji och härmar den.",
+		""
+	],
+	"d006": [
+		"Galnaste danssteget",
+		"Visa ditt galnaste danssteg på 10 sekunder.",
+		""
+	],
+	"d007": [
+		"Gissa djuret",
+		"Agera ut ett djur utan ljud. Den som är tydligast vinner.",
+		""
+	],
+	"d008": [
+		"Luftgitarr",
+		"Spela luftgitarr som en rockstjärna. Den som spelar bäst vinner.",
+		""
+	],
+	"d009": [
+		"Sjung tillbaka",
+		"Den som går först sjunger en bit av en låt. Den andra sjunger tillbaka.",
+		""
+	],
+	"d010": [
+		"Sten, sax, påse",
+		"Dra sten, sax eller påse och visa den. Den som vinner vinner duellen.",
+		""
+	],
+	"d011": [
+		"Bara ja eller nej",
+		"I en minut får du bara säga ”ja” eller ”nej” medan någon ställer frågor till dig.",
+		""
+	],
+	"d012": [
+		"Gissa ordet",
+		"Den som går först håller en penna mellan tänderna och säger ett enkelt ord. Den andra gissar ordet.",
+		""
+	],
+	"d014": [
+		"Galnaste skrattet",
+		"Släpp loss ditt galnaste skratt. Det galnaste skrattet vinner.",
+		""
+	],
+	"d015": [
+		"Töntigaste rösten",
+		"Säg ”jag är hungrig” med din töntigaste röst.",
+		""
+	],
+	"d016": [
+		"Bästa skämtet",
+		"Dra ditt roligaste skämt. Det roligaste vinner.",
+		""
+	],
+	"d017": [
+		"Bästa ursäkten",
+		"Du är sen. Hitta på den galnaste ursäkten.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatboxa i 10 sekunder. Den som beatboxar bäst vinner.",
+		""
+	],
+	"d019": [
+		"Bästa och sämsta skon",
+		"Ta ett foto av dina finaste och fulaste skor sida vid sida: fina till vänster, fula till höger.",
+		""
+	],
+	"d020": [
+		"Galnaste strumporna",
+		"Ta ett foto av ditt konstigaste par strumpor, på fötterna.",
+		""
+	],
+	"d022": [
+		"Fulaste klädesplagget",
+		"Ta på dig ditt fulaste klädesplagg och ta en selfie.",
+		""
+	],
+	"d025": [
+		"Galen frisyr på en minut",
+		"Gör din galnaste frisyr på 1 minut och ta en selfie.",
+		"Ingen klippning: bara händer, vatten eller en kam."
+	]
+}

@@ -1,0 +1,1118 @@
+{
+	"_about": "Per challenge or duel: [title, rule, note]. An empty note means none. Keys follow challenges/README.md and challenges/duels.md.",
+	"c002": [
+		"Citronový pokerface",
+		"Zakousni se do měsíčku citronu a udrž 10 sekund vážnou tvář. Jedna grimasa a prohráváš.",
+		""
+	],
+	"c003": [
+		"Dokážeš to?",
+		"Zkus těchto čtyř věcí: stočit jazyk do trubičky, zvednout jedno obočí, pohnout ušima a dotknout se jazykem nosu. Kolik z nich zvládneš?",
+		""
+	],
+	"c004": [
+		"Emoji obličeje",
+		"Napodob těchto pět emoji jen obličejem, každé dvě sekundy: 😱 🤨 😴 🤢 😍",
+		""
+	],
+	"c007": [
+		"Zpomalený záběr",
+		"Dělej něco úplně obyčejného, třeba si češ vlasy nebo nalévej sklenici, 20 sekund v extrémním zpomalení, obličej včetně.",
+		""
+	],
+	"c008": [
+		"Uhodni větu",
+		"Někdo řekne větu bez zvuku. Ty hádáš, co řekl.",
+		""
+	],
+	"c010": [
+		"Přetáčení zpět",
+		"Natoč něco pozpátku, třeba jak si svlékáš bundu, a přehraj to obráceně, aby to vypadalo skoro normálně. Čím reálnější, tím líp.",
+		""
+	],
+	"c014": [
+		"Příběh s ponožkovými maňásky",
+		"Vyrob ponožkové maňásky a vyprávěj s nimi příběh.",
+		""
+	],
+	"c016": [
+		"Co si myslí tvůj mazlíček?",
+		"Natoč svého mazlíčka, plyšáka nebo pokojovou rostlinu a 20 sekund nahlas říkej, co se mu honí hlavou.",
+		""
+	],
+	"c018": [
+		"Sportovní komentář naživo",
+		"Komentuj naživo jako sportovní reportér, zatímco někdo dělá něco všedního.",
+		""
+	],
+	"c027": [
+		"Věc s obličejem",
+		"Vyfoť předmět, který vypadá, jako by měl obličej.",
+		""
+	],
+	"c028": [
+		"Drž měsíc",
+		"Vyfoť se, jak držíš měsíc mezi dvěma prsty.",
+		""
+	],
+	"c029": [
+		"Hádej, co to je",
+		"Vyfoť doma něco tak zblízka, že nikdo nepozná, co to je, a nech diváky hádat.",
+		""
+	],
+	"c033": [
+		"Stop motion",
+		"Z aspoň 30 fotek udělej stop-motion klip, ve kterém ožívají věci na tvém stole.",
+		""
+	],
+	"c039": [
+		"Uhodni film",
+		"Zahraj film beze slov. Diváci hádají, který film to je.",
+		""
+	],
+	"c046": [
+		"Nejošklivější selfie",
+		"Pošli své nejošklivější selfie někomu, koho znáš.",
+		""
+	],
+	"c047": [
+		"Zazpívej písničku",
+		"Zazpívej písničku.",
+		""
+	],
+	"c049": [
+		"Cizí outfit",
+		"Obleč si outfit, který patří někomu jinému.",
+		""
+	],
+	"c050": [
+		"Hádej, kdo jsem",
+		"Předveď tři lidi, které znáš, třeba jak se smějí nebo mluví, a nech je hádat, kdo je kdo.",
+		"Ať je to hodné, ne zlé."
+	],
+	"c051": [
+		"Zamávej cizímu",
+		"Zamávej cizímu člověku a uvidíš, jestli zamává zpátky.",
+		""
+	],
+	"c061": [
+		"Milý vzkaz",
+		"Napiš někomu milý vzkaz.",
+		""
+	],
+	"c062": [
+		"Zpráva s poděkováním",
+		"Pošli někomu zprávu, ve které mu poděkuješ. Jedním klepnutím ji sdílíš na WhatsAppu.",
+		""
+	],
+	"c063": [
+		"Dlouho ticho",
+		"Napiš někomu, s kým ses dlouho neslyšel(a). Jedním klepnutím to sdílíš na WhatsAppu.",
+		""
+	],
+	"c064": [
+		"Tajná povinnost",
+		"Tajně udělej domácí práci, kterou obvykle dělá někdo jiný, a natoč, jak zareaguje, když na to přijde.",
+		""
+	],
+	"c077": [
+		"Lžíce na nose",
+		"Pověs si lžíci na špičku nosu. Kolik sekund tam vydrží?",
+		""
+	],
+	"c080": [
+		"Bottle flip",
+		"Hoď plastovou lahví s trochou vody tak, aby dopadla na dno. Kolikrát za sebou se ti to povede?",
+		""
+	],
+	"c094": [
+		"Zrcadlo",
+		"Po dobu 30 sekund opakuj všechno, co dělá člověk naproti tobě, jako zrcadlo, zatímco on to stále ztěžuje.",
+		""
+	],
+	"c098": [
+		"Tancuj, jako by se nikdo nedíval",
+		"Tancuj, jako by se nikdo nedíval.",
+		""
+	],
+	"c099": [
+		"Tanec s kamarády",
+		"Zatancuj si s kamarády.",
+		""
+	],
+	"c101": [
+		"Nejlegračnější selfie",
+		"Udělej nejlegračnější selfie, jaké dokážeš.",
+		""
+	],
+	"c102": [
+		"Imitace celebrity",
+		"Předveď imitaci slavné osobnosti.",
+		""
+	],
+	"c103": [
+		"Fotka z dětství",
+		"Sdílej svou fotku z dětství.",
+		""
+	],
+	"c104": [
+		"Dvojitá brada",
+		"Udělej selfie s co největší dvojitou bradou.",
+		""
+	],
+	"c105": [
+		"Selfie z nosních dírek",
+		"Vyfoť selfie zespodu, přímo do nosních dírek.",
+		""
+	],
+	"c106": [
+		"Obličej na okně",
+		"Přitlač obličej na okno a nech se vyfotit z druhé strany.",
+		""
+	],
+	"c107": [
+		"Obličej z lepenky",
+		"Nalep si na nos a tváře kousek lepicí pásky a udělej selfie.",
+		""
+	],
+	"c108": [
+		"Knírek z prstu",
+		"Nakresli si na prst knírek a přidrž si ho pod nosem.",
+		""
+	],
+	"c109": [
+		"Vousy ze šlehačky",
+		"Nastříkej si na bradu šlehačku jako vousy a udělej selfie.",
+		""
+	],
+	"c110": [
+		"Praštěné rodinné selfie",
+		"Udělej selfie s rodinou, ve kterém všichni dělají legrační obličej.",
+		""
+	],
+	"c111": [
+		"Trapná fotka",
+		"Ukaž svou nejtrapnější fotku z minulosti.",
+		""
+	],
+	"c112": [
+		"Napodob svou fotku z miminka",
+		"Co nejpřesněji napodob svou fotku z miminka.",
+		""
+	],
+	"c113": [
+		"Fotka mazlíčka",
+		"Vyfoť svého mazlíčka v nejvtipnější chvíli.",
+		""
+	],
+	"c114": [
+		"Divná poloha při spaní",
+		"Vyfoť svého mazlíčka v jeho nejdivnější spací poloze.",
+		""
+	],
+	"c115": [
+		"Selfie s mazlíčkem",
+		"Udělej selfie spolu se svým mazlíčkem.",
+		""
+	],
+	"c116": [
+		"Vítej doma",
+		"Natoč svého mazlíčka, když přijdeš domů.",
+		""
+	],
+	"c117": [
+		"Trik mazlíčka",
+		"Ukaž trik, který tvůj mazlíček umí.",
+		""
+	],
+	"c118": [
+		"Nová hračka",
+		"Dej svému mazlíčkovi novou hračku a natoč, co s ní dělá.",
+		""
+	],
+	"c119": [
+		"Vyděs někoho",
+		"Schovej se a vyděs kamaráda nebo spolubydlícího. Ne když jde po schodech.",
+		""
+	],
+	"c120": [
+		"Mistr zloděj",
+		"Tajně někomu z kamarádů něco vezmi tak, aby si toho nevšiml, a pak to vrať.",
+		""
+	],
+	"c121": [
+		"Falešné tetování",
+		"Nakresli si falešné tetování a přesvědč někoho, že je pravé.",
+		""
+	],
+	"c122": [
+		"Proč?",
+		"Na všechno, co někdo řekne, odpovídej „proč?“ a natoč to.",
+		""
+	],
+	"c123": [
+		"Falešné narozeniny",
+		"Když jdeš do restaurace, řekni obsluze, že má někdo narozeniny, i když nemá.",
+		""
+	],
+	"c124": [
+		"Rozbitý displej",
+		"Nastav někomu doma jako tapetu v telefonu fotku rozbitého displeje.",
+		""
+	],
+	"c125": [
+		"Vzkaz na zádech",
+		"Tajně nalep kamarádovi na záda vtipný lísteček. Jak dlouho s ním bude chodit?",
+		""
+	],
+	"c126": [
+		"Rozbitá myš",
+		"Nalep někomu pod počítačovou myš lísteček, aby přestala fungovat.",
+		""
+	],
+	"c127": [
+		"Fotka v rámečku",
+		"Dej doma do rámečku svou fotku a čekej, až si toho někdo všimne.",
+		""
+	],
+	"c128": [
+		"Papoušek",
+		"Po dobu jedné minuty opakuj všechno, co řekne tvůj brácha, ségra nebo kamarád.",
+		""
+	],
+	"c129": [
+		"Uhodni písničku",
+		"Bez zvuku zahraj pusou část známé písničky. Diváci hádají, která to je.",
+		""
+	],
+	"c130": [
+		"Ochutnávka poslepu",
+		"Se zavřenýma očima ochutnej, co ti někdo podá, a hádej, co to je.",
+		"Řekni předem, jestli jsi na něco alergický/á."
+	],
+	"c131": [
+		"Kdo jsem?",
+		"Nalep si na čelo lísteček se slavným jménem a otázkami hádej, kdo jsi.",
+		""
+	],
+	"c132": [
+		"Rychlá kresba",
+		"Nakresli něco za 10 sekund. Diváci hádají, co to je.",
+		""
+	],
+	"c133": [
+		"Líčení od kamaráda",
+		"Nech se nalíčit kamarádem.",
+		""
+	],
+	"c134": [
+		"Pusa plná vody",
+		"Drž v puse doušek vody, zatímco ti někdo vypráví vtipy. Když ji vyplivneš, jsi venku.",
+		""
+	],
+	"c135": [
+		"Jazyk ven",
+		"Přečti nahlas větu s vyplazeným jazykem.",
+		""
+	],
+	"c136": [
+		"Nejbláznivější smích",
+		"Vyprsk ten nejbláznivější smích.",
+		""
+	],
+	"c137": [
+		"Obličej z jídla",
+		"Udělej obličej z jídla na svém talíři.",
+		""
+	],
+	"c138": [
+		"Bláznivý účes",
+		"Nech si udělat ten nejbláznivější účes.",
+		""
+	],
+	"c139": [
+		"Oblíbené jídlo",
+		"Sdílej fotku svého oblíbeného jídla.",
+		""
+	],
+	"c140": [
+		"Ranní pití",
+		"Sdílej fotku svého ranního pití.",
+		""
+	],
+	"c141": [
+		"Jídlo, které nesnášíš",
+		"Sdílej fotku něčeho, co nerad(a) jíš.",
+		""
+	],
+	"c142": [
+		"Levné a dobré",
+		"Vyfoť levné, ale chutné jídlo.",
+		""
+	],
+	"c143": [
+		"Nejlepší foto přírody",
+		"Vyfoť svou nejkrásnější fotku přírody.",
+		""
+	],
+	"c144": [
+		"Nejlepší foto deště",
+		"Vyfoť tu nejlepší fotku deště.",
+		""
+	],
+	"c145": [
+		"Nejlepší foto mraků",
+		"Vyfoť nejkrásnější fotku mraků.",
+		""
+	],
+	"c146": [
+		"Vtipný nález z ulice",
+		"Vyfoť něco vtipného, co uvidíš na ulici.",
+		""
+	],
+	"c147": [
+		"Nejpodivnější jídlo",
+		"Vyfoť své nejpodivnější jídlo.",
+		""
+	],
+	"c148": [
+		"Oblíbená sladkost",
+		"Vyfoť svou oblíbenou sladkost.",
+		""
+	],
+	"c149": [
+		"Nejošklivější oblečení rodičů",
+		"Vyfoť nejošklivější oblečení svých rodičů.",
+		""
+	],
+	"c150": [
+		"Halloweenský kostým",
+		"Ukaž svůj nejlepší halloweenský kostým.",
+		""
+	],
+	"c151": [
+		"Kostým na párty",
+		"Ukaž svůj nejlepší kostým na párty.",
+		""
+	],
+	"c152": [
+		"Nepárové",
+		"Obuj si každou botu jinou nebo dvě různé ponožky.",
+		""
+	],
+	"c153": [
+		"Chyť bonbon",
+		"Vyhoď bonbon do vzduchu a chyť ho do pusy.",
+		"Použij malý, měkký bonbon."
+	],
+	"c154": [
+		"Hod papírovou koulí",
+		"Hoď papírovou kouli do koše z druhého konce místnosti.",
+		""
+	],
+	"c155": [
+		"Nejvtipnější foto",
+		"Sdílej svou nejvtipnější fotku.",
+		""
+	],
+	"c156": [
+		"Lekce slangu",
+		"Nauč tátu, mámu, dědu nebo babičku jedno slangové slovo.",
+		""
+	],
+	"c157": [
+		"Dáreček jen tak",
+		"Kup někomu malý dárek, jen tak.",
+		""
+	],
+	"c158": [
+		"Zpráva z emoji",
+		"Pošli rodičům zprávu jen z emoji.",
+		""
+	],
+	"c159": [
+		"Snídaně do postele",
+		"Připrav někomu doma snídani do postele.",
+		""
+	],
+	"c160": [
+		"Přines něco dobrého",
+		"Přines něco dobrého pro všechny v práci nebo ve škole.",
+		""
+	],
+	"c161": [
+		"Uspořádej párty",
+		"Uspořádej párty.",
+		""
+	],
+	"c162": [
+		"Pozvi na rundu",
+		"Pozvi kamarády na rundu pití.",
+		""
+	],
+	"c163": [
+		"Řekni vtip",
+		"Řekni vtip.",
+		""
+	],
+	"c164": [
+		"Polštářová bitva",
+		"Uspořádej polštářovou bitvu s bráchou, ségrou nebo kamarádem.",
+		""
+	],
+	"c165": [
+		"Tanec s rodiči",
+		"Zatancuj si společně s tátou nebo mámou.",
+		""
+	],
+	"c166": [
+		"Ice Bucket Challenge",
+		"Vylij si na hlavu kbelík ledové vody.",
+		""
+	],
+	"c167": [
+		"Mannequin Challenge",
+		"Zmraz se uprostřed pohybu s kamarády, zatímco kolem prochází kamera.",
+		""
+	],
+	"c168": [
+		"Harlem Shake",
+		"Nejdřív tančí jeden člověk, pak najednou všichni zdivočí.",
+		""
+	],
+	"c169": [
+		"Bottle Cap Challenge",
+		"Kopnutím sraz uzávěr z láhve tak, aby láhev zůstala stát.",
+		""
+	],
+	"c170": [
+		"Přepni to",
+		"Světlo zhasne, světlo se rozsvítí a ty a někdo další máte na sobě oblečení toho druhého.",
+		""
+	],
+	"c171": [
+		"Výzva 10 let",
+		"Dej vedle sebe fotku z doby před 10 lety a fotku ze současnosti.",
+		""
+	],
+	"c172": [
+		"Kopaná s rolí toaletního papíru",
+		"Udrž nohou roli toaletního papíru ve vzduchu jako fotbalový míč.",
+		""
+	],
+	"c173": [
+		"Planking",
+		"Lehni si ztuhle jako prkno na nejbláznivější místo ve svém domově.",
+		""
+	],
+	"c174": [
+		"Whisper Challenge",
+		"Nasaď si sluchátka s hlasitou hudbou a hádej, co ti někdo říká.",
+		""
+	],
+	"c175": [
+		"Mentos a kola",
+		"Hoď Mentosky do láhve koly.",
+		""
+	],
+	"c176": [
+		"Focení s duchem",
+		"Udělej fotoshooting s prostěradlem přes hlavu a se slunečními brýlemi.",
+		""
+	],
+	"c177": [
+		"Podlaha je láva",
+		"Zakřič „podlaha je láva!“ a všichni musí z podlahy pryč.",
+		""
+	],
+	"c178": [
+		"Nejkyselejší bonbon",
+		"Sněz nejkyselejší bonbon, jaký najdeš.",
+		""
+	],
+	"c179": [
+		"Facka tortillou",
+		"Hrajte kámen, nůžky, papír s pusou plnou vody. Poražený dostane facku tortillou.",
+		""
+	],
+	"c180": [
+		"Kachní pusa",
+		"Udělej to přehnané selfie s kachní pusou jako za starých časů.",
+		""
+	],
+	"c181": [
+		"Kobliha na provázku",
+		"Sněz koblihu visící na provázku bez pomoci rukou.",
+		""
+	],
+	"c182": [
+		"Jablko ve vodě",
+		"Vytáhni jablko z necek s vodou bez pomoci rukou.",
+		""
+	],
+	"c183": [
+		"Mrazení v hlavě",
+		"Sněz zmrzlinu co nejrychleji.",
+		""
+	],
+	"c184": [
+		"Vaječná ruleta",
+		"Střídavě si rozbíjejte vejce o hlavu. Jedno z nich je syrové.",
+		""
+	],
+	"c185": [
+		"Dort do obličeje",
+		"Přitiskni kamarádovi talíř se šlehačkou do obličeje.",
+		""
+	],
+	"c186": [
+		"Co je v krabici?",
+		"Se zavřenýma očima nahmatej, co je v krabici, a hádej, co to je.",
+		""
+	],
+	"c187": [
+		"Bitva vodními balónky",
+		"Uspořádejte bitvu vodními balónky.",
+		""
+	],
+	"c188": [
+		"Běh v pytlích",
+		"Uspořádejte běh v pytlích.",
+		""
+	],
+	"c189": [
+		"Židličkovaná",
+		"Zahrajte si židličkovanou.",
+		""
+	],
+	"c190": [
+		"Limbo",
+		"Jak nízko se dostaneš pod tyč?",
+		""
+	],
+	"c191": [
+		"Schovávaná",
+		"Zahrajte si schovávanou.",
+		""
+	],
+	"c192": [
+		"Bitva sněhovými koulemi",
+		"Uspořádejte bitvu sněhovými koulemi.",
+		""
+	],
+	"c193": [
+		"Bomba",
+		"Skoč do vody „bombou“.",
+		"Jen do hluboké vody."
+	],
+	"c194": [
+		"Vodní skluzavka",
+		"Sjeď vodní skluzavku.",
+		""
+	],
+	"c195": [
+		"Přespávačka",
+		"Uspořádejte přespávačku.",
+		""
+	],
+	"c196": [
+		"Skok do kaluže",
+		"Skoč do kaluže.",
+		""
+	],
+	"c197": [
+		"Udrž balónek",
+		"Udrž nafouknutý balónek ve vzduchu, aby se nedotkl země.",
+		""
+	],
+	"c198": [
+		"Skok do studené vody",
+		"Skoč do studené vody.",
+		"Nikdy sám/sama a jen tam, kde je koupání povoleno."
+	],
+	"c199": [
+		"Horská dráha",
+		"Svez se na horské dráze.",
+		""
+	],
+	"c200": [
+		"Trampolína",
+		"Skákej na trampolíně.",
+		""
+	],
+	"c201": [
+		"Zakopaný v písku",
+		"Nech se zakopat do písku.",
+		"Hlavu nech volnou."
+	],
+	"c202": [
+		"Žonglování s míčem",
+		"Kolikrát dokážeš udržet míč ve vzduchu?",
+		""
+	],
+	"c203": [
+		"Ranní vlasy",
+		"Hned po probuzení si vyfoť selfie svých vlasů.",
+		""
+	],
+	"c204": [
+		"Punčocha na hlavě",
+		"Natáhni si na hlavu punčochy a udělej selfie.",
+		""
+	],
+	"c205": [
+		"Vlasy z balónku",
+		"Třeň balónkem o vlasy a vyfoť se.",
+		""
+	],
+	"c206": [
+		"Paruka",
+		"Nasaď si paruku.",
+		""
+	],
+	"c207": [
+		"Nejbláznivější klobouk",
+		"Nasaď si ten nejbláznivější klobouk.",
+		""
+	],
+	"c208": [
+		"Nejpodivnější zvuk",
+		"Vydej ten nejpodivnější zvuk, jaký dokážeš.",
+		""
+	],
+	"c209": [
+		"Šilhání",
+		"Udělej selfie a přitom šilhej.",
+		""
+	],
+	"c210": [
+		"Plavecká čepice",
+		"Nasaď si plaveckou čepici a udělej selfie.",
+		""
+	],
+	"c211": [
+		"Brýle v místnosti",
+		"Měj v místnosti sluneční brýle.",
+		""
+	],
+	"c212": [
+		"Kulaté oči",
+		"Nalep na něco kulaté očičko.",
+		""
+	],
+	"c213": [
+		"Falešný bonbon",
+		"Dej někomu bonbon, který je ve skutečnosti úplně něco jiného.",
+		""
+	],
+	"c214": [
+		"Sůl v cukřence",
+		"Tajně vyměň cukr za sůl.",
+		""
+	],
+	"c215": [
+		"Holicí pěna",
+		"Nastříkej spícímu člověku do dlaně holicí pěnu a pošimrej ho na nose.",
+		""
+	],
+	"c216": [
+		"Kostka ledu",
+		"Tajně někomu hoď kostku ledu za tričko.",
+		""
+	],
+	"c217": [
+		"Neviditelný",
+		"Dělej, že je někdo neviditelný.",
+		""
+	],
+	"c218": [
+		"Špatné jméno",
+		"Oslovuj někoho pořád špatným jménem.",
+		""
+	],
+	"c219": [
+		"Přesvědč ho",
+		"Přesvědč někoho, že je pravda něco, co pravda není.",
+		""
+	],
+	"c220": [
+		"Falešný brouk",
+		"Vyděs někoho falešným broukem.",
+		""
+	],
+	"c221": [
+		"Falešné upuštění",
+		"Předstírej, že jsi upustil(a) něco drahého.",
+		""
+	],
+	"c222": [
+		"Vodní pistole",
+		"Postříkej někoho vodní pistolí.",
+		""
+	],
+	"c223": [
+		"Prdící polštářek",
+		"Použij prdící polštářek.",
+		""
+	],
+	"c224": [
+		"Co to je za chlupáče",
+		"Zvedni deku, pusť ji a schovej se. Co udělá tvůj pes nebo kočka?",
+		""
+	],
+	"c225": [
+		"Opičení po mazlíčkovi",
+		"Opičíš se po svém mazlíčkovi.",
+		""
+	],
+	"c226": [
+		"Schovávaná s mazlíčkem",
+		"Schovej se a nech se svým mazlíčkem najít.",
+		""
+	],
+	"c227": [
+		"Čas večeře",
+		"Natoč svého mazlíčka, když dostává jídlo.",
+		""
+	],
+	"c228": [
+		"Zrcadlo",
+		"Nech svého mazlíčka podívat se do zrcadla.",
+		""
+	],
+	"c229": [
+		"Největší bublina",
+		"Udělej co největší bublinu z žvýkačky.",
+		""
+	],
+	"c230": [
+		"Pingpongový míček do kelímku",
+		"Odraz pingpongový míček tak, aby skončil v kelímku.",
+		""
+	],
+	"c231": [
+		"Hula hoop",
+		"Jak dlouho udržíš hula hoop v pohybu?",
+		""
+	],
+	"c232": [
+		"Sněhulák",
+		"Postav sněhuláka.",
+		""
+	],
+	"c233": [
+		"Mince na lokti",
+		"Polož si minci na loket a chyť ji.",
+		""
+	],
+	"c234": [
+		"Hvízdání na prsty",
+		"Zahvízdej na prsty.",
+		""
+	],
+	"c235": [
+		"Kouzelnický trik",
+		"Ukaž kouzelnický trik.",
+		""
+	],
+	"c236": [
+		"Žabky na vodě",
+		"Hoď kámen tak, aby několikrát poskočil po vodě.",
+		""
+	],
+	"c237": [
+		"Švihadlo",
+		"Kolik skoků zvládneš na švihadle?",
+		""
+	],
+	"c238": [
+		"Mlaskání jazykem",
+		"Mlaskni jazykem co nejhlasitěji.",
+		""
+	],
+	"c239": [
+		"Uhodni zvuk",
+		"Někdo vydá zvuk, ty hádáš, co to je.",
+		""
+	],
+	"c240": [
+		"Kresba na záda",
+		"Nakresli někomu něco na záda a nech ho hádat, co to je.",
+		""
+	],
+	"c241": [
+		"Vidím, vidím, co ty nevidíš",
+		"Zahrajte si hru „vidím, vidím, co ty nevidíš“.",
+		""
+	],
+	"c242": [
+		"Uhodni cenu",
+		"Hádej, kolik něco stojí.",
+		""
+	],
+	"c243": [
+		"Kdo je to?",
+		"Se zavřenýma očima nahmatej, čí je to obličej.",
+		""
+	],
+	"c244": [
+		"Západ slunce",
+		"Vyfoť nejkrásnější fotku západu slunce.",
+		""
+	],
+	"c245": [
+		"Duha",
+		"Vyfoť duhu.",
+		""
+	],
+	"c246": [
+		"Sníh",
+		"Vyfoť nejkrásnější fotku sněhu.",
+		""
+	],
+	"c247": [
+		"Hvězdná obloha",
+		"Vyfoť hvězdy.",
+		""
+	],
+	"c248": [
+		"Blesk",
+		"Vyfoť blesk.",
+		"Jen zevnitř."
+	],
+	"c249": [
+		"Mlha",
+		"Vyfoť nejkrásnější fotku mlhy.",
+		""
+	],
+	"c250": [
+		"Odraz",
+		"Vyfoť odraz v kaluži.",
+		""
+	],
+	"c251": [
+		"Nejhezčí květina",
+		"Vyfoť nejhezčí květinu.",
+		""
+	],
+	"c252": [
+		"Pták",
+		"Vyfoť ptáka.",
+		""
+	],
+	"c253": [
+		"Východ slunce",
+		"Vyfoť východ slunce.",
+		""
+	],
+	"c254": [
+		"Jinovatka",
+		"Vyfoť nejkrásnější fotku jinovatky.",
+		""
+	],
+	"c255": [
+		"Stín",
+		"Vyfoť svůj stín.",
+		""
+	],
+	"c256": [
+		"Ohňostroj",
+		"Vyfoť ohňostroj.",
+		""
+	],
+	"c257": [
+		"V noci",
+		"Vyfoť město v noci.",
+		""
+	],
+	"c258": [
+		"Moře",
+		"Vyfoť moře.",
+		""
+	],
+	"c259": [
+		"Podzim",
+		"Vyfoť nejkrásnější podzimní fotku.",
+		""
+	],
+	"c260": [
+		"Kompliment",
+		"Řekni někomu kompliment.",
+		""
+	],
+	"c261": [
+		"Objetí",
+		"Obejmi někoho, jen tak.",
+		""
+	],
+	"c262": [
+		"Květina",
+		"Dej někomu květinu.",
+		""
+	],
+	"c263": [
+		"Uvař pro někoho",
+		"Uvař pro někoho.",
+		""
+	],
+	"c264": [
+		"Prostě zavolej",
+		"Zavolej někomu, jen tak.",
+		""
+	],
+	"c265": [
+		"Pomoz někomu",
+		"Pomoz někomu, jen tak.",
+		""
+	],
+	"c266": [
+		"Rozděl se",
+		"Rozděl se s někým o něco dobrého.",
+		""
+	],
+	"c267": [
+		"Rozesměj ho",
+		"Rozesměj někoho.",
+		""
+	],
+	"c268": [
+		"Řekni prostě díky",
+		"Poděkuj někomu, jen tak.",
+		""
+	],
+	"c269": [
+		"Piknik",
+		"Uspořádej piknik.",
+		""
+	],
+	"c270": [
+		"Herní večer",
+		"Uspořádej herní večer.",
+		""
+	],
+	"c271": [
+		"Filmový večer",
+		"Uspořádej filmový večer.",
+		""
+	],
+	"c272": [
+		"Promiň",
+		"Řekni někomu promiň.",
+		""
+	],
+	"c273": [
+		"Jak se máš?",
+		"Zeptej se někoho, jak se opravdu má.",
+		""
+	],
+	"c274": [
+		"Miluju tě",
+		"Řekni někomu „miluju tě“, jen tak.",
+		""
+	],
+	"d001": [
+		"Soutěž v zírání",
+		"Dívej se někomu 30 sekund přímo do očí a nesmí se ti zasmát. Kdo se zasměje, prohrál.",
+		""
+	],
+	"d002": [
+		"Udrž vážnou tvář",
+		"Zůstaň 30 sekund vážný/á a nezasměj se.",
+		""
+	],
+	"d003": [
+		"Naštvaný pohled",
+		"Pohlédni na někoho opravdu naštvaně a nezasměj se.",
+		""
+	],
+	"d004": [
+		"Psí oči",
+		"Pohlédni na někoho opravdu smutně a nezasměj se.",
+		""
+	],
+	"d005": [
+		"Napodob emoji",
+		"Oba dostanete stejné emoji a napodobíte ho.",
+		""
+	],
+	"d006": [
+		"Nejbláznivější taneční krok",
+		"Předveď svůj nejbláznivější taneční krok během 10 sekund.",
+		""
+	],
+	"d007": [
+		"Uhodni zvíře",
+		"Zahraj zvíře beze zvuku. Kdo je nejsrozumitelnější, vyhrává.",
+		""
+	],
+	"d008": [
+		"Vzduchová kytara",
+		"Hraj na vzduchovou kytaru jako rocková hvězda. Kdo hraje nejlépe, vyhrává.",
+		""
+	],
+	"d009": [
+		"Zazpívej to zpátky",
+		"Kdo je na řadě první, zazpívá část písničky. Druhý ji zazpívá zpátky.",
+		""
+	],
+	"d010": [
+		"Kámen, nůžky, papír",
+		"Vylosuj kámen, nůžky nebo papír a ukaž to. Kdo vyhraje, vyhrává souboj.",
+		""
+	],
+	"d011": [
+		"Jen ano nebo ne",
+		"Po dobu jedné minuty smíš říkat jen „ano“ nebo „ne“, zatímco ti někdo klade otázky.",
+		""
+	],
+	"d012": [
+		"Uhodni slovo",
+		"Kdo je na řadě první, drží v zubech tužku a řekne jednoduché slovo. Druhý hádá, jaké to slovo je.",
+		""
+	],
+	"d014": [
+		"Nejbláznivější smích",
+		"Vyprsk ten nejbláznivější smích. Vyhrává nejbláznivější smích.",
+		""
+	],
+	"d015": [
+		"Nejpitomější hlas",
+		"Řekni „mám hlad“ svým nejpitomějším hlasem.",
+		""
+	],
+	"d016": [
+		"Nejlepší vtip",
+		"Řekni svůj nejvtipnější vtip. Vyhrává ten nejvtipnější.",
+		""
+	],
+	"d017": [
+		"Nejlepší výmluva",
+		"Jdeš pozdě. Vymysli tu nejbláznivější výmluvu.",
+		""
+	],
+	"d018": [
+		"Beatbox",
+		"Beatboxuj 10 sekund. Kdo beatboxuje nejlépe, vyhrává.",
+		""
+	],
+	"d019": [
+		"Nejlepší a nejhorší boty",
+		"Vyfoť vedle sebe své nejhezčí a nejošklivější boty: hezké vlevo, ošklivé vpravo.",
+		""
+	],
+	"d020": [
+		"Nejbláznivější ponožky",
+		"Vyfoť svůj nejpodivnější pár ponožek, nasazených na nohou.",
+		""
+	],
+	"d022": [
+		"Nejošklivější oblečení",
+		"Obleč si svůj nejošklivější kus oblečení a udělej selfie.",
+		""
+	],
+	"d025": [
+		"Bláznivé vlasy za minutu",
+		"Za 1 minutu si udělej svůj nejbláznivější účes a udělej selfie.",
+		"Nic nestříhej: jen ruce, voda nebo hřeben."
+	]
+}

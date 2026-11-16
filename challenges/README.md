@@ -209,7 +209,7 @@ There are also [21 duels](duels.md) to do against someone else, and [198 countri
 | 273 | [How Are You?](https://cogvivo.com/en/challenge/how-are-you-273) | Ask someone how they're really doing. |
 | 274 | [I Love You](https://cogvivo.com/en/challenge/i-love-you-274) | Say "I love you" to someone, just because. |
 
-These challenges also exist in 12 languages: see [translations/challenges](../translations/challenges/).
+These challenges also exist in 24 languages: see [translations/challenges](../translations/challenges/).
 
 ---
 

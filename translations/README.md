@@ -1,6 +1,6 @@
 # Translations
 
-Cogvivo is available in **12 languages**. Every text in the app is here, so you can check it or translate it into your own language.
+Cogvivo is available in **24 languages**. Every text in the app is here, so you can check it or translate it into your own language.
 
 **[▶ Play Cogvivo in your language](https://cogvivo.com)**
 
@@ -18,6 +18,18 @@ Cogvivo is available in **12 languages**. Every text in the app is here, so you 
 | العربية (Arabic) | [100%](app/ar.json) | [100%](challenges/ar.json) | [cogvivo.com/ar](https://cogvivo.com/ar) |
 | Bahasa Indonesia (Indonesian) | [100%](app/id.json) | [100%](challenges/id.json) | [cogvivo.com/id](https://cogvivo.com/id) |
 | 日本語 (Japanese) | [100%](app/ja.json) | [100%](challenges/ja.json) | [cogvivo.com/ja](https://cogvivo.com/ja) |
+| 简体中文 (Chinese (Simplified)) | [100%](app/zh.json) | [100%](challenges/zh.json) | [cogvivo.com/zh](https://cogvivo.com/zh) |
+| 한국어 (Korean) | [100%](app/ko.json) | [100%](challenges/ko.json) | [cogvivo.com/ko](https://cogvivo.com/ko) |
+| Русский (Russian) | [100%](app/ru.json) | [100%](challenges/ru.json) | [cogvivo.com/ru](https://cogvivo.com/ru) |
+| Tiếng Việt (Vietnamese) | [100%](app/vi.json) | [100%](challenges/vi.json) | [cogvivo.com/vi](https://cogvivo.com/vi) |
+| हिन्दी (Hindi) | [100%](app/hi.json) | [100%](challenges/hi.json) | [cogvivo.com/hi](https://cogvivo.com/hi) |
+| ไทย (Thai) | [100%](app/th.json) | [100%](challenges/th.json) | [cogvivo.com/th](https://cogvivo.com/th) |
+| Українська (Ukrainian) | [100%](app/uk.json) | [100%](challenges/uk.json) | [cogvivo.com/uk](https://cogvivo.com/uk) |
+| Svenska (Swedish) | [100%](app/sv.json) | [100%](challenges/sv.json) | [cogvivo.com/sv](https://cogvivo.com/sv) |
+| Čeština (Czech) | [100%](app/cs.json) | [100%](challenges/cs.json) | [cogvivo.com/cs](https://cogvivo.com/cs) |
+| Română (Romanian) | [100%](app/ro.json) | [100%](challenges/ro.json) | [cogvivo.com/ro](https://cogvivo.com/ro) |
+| Ελληνικά (Greek) | [100%](app/el.json) | [100%](challenges/el.json) | [cogvivo.com/el](https://cogvivo.com/el) |
+| Magyar (Hungarian) | [100%](app/hu.json) | [100%](challenges/hu.json) | [cogvivo.com/hu](https://cogvivo.com/hu) |
 
 Most texts were translated with help from software. **Native speakers make them better.** Spotted a sentence that sounds odd? That is the best first contribution there is.
 
