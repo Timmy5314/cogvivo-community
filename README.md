@@ -2,7 +2,7 @@
 
 <img src="og.png" width="88" alt="Cogvivo logo">
 
-# Cogvivo: the real-life challenge app
+# Cogvivo™: the real-life challenge app
 
 **Stop scrolling. Collect the world for real.**
 
