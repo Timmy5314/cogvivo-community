@@ -361,6 +361,7 @@
 	"ci_direct": "Sochu +1 dostaneš hned.",
 	"ci_again": "Tady už jsi byl/a: bude to obyčejný příspěvek.",
 	"ci_vote": "Tvoji kamarádi a ostatní to ohodnotí.",
+	"ci_vote_meteen": "Počítá se hned. Potom to ohodnotí tvoji kamarádi a ostatní.",
 	"ci_reason_gps": "GPS není dost přesná.",
 	"ci_reason_far": "Jsi příliš daleko od místa ({afstand}).",
 	"ci_reason_camera": "Nevyfoceno fotoaparátem aplikace.",

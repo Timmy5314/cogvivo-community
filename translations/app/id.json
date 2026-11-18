@@ -361,6 +361,7 @@
 	"ci_direct": "Kamu langsung mendapat +1 figur monumen.",
 	"ci_again": "Kamu pernah ke sini: ini jadi postingan biasa.",
 	"ci_vote": "Teman-temanmu dan orang lain akan menilainya.",
+	"ci_vote_meteen": "Langsung dihitung. Setelah itu teman-temanmu dan orang lain menilainya.",
 	"ci_reason_gps": "GPS kurang akurat.",
 	"ci_reason_far": "Kamu terlalu jauh dari tempat itu ({afstand}).",
 	"ci_reason_camera": "Tidak diambil dengan kamera aplikasi.",

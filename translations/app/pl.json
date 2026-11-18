@@ -361,6 +361,7 @@
 	"ci_direct": "Od razu dostajesz +1 figurkę zabytku.",
 	"ci_again": "Już tu byłeś: to będzie zwykły post.",
 	"ci_vote": "Oceną zajmą się twoi znajomi i inne osoby.",
+	"ci_vote_meteen": "Liczy się od razu. Potem oceniają to twoi znajomi i inne osoby.",
 	"ci_reason_gps": "GPS jest za mało dokładny.",
 	"ci_reason_far": "Jesteś za daleko od miejsca ({afstand}).",
 	"ci_reason_camera": "Nie zrobiono aparatem aplikacji.",

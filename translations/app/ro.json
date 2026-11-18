@@ -361,6 +361,7 @@
 	"ci_direct": "Primești imediat +1 figură de monument.",
 	"ci_again": "Ai mai fost aici: asta devine o postare obișnuită.",
 	"ci_vote": "Prietenii tăi și alții o vor evalua.",
+	"ci_vote_meteen": "Contează imediat. Apoi prietenii tăi și alții o evaluează.",
 	"ci_reason_gps": "GPS-ul nu este suficient de precis.",
 	"ci_reason_far": "Ești prea departe de loc ({afstand}).",
 	"ci_reason_camera": "Nu a fost făcută cu camera aplicației.",

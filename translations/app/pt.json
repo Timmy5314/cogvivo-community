@@ -361,6 +361,7 @@
 	"ci_direct": "Você ganha +1 figura de monumento na hora.",
 	"ci_again": "Você já esteve aqui: vira um post normal.",
 	"ci_vote": "Seus amigos e outras pessoas vão avaliar.",
+	"ci_vote_meteen": "Conta na hora. Depois, seus amigos e outras pessoas avaliam.",
 	"ci_reason_gps": "GPS sem precisão suficiente.",
 	"ci_reason_far": "Você está longe demais do lugar ({afstand}).",
 	"ci_reason_camera": "Não foi tirada com a câmera do app.",

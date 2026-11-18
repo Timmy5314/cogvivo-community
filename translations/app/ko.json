@@ -361,6 +361,7 @@
 	"ci_direct": "명소 캐릭터 +1을 바로 받아요.",
 	"ci_again": "전에도 온 곳이에요. 일반 게시물이 돼요.",
 	"ci_vote": "친구들과 다른 사람들이 평가해요.",
+	"ci_vote_meteen": "바로 반영돼요. 그다음 친구들과 다른 사람들이 평가해요.",
 	"ci_reason_gps": "GPS가 충분히 정확하지 않아요.",
 	"ci_reason_far": "장소에서 너무 멀어요 ({afstand}).",
 	"ci_reason_camera": "앱 카메라로 찍은 사진이 아니에요.",

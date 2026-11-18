@@ -361,6 +361,7 @@
 	"ci_direct": "Du bekommst sofort +1 Monumentfigur.",
 	"ci_again": "Du warst schon einmal hier: Das wird ein normaler Beitrag.",
 	"ci_vote": "Deine Freunde und andere bewerten es.",
+	"ci_vote_meteen": "Zählt sofort. Danach bewerten deine Freunde und andere es.",
 	"ci_reason_gps": "GPS nicht genau genug.",
 	"ci_reason_far": "Du bist zu weit vom Ort entfernt ({afstand}).",
 	"ci_reason_camera": "Nicht mit der App-Kamera aufgenommen.",

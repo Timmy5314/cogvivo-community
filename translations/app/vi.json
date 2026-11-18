@@ -361,6 +361,7 @@
 	"ci_direct": "Bạn nhận ngay +1 di tích.",
 	"ci_again": "Bạn đã đến đây rồi: lần này sẽ là một bài đăng bình thường.",
 	"ci_vote": "Bạn bè và những người khác sẽ đánh giá.",
+	"ci_vote_meteen": "Được tính ngay. Sau đó bạn bè và những người khác sẽ đánh giá.",
 	"ci_reason_gps": "GPS chưa đủ chính xác.",
 	"ci_reason_far": "Bạn ở quá xa địa điểm này ({afstand}).",
 	"ci_reason_camera": "Không chụp bằng camera của ứng dụng.",

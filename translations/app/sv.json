@@ -361,6 +361,7 @@
 	"ci_direct": "Du får +1 monumentfigur direkt.",
 	"ci_again": "Du har varit här förut: det här blir ett vanligt inlägg.",
 	"ci_vote": "Dina vänner och andra bedömer det.",
+	"ci_vote_meteen": "Räknas direkt. Sedan bedömer dina vänner och andra det.",
 	"ci_reason_gps": "GPS:en är inte tillräckligt exakt.",
 	"ci_reason_far": "Du är för långt från platsen ({afstand}).",
 	"ci_reason_camera": "Inte taget med appens kamera.",

@@ -361,6 +361,7 @@
 	"ci_direct": "Je krijgt direct +1 monumentfiguur.",
 	"ci_again": "Je was hier al: dit wordt een gewone post.",
 	"ci_vote": "Je vrienden en anderen beoordelen het.",
+	"ci_vote_meteen": "Telt meteen mee. Daarna beoordelen je vrienden en anderen het.",
 	"ci_reason_gps": "GPS te onnauwkeurig.",
 	"ci_reason_far": "Je bent te ver van de plek ({afstand}).",
 	"ci_reason_camera": "Niet met de camera van de app gemaakt.",

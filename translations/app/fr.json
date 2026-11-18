@@ -361,6 +361,7 @@
 	"ci_direct": "Tu reçois tout de suite +1 figurine de monument.",
 	"ci_again": "Tu es déjà venu·e ici : ce sera une publication normale.",
 	"ci_vote": "Tes amis et d'autres personnes vont l'évaluer.",
+	"ci_vote_meteen": "Compte tout de suite. Ensuite, tes amis et d'autres personnes l'évaluent.",
 	"ci_reason_gps": "GPS pas assez précis.",
 	"ci_reason_far": "Tu es trop loin du lieu ({afstand}).",
 	"ci_reason_camera": "Pas pris avec la caméra de l'appli.",

@@ -361,6 +361,7 @@
 	"ci_direct": "Azonnal kapsz +1 műemlék-alakot.",
 	"ci_again": "Már jártál itt: ez egy sima bejegyzés lesz.",
 	"ci_vote": "A barátaid és mások értékelni fogják.",
+	"ci_vote_meteen": "Azonnal beszámít. Utána a barátaid és mások értékelik.",
 	"ci_reason_gps": "A GPS nem elég pontos.",
 	"ci_reason_far": "Túl messze vagy a helytől ({afstand}).",
 	"ci_reason_camera": "Nem az app kamerájával készült.",

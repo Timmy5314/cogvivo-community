@@ -361,6 +361,7 @@
 	"ci_direct": "Hemen +1 anıt figürü alırsın.",
 	"ci_again": "Buraya daha önce geldin: bu normal bir gönderi olur.",
 	"ci_vote": "Arkadaşların ve diğerleri değerlendirecek.",
+	"ci_vote_meteen": "Hemen sayılır. Sonra arkadaşların ve diğerleri değerlendirir.",
 	"ci_reason_gps": "GPS yeterince hassas değil.",
 	"ci_reason_far": "Yere çok uzaksın ({afstand}).",
 	"ci_reason_camera": "Uygulama kamerasıyla çekilmedi.",
