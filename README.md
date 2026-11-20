@@ -26,7 +26,10 @@ Cogvivo is a free social app where you **do** things instead of only watching th
 - **Monuments and places.** Visit a monument and add it to your collection. Add a place that is not on the map yet and it says *discovered by you*.
 - **Country badges.** Every country has its own badge and five lifelong challenges. Finish all five and it turns into a superbadge.
 - **Landmark badges.** The Eiffel Tower, the Great Wall of China, Machu Picchu and 147 more famous places each have a unique badge.
-- **Everywhere.** Free on [cogvivo.com](https://cogvivo.com), installable as an app on any phone, in 24 languages.
+- **Your own buddy.** Every player gets a unique little creature that nobody else has. It eats, sleeps, plays and grows when you come back, and joins in with everything you do.
+- **Buddies leaderboard.** Compete in your area, your city, your country and the world. Every Sunday there is a final, and the winners get a crown badge.
+- **Neighborhood.** Alerts from your own neighborhood in one place: outages reported by neighbors, weather warnings, police, earthquakes and news. In the Netherlands you can also chat with your neighbors.
+- **Everywhere.** Free on [cogvivo.com](https://cogvivo.com) and installable as an app on any phone. Your buddy can also live on your [Windows or Linux desktop](https://cogvivo.com/pc). In 24 languages.
 
 ## Explore
 
