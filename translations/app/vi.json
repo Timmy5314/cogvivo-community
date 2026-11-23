@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Vũ trụ",
 	"wz_it_set_koning": "Hoàng gia",
 	"wz_it_boek": "Bộ sưu tập",
-	"wz_it_boek_uitleg": "Sưu tầm đủ bốn món của một bộ. Món còn thiếu sẽ đến từ quà tặng.",
+	"wz_it_boek_uitleg": "Sưu tầm đủ các món của một bộ. Món còn thiếu sẽ đến từ quà tặng.",
 	"wz_it_set_klaar": "Hoàn thành",
 	"wz_it_set_beloning": "Hoàn thành bộ: +5 kẹo và một bữa tiệc.",
 	"wz_it_meer_uit_cadeau": "Thêm nhiều món nữa đến từ quà tặng.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Kỷ lục: {n}",
 	"gz_nog_niet": "Chưa chơi",
 	"gz_speel": "Chơi",
-	"gz_versla_kort": "Vượt qua"
+	"gz_versla_kort": "Vượt qua",
+	"buddy_zin_hard": "Ôi, vừa rồi nhanh ghê!",
+	"buddy_zin_waarheen": "Mình đang ở đâu thế này?",
+	"wz_it_kerstmuts": "Mũ Giáng sinh",
+	"wz_it_gewei": "Sừng tuần lộc",
+	"wz_it_kerstsjaal": "Khăn quàng Giáng sinh",
+	"wz_it_behang_sneeuw": "Giấy dán tường tuyết",
+	"wz_it_kerstboom": "Cây thông Noel",
+	"wz_it_set_kerst": "Giáng sinh",
+	"wz_kr_label": "Chỉ dịp Giáng sinh",
+	"wz_kr_seizoen": "Bán từ 1 tháng 12 đến 6 tháng 1. Món bạn đã có là của bạn mãi mãi."
 }

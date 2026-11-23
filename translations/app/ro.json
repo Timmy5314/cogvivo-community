@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Spațiu",
 	"wz_it_set_koning": "Regal",
 	"wz_it_boek": "Colecție",
-	"wz_it_boek_uitleg": "Adună toate cele patru lucruri dintr-un set. Cele care lipsesc vin din cadouri.",
+	"wz_it_boek_uitleg": "Adună toate lucrurile dintr-un set. Cele care lipsesc vin din cadouri.",
 	"wz_it_set_klaar": "Complet",
 	"wz_it_set_beloning": "Completează-l: +5 bomboane și o petrecere.",
 	"wz_it_meer_uit_cadeau": "Mai multe lucruri vin din cadouri.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Cel mai bun: {n}",
 	"gz_nog_niet": "Încă nejucat",
 	"gz_speel": "Joacă",
-	"gz_versla_kort": "Întrece"
+	"gz_versla_kort": "Întrece",
+	"buddy_zin_hard": "Uau, a fost foarte repede!",
+	"buddy_zin_waarheen": "Unde suntem acum?",
+	"wz_it_kerstmuts": "Căciulă de Crăciun",
+	"wz_it_gewei": "Coarne de ren",
+	"wz_it_kerstsjaal": "Fular de Crăciun",
+	"wz_it_behang_sneeuw": "Tapet cu zăpadă",
+	"wz_it_kerstboom": "Brad de Crăciun",
+	"wz_it_set_kerst": "Crăciun",
+	"wz_kr_label": "Doar de Crăciun",
+	"wz_kr_seizoen": "De vânzare între 1 decembrie și 6 ianuarie. Ce ai rămâne al tău pentru totdeauna."
 }

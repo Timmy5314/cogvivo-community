@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "الفضاء",
 	"wz_it_set_koning": "ملكي",
 	"wz_it_boek": "المجموعة",
-	"wz_it_boek_uitleg": "اجمع الأشياء الأربعة في كل مجموعة. الناقص منها يأتي في الهدايا.",
+	"wz_it_boek_uitleg": "اجمع كل الأشياء في المجموعة. الناقص منها يأتي في الهدايا.",
 	"wz_it_set_klaar": "مكتملة",
 	"wz_it_set_beloning": "عند الاكتمال: +5 حلوى وحفلة.",
 	"wz_it_meer_uit_cadeau": "أشياء أخرى تأتي من الهدايا.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "الأفضل: {n}",
 	"gz_nog_niet": "لم تُلعب بعد",
 	"gz_speel": "العب",
-	"gz_versla_kort": "تغلّب"
+	"gz_versla_kort": "تغلّب",
+	"buddy_zin_hard": "واو، كان ذلك سريعًا جدًا!",
+	"buddy_zin_waarheen": "أين نحن الآن؟",
+	"wz_it_kerstmuts": "قبعة عيد الميلاد",
+	"wz_it_gewei": "قرون الرنة",
+	"wz_it_kerstsjaal": "وشاح عيد الميلاد",
+	"wz_it_behang_sneeuw": "ورق جدران ثلجي",
+	"wz_it_kerstboom": "شجرة عيد الميلاد",
+	"wz_it_set_kerst": "عيد الميلاد",
+	"wz_kr_label": "في عيد الميلاد فقط",
+	"wz_kr_seizoen": "متاح من 1 ديسمبر حتى 6 يناير. ما تملكه يبقى لك إلى الأبد."
 }

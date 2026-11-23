@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Uzay",
 	"wz_it_set_koning": "Kraliyet",
 	"wz_it_boek": "Koleksiyon",
-	"wz_it_boek_uitleg": "Bir setin dört eşyasını da topla. Eksikler hediyelerden çıkar.",
+	"wz_it_boek_uitleg": "Bir setin tüm eşyalarını topla. Eksikler hediyelerden çıkar.",
 	"wz_it_set_klaar": "Tamam",
 	"wz_it_set_beloning": "Tamamla: +5 şeker ve bir parti.",
 	"wz_it_meer_uit_cadeau": "Daha fazla eşya hediyelerden çıkar.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "En iyi: {n}",
 	"gz_nog_niet": "Henüz oynanmadı",
 	"gz_speel": "Oyna",
-	"gz_versla_kort": "Geç"
+	"gz_versla_kort": "Geç",
+	"buddy_zin_hard": "Vay, çok hızlı gittik!",
+	"buddy_zin_waarheen": "Şimdi neredeyiz?",
+	"wz_it_kerstmuts": "Noel Baba şapkası",
+	"wz_it_gewei": "Ren geyiği boynuzu",
+	"wz_it_kerstsjaal": "Yılbaşı atkısı",
+	"wz_it_behang_sneeuw": "Karlı duvar kâğıdı",
+	"wz_it_kerstboom": "Yılbaşı ağacı",
+	"wz_it_set_kerst": "Yılbaşı",
+	"wz_kr_label": "Sadece yılbaşında",
+	"wz_kr_seizoen": "1 Aralık’tan 6 Ocak’a kadar satışta. Sahip olduğun her şey sonsuza dek senin."
 }

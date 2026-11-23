@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Espace",
 	"wz_it_set_koning": "Royal",
 	"wz_it_boek": "Collection",
-	"wz_it_boek_uitleg": "Collectionne les quatre objets d’un set. Ceux qui manquent sont dans les cadeaux.",
+	"wz_it_boek_uitleg": "Collectionne tous les objets d’un set. Ceux qui manquent sont dans les cadeaux.",
 	"wz_it_set_klaar": "Complet",
 	"wz_it_set_beloning": "Complet : +5 bonbons et une fête.",
 	"wz_it_meer_uit_cadeau": "D’autres objets se trouvent dans les cadeaux.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Record : {n}",
 	"gz_nog_niet": "Pas encore joué",
 	"gz_speel": "Jouer",
-	"gz_versla_kort": "Battre"
+	"gz_versla_kort": "Battre",
+	"buddy_zin_hard": "Waouh, ça allait super vite !",
+	"buddy_zin_waarheen": "On est où, là ?",
+	"wz_it_kerstmuts": "Bonnet de Noël",
+	"wz_it_gewei": "Bois de renne",
+	"wz_it_kerstsjaal": "Écharpe de Noël",
+	"wz_it_behang_sneeuw": "Papier peint enneigé",
+	"wz_it_kerstboom": "Sapin de Noël",
+	"wz_it_set_kerst": "Noël",
+	"wz_kr_label": "Seulement à Noël",
+	"wz_kr_seizoen": "En vente du 1er décembre au 6 janvier. Ce que tu as, tu le gardes pour toujours."
 }

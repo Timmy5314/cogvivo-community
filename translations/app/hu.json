@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Űr",
 	"wz_it_set_koning": "Királyi",
 	"wz_it_boek": "Gyűjtemény",
-	"wz_it_boek_uitleg": "Gyűjtsd össze egy szett mind a négy darabját. A hiányzók ajándékokból jönnek.",
+	"wz_it_boek_uitleg": "Gyűjtsd össze egy szett minden darabját. A hiányzók ajándékokból jönnek.",
 	"wz_it_set_klaar": "Teljes",
 	"wz_it_set_beloning": "Egészítsd ki: +5 cukorka és egy buli.",
 	"wz_it_meer_uit_cadeau": "További dolgok ajándékokból jönnek.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Legjobb: {n}",
 	"gz_nog_niet": "Még nem játszottál vele",
 	"gz_speel": "Játék",
-	"gz_versla_kort": "Legyőzés"
+	"gz_versla_kort": "Legyőzés",
+	"buddy_zin_hard": "Hű, ez aztán gyors volt!",
+	"buddy_zin_waarheen": "Hol vagyunk most?",
+	"wz_it_kerstmuts": "Mikulássapka",
+	"wz_it_gewei": "Rénszarvasagancs",
+	"wz_it_kerstsjaal": "Karácsonyi sál",
+	"wz_it_behang_sneeuw": "Havas tapéta",
+	"wz_it_kerstboom": "Karácsonyfa",
+	"wz_it_set_kerst": "Karácsony",
+	"wz_kr_label": "Csak karácsonykor",
+	"wz_kr_seizoen": "December 1-től január 6-ig kapható. Ami a tiéd, az örökre megmarad."
 }

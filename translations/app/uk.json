@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Космос",
 	"wz_it_set_koning": "Королівський",
 	"wz_it_boek": "Колекція",
-	"wz_it_boek_uitleg": "Збери всі чотири речі набору. Бракуючі надходять із подарунків.",
+	"wz_it_boek_uitleg": "Збери всі речі набору. Бракуючі надходять із подарунків.",
 	"wz_it_set_klaar": "Завершено",
 	"wz_it_set_beloning": "Заверши його: +5 цукерок і свято.",
 	"wz_it_meer_uit_cadeau": "Більше речей надходить із подарунків.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Рекорд: {n}",
 	"gz_nog_niet": "Ще не грав",
 	"gz_speel": "Грати",
-	"gz_versla_kort": "Побити"
+	"gz_versla_kort": "Побити",
+	"buddy_zin_hard": "Ого, оце швидкість!",
+	"buddy_zin_waarheen": "Де це ми тепер?",
+	"wz_it_kerstmuts": "Різдвяна шапка",
+	"wz_it_gewei": "Оленячі роги",
+	"wz_it_kerstsjaal": "Різдвяний шарф",
+	"wz_it_behang_sneeuw": "Сніжні шпалери",
+	"wz_it_kerstboom": "Ялинка",
+	"wz_it_set_kerst": "Різдво",
+	"wz_kr_label": "Лише на свята",
+	"wz_kr_seizoen": "У продажу з 1 грудня до 6 січня. Те, що маєш, залишиться назавжди."
 }

@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Kosmos",
 	"wz_it_set_koning": "Królewski",
 	"wz_it_boek": "Kolekcja",
-	"wz_it_boek_uitleg": "Zbierz wszystkie cztery rzeczy z zestawu. Brakujące są w prezentach.",
+	"wz_it_boek_uitleg": "Zbierz wszystkie rzeczy z zestawu. Brakujące są w prezentach.",
 	"wz_it_set_klaar": "Komplet",
 	"wz_it_set_beloning": "Komplet: +5 cukierków i impreza.",
 	"wz_it_meer_uit_cadeau": "Więcej rzeczy dostaniesz w prezentach.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Rekord: {n}",
 	"gz_nog_niet": "Jeszcze nie grano",
 	"gz_speel": "Graj",
-	"gz_versla_kort": "Pokonaj"
+	"gz_versla_kort": "Pokonaj",
+	"buddy_zin_hard": "Łał, ale było szybko!",
+	"buddy_zin_waarheen": "Gdzie my teraz jesteśmy?",
+	"wz_it_kerstmuts": "Czapka Mikołaja",
+	"wz_it_gewei": "Rogi renifera",
+	"wz_it_kerstsjaal": "Świąteczny szalik",
+	"wz_it_behang_sneeuw": "Śnieżna tapeta",
+	"wz_it_kerstboom": "Choinka",
+	"wz_it_set_kerst": "Święta",
+	"wz_kr_label": "Tylko na święta",
+	"wz_kr_seizoen": "Do kupienia od 1 grudnia do 6 stycznia. To, co masz, zostaje z tobą na zawsze."
 }

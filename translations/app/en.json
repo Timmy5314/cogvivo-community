@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Space",
 	"wz_it_set_koning": "Royal",
 	"wz_it_boek": "Collection",
-	"wz_it_boek_uitleg": "Collect all four things of a set. Missing ones come from presents.",
+	"wz_it_boek_uitleg": "Collect every thing in a set. Missing ones come from presents.",
 	"wz_it_set_klaar": "Complete",
 	"wz_it_set_beloning": "Complete it: +5 sweets and a party.",
 	"wz_it_meer_uit_cadeau": "More things come from presents.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Best: {n}",
 	"gz_nog_niet": "Not played yet",
 	"gz_speel": "Play",
-	"gz_versla_kort": "Beat"
+	"gz_versla_kort": "Beat",
+	"buddy_zin_hard": "Wow, that went really fast!",
+	"buddy_zin_waarheen": "Where are we now?",
+	"wz_it_kerstmuts": "Christmas hat",
+	"wz_it_gewei": "Reindeer antlers",
+	"wz_it_kerstsjaal": "Christmas scarf",
+	"wz_it_behang_sneeuw": "Snowy wallpaper",
+	"wz_it_kerstboom": "Christmas tree",
+	"wz_it_set_kerst": "Christmas",
+	"wz_kr_label": "Christmas only",
+	"wz_kr_seizoen": "On sale from 1 December until 6 January. What you have, you keep forever."
 }

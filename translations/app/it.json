@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Spazio",
 	"wz_it_set_koning": "Reale",
 	"wz_it_boek": "Collezione",
-	"wz_it_boek_uitleg": "Raccogli tutte e quattro le cose di un set. Quelle che mancano sono nei regali.",
+	"wz_it_boek_uitleg": "Raccogli tutte le cose di un set. Quelle che mancano sono nei regali.",
 	"wz_it_set_klaar": "Completo",
 	"wz_it_set_beloning": "Completo: +5 caramelle e una festa.",
 	"wz_it_meer_uit_cadeau": "Altre cose arrivano dai regali.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Record: {n}",
 	"gz_nog_niet": "Non ancora giocato",
 	"gz_speel": "Gioca",
-	"gz_versla_kort": "Batti"
+	"gz_versla_kort": "Batti",
+	"buddy_zin_hard": "Wow, che velocità!",
+	"buddy_zin_waarheen": "Dove siamo adesso?",
+	"wz_it_kerstmuts": "Cappello di Natale",
+	"wz_it_gewei": "Corna da renna",
+	"wz_it_kerstsjaal": "Sciarpa di Natale",
+	"wz_it_behang_sneeuw": "Carta da parati con la neve",
+	"wz_it_kerstboom": "Albero di Natale",
+	"wz_it_set_kerst": "Natale",
+	"wz_kr_label": "Solo a Natale",
+	"wz_kr_seizoen": "In vendita dal 1° dicembre al 6 gennaio. Quello che hai, lo tieni per sempre."
 }

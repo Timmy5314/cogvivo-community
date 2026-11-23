@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Ruimte",
 	"wz_it_set_koning": "Koninklijk",
 	"wz_it_boek": "Verzameling",
-	"wz_it_boek_uitleg": "Verzamel alle vier dingen van een set. Wat je mist, zit in cadeautjes.",
+	"wz_it_boek_uitleg": "Verzamel alle dingen van een set. Wat je mist, zit in cadeautjes.",
 	"wz_it_set_klaar": "Compleet",
 	"wz_it_set_beloning": "Compleet: +5 snoepjes en een feestje.",
 	"wz_it_meer_uit_cadeau": "Meer dingen krijg je uit cadeautjes.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Beste: {n}",
 	"gz_nog_niet": "Nog niet gespeeld",
 	"gz_speel": "Speel",
-	"gz_versla_kort": "Versla"
+	"gz_versla_kort": "Versla",
+	"buddy_zin_hard": "Wow, dat ging wel heel hard!",
+	"buddy_zin_waarheen": "Waar zijn we nu?",
+	"wz_it_kerstmuts": "Kerstmuts",
+	"wz_it_gewei": "Rendiergewei",
+	"wz_it_kerstsjaal": "Kerstsjaal",
+	"wz_it_behang_sneeuw": "Sneeuwbehang",
+	"wz_it_kerstboom": "Kerstboom",
+	"wz_it_set_kerst": "Kerst",
+	"wz_kr_label": "Alleen rond kerst",
+	"wz_kr_seizoen": "Te koop van 1 december tot en met 6 januari. Wat je hebt, houd je altijd."
 }

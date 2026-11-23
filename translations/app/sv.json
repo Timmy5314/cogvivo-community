@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Rymd",
 	"wz_it_set_koning": "Kunglig",
 	"wz_it_boek": "Samling",
-	"wz_it_boek_uitleg": "Samla alla fyra sakerna i en uppsättning. De som saknas kommer från presenter.",
+	"wz_it_boek_uitleg": "Samla alla saker i en uppsättning. De som saknas kommer från presenter.",
 	"wz_it_set_klaar": "Komplett",
 	"wz_it_set_beloning": "Gör den komplett: +5 godis och en fest.",
 	"wz_it_meer_uit_cadeau": "Fler saker kommer från presenter.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Bästa: {n}",
 	"gz_nog_niet": "Inte spelat än",
 	"gz_speel": "Spela",
-	"gz_versla_kort": "Slå"
+	"gz_versla_kort": "Slå",
+	"buddy_zin_hard": "Wow, det gick verkligen fort!",
+	"buddy_zin_waarheen": "Var är vi nu?",
+	"wz_it_kerstmuts": "Tomteluva",
+	"wz_it_gewei": "Renhorn",
+	"wz_it_kerstsjaal": "Julhalsduk",
+	"wz_it_behang_sneeuw": "Snötapet",
+	"wz_it_kerstboom": "Julgran",
+	"wz_it_set_kerst": "Jul",
+	"wz_kr_label": "Bara till jul",
+	"wz_kr_seizoen": "Till salu 1 december–6 januari. Det du har får du behålla för alltid."
 }

@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "अंतरिक्ष",
 	"wz_it_set_koning": "शाही",
 	"wz_it_boek": "कलेक्शन",
-	"wz_it_boek_uitleg": "एक सेट की सारी चारों चीज़ें इकट्ठा करो। जो छूटी हों वे तोहफ़ों से मिलती हैं।",
+	"wz_it_boek_uitleg": "एक सेट की सारी चीज़ें इकट्ठा करो। जो छूटी हों वे तोहफ़ों से मिलती हैं।",
 	"wz_it_set_klaar": "पूरा",
 	"wz_it_set_beloning": "इसे पूरा करो: +5 मिठाइयाँ और एक पार्टी।",
 	"wz_it_meer_uit_cadeau": "और चीज़ें तोहफ़ों से मिलती हैं।",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "बेस्ट: {n}",
 	"gz_nog_niet": "अभी तक नहीं खेला",
 	"gz_speel": "खेलो",
-	"gz_versla_kort": "हराओ"
+	"gz_versla_kort": "हराओ",
+	"buddy_zin_hard": "वाह, यह तो बहुत तेज़ था!",
+	"buddy_zin_waarheen": "हम अभी कहाँ हैं?",
+	"wz_it_kerstmuts": "क्रिसमस टोपी",
+	"wz_it_gewei": "रेनडियर के सींग",
+	"wz_it_kerstsjaal": "क्रिसमस मफ़लर",
+	"wz_it_behang_sneeuw": "बर्फ़ वाला वॉलपेपर",
+	"wz_it_kerstboom": "क्रिसमस ट्री",
+	"wz_it_set_kerst": "क्रिसमस",
+	"wz_kr_label": "सिर्फ़ क्रिसमस पर",
+	"wz_kr_seizoen": "1 दिसंबर से 6 जनवरी तक मिलता है। जो तुम्हारे पास है, वह हमेशा तुम्हारा रहेगा।"
 }

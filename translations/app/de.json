@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Weltraum",
 	"wz_it_set_koning": "Königlich",
 	"wz_it_boek": "Sammlung",
-	"wz_it_boek_uitleg": "Sammle alle vier Dinge eines Sets. Was fehlt, steckt in Geschenken.",
+	"wz_it_boek_uitleg": "Sammle alle Dinge eines Sets. Was fehlt, steckt in Geschenken.",
 	"wz_it_set_klaar": "Komplett",
 	"wz_it_set_beloning": "Komplett: +5 Bonbons und eine Party.",
 	"wz_it_meer_uit_cadeau": "Mehr Dinge gibt es in Geschenken.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Bestwert: {n}",
 	"gz_nog_niet": "Noch nicht gespielt",
 	"gz_speel": "Spielen",
-	"gz_versla_kort": "Schlagen"
+	"gz_versla_kort": "Schlagen",
+	"buddy_zin_hard": "Wow, das ging ja richtig schnell!",
+	"buddy_zin_waarheen": "Wo sind wir jetzt?",
+	"wz_it_kerstmuts": "Weihnachtsmütze",
+	"wz_it_gewei": "Rentiergeweih",
+	"wz_it_kerstsjaal": "Weihnachtsschal",
+	"wz_it_behang_sneeuw": "Schnee-Tapete",
+	"wz_it_kerstboom": "Weihnachtsbaum",
+	"wz_it_set_kerst": "Weihnachten",
+	"wz_kr_label": "Nur zu Weihnachten",
+	"wz_kr_seizoen": "Zu haben vom 1. Dezember bis 6. Januar. Was du hast, behältst du für immer."
 }

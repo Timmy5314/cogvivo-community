@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Vesmír",
 	"wz_it_set_koning": "Královský",
 	"wz_it_boek": "Sbírka",
-	"wz_it_boek_uitleg": "Sesbírej všechny čtyři věci ze sady. Chybějící získáš z dárků.",
+	"wz_it_boek_uitleg": "Sesbírej všechny věci ze sady. Chybějící získáš z dárků.",
 	"wz_it_set_klaar": "Kompletní",
 	"wz_it_set_beloning": "Dokonči ji: +5 bonbónů a oslava.",
 	"wz_it_meer_uit_cadeau": "Další věci získáš z dárků.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Rekord: {n}",
 	"gz_nog_niet": "Zatím nehráno",
 	"gz_speel": "Hrát",
-	"gz_versla_kort": "Porazit"
+	"gz_versla_kort": "Porazit",
+	"buddy_zin_hard": "Páni, to ale byla rychlost!",
+	"buddy_zin_waarheen": "Kde to teď jsme?",
+	"wz_it_kerstmuts": "Vánoční čepice",
+	"wz_it_gewei": "Sobí parohy",
+	"wz_it_kerstsjaal": "Vánoční šála",
+	"wz_it_behang_sneeuw": "Sněhová tapeta",
+	"wz_it_kerstboom": "Vánoční stromeček",
+	"wz_it_set_kerst": "Vánoce",
+	"wz_kr_label": "Jen o Vánocích",
+	"wz_kr_seizoen": "K mání od 1. prosince do 6. ledna. Co máš, zůstane ti navždy."
 }

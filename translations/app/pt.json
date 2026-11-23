@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Espaço",
 	"wz_it_set_koning": "Real",
 	"wz_it_boek": "Coleção",
-	"wz_it_boek_uitleg": "Junta as quatro coisas de um conjunto. O que falta vem nos presentes.",
+	"wz_it_boek_uitleg": "Junta todas as coisas de um conjunto. O que falta vem nos presentes.",
 	"wz_it_set_klaar": "Completo",
 	"wz_it_set_beloning": "Completo: +5 rebuçados e uma festa.",
 	"wz_it_meer_uit_cadeau": "Mais coisas vêm dos presentes.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Recorde: {n}",
 	"gz_nog_niet": "Ainda não jogado",
 	"gz_speel": "Jogar",
-	"gz_versla_kort": "Superar"
+	"gz_versla_kort": "Superar",
+	"buddy_zin_hard": "Uau, isso foi mesmo rápido!",
+	"buddy_zin_waarheen": "Onde estamos agora?",
+	"wz_it_kerstmuts": "Gorro de Natal",
+	"wz_it_gewei": "Hastes de rena",
+	"wz_it_kerstsjaal": "Cachecol de Natal",
+	"wz_it_behang_sneeuw": "Papel de parede de neve",
+	"wz_it_kerstboom": "Árvore de Natal",
+	"wz_it_set_kerst": "Natal",
+	"wz_kr_label": "Só no Natal",
+	"wz_kr_seizoen": "À venda de 1 de dezembro a 6 de janeiro. O que tens fica teu para sempre."
 }

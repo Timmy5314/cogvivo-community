@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "太空",
 	"wz_it_set_koning": "皇家",
 	"wz_it_boek": "图鉴",
-	"wz_it_boek_uitleg": "集齐一套里的四件物品。缺的可以从礼物里获得。",
+	"wz_it_boek_uitleg": "集齐一套里的所有物品。缺的可以从礼物里获得。",
 	"wz_it_set_klaar": "已集齐",
 	"wz_it_set_beloning": "集齐即可获得 +5 颗糖和一场派对。",
 	"wz_it_meer_uit_cadeau": "更多物品来自礼物。",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "最高分：{n}",
 	"gz_nog_niet": "还没玩过",
 	"gz_speel": "玩",
-	"gz_versla_kort": "挑战"
+	"gz_versla_kort": "挑战",
+	"buddy_zin_hard": "哇，刚才好快啊！",
+	"buddy_zin_waarheen": "我们现在在哪儿？",
+	"wz_it_kerstmuts": "圣诞帽",
+	"wz_it_gewei": "驯鹿角",
+	"wz_it_kerstsjaal": "圣诞围巾",
+	"wz_it_behang_sneeuw": "雪花壁纸",
+	"wz_it_kerstboom": "圣诞树",
+	"wz_it_set_kerst": "圣诞节",
+	"wz_kr_label": "仅限圣诞",
+	"wz_kr_seizoen": "12月1日至1月6日有售。已经拥有的永远属于你。"
 }

@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Luar angkasa",
 	"wz_it_set_koning": "Kerajaan",
 	"wz_it_boek": "Koleksi",
-	"wz_it_boek_uitleg": "Kumpulkan keempat barang dalam satu set. Yang kurang ada di hadiah.",
+	"wz_it_boek_uitleg": "Kumpulkan semua barang dalam satu set. Yang kurang ada di hadiah.",
 	"wz_it_set_klaar": "Lengkap",
 	"wz_it_set_beloning": "Lengkap: +5 permen dan pesta.",
 	"wz_it_meer_uit_cadeau": "Barang lain didapat dari hadiah.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Terbaik: {n}",
 	"gz_nog_niet": "Belum dimainkan",
 	"gz_speel": "Main",
-	"gz_versla_kort": "Kalahkan"
+	"gz_versla_kort": "Kalahkan",
+	"buddy_zin_hard": "Wah, tadi cepat sekali!",
+	"buddy_zin_waarheen": "Kita di mana sekarang?",
+	"wz_it_kerstmuts": "Topi Natal",
+	"wz_it_gewei": "Tanduk rusa kutub",
+	"wz_it_kerstsjaal": "Syal Natal",
+	"wz_it_behang_sneeuw": "Wallpaper salju",
+	"wz_it_kerstboom": "Pohon Natal",
+	"wz_it_set_kerst": "Natal",
+	"wz_kr_label": "Hanya saat Natal",
+	"wz_kr_seizoen": "Dijual 1 Desember sampai 6 Januari. Yang sudah kamu punya tetap milikmu selamanya."
 }

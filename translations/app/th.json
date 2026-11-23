@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "อวกาศ",
 	"wz_it_set_koning": "ราชวงศ์",
 	"wz_it_boek": "คอลเลกชัน",
-	"wz_it_boek_uitleg": "สะสมของทั้งสี่ชิ้นของเซ็ต ชิ้นที่ขาดได้จากของขวัญ",
+	"wz_it_boek_uitleg": "สะสมของทุกชิ้นของเซ็ต ชิ้นที่ขาดได้จากของขวัญ",
 	"wz_it_set_klaar": "ครบแล้ว",
 	"wz_it_set_beloning": "สะสมให้ครบ: +5 ลูกอมและปาร์ตี้",
 	"wz_it_meer_uit_cadeau": "ของชิ้นอื่นได้จากของขวัญ",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "ดีที่สุด: {n}",
 	"gz_nog_niet": "ยังไม่ได้เล่น",
 	"gz_speel": "เล่น",
-	"gz_versla_kort": "ท้าชนะ"
+	"gz_versla_kort": "ท้าชนะ",
+	"buddy_zin_hard": "ว้าว เมื่อกี้เร็วมากเลย!",
+	"buddy_zin_waarheen": "ตอนนี้เราอยู่ที่ไหนกัน?",
+	"wz_it_kerstmuts": "หมวกซานต้า",
+	"wz_it_gewei": "เขากวางเรนเดียร์",
+	"wz_it_kerstsjaal": "ผ้าพันคอคริสต์มาส",
+	"wz_it_behang_sneeuw": "วอลเปเปอร์หิมะ",
+	"wz_it_kerstboom": "ต้นคริสต์มาส",
+	"wz_it_set_kerst": "คริสต์มาส",
+	"wz_kr_label": "เฉพาะช่วงคริสต์มาส",
+	"wz_kr_seizoen": "วางขายตั้งแต่ 1 ธันวาคมถึง 6 มกราคม ของที่คุณมีแล้วจะอยู่กับคุณตลอดไป"
 }

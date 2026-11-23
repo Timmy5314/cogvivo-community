@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "Espacio",
 	"wz_it_set_koning": "Real",
 	"wz_it_boek": "Colección",
-	"wz_it_boek_uitleg": "Reúne las cuatro cosas de un set. Lo que falta viene en regalos.",
+	"wz_it_boek_uitleg": "Reúne todas las cosas de un set. Lo que falta viene en regalos.",
 	"wz_it_set_klaar": "Completo",
 	"wz_it_set_beloning": "Completo: +5 caramelos y una fiesta.",
 	"wz_it_meer_uit_cadeau": "Más cosas salen de los regalos.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "Récord: {n}",
 	"gz_nog_niet": "Aún sin jugar",
 	"gz_speel": "Jugar",
-	"gz_versla_kort": "Superar"
+	"gz_versla_kort": "Superar",
+	"buddy_zin_hard": "¡Guau, qué rápido ha ido eso!",
+	"buddy_zin_waarheen": "¿Dónde estamos ahora?",
+	"wz_it_kerstmuts": "Gorro de Navidad",
+	"wz_it_gewei": "Cuernos de reno",
+	"wz_it_kerstsjaal": "Bufanda navideña",
+	"wz_it_behang_sneeuw": "Papel de nieve",
+	"wz_it_kerstboom": "Árbol de Navidad",
+	"wz_it_set_kerst": "Navidad",
+	"wz_kr_label": "Solo en Navidad",
+	"wz_kr_seizoen": "A la venta del 1 de diciembre al 6 de enero. Lo que tengas es tuyo para siempre."
 }

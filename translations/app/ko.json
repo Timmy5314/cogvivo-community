@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "우주",
 	"wz_it_set_koning": "왕실",
 	"wz_it_boek": "컬렉션",
-	"wz_it_boek_uitleg": "세트의 네 가지를 모두 모으세요. 없는 건 선물에서 나와요.",
+	"wz_it_boek_uitleg": "세트의 물건을 모두 모으세요. 없는 건 선물에서 나와요.",
 	"wz_it_set_klaar": "완성",
 	"wz_it_set_beloning": "완성하면 사탕 +5개와 파티!",
 	"wz_it_meer_uit_cadeau": "더 많은 아이템은 선물에서 나와요.",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "최고: {n}",
 	"gz_nog_niet": "아직 안 해 봤어요",
 	"gz_speel": "하기",
-	"gz_versla_kort": "도전"
+	"gz_versla_kort": "도전",
+	"buddy_zin_hard": "와, 진짜 빨랐다!",
+	"buddy_zin_waarheen": "여기 어디야?",
+	"wz_it_kerstmuts": "산타 모자",
+	"wz_it_gewei": "루돌프 뿔",
+	"wz_it_kerstsjaal": "크리스마스 목도리",
+	"wz_it_behang_sneeuw": "눈 내리는 벽지",
+	"wz_it_kerstboom": "크리스마스트리",
+	"wz_it_set_kerst": "크리스마스",
+	"wz_kr_label": "크리스마스 한정",
+	"wz_kr_seizoen": "12월 1일부터 1월 6일까지 살 수 있어요. 가진 건 영원히 당신 거예요."
 }

@@ -2209,7 +2209,7 @@
 	"wz_it_set_ruimte": "うちゅう",
 	"wz_it_set_koning": "おうさま",
 	"wz_it_boek": "コレクション",
-	"wz_it_boek_uitleg": "セットの4つをぜんぶあつめよう。たりないものはプレゼントに入っているよ。",
+	"wz_it_boek_uitleg": "セットのものをぜんぶあつめよう。たりないものはプレゼントに入っているよ。",
 	"wz_it_set_klaar": "コンプリート",
 	"wz_it_set_beloning": "コンプリートでおかし+5とパーティー!",
 	"wz_it_meer_uit_cadeau": "ほかのものはプレゼントから出てくるよ。",
@@ -3127,5 +3127,15 @@
 	"gz_beste_score": "ベスト：{n}",
 	"gz_nog_niet": "まだプレイしていません",
 	"gz_speel": "遊ぶ",
-	"gz_versla_kort": "勝負"
+	"gz_versla_kort": "勝負",
+	"buddy_zin_hard": "わあ、すごく速かったね！",
+	"buddy_zin_waarheen": "ここ、どこだろう？",
+	"wz_it_kerstmuts": "サンタぼうし",
+	"wz_it_gewei": "トナカイのつの",
+	"wz_it_kerstsjaal": "クリスマスのマフラー",
+	"wz_it_behang_sneeuw": "ゆきのかべがみ",
+	"wz_it_kerstboom": "クリスマスツリー",
+	"wz_it_set_kerst": "クリスマス",
+	"wz_kr_label": "クリスマスだけ",
+	"wz_kr_seizoen": "12月1日から1月6日まで買えるよ。手に入れたものはずっとあなたのもの。"
 }
