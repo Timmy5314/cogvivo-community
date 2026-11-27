@@ -3235,5 +3235,17 @@
 	"flt_smokey": "スモーキーアイ",
 	"flt_rozepop": "ピンクポップ",
 	"flt_soort_kleur": "カラー",
-	"flt_soort_gezicht": "顔"
+	"flt_soort_gezicht": "顔",
+	"ld_ogen": "目で10ぴったりストップ",
+	"ld_ogen_regel": "時計がカウントアップし、3秒後に消えます。ちょうど10.00だと思ったら目をぎゅっと閉じてください。3ラウンド制。10に一番近い人の勝ちです。",
+	"ld_eenheid_ogen": "ポイント",
+	"ld_balans": "頭の上でバランス",
+	"ld_balans_regel": "頭の上に積み重ねがあります。片側に傾いたら、頭を反対側に傾けてください。立っている1秒ごとに得点です。制限時間は30秒。",
+	"ld_eenheid_balans": "立っていた秒数",
+	"ld_snap_ogen": "顔を画面に入れてください。すぐに始まり、3ラウンドあります。",
+	"ld_ogen_hint": "ちょうど10.00で目をぎゅっと閉じる",
+	"ld_ogen_vroeg": "{s}秒早い",
+	"ld_ogen_laat": "{s}秒遅い",
+	"ld_ogen_gemist": "止められなかった",
+	"ld_balans_hint": "傾いたら、頭を反対側に傾けよう"
 }

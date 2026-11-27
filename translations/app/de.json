@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smokey Eyes",
 	"flt_rozepop": "Pink Pop",
 	"flt_soort_kleur": "Farbe",
-	"flt_soort_gezicht": "Gesicht"
+	"flt_soort_gezicht": "Gesicht",
+	"ld_ogen": "Stopp bei 10 mit den Augen",
+	"ld_ogen_regel": "Die Uhr läuft hoch und verschwindet nach 3 Sekunden. Kneif die Augen zu, wenn du glaubst, dass es genau 10,00 ist. Drei Runden; wer am nächsten an 10 ist, gewinnt.",
+	"ld_eenheid_ogen": "Punkte",
+	"ld_balans": "Balancieren auf dem Kopf",
+	"ld_balans_regel": "Auf deinem Kopf steht ein Stapel. Neigt er sich zu einer Seite, neige deinen Kopf zur anderen. Jede Sekunde, die er stehen bleibt, zählt. Du hast 30 Sekunden.",
+	"ld_eenheid_balans": "Sekunden aufrecht",
+	"ld_snap_ogen": "Halte dein Gesicht ins Bild. Das Spiel startet sofort und hat drei Runden.",
+	"ld_ogen_hint": "Kneif die Augen genau bei 10,00 zu",
+	"ld_ogen_vroeg": "{s} s zu früh",
+	"ld_ogen_laat": "{s} s zu spät",
+	"ld_ogen_gemist": "Nicht gestoppt",
+	"ld_balans_hint": "Kippt der Stapel? Neige den Kopf zur anderen Seite"
 }

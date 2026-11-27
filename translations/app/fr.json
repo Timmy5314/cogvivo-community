@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smoky eyes",
 	"flt_rozepop": "Rose pop",
 	"flt_soort_kleur": "Couleur",
-	"flt_soort_gezicht": "Visage"
+	"flt_soort_gezicht": "Visage",
+	"ld_ogen": "Stop à 10 avec les yeux",
+	"ld_ogen_regel": "Le chrono monte puis disparaît après 3 secondes. Ferme fort les yeux quand tu penses qu'il est exactement 10,00. Trois manches ; le plus proche de 10 gagne.",
+	"ld_eenheid_ogen": "Points",
+	"ld_balans": "Équilibre sur la tête",
+	"ld_balans_regel": "Une pile est posée sur ta tête. Si elle penche d'un côté, incline la tête de l'autre. Chaque seconde où elle tient compte. Tu as 30 secondes.",
+	"ld_eenheid_balans": "Secondes debout",
+	"ld_snap_ogen": "Mets ton visage dans le cadre. Le jeu démarre tout de suite et compte trois manches.",
+	"ld_ogen_hint": "Ferme fort les yeux à 10,00 pile",
+	"ld_ogen_vroeg": "{s} s trop tôt",
+	"ld_ogen_laat": "{s} s trop tard",
+	"ld_ogen_gemist": "Pas arrêté",
+	"ld_balans_hint": "La pile penche ? Incline la tête de l'autre côté"
 }

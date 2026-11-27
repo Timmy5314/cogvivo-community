@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Buğulu gözler",
 	"flt_rozepop": "Pembe pop",
 	"flt_soort_kleur": "Renk",
-	"flt_soort_gezicht": "Yüz"
+	"flt_soort_gezicht": "Yüz",
+	"ld_ogen": "Gözlerinle 10'da dur",
+	"ld_ogen_regel": "Saat yukarı sayar ve 3 saniye sonra kaybolur. Tam 10,00 olduğunu düşündüğünde gözlerini sıkıca kapat. Üç tur; 10'a en yakın olan kazanır.",
+	"ld_eenheid_ogen": "Puan",
+	"ld_balans": "Başında dengele",
+	"ld_balans_regel": "Başının üstünde bir yığın var. Bir yana eğilirse başını öbür yana eğ. Ayakta kaldığı her saniye sayılır. 30 saniyen var.",
+	"ld_eenheid_balans": "Ayakta saniye",
+	"ld_snap_ogen": "Yüzünü kadraja al. Oyun hemen başlar ve üç turdur.",
+	"ld_ogen_hint": "Gözlerini tam 10,00'da sıkıca kapat",
+	"ld_ogen_vroeg": "{s} sn erken",
+	"ld_ogen_laat": "{s} sn geç",
+	"ld_ogen_gemist": "Durdurulmadı",
+	"ld_balans_hint": "Yığın eğiliyor mu? Başını öbür yana eğ"
 }

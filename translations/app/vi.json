@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Mắt khói",
 	"flt_rozepop": "Hồng nổi bật",
 	"flt_soort_kleur": "Màu",
-	"flt_soort_gezicht": "Khuôn mặt"
+	"flt_soort_gezicht": "Khuôn mặt",
+	"ld_ogen": "Dừng ở 10 bằng mắt",
+	"ld_ogen_regel": "Đồng hồ đếm lên rồi biến mất sau 3 giây. Nhắm chặt mắt khi bạn nghĩ đã đúng 10,00. Ba lượt; ai gần 10 nhất sẽ thắng.",
+	"ld_eenheid_ogen": "Điểm",
+	"ld_balans": "Giữ thăng bằng trên đầu",
+	"ld_balans_regel": "Trên đầu bạn có một chồng đồ. Nếu nó nghiêng về một bên, hãy nghiêng đầu sang bên kia. Mỗi giây chồng đồ còn đứng đều được tính. Bạn có 30 giây.",
+	"ld_eenheid_balans": "Số giây đứng vững",
+	"ld_snap_ogen": "Đưa khuôn mặt vào khung hình. Trò chơi bắt đầu ngay và có ba lượt.",
+	"ld_ogen_hint": "Nhắm chặt mắt đúng lúc 10,00",
+	"ld_ogen_vroeg": "Sớm {s} giây",
+	"ld_ogen_laat": "Muộn {s} giây",
+	"ld_ogen_gemist": "Chưa dừng",
+	"ld_balans_hint": "Chồng đồ nghiêng? Nghiêng đầu sang bên kia"
 }

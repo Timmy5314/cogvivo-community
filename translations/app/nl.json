@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smokey eyes",
 	"flt_rozepop": "Roze pop",
 	"flt_soort_kleur": "Kleur",
-	"flt_soort_gezicht": "Gezicht"
+	"flt_soort_gezicht": "Gezicht",
+	"ld_ogen": "Stop op 10 met je ogen",
+	"ld_ogen_regel": "De klok loopt op en verdwijnt na 3 seconden. Knijp je ogen dicht als jij denkt dat het precies 10,00 is. Drie rondes; wie het dichtst bij 10 zit, wint.",
+	"ld_eenheid_ogen": "Punten",
+	"ld_balans": "Balanceren op je hoofd",
+	"ld_balans_regel": "Er staat een stapel op je hoofd. Helt hij naar één kant, kantel dan je hoofd de andere kant op. Elke seconde dat hij blijft staan telt. Je hebt 30 seconden.",
+	"ld_eenheid_balans": "Seconden overeind",
+	"ld_snap_ogen": "Zet je gezicht in beeld. Het spel begint meteen en heeft drie rondes.",
+	"ld_ogen_hint": "Knijp je ogen dicht op precies 10,00",
+	"ld_ogen_vroeg": "{s} s te vroeg",
+	"ld_ogen_laat": "{s} s te laat",
+	"ld_ogen_gemist": "Niet gestopt",
+	"ld_balans_hint": "Helt de stapel? Kantel je hoofd de andere kant op"
 }

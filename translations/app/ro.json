@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smokey eyes",
 	"flt_rozepop": "Roz pop",
 	"flt_soort_kleur": "Culoare",
-	"flt_soort_gezicht": "Față"
+	"flt_soort_gezicht": "Față",
+	"ld_ogen": "Stop la 10 cu ochii",
+	"ld_ogen_regel": "Ceasul urcă și dispare după 3 secunde. Strânge ochii când crezi că este exact 10,00. Trei runde; câștigă cine e cel mai aproape de 10.",
+	"ld_eenheid_ogen": "Puncte",
+	"ld_balans": "Echilibru pe cap",
+	"ld_balans_regel": "Ai un teanc pe cap. Dacă se înclină într-o parte, înclină capul în cealaltă. Contează fiecare secundă cât stă în picioare. Ai 30 de secunde.",
+	"ld_eenheid_balans": "Secunde în picioare",
+	"ld_snap_ogen": "Pune-ți fața în cadru. Jocul începe imediat și are trei runde.",
+	"ld_ogen_hint": "Strânge ochii exact la 10,00",
+	"ld_ogen_vroeg": "{s} s prea devreme",
+	"ld_ogen_laat": "{s} s prea târziu",
+	"ld_ogen_gemist": "Neoprit",
+	"ld_balans_hint": "Se înclină teancul? Înclină capul în partea cealaltă"
 }

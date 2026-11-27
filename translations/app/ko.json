@@ -3235,5 +3235,17 @@
 	"flt_smokey": "스모키 아이",
 	"flt_rozepop": "핑크 팝",
 	"flt_soort_kleur": "색상",
-	"flt_soort_gezicht": "얼굴"
+	"flt_soort_gezicht": "얼굴",
+	"ld_ogen": "눈으로 10에 멈추기",
+	"ld_ogen_regel": "시계가 올라가다가 3초 뒤에 사라져요. 정확히 10.00이라고 생각될 때 눈을 꼭 감으세요. 3라운드, 10에 가장 가까운 사람이 이겨요.",
+	"ld_eenheid_ogen": "점수",
+	"ld_balans": "머리 위 균형 잡기",
+	"ld_balans_regel": "머리 위에 탑이 쌓여 있어요. 한쪽으로 기울면 머리를 반대쪽으로 기울이세요. 서 있는 1초마다 점수예요. 30초 동안 진행돼요.",
+	"ld_eenheid_balans": "버틴 초",
+	"ld_snap_ogen": "얼굴이 화면에 나오게 하세요. 게임은 바로 시작되고 3라운드예요.",
+	"ld_ogen_hint": "정확히 10.00에 눈을 꼭 감으세요",
+	"ld_ogen_vroeg": "{s}초 빨랐어요",
+	"ld_ogen_laat": "{s}초 늦었어요",
+	"ld_ogen_gemist": "멈추지 못했어요",
+	"ld_balans_hint": "탑이 기울면 머리를 반대쪽으로 기울이세요"
 }

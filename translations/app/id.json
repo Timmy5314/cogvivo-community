@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smokey eyes",
 	"flt_rozepop": "Pink pop",
 	"flt_soort_kleur": "Warna",
-	"flt_soort_gezicht": "Wajah"
+	"flt_soort_gezicht": "Wajah",
+	"ld_ogen": "Berhenti di 10 dengan mata",
+	"ld_ogen_regel": "Jam menghitung naik lalu hilang setelah 3 detik. Pejamkan mata kuat-kuat saat menurutmu tepat 10,00. Tiga ronde; yang paling dekat dengan 10 menang.",
+	"ld_eenheid_ogen": "Poin",
+	"ld_balans": "Seimbang di kepala",
+	"ld_balans_regel": "Ada tumpukan di kepalamu. Kalau miring ke satu sisi, miringkan kepalamu ke sisi lain. Setiap detik tumpukan tetap berdiri dihitung. Waktumu 30 detik.",
+	"ld_eenheid_balans": "Detik berdiri",
+	"ld_snap_ogen": "Pastikan wajahmu terlihat. Permainan langsung mulai dan ada tiga ronde.",
+	"ld_ogen_hint": "Pejamkan mata tepat di 10,00",
+	"ld_ogen_vroeg": "{s} dtk terlalu cepat",
+	"ld_ogen_laat": "{s} dtk terlambat",
+	"ld_ogen_gemist": "Tidak berhenti",
+	"ld_balans_hint": "Tumpukan miring? Miringkan kepala ke sisi lain"
 }

@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smokey eyes",
 	"flt_rozepop": "Różowy pop",
 	"flt_soort_kleur": "Kolor",
-	"flt_soort_gezicht": "Twarz"
+	"flt_soort_gezicht": "Twarz",
+	"ld_ogen": "Stop na 10 oczami",
+	"ld_ogen_regel": "Zegar liczy w górę i znika po 3 sekundach. Zaciśnij oczy, gdy uznasz, że jest dokładnie 10,00. Trzy rundy; wygrywa ten, kto będzie najbliżej 10.",
+	"ld_eenheid_ogen": "Punkty",
+	"ld_balans": "Balansowanie na głowie",
+	"ld_balans_regel": "Na głowie masz stos. Gdy przechyla się w jedną stronę, przechyl głowę w drugą. Liczy się każda sekunda, gdy stoi. Masz 30 sekund.",
+	"ld_eenheid_balans": "Sekundy w pionie",
+	"ld_snap_ogen": "Ustaw twarz w kadrze. Gra zaczyna się od razu i ma trzy rundy.",
+	"ld_ogen_hint": "Zaciśnij oczy dokładnie na 10,00",
+	"ld_ogen_vroeg": "{s} s za wcześnie",
+	"ld_ogen_laat": "{s} s za późno",
+	"ld_ogen_gemist": "Nie zatrzymano",
+	"ld_balans_hint": "Stos się przechyla? Przechyl głowę w drugą stronę"
 }

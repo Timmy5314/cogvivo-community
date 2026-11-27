@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Olhos esfumados",
 	"flt_rozepop": "Rosa pop",
 	"flt_soort_kleur": "Cor",
-	"flt_soort_gezicht": "Rosto"
+	"flt_soort_gezicht": "Rosto",
+	"ld_ogen": "Pare no 10 com os olhos",
+	"ld_ogen_regel": "O relógio sobe e some depois de 3 segundos. Aperte os olhos quando achar que deu exatamente 10,00. Três rodadas; quem ficar mais perto de 10 vence.",
+	"ld_eenheid_ogen": "Pontos",
+	"ld_balans": "Equilíbrio na cabeça",
+	"ld_balans_regel": "Há uma pilha na sua cabeça. Se ela pender para um lado, incline a cabeça para o outro. Cada segundo que ela fica de pé conta. Você tem 30 segundos.",
+	"ld_eenheid_balans": "Segundos de pé",
+	"ld_snap_ogen": "Coloque o rosto na imagem. O jogo começa na hora e tem três rodadas.",
+	"ld_ogen_hint": "Aperte os olhos exatamente em 10,00",
+	"ld_ogen_vroeg": "{s} s adiantado",
+	"ld_ogen_laat": "{s} s atrasado",
+	"ld_ogen_gemist": "Não parou",
+	"ld_balans_hint": "A pilha está caindo? Incline a cabeça para o outro lado"
 }

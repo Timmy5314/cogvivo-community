@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Füstös szem",
 	"flt_rozepop": "Rózsaszín pop",
 	"flt_soort_kleur": "Szín",
-	"flt_soort_gezicht": "Arc"
+	"flt_soort_gezicht": "Arc",
+	"ld_ogen": "Állj meg 10-nél a szemeddel",
+	"ld_ogen_regel": "Az óra felfelé számol, és 3 másodperc után eltűnik. Szorítsd össze a szemed, amikor szerinted pontosan 10,00 van. Három kör; az nyer, aki a legközelebb van a 10-hez.",
+	"ld_eenheid_ogen": "Pont",
+	"ld_balans": "Egyensúlyozás a fejeden",
+	"ld_balans_regel": "Egy torony áll a fejeden. Ha az egyik oldalra dől, döntsd a fejed a másikra. Minden másodperc számít, amíg áll. 30 másodperced van.",
+	"ld_eenheid_balans": "Másodperc állva",
+	"ld_snap_ogen": "Legyen az arcod a képen. A játék azonnal indul, és három körből áll.",
+	"ld_ogen_hint": "Szorítsd össze a szemed pontosan 10,00-nál",
+	"ld_ogen_vroeg": "{s} mp-cel korábban",
+	"ld_ogen_laat": "{s} mp-cel később",
+	"ld_ogen_gemist": "Nem állítottad meg",
+	"ld_balans_hint": "Dől a torony? Döntsd a fejed a másik oldalra"
 }

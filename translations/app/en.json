@@ -3235,5 +3235,17 @@
 	"flt_smokey": "Smokey eyes",
 	"flt_rozepop": "Pink pop",
 	"flt_soort_kleur": "Color",
-	"flt_soort_gezicht": "Face"
+	"flt_soort_gezicht": "Face",
+	"ld_ogen": "Stop at 10 with your eyes",
+	"ld_ogen_regel": "The clock counts up and disappears after 3 seconds. Squeeze your eyes shut when you think it is exactly 10.00. Three rounds; closest to 10 wins.",
+	"ld_eenheid_ogen": "Points",
+	"ld_balans": "Balance on your head",
+	"ld_balans_regel": "There is a stack on your head. When it leans to one side, tilt your head the other way. Every second it stays up counts. You have 30 seconds.",
+	"ld_eenheid_balans": "Seconds standing",
+	"ld_snap_ogen": "Get your face in view. The game starts right away and has three rounds.",
+	"ld_ogen_hint": "Squeeze your eyes shut at exactly 10.00",
+	"ld_ogen_vroeg": "{s} s too early",
+	"ld_ogen_laat": "{s} s too late",
+	"ld_ogen_gemist": "Not stopped",
+	"ld_balans_hint": "Stack leaning? Tilt your head the other way"
 }
