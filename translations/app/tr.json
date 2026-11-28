@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Saat yukarı sayar ve 3 saniye sonra kaybolur. Tam 10,00 olduğunu düşündüğünde gözlerini sıkıca kapat. Üç tur; 10'a en yakın olan kazanır.",
 	"ld_eenheid_ogen": "Puan",
 	"ld_balans": "Başında dengele",
-	"ld_balans_regel": "Başının üstünde bir yığın var. Bir yana eğilirse başını öbür yana eğ. Ayakta kaldığı her saniye sayılır. 30 saniyen var.",
+	"ld_balans_regel": "Başının üstünde bir şey duruyor ve sürekli bir tane daha ekleniyor. Yığın bir yana eğilirse başını öbür yana eğ. İki veya daha fazla şeyin durduğu her saniye sayılır. 30 saniyen var.",
 	"ld_eenheid_balans": "Ayakta saniye",
 	"ld_snap_ogen": "Yüzünü kadraja al. Oyun hemen başlar ve üç turdur.",
 	"ld_ogen_hint": "Gözlerini tam 10,00'da sıkıca kapat",

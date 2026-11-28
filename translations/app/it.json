@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Il cronometro sale e sparisce dopo 3 secondi. Strizza gli occhi quando pensi che siano esattamente 10,00. Tre round; vince chi va più vicino a 10.",
 	"ld_eenheid_ogen": "Punti",
 	"ld_balans": "Equilibrio sulla testa",
-	"ld_balans_regel": "Hai una pila sulla testa. Se pende da un lato, inclina la testa dall'altro. Ogni secondo in cui resta in piedi conta. Hai 30 secondi.",
+	"ld_balans_regel": "Hai una cosa sulla testa e se ne aggiunge sempre un’altra. Se la pila pende da un lato, inclina la testa dall’altro. Ogni secondo con due o più cose conta. Hai 30 secondi.",
 	"ld_eenheid_balans": "Secondi in piedi",
 	"ld_snap_ogen": "Metti il viso nell'inquadratura. Il gioco parte subito e ha tre round.",
 	"ld_ogen_hint": "Strizza gli occhi esattamente a 10,00",

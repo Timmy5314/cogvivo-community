@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "De klok loopt op en verdwijnt na 3 seconden. Knijp je ogen dicht als jij denkt dat het precies 10,00 is. Drie rondes; wie het dichtst bij 10 zit, wint.",
 	"ld_eenheid_ogen": "Punten",
 	"ld_balans": "Balanceren op je hoofd",
-	"ld_balans_regel": "Er staat een stapel op je hoofd. Helt hij naar één kant, kantel dan je hoofd de andere kant op. Elke seconde dat hij blijft staan telt. Je hebt 30 seconden.",
+	"ld_balans_regel": "Er staat één ding op je hoofd en er komt steeds één bij. Helt de stapel naar één kant, kantel dan je hoofd de andere kant op. Elke seconde met twee of meer dingen telt. Je hebt 30 seconden.",
 	"ld_eenheid_balans": "Seconden overeind",
 	"ld_snap_ogen": "Zet je gezicht in beeld. Het spel begint meteen en heeft drie rondes.",
 	"ld_ogen_hint": "Knijp je ogen dicht op precies 10,00",

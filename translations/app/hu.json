@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Az óra felfelé számol, és 3 másodperc után eltűnik. Szorítsd össze a szemed, amikor szerinted pontosan 10,00 van. Három kör; az nyer, aki a legközelebb van a 10-hez.",
 	"ld_eenheid_ogen": "Pont",
 	"ld_balans": "Egyensúlyozás a fejeden",
-	"ld_balans_regel": "Egy torony áll a fejeden. Ha az egyik oldalra dől, döntsd a fejed a másikra. Minden másodperc számít, amíg áll. 30 másodperced van.",
+	"ld_balans_regel": "Egy dolog van a fejeden, és mindig jön rá még egy. Ha a torony az egyik oldalra dől, döntsd a fejed a másikra. Minden másodperc számít, amikor legalább két dolog áll. 30 másodperced van.",
 	"ld_eenheid_balans": "Másodperc állva",
 	"ld_snap_ogen": "Legyen az arcod a képen. A játék azonnal indul, és három körből áll.",
 	"ld_ogen_hint": "Szorítsd össze a szemed pontosan 10,00-nál",

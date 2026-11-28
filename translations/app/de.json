@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Die Uhr läuft hoch und verschwindet nach 3 Sekunden. Kneif die Augen zu, wenn du glaubst, dass es genau 10,00 ist. Drei Runden; wer am nächsten an 10 ist, gewinnt.",
 	"ld_eenheid_ogen": "Punkte",
 	"ld_balans": "Balancieren auf dem Kopf",
-	"ld_balans_regel": "Auf deinem Kopf steht ein Stapel. Neigt er sich zu einer Seite, neige deinen Kopf zur anderen. Jede Sekunde, die er stehen bleibt, zählt. Du hast 30 Sekunden.",
+	"ld_balans_regel": "Auf deinem Kopf liegt ein Ding, und es kommt immer eins dazu. Neigt sich der Stapel zu einer Seite, neige den Kopf zur anderen. Jede Sekunde mit zwei oder mehr Dingen zählt. Du hast 30 Sekunden.",
 	"ld_eenheid_balans": "Sekunden aufrecht",
 	"ld_snap_ogen": "Halte dein Gesicht ins Bild. Das Spiel startet sofort und hat drei Runden.",
 	"ld_ogen_hint": "Kneif die Augen genau bei 10,00 zu",

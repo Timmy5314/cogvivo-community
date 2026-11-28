@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Klockan räknar upp och försvinner efter 3 sekunder. Knip ihop ögonen när du tror att den är exakt 10,00. Tre rundor; närmast 10 vinner.",
 	"ld_eenheid_ogen": "Poäng",
 	"ld_balans": "Balansera på huvudet",
-	"ld_balans_regel": "Du har en stapel på huvudet. Lutar den åt ena hållet, luta huvudet åt det andra. Varje sekund den står kvar räknas. Du har 30 sekunder.",
+	"ld_balans_regel": "En sak ligger på ditt huvud och det kommer hela tiden en till. Lutar högen åt ena hållet, luta huvudet åt det andra. Varje sekund med två eller fler saker räknas. Du har 30 sekunder.",
 	"ld_eenheid_balans": "Sekunder upprätt",
 	"ld_snap_ogen": "Ha ansiktet i bild. Spelet börjar direkt och har tre rundor.",
 	"ld_ogen_hint": "Knip ihop ögonen på exakt 10,00",

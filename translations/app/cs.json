@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Čas běží nahoru a po 3 sekundách zmizí. Zavři pevně oči, až si budeš myslet, že je přesně 10,00. Tři kola; vyhrává, kdo je nejblíž 10.",
 	"ld_eenheid_ogen": "Body",
 	"ld_balans": "Balancování na hlavě",
-	"ld_balans_regel": "Na hlavě máš věž. Když se nakloní na jednu stranu, nakloň hlavu na druhou. Počítá se každá sekunda, kdy stojí. Máš 30 sekund.",
+	"ld_balans_regel": "Na hlavě máš jednu věc a postupně přibývají další. Když se hromádka nakloní na jednu stranu, nakloň hlavu na druhou. Počítá se každá sekunda se dvěma nebo více věcmi. Máš 30 sekund.",
 	"ld_eenheid_balans": "Sekundy vzpřímeně",
 	"ld_snap_ogen": "Dej obličej do záběru. Hra začne hned a má tři kola.",
 	"ld_ogen_hint": "Zavři pevně oči přesně na 10,00",

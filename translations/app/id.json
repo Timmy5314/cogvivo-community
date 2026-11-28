@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "Jam menghitung naik lalu hilang setelah 3 detik. Pejamkan mata kuat-kuat saat menurutmu tepat 10,00. Tiga ronde; yang paling dekat dengan 10 menang.",
 	"ld_eenheid_ogen": "Poin",
 	"ld_balans": "Seimbang di kepala",
-	"ld_balans_regel": "Ada tumpukan di kepalamu. Kalau miring ke satu sisi, miringkan kepalamu ke sisi lain. Setiap detik tumpukan tetap berdiri dihitung. Waktumu 30 detik.",
+	"ld_balans_regel": "Ada satu benda di kepalamu dan terus bertambah satu. Kalau tumpukan miring ke satu sisi, miringkan kepalamu ke sisi lain. Setiap detik dengan dua benda atau lebih dihitung. Kamu punya 30 detik.",
 	"ld_eenheid_balans": "Detik berdiri",
 	"ld_snap_ogen": "Pastikan wajahmu terlihat. Permainan langsung mulai dan ada tiga ronde.",
 	"ld_ogen_hint": "Pejamkan mata tepat di 10,00",

@@ -3240,7 +3240,7 @@
 	"ld_ogen_regel": "El reloj sube y desaparece a los 3 segundos. Aprieta los ojos cuando creas que son exactamente 10,00. Tres rondas; gana quien quede más cerca de 10.",
 	"ld_eenheid_ogen": "Puntos",
 	"ld_balans": "Equilibrio en la cabeza",
-	"ld_balans_regel": "Tienes una pila sobre la cabeza. Si se inclina hacia un lado, inclina la cabeza hacia el otro. Cuenta cada segundo que aguanta. Tienes 30 segundos.",
+	"ld_balans_regel": "Hay una cosa sobre tu cabeza y cada poco se suma otra. Si la pila se inclina hacia un lado, inclina la cabeza hacia el otro. Cada segundo con dos o más cosas cuenta. Tienes 30 segundos.",
 	"ld_eenheid_balans": "Segundos en pie",
 	"ld_snap_ogen": "Pon tu cara en la imagen. El juego empieza enseguida y tiene tres rondas.",
 	"ld_ogen_hint": "Aprieta los ojos justo en 10,00",
