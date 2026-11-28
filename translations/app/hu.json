@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} mp-cel később",
 	"ld_ogen_gemist": "Nem állítottad meg",
 	"ld_balans_hint": "Dől a torony? Döntsd a fejed a másik oldalra",
+	"ld_laser": "Lézerkitérő",
+	"ld_laser_regel": "Felvillan egy piros mező: balra, jobbra vagy fent. Kicsivel később oda lő a lézer. Hajolj le vagy dőlj oldalra, amíg az egész fejed kívül nem kerül a mezőn. Minden kikerült lézer számít, és gyorsítja a játékot. 30 másodperced van.",
+	"ld_eenheid_laser": "Kikerült lézerek",
+	"ld_laser_hint": "Piros mező? Hajolj le vagy dőlj oldalra, amíg a fejed kikerül",
+	"ld_sps": "Kő, papír, olló",
+	"ld_sps_regel": "Öt kör. A számláló 3, 2, 1: 0-nál mutasd a kezed. Az ököl kő, a nyitott tenyér papír, a két ujj olló. Az ellenfeled kezét csak akkor látod, amikor a tiéd már rögzült. Az nyer, aki több kört nyer.",
+	"ld_eenheid_sps": "Megnyert körök",
+	"ld_sps_hint": "0-nál mutasd a kezed: ököl, nyitott tenyér vagy két ujj",
 	"wz_kracht_knop": "Szuperképességek",
 	"wz_kracht_titel": "Szuperképességek: {naam}",
 	"wz_kracht_uitleg": "Nézz meg egy videót, és az a sáv 24 órán át tele marad. Minden sávnak saját videója van.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Mindenki",
 	"br_vis_friends": "Csak barátok",
 	"br_add_photo": "Fotó hozzáadása",
-	"br_left": "Még {n} karakter"
+	"br_left": "Még {n} karakter",
+	"br_monument": "Látnivaló a közeledben",
+	"br_see_place": "Hely megtekintése",
+	"br_to_buurt": "Irány a környéked"
 }

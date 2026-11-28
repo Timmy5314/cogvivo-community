@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "Muộn {s} giây",
 	"ld_ogen_gemist": "Chưa dừng",
 	"ld_balans_hint": "Chồng đồ nghiêng? Nghiêng đầu sang bên kia",
+	"ld_laser": "Né tia laser",
+	"ld_laser_regel": "Một vùng đỏ sáng lên: bên trái, bên phải hoặc phía trên. Ngay sau đó tia laser bắn vào đó. Hãy cúi xuống hoặc nghiêng người sang bên cho đến khi cả đầu ra khỏi vùng đỏ. Mỗi tia laser né được đều được tính và làm trò chơi nhanh hơn. Bạn có 30 giây.",
+	"ld_eenheid_laser": "Tia laser đã né",
+	"ld_laser_hint": "Vùng đỏ? Cúi xuống hoặc nghiêng sang bên cho đầu ra ngoài",
+	"ld_sps": "Oẳn tù tì",
+	"ld_sps_regel": "Năm lượt. Bộ đếm chạy 3, 2, 1: giơ tay ra khi về 0. Nắm tay là búa, bàn tay xòe là bao, hai ngón là kéo. Bạn chỉ thấy tay đối thủ sau khi tay của bạn đã được chốt. Ai thắng nhiều lượt hơn sẽ thắng.",
+	"ld_eenheid_sps": "Số lượt thắng",
+	"ld_sps_hint": "Giơ tay khi về 0: nắm tay, xòe tay hoặc hai ngón",
 	"wz_kracht_knop": "Siêu năng lực",
 	"wz_kracht_titel": "Siêu năng lực cho {naam}",
 	"wz_kracht_uitleg": "Xem một video và thanh đó sẽ đầy suốt 24 giờ. Mỗi thanh có video riêng.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Mọi người",
 	"br_vis_friends": "Chỉ bạn bè",
 	"br_add_photo": "Thêm ảnh",
-	"br_left": "Còn {n} ký tự"
+	"br_left": "Còn {n} ký tự",
+	"br_monument": "Di tích gần bạn",
+	"br_see_place": "Xem địa điểm",
+	"br_to_buurt": "Đến khu phố của bạn"
 }

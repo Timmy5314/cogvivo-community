@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s tarde",
 	"ld_ogen_gemist": "No paraste",
 	"ld_balans_hint": "¿Se inclina la pila? Inclina la cabeza al otro lado",
+	"ld_laser": "Esquiva el láser",
+	"ld_laser_regel": "Se enciende una zona roja: izquierda, derecha o arriba. Un momento después el láser dispara ahí. Agáchate o inclínate hasta que toda tu cabeza quede fuera de la zona. Cada láser esquivado cuenta y lo acelera. Tienes 30 segundos.",
+	"ld_eenheid_laser": "Láseres esquivados",
+	"ld_laser_hint": "¿Zona roja? Agáchate o inclínate hasta sacar la cabeza",
+	"ld_sps": "Piedra, papel o tijera",
+	"ld_sps_regel": "Cinco rondas. El contador va 3, 2, 1: enseña la mano en el 0. El puño es piedra, la mano abierta es papel y dos dedos son tijera. Solo ves la mano de tu rival cuando la tuya ya está fijada. Gana quien gane más rondas.",
+	"ld_eenheid_sps": "Rondas ganadas",
+	"ld_sps_hint": "Enseña la mano en el 0: puño, mano abierta o dos dedos",
 	"wz_kracht_knop": "Superpoderes",
 	"wz_kracht_titel": "Superpoderes para {naam}",
 	"wz_kracht_uitleg": "Mira un vídeo y esa barra se queda llena durante 24 horas. Cada barra tiene su propio vídeo.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Todos",
 	"br_vis_friends": "Solo amigos",
 	"br_add_photo": "Añadir foto",
-	"br_left": "Quedan {n} caracteres"
+	"br_left": "Quedan {n} caracteres",
+	"br_monument": "Monumento cerca de ti",
+	"br_see_place": "Ver lugar",
+	"br_to_buurt": "Ir a tu barrio"
 }

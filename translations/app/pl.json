@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s za późno",
 	"ld_ogen_gemist": "Nie zatrzymano",
 	"ld_balans_hint": "Stos się przechyla? Przechyl głowę w drugą stronę",
+	"ld_laser": "Unik przed laserem",
+	"ld_laser_regel": "Zapala się czerwone pole: po lewej, po prawej albo u góry. Chwilę później strzela tam laser. Schyl się lub wychyl w bok, aż cała głowa znajdzie się poza polem. Każdy unik się liczy i przyspiesza grę. Masz 30 sekund.",
+	"ld_eenheid_laser": "Uniki przed laserem",
+	"ld_laser_hint": "Czerwone pole? Schyl się lub wychyl, aż głowa będzie poza nim",
+	"ld_sps": "Kamień, papier, nożyce",
+	"ld_sps_regel": "Pięć rund. Licznik odlicza 3, 2, 1: na 0 pokaż dłoń. Pięść to kamień, płaska dłoń to papier, dwa palce to nożyce. Dłoń przeciwnika widzisz dopiero, gdy twoja jest już zatwierdzona. Wygrywa ten, kto wygra więcej rund.",
+	"ld_eenheid_sps": "Wygrane rundy",
+	"ld_sps_hint": "Na 0 pokaż dłoń: pięść, płaska dłoń lub dwa palce",
 	"wz_kracht_knop": "Supermoce",
 	"wz_kracht_titel": "Supermoce dla: {naam}",
 	"wz_kracht_uitleg": "Obejrzyj filmik, a ten pasek zostanie pełny przez 24 godziny. Każdy pasek ma swój własny filmik.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Wszyscy",
 	"br_vis_friends": "Tylko znajomi",
 	"br_add_photo": "Dodaj zdjęcie",
-	"br_left": "Pozostało znaków: {n}"
+	"br_left": "Pozostało znaków: {n}",
+	"br_monument": "Zabytek w pobliżu",
+	"br_see_place": "Zobacz miejsce",
+	"br_to_buurt": "Przejdź do swojej okolicy"
 }

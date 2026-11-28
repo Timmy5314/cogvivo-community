@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} dtk terlambat",
 	"ld_ogen_gemist": "Tidak berhenti",
 	"ld_balans_hint": "Tumpukan miring? Miringkan kepala ke sisi lain",
+	"ld_laser": "Hindari laser",
+	"ld_laser_regel": "Sebuah area merah menyala: kiri, kanan, atau atas. Sesaat kemudian laser menembak di sana. Merunduk atau miringkan badan sampai seluruh kepalamu keluar dari area itu. Setiap laser yang kamu hindari dihitung dan membuat permainan makin cepat. Kamu punya 30 detik.",
+	"ld_eenheid_laser": "Laser dihindari",
+	"ld_laser_hint": "Area merah? Merunduk atau miring sampai kepalamu keluar",
+	"ld_sps": "Batu, gunting, kertas",
+	"ld_sps_regel": "Lima ronde. Hitungan berjalan 3, 2, 1: tunjukkan tanganmu di angka 0. Kepalan adalah batu, tangan terbuka adalah kertas, dua jari adalah gunting. Kamu baru melihat tangan lawan setelah tanganmu terkunci. Yang menang ronde terbanyak jadi pemenang.",
+	"ld_eenheid_sps": "Ronde dimenangkan",
+	"ld_sps_hint": "Tunjukkan tangan di angka 0: kepalan, tangan terbuka, atau dua jari",
 	"wz_kracht_knop": "Kekuatan super",
 	"wz_kracht_titel": "Kekuatan super untuk {naam}",
 	"wz_kracht_uitleg": "Tonton video dan bar itu tetap penuh selama 24 jam. Setiap bar punya videonya sendiri.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Semua orang",
 	"br_vis_friends": "Hanya teman",
 	"br_add_photo": "Tambah foto",
-	"br_left": "{n} karakter tersisa"
+	"br_left": "{n} karakter tersisa",
+	"br_monument": "Monumen di dekatmu",
+	"br_see_place": "Lihat tempat",
+	"br_to_buurt": "Ke lingkunganmu"
 }

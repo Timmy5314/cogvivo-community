@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s te laat",
 	"ld_ogen_gemist": "Niet gestopt",
 	"ld_balans_hint": "Helt de stapel? Kantel je hoofd de andere kant op",
+	"ld_laser": "Laser-ontwijker",
+	"ld_laser_regel": "Er licht een rood vlak op: links, rechts of boven. Kort daarna schiet daar de laser. Buk of leun opzij tot je hele hoofd uit het vlak is. Elke ontweken laser telt en maakt het sneller. Je hebt 30 seconden.",
+	"ld_eenheid_laser": "Ontweken lasers",
+	"ld_laser_hint": "Rood vlak? Buk of leun opzij tot je hoofd eruit is",
+	"ld_sps": "Steen, papier, schaar",
+	"ld_sps_regel": "Vijf rondes. De teller loopt 3, 2, 1: laat op 0 je hand zien. Vuist is steen, vlakke hand is papier, twee vingers is schaar. De hand van je tegenstander zie je pas als de jouwe vaststaat. Wie de meeste rondes wint, wint.",
+	"ld_eenheid_sps": "Gewonnen rondes",
+	"ld_sps_hint": "Laat op 0 je hand zien: vuist, vlakke hand of twee vingers",
 	"wz_kracht_knop": "Superkrachten",
 	"wz_kracht_titel": "Superkrachten voor {naam}",
 	"wz_kracht_uitleg": "Kijk een filmpje en dat balkje blijft 24 uur vol. Elk balkje heeft zijn eigen filmpje.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Iedereen",
 	"br_vis_friends": "Alleen vrienden",
 	"br_add_photo": "Foto toevoegen",
-	"br_left": "{n} tekens over"
+	"br_left": "{n} tekens over",
+	"br_monument": "Monument in je buurt",
+	"br_see_place": "Bekijk plek",
+	"br_to_buurt": "Naar je buurt"
 }

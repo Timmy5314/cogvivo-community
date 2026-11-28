@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s för sent",
 	"ld_ogen_gemist": "Inte stoppad",
 	"ld_balans_hint": "Lutar stapeln? Luta huvudet åt andra hållet",
+	"ld_laser": "Laserväjning",
+	"ld_laser_regel": "Ett rött fält tänds: till vänster, till höger eller upptill. Strax därefter skjuter lasern där. Ducka eller luta dig åt sidan tills hela huvudet är utanför fältet. Varje laser du undviker räknas och ökar tempot. Du har 30 sekunder.",
+	"ld_eenheid_laser": "Undvikna lasrar",
+	"ld_laser_hint": "Rött fält? Ducka eller luta dig tills huvudet är utanför",
+	"ld_sps": "Sten, sax, påse",
+	"ld_sps_regel": "Fem ronder. Räknaren går 3, 2, 1: visa handen på 0. Knuten näve är sten, platt hand är påse, två fingrar är sax. Du ser motståndarens hand först när din är låst. Den som vinner flest ronder vinner.",
+	"ld_eenheid_sps": "Vunna ronder",
+	"ld_sps_hint": "Visa handen på 0: näve, platt hand eller två fingrar",
 	"wz_kracht_knop": "Superkrafter",
 	"wz_kracht_titel": "Superkrafter för {naam}",
 	"wz_kracht_uitleg": "Titta på en video så förblir den mätaren full i 24 timmar. Varje mätare har sin egen video.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Alla",
 	"br_vis_friends": "Bara vänner",
 	"br_add_photo": "Lägg till foto",
-	"br_left": "{n} tecken kvar"
+	"br_left": "{n} tecken kvar",
+	"br_monument": "Sevärdhet nära dig",
+	"br_see_place": "Visa plats",
+	"br_to_buurt": "Till ditt grannskap"
 }

@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "晚了{s}秒",
 	"ld_ogen_gemist": "没有停下",
 	"ld_balans_hint": "东西歪了？把头歪向另一边",
+	"ld_laser": "躲避激光",
+	"ld_laser_regel": "左边、右边或上方会亮起一块红色区域，紧接着激光就会射向那里。请低头或向旁边侧身，直到整个头都离开红色区域。每躲开一道激光都计分，而且速度会加快。你有30秒。",
+	"ld_eenheid_laser": "躲开的激光",
+	"ld_laser_hint": "红色区域？低头或侧身，让头离开那里",
+	"ld_sps": "石头剪刀布",
+	"ld_sps_regel": "共五局。计数为3、2、1，数到0时出手。拳头是石头，手掌摊开是布，两根手指是剪刀。只有你的手势确定后才能看到对手的手势。赢得局数多的人获胜。",
+	"ld_eenheid_sps": "获胜局数",
+	"ld_sps_hint": "数到0时出手：拳头、手掌或两根手指",
 	"wz_kracht_knop": "超能力",
 	"wz_kracht_titel": "{naam}的超能力",
 	"wz_kracht_uitleg": "看一段视频，这一项就会保持满格 24 小时。每一项都有自己的视频。",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "所有人",
 	"br_vis_friends": "仅好友",
 	"br_add_photo": "添加照片",
-	"br_left": "还剩 {n} 个字"
+	"br_left": "还剩 {n} 个字",
+	"br_monument": "你附近的古迹",
+	"br_see_place": "查看地点",
+	"br_to_buurt": "前往你的社区"
 }

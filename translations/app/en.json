@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s too late",
 	"ld_ogen_gemist": "Not stopped",
 	"ld_balans_hint": "Stack leaning? Tilt your head the other way",
+	"ld_laser": "Laser dodge",
+	"ld_laser_regel": "A red zone lights up: left, right or top. A moment later the laser fires there. Duck or lean aside until your whole head is out of the zone. Every dodged laser counts and speeds things up. You have 30 seconds.",
+	"ld_eenheid_laser": "Lasers dodged",
+	"ld_laser_hint": "Red zone? Duck or lean aside until your head is out",
+	"ld_sps": "Rock, paper, scissors",
+	"ld_sps_regel": "Five rounds. The counter goes 3, 2, 1: show your hand on 0. A fist is rock, a flat hand is paper, two fingers is scissors. You only see your opponent’s hand once yours is locked in. Whoever wins the most rounds wins.",
+	"ld_eenheid_sps": "Rounds won",
+	"ld_sps_hint": "Show your hand on 0: fist, flat hand or two fingers",
 	"wz_kracht_knop": "Superpowers",
 	"wz_kracht_titel": "Superpowers for {naam}",
 	"wz_kracht_uitleg": "Watch a video and that bar stays full for 24 hours. Each bar has its own video.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Everyone",
 	"br_vis_friends": "Friends only",
 	"br_add_photo": "Add photo",
-	"br_left": "{n} characters left"
+	"br_left": "{n} characters left",
+	"br_monument": "Landmark near you",
+	"br_see_place": "View place",
+	"br_to_buurt": "Go to your neighborhood"
 }

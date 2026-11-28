@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s zu spät",
 	"ld_ogen_gemist": "Nicht gestoppt",
 	"ld_balans_hint": "Kippt der Stapel? Neige den Kopf zur anderen Seite",
+	"ld_laser": "Laser-Ausweichen",
+	"ld_laser_regel": "Eine rote Fläche leuchtet auf: links, rechts oder oben. Kurz danach schießt dort der Laser. Duck dich oder lehn dich zur Seite, bis dein ganzer Kopf aus der Fläche ist. Jeder ausgewichene Laser zählt und macht es schneller. Du hast 30 Sekunden.",
+	"ld_eenheid_laser": "Ausgewichene Laser",
+	"ld_laser_hint": "Rote Fläche? Ducken oder zur Seite lehnen, bis dein Kopf draußen ist",
+	"ld_sps": "Schere, Stein, Papier",
+	"ld_sps_regel": "Fünf Runden. Der Zähler läuft 3, 2, 1: Zeig bei 0 deine Hand. Faust ist Stein, flache Hand ist Papier, zwei Finger sind Schere. Die Hand deines Gegners siehst du erst, wenn deine feststeht. Wer die meisten Runden gewinnt, gewinnt.",
+	"ld_eenheid_sps": "Gewonnene Runden",
+	"ld_sps_hint": "Zeig bei 0 deine Hand: Faust, flache Hand oder zwei Finger",
 	"wz_kracht_knop": "Superkräfte",
 	"wz_kracht_titel": "Superkräfte für {naam}",
 	"wz_kracht_uitleg": "Schau ein Video und dieser Balken bleibt 24 Stunden voll. Jeder Balken hat sein eigenes Video.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Alle",
 	"br_vis_friends": "Nur Freunde",
 	"br_add_photo": "Foto hinzufügen",
-	"br_left": "Noch {n} Zeichen"
+	"br_left": "Noch {n} Zeichen",
+	"br_monument": "Sehenswürdigkeit in deiner Nähe",
+	"br_see_place": "Ort ansehen",
+	"br_to_buurt": "Zu deiner Nachbarschaft"
 }

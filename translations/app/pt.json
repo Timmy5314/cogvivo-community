@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s atrasado",
 	"ld_ogen_gemist": "Não parou",
 	"ld_balans_hint": "A pilha está caindo? Incline a cabeça para o outro lado",
+	"ld_laser": "Desvia do laser",
+	"ld_laser_regel": "Acende-se uma zona vermelha: à esquerda, à direita ou em cima. Logo a seguir o laser dispara aí. Baixa-te ou inclina-te até a cabeça toda ficar fora da zona. Cada laser desviado conta e acelera o jogo. Tens 30 segundos.",
+	"ld_eenheid_laser": "Lasers desviados",
+	"ld_laser_hint": "Zona vermelha? Baixa-te ou inclina-te até tirares a cabeça",
+	"ld_sps": "Pedra, papel, tesoura",
+	"ld_sps_regel": "Cinco rondas. O contador faz 3, 2, 1: mostra a mão no 0. Punho é pedra, mão aberta é papel, dois dedos é tesoura. Só vês a mão do adversário depois de a tua ficar fixada. Ganha quem vencer mais rondas.",
+	"ld_eenheid_sps": "Rondas ganhas",
+	"ld_sps_hint": "Mostra a mão no 0: punho, mão aberta ou dois dedos",
 	"wz_kracht_knop": "Superpoderes",
 	"wz_kracht_titel": "Superpoderes para {naam}",
 	"wz_kracht_uitleg": "Vê um vídeo e essa barra fica cheia durante 24 horas. Cada barra tem o seu próprio vídeo.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Todos",
 	"br_vis_friends": "Só amigos",
 	"br_add_photo": "Adicionar foto",
-	"br_left": "{n} caracteres restantes"
+	"br_left": "{n} caracteres restantes",
+	"br_monument": "Monumento perto de você",
+	"br_see_place": "Ver lugar",
+	"br_to_buurt": "Ir para o seu bairro"
 }

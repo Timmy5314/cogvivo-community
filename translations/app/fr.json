@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s trop tard",
 	"ld_ogen_gemist": "Pas arrêté",
 	"ld_balans_hint": "La pile penche ? Incline la tête de l'autre côté",
+	"ld_laser": "Esquive laser",
+	"ld_laser_regel": "Une zone rouge s’allume : à gauche, à droite ou en haut. Juste après, le laser tire à cet endroit. Baisse-toi ou penche-toi jusqu’à ce que toute ta tête soit hors de la zone. Chaque laser esquivé compte et accélère le jeu. Tu as 30 secondes.",
+	"ld_eenheid_laser": "Lasers esquivés",
+	"ld_laser_hint": "Zone rouge ? Baisse-toi ou penche-toi pour en sortir la tête",
+	"ld_sps": "Pierre, feuille, ciseaux",
+	"ld_sps_regel": "Cinq manches. Le compteur fait 3, 2, 1 : montre ta main à 0. Le poing, c’est la pierre ; la main à plat, la feuille ; deux doigts, les ciseaux. Tu ne vois la main de ton adversaire qu’une fois la tienne fixée. Celui qui gagne le plus de manches gagne.",
+	"ld_eenheid_sps": "Manches gagnées",
+	"ld_sps_hint": "Montre ta main à 0 : poing, main à plat ou deux doigts",
 	"wz_kracht_knop": "Superpouvoirs",
 	"wz_kracht_titel": "Superpouvoirs pour {naam}",
 	"wz_kracht_uitleg": "Regarde une vidéo et cette jauge reste pleine pendant 24 heures. Chaque jauge a sa propre vidéo.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Tout le monde",
 	"br_vis_friends": "Amis seulement",
 	"br_add_photo": "Ajouter une photo",
-	"br_left": "{n} caractères restants"
+	"br_left": "{n} caractères restants",
+	"br_monument": "Monument près de chez toi",
+	"br_see_place": "Voir le lieu",
+	"br_to_buurt": "Vers ton quartier"
 }

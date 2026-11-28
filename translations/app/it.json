@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s in ritardo",
 	"ld_ogen_gemist": "Non fermato",
 	"ld_balans_hint": "La pila pende? Inclina la testa dall'altro lato",
+	"ld_laser": "Schiva il laser",
+	"ld_laser_regel": "Si accende una zona rossa: a sinistra, a destra o in alto. Subito dopo il laser spara lì. Abbassati o piegati di lato finché tutta la testa è fuori dalla zona. Ogni laser schivato conta e accelera il gioco. Hai 30 secondi.",
+	"ld_eenheid_laser": "Laser schivati",
+	"ld_laser_hint": "Zona rossa? Abbassati o piegati finché la testa è fuori",
+	"ld_sps": "Sasso, carta, forbici",
+	"ld_sps_regel": "Cinque round. Il contatore fa 3, 2, 1: mostra la mano allo 0. Il pugno è sasso, la mano aperta è carta, due dita sono forbici. Vedi la mano dell’avversario solo quando la tua è fissata. Vince chi conquista più round.",
+	"ld_eenheid_sps": "Round vinti",
+	"ld_sps_hint": "Mostra la mano allo 0: pugno, mano aperta o due dita",
 	"wz_kracht_knop": "Superpoteri",
 	"wz_kracht_titel": "Superpoteri per {naam}",
 	"wz_kracht_uitleg": "Guarda un video e quella barra resta piena per 24 ore. Ogni barra ha il suo video.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Tutti",
 	"br_vis_friends": "Solo amici",
 	"br_add_photo": "Aggiungi foto",
-	"br_left": "{n} caratteri rimasti"
+	"br_left": "{n} caratteri rimasti",
+	"br_monument": "Monumento vicino a te",
+	"br_see_place": "Vedi il luogo",
+	"br_to_buurt": "Vai al tuo quartiere"
 }

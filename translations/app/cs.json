@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "o {s} s později",
 	"ld_ogen_gemist": "Nezastaveno",
 	"ld_balans_hint": "Věž se naklání? Nakloň hlavu na druhou stranu",
+	"ld_laser": "Uhni laseru",
+	"ld_laser_regel": "Rozsvítí se červené pole: vlevo, vpravo nebo nahoře. Hned potom tam vystřelí laser. Skrč se nebo se nakloň stranou, až bude celá hlava mimo pole. Každý laser, kterému uhneš, se počítá a hru zrychlí. Máš 30 sekund.",
+	"ld_eenheid_laser": "Lasery, kterým jsi uhnul",
+	"ld_laser_hint": "Červené pole? Skrč se nebo se nakloň, až bude hlava venku",
+	"ld_sps": "Kámen, nůžky, papír",
+	"ld_sps_regel": "Pět kol. Počítadlo jde 3, 2, 1: na 0 ukaž ruku. Pěst je kámen, plochá dlaň je papír, dva prsty jsou nůžky. Ruku soupeře uvidíš, až když je ta tvoje zapsaná. Vyhrává ten, kdo vyhraje víc kol.",
+	"ld_eenheid_sps": "Vyhraná kola",
+	"ld_sps_hint": "Na 0 ukaž ruku: pěst, plochou dlaň nebo dva prsty",
 	"wz_kracht_knop": "Superschopnosti",
 	"wz_kracht_titel": "Superschopnosti pro: {naam}",
 	"wz_kracht_uitleg": "Podívej se na video a ten ukazatel zůstane 24 hodin plný. Každý ukazatel má své vlastní video.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Všichni",
 	"br_vis_friends": "Jen přátelé",
 	"br_add_photo": "Přidat fotku",
-	"br_left": "Zbývá {n} znaků"
+	"br_left": "Zbývá {n} znaků",
+	"br_monument": "Památka ve tvém okolí",
+	"br_see_place": "Zobrazit místo",
+	"br_to_buurt": "Do tvé čtvrti"
 }

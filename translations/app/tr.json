@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} sn geç",
 	"ld_ogen_gemist": "Durdurulmadı",
 	"ld_balans_hint": "Yığın eğiliyor mu? Başını öbür yana eğ",
+	"ld_laser": "Lazerden kaç",
+	"ld_laser_regel": "Kırmızı bir alan yanar: solda, sağda veya üstte. Hemen ardından lazer oraya ateş eder. Başının tamamı alanın dışına çıkana kadar eğil veya yana yat. Kaçtığın her lazer sayılır ve oyunu hızlandırır. 30 saniyen var.",
+	"ld_eenheid_laser": "Kaçılan lazerler",
+	"ld_laser_hint": "Kırmızı alan mı? Başın çıkana kadar eğil veya yana yat",
+	"ld_sps": "Taş, kâğıt, makas",
+	"ld_sps_regel": "Beş tur. Sayaç 3, 2, 1 diye iner: 0’da elini göster. Yumruk taş, açık el kâğıt, iki parmak makastır. Rakibinin elini ancak seninki kesinleşince görürsün. En çok turu kazanan kazanır.",
+	"ld_eenheid_sps": "Kazanılan turlar",
+	"ld_sps_hint": "0’da elini göster: yumruk, açık el veya iki parmak",
 	"wz_kracht_knop": "Süper güçler",
 	"wz_kracht_titel": "Süper güçler: {naam}",
 	"wz_kracht_uitleg": "Bir video izle, o çubuk 24 saat boyunca dolu kalsın. Her çubuğun kendi videosu var.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Herkes",
 	"br_vis_friends": "Sadece arkadaşlar",
 	"br_add_photo": "Fotoğraf ekle",
-	"br_left": "{n} karakter kaldı"
+	"br_left": "{n} karakter kaldı",
+	"br_monument": "Yakınındaki anıt",
+	"br_see_place": "Yeri gör",
+	"br_to_buurt": "Mahallene git"
 }

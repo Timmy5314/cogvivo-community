@@ -3255,6 +3255,14 @@
 	"ld_ogen_laat": "{s} s prea târziu",
 	"ld_ogen_gemist": "Neoprit",
 	"ld_balans_hint": "Se înclină teancul? Înclină capul în partea cealaltă",
+	"ld_laser": "Ferește laserul",
+	"ld_laser_regel": "Se aprinde o zonă roșie: la stânga, la dreapta sau sus. Imediat după, laserul trage acolo. Lasă-te în jos sau apleacă-te într-o parte până când tot capul e în afara zonei. Fiecare laser evitat contează și accelerează jocul. Ai 30 de secunde.",
+	"ld_eenheid_laser": "Lasere evitate",
+	"ld_laser_hint": "Zonă roșie? Lasă-te jos sau apleacă-te până scoți capul",
+	"ld_sps": "Piatră, hârtie, foarfecă",
+	"ld_sps_regel": "Cinci runde. Contorul merge 3, 2, 1: arată mâna la 0. Pumnul e piatră, palma întinsă e hârtie, două degete sunt foarfecă. Vezi mâna adversarului abia după ce a ta e fixată. Câștigă cine ia mai multe runde.",
+	"ld_eenheid_sps": "Runde câștigate",
+	"ld_sps_hint": "Arată mâna la 0: pumn, palmă întinsă sau două degete",
 	"wz_kracht_knop": "Superputeri",
 	"wz_kracht_titel": "Superputeri pentru {naam}",
 	"wz_kracht_uitleg": "Urmărește un clip și bara aceea rămâne plină 24 de ore. Fiecare bară are clipul ei.",
@@ -3294,5 +3302,8 @@
 	"br_vis_everyone": "Toată lumea",
 	"br_vis_friends": "Doar prieteni",
 	"br_add_photo": "Adaugă o fotografie",
-	"br_left": "Au mai rămas {n} caractere"
+	"br_left": "Au mai rămas {n} caractere",
+	"br_monument": "Monument lângă tine",
+	"br_see_place": "Vezi locul",
+	"br_to_buurt": "Spre cartierul tău"
 }
