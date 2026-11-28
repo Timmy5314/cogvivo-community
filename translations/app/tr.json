@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Uyku saati yok",
 	"tn_bed_bewaar": "Kaydet",
 	"tn_bed_klaar": "Kaydedildi",
+	"tn_seintje_tekst": "{naam} bir anıttayken haber, uygulama kapalı olsa da.",
 	"rank_tab_maatjes": "Arkadaşlar",
 	"mr_wijk": "Mahalle",
 	"mr_stad": "Şehir",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Süper güç bitişi: {tijd}",
 	"wz_kracht_wacht": "Kontrol ediliyor…",
 	"wz_kracht_zeg": "Süper güçlerim var!",
-	"wz_kracht_niet": "Henüz süper güç yok. Videoyu sonuna kadar izle ya da daha sonra tekrar dene."
+	"wz_kracht_niet": "Henüz süper güç yok. Videoyu sonuna kadar izle ya da daha sonra tekrar dene.",
+	"wz_kracht_bezig": "Süper güç etkinleştiriliyor…"
 }

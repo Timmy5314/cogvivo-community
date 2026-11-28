@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Nincs lefekvési idő",
 	"tn_bed_bewaar": "Mentés",
 	"tn_bed_klaar": "Mentve",
+	"tn_seintje_tekst": "Figyelmeztetés, ha {naam} egy műemléknél van, akkor is, ha az app be van zárva.",
 	"rank_tab_maatjes": "Pajtások",
 	"mr_wijk": "Környék",
 	"mr_stad": "Város",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Szuperképesség eddig: {tijd}",
 	"wz_kracht_wacht": "Ellenőrzés…",
 	"wz_kracht_zeg": "Szuperképességeim vannak!",
-	"wz_kracht_niet": "Még nincs szuperképesség. Nézd végig a videót, vagy próbáld újra később."
+	"wz_kracht_niet": "Még nincs szuperképesség. Nézd végig a videót, vagy próbáld újra később.",
+	"wz_kracht_bezig": "Szuperképesség aktiválása…"
 }

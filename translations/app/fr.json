@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Pas d’heure du coucher",
 	"tn_bed_bewaar": "Enregistrer",
 	"tn_bed_klaar": "Enregistré",
+	"tn_seintje_tekst": "Un signal quand {naam} est près d’un monument, même avec l’appli fermée.",
 	"rank_tab_maatjes": "Compagnons",
 	"mr_wijk": "Quartier",
 	"mr_stad": "Ville",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superpouvoir jusqu’à {tijd}",
 	"wz_kracht_wacht": "Vérification…",
 	"wz_kracht_zeg": "J’ai des superpouvoirs !",
-	"wz_kracht_niet": "Pas encore de superpouvoir. Regarde la vidéo jusqu’au bout, ou réessaie plus tard."
+	"wz_kracht_niet": "Pas encore de superpouvoir. Regarde la vidéo jusqu’au bout, ou réessaie plus tard.",
+	"wz_kracht_bezig": "Activation du superpouvoir…"
 }

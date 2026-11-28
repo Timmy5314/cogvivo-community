@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "不设睡觉时间",
 	"tn_bed_bewaar": "保存",
 	"tn_bed_klaar": "已保存",
+	"tn_seintje_tekst": "即使应用已关闭，{naam}到了地标也会提醒你。",
 	"rank_tab_maatjes": "小伙伴",
 	"mr_wijk": "街区",
 	"mr_stad": "城市",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "超能力持续到 {tijd}",
 	"wz_kracht_wacht": "正在确认…",
 	"wz_kracht_zeg": "我有超能力啦！",
-	"wz_kracht_niet": "还没有超能力。请把视频看完，或稍后再试。"
+	"wz_kracht_niet": "还没有超能力。请把视频看完，或稍后再试。",
+	"wz_kracht_bezig": "正在激活超能力…"
 }

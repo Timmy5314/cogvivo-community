@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Không có giờ ngủ",
 	"tn_bed_bewaar": "Lưu",
 	"tn_bed_klaar": "Đã lưu",
+	"tn_seintje_tekst": "Báo trước khi {naam} ở một di tích, kể cả khi ứng dụng đã đóng.",
 	"rank_tab_maatjes": "Bạn nhỏ",
 	"mr_wijk": "Khu phố",
 	"mr_stad": "Thành phố",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Siêu năng lực đến {tijd}",
 	"wz_kracht_wacht": "Đang kiểm tra…",
 	"wz_kracht_zeg": "Mình có siêu năng lực!",
-	"wz_kracht_niet": "Chưa có siêu năng lực. Hãy xem hết video hoặc thử lại sau."
+	"wz_kracht_niet": "Chưa có siêu năng lực. Hãy xem hết video hoặc thử lại sau.",
+	"wz_kracht_bezig": "Đang kích hoạt siêu năng lực…"
 }

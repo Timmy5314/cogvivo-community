@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "おやすみ時間なし",
 	"tn_bed_bewaar": "保存",
 	"tn_bed_klaar": "保存しました",
+	"tn_seintje_tekst": "アプリをとじていても、{naam}が名所にいるとお知らせ。",
 	"rank_tab_maatjes": "なかま",
 	"mr_wijk": "地区",
 	"mr_stad": "街",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "{tijd}までスーパーパワー",
 	"wz_kracht_wacht": "確認中…",
 	"wz_kracht_zeg": "スーパーパワーを手に入れた！",
-	"wz_kracht_niet": "まだスーパーパワーはないよ。動画を最後まで見るか、あとでまた試してね。"
+	"wz_kracht_niet": "まだスーパーパワーはないよ。動画を最後まで見るか、あとでまた試してね。",
+	"wz_kracht_bezig": "スーパーパワーを起動中…"
 }

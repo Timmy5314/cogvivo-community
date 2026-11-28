@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Bez pory snu",
 	"tn_bed_bewaar": "Zapisz",
 	"tn_bed_klaar": "Zapisano",
+	"tn_seintje_tekst": "Powiadomienie, gdy {naam} będzie przy zabytku, także przy zamkniętej aplikacji.",
 	"rank_tab_maatjes": "Kumple",
 	"mr_wijk": "Dzielnica",
 	"mr_stad": "Miasto",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Supermoc do {tijd}",
 	"wz_kracht_wacht": "Sprawdzam…",
 	"wz_kracht_zeg": "Mam supermoce!",
-	"wz_kracht_niet": "Jeszcze nie ma supermocy. Obejrzyj filmik do końca albo spróbuj później."
+	"wz_kracht_niet": "Jeszcze nie ma supermocy. Obejrzyj filmik do końca albo spróbuj później.",
+	"wz_kracht_bezig": "Aktywuję supermoc…"
 }

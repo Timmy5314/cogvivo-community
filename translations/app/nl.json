@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Geen bedtijd",
 	"tn_bed_bewaar": "Opslaan",
 	"tn_bed_klaar": "Opgeslagen",
+	"tn_seintje_tekst": "Een seintje als {naam} bij een monument is, ook als de app dicht is.",
 	"rank_tab_maatjes": "Maatjes",
 	"mr_wijk": "Wijk",
 	"mr_stad": "Stad",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superkracht tot {tijd}",
 	"wz_kracht_wacht": "Even kijken…",
 	"wz_kracht_zeg": "Ik heb superkrachten!",
-	"wz_kracht_niet": "Nog geen superkracht. Kijk het filmpje helemaal uit, of probeer het straks nog eens."
+	"wz_kracht_niet": "Nog geen superkracht. Kijk het filmpje helemaal uit, of probeer het straks nog eens.",
+	"wz_kracht_bezig": "Superkracht wordt geactiveerd…"
 }

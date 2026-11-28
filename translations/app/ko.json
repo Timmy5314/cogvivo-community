@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "잘 시간 없음",
 	"tn_bed_bewaar": "저장",
 	"tn_bed_klaar": "저장됨",
+	"tn_seintje_tekst": "앱이 닫혀 있어도 {naam}이(가) 명소에 있으면 알림.",
 	"rank_tab_maatjes": "단짝",
 	"mr_wijk": "동네",
 	"mr_stad": "도시",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "{tijd}까지 슈퍼파워",
 	"wz_kracht_wacht": "확인 중…",
 	"wz_kracht_zeg": "슈퍼파워가 생겼어!",
-	"wz_kracht_niet": "아직 슈퍼파워가 없어요. 영상을 끝까지 보거나 나중에 다시 해 봐요."
+	"wz_kracht_niet": "아직 슈퍼파워가 없어요. 영상을 끝까지 보거나 나중에 다시 해 봐요.",
+	"wz_kracht_bezig": "슈퍼파워 켜는 중…"
 }

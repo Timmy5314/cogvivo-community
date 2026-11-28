@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Tanpa waktu tidur",
 	"tn_bed_bewaar": "Simpan",
 	"tn_bed_klaar": "Tersimpan",
+	"tn_seintje_tekst": "Kabar saat {naam} ada di monumen, juga saat aplikasi ditutup.",
 	"rank_tab_maatjes": "Teman",
 	"mr_wijk": "Lingkungan",
 	"mr_stad": "Kota",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Kekuatan super sampai {tijd}",
 	"wz_kracht_wacht": "Memeriksa…",
 	"wz_kracht_zeg": "Aku punya kekuatan super!",
-	"wz_kracht_niet": "Belum ada kekuatan super. Tonton videonya sampai habis, atau coba lagi nanti."
+	"wz_kracht_niet": "Belum ada kekuatan super. Tonton videonya sampai habis, atau coba lagi nanti.",
+	"wz_kracht_bezig": "Mengaktifkan kekuatan super…"
 }

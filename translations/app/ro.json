@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Fără oră de culcare",
 	"tn_bed_bewaar": "Salvează",
 	"tn_bed_klaar": "Salvat",
+	"tn_seintje_tekst": "Un semnal când {naam} este la un monument, chiar și cu aplicația închisă.",
 	"rank_tab_maatjes": "Amici",
 	"mr_wijk": "Cartier",
 	"mr_stad": "Oraș",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superputere până la {tijd}",
 	"wz_kracht_wacht": "Verific…",
 	"wz_kracht_zeg": "Am superputeri!",
-	"wz_kracht_niet": "Încă nicio superputere. Urmărește clipul până la capăt sau încearcă mai târziu."
+	"wz_kracht_niet": "Încă nicio superputere. Urmărește clipul până la capăt sau încearcă mai târziu.",
+	"wz_kracht_bezig": "Se activează superputerea…"
 }

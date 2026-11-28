@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "No bedtime",
 	"tn_bed_bewaar": "Save",
 	"tn_bed_klaar": "Saved",
+	"tn_seintje_tekst": "A heads-up when {naam} is at a monument, even with the app closed.",
 	"rank_tab_maatjes": "Buddies",
 	"mr_wijk": "Area",
 	"mr_stad": "City",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superpower until {tijd}",
 	"wz_kracht_wacht": "Checking…",
 	"wz_kracht_zeg": "I have superpowers!",
-	"wz_kracht_niet": "No superpower yet. Watch the whole video, or try again later."
+	"wz_kracht_niet": "No superpower yet. Watch the whole video, or try again later.",
+	"wz_kracht_bezig": "Activating superpower…"
 }

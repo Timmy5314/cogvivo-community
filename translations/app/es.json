@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Sin hora de dormir",
 	"tn_bed_bewaar": "Guardar",
 	"tn_bed_klaar": "Guardado",
+	"tn_seintje_tekst": "Un aviso cuando {naam} esté en un monumento, incluso con la app cerrada.",
 	"rank_tab_maatjes": "Compañeros",
 	"mr_wijk": "Barrio",
 	"mr_stad": "Ciudad",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superpoder hasta las {tijd}",
 	"wz_kracht_wacht": "Comprobando…",
 	"wz_kracht_zeg": "¡Tengo superpoderes!",
-	"wz_kracht_niet": "Aún no hay superpoder. Mira el vídeo entero o inténtalo más tarde."
+	"wz_kracht_niet": "Aún no hay superpoder. Mira el vídeo entero o inténtalo más tarde.",
+	"wz_kracht_bezig": "Activando superpoder…"
 }

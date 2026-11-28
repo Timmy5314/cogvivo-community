@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Keine Schlafenszeit",
 	"tn_bed_bewaar": "Speichern",
 	"tn_bed_klaar": "Gespeichert",
+	"tn_seintje_tekst": "Ein Signal, wenn {naam} bei einem Monument ist, auch wenn die App zu ist.",
 	"rank_tab_maatjes": "Kumpel",
 	"mr_wijk": "Viertel",
 	"mr_stad": "Stadt",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superkraft bis {tijd}",
 	"wz_kracht_wacht": "Einen Moment…",
 	"wz_kracht_zeg": "Ich habe Superkräfte!",
-	"wz_kracht_niet": "Noch keine Superkraft. Schau das Video ganz zu Ende oder versuch es später noch mal."
+	"wz_kracht_niet": "Noch keine Superkraft. Schau das Video ganz zu Ende oder versuch es später noch mal.",
+	"wz_kracht_bezig": "Superkraft wird aktiviert…"
 }

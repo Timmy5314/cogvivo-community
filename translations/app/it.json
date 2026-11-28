@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Nessun orario",
 	"tn_bed_bewaar": "Salva",
 	"tn_bed_klaar": "Salvato",
+	"tn_seintje_tekst": "Un avviso quando {naam} è a un monumento, anche con l’app chiusa.",
 	"rank_tab_maatjes": "Amichetti",
 	"mr_wijk": "Quartiere",
 	"mr_stad": "Città",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superpotere fino alle {tijd}",
 	"wz_kracht_wacht": "Controllo…",
 	"wz_kracht_zeg": "Ho i superpoteri!",
-	"wz_kracht_niet": "Ancora nessun superpotere. Guarda il video fino alla fine o riprova più tardi."
+	"wz_kracht_niet": "Ancora nessun superpotere. Guarda il video fino alla fine o riprova più tardi.",
+	"wz_kracht_bezig": "Attivazione del superpotere…"
 }

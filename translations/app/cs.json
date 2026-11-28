@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Bez večerky",
 	"tn_bed_bewaar": "Uložit",
 	"tn_bed_klaar": "Uloženo",
+	"tn_seintje_tekst": "Upozornění, když je {naam} u památky, i při zavřené aplikaci.",
 	"rank_tab_maatjes": "Kámoši",
 	"mr_wijk": "Čtvrť",
 	"mr_stad": "Město",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superschopnost do {tijd}",
 	"wz_kracht_wacht": "Ověřuji…",
 	"wz_kracht_zeg": "Mám superschopnosti!",
-	"wz_kracht_niet": "Zatím žádná superschopnost. Podívej se na celé video, nebo to zkus později."
+	"wz_kracht_niet": "Zatím žádná superschopnost. Podívej se na celé video, nebo to zkus později.",
+	"wz_kracht_bezig": "Aktivuji superschopnost…"
 }

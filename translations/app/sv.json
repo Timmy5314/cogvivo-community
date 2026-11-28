@@ -2673,6 +2673,7 @@
 	"tn_bed_geen": "Ingen läggtid",
 	"tn_bed_bewaar": "Spara",
 	"tn_bed_klaar": "Sparat",
+	"tn_seintje_tekst": "En varning när {naam} är vid ett monument, även med appen stängd.",
 	"rank_tab_maatjes": "Kompisar",
 	"mr_wijk": "Område",
 	"mr_stad": "Stad",
@@ -3259,5 +3260,6 @@
 	"wz_kracht_aan": "Superkraft till {tijd}",
 	"wz_kracht_wacht": "Kollar…",
 	"wz_kracht_zeg": "Jag har superkrafter!",
-	"wz_kracht_niet": "Ingen superkraft än. Titta på hela videon, eller försök igen senare."
+	"wz_kracht_niet": "Ingen superkraft än. Titta på hela videon, eller försök igen senare.",
+	"wz_kracht_bezig": "Superkraften aktiveras…"
 }
