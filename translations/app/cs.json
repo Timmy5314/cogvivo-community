@@ -3311,5 +3311,18 @@
 	"br_left": "Zbývá {n} znaků",
 	"br_monument": "Památka ve tvém okolí",
 	"br_see_place": "Zobrazit místo",
-	"br_to_buurt": "Do tvé čtvrti"
+	"br_to_buurt": "Do tvé čtvrti",
+	"spraak_vraag_titel": "Mluv s {naam}",
+	"spraak_vraag_tekst": "Zvedni mě a podrž v klidu, a já budu poslouchat. Řekni zatancuj, dobrou noc nebo máš hlad? Cogvivo si pamatuje jen příkaz, nikdy to, co jsi řekl.",
+	"spraak_vraag_knop": "Zapnout mikrofon",
+	"spraak_vraag_bril_titel": "{naam} v tvých brýlích",
+	"spraak_vraag_bril_tekst": "Nasaď si brýle a {naam} do nich skočí. Přejeď dolů nebo řekni jdi pryč a {naam} se vrátí.",
+	"spraak_vraag_bril_knop": "Sám do mých brýlí",
+	"tn_spraak": "Mluvit s {naam}",
+	"tn_spraak_tekst": "Zvedni a drž v klidu, a {naam} poslouchá",
+	"tn_bril": "V brýlích",
+	"tn_bril_tekst": "Brýle Android XR: jak se do nich {naam} dostane",
+	"tn_bril_vanzelf": "Samo",
+	"tn_bril_menu": "Přes menu",
+	"tn_bril_uit": "Vypnuto"
 }

@@ -3311,5 +3311,18 @@
 	"br_left": "{n} tecken kvar",
 	"br_monument": "Sevärdhet nära dig",
 	"br_see_place": "Visa plats",
-	"br_to_buurt": "Till ditt grannskap"
+	"br_to_buurt": "Till ditt grannskap",
+	"spraak_vraag_titel": "Prata med {naam}",
+	"spraak_vraag_tekst": "Lyft upp mig och håll mig stilla, så lyssnar jag. Säg dansa, god natt eller är du hungrig? Cogvivo sparar bara kommandot, aldrig det du sa.",
+	"spraak_vraag_knop": "Slå på mikrofonen",
+	"spraak_vraag_bril_titel": "{naam} i dina glasögon",
+	"spraak_vraag_bril_tekst": "Ta på dig glasögonen så hoppar {naam} in. Svep nedåt eller säg hej då så går {naam} tillbaka.",
+	"spraak_vraag_bril_knop": "Av sig själv i mina glasögon",
+	"tn_spraak": "Prata med {naam}",
+	"tn_spraak_tekst": "Lyft upp och håll stilla, så lyssnar {naam}",
+	"tn_bril": "I dina glasögon",
+	"tn_bril_tekst": "Android XR-glasögon: hur {naam} kommer in",
+	"tn_bril_vanzelf": "Av sig själv",
+	"tn_bril_menu": "Via menyn",
+	"tn_bril_uit": "Av"
 }

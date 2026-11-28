@@ -3311,5 +3311,18 @@
 	"br_left": "Απομένουν {n} χαρακτήρες",
 	"br_monument": "Μνημείο κοντά σου",
 	"br_see_place": "Δες το μέρος",
-	"br_to_buurt": "Στη γειτονιά σου"
+	"br_to_buurt": "Στη γειτονιά σου",
+	"spraak_vraag_titel": "Μίλα με το {naam}",
+	"spraak_vraag_tekst": "Σήκωσέ με και κράτα με ακίνητο, και θα ακούω. Πες χόρεψε, καληνύχτα ή πεινάς; Το Cogvivo κρατά μόνο την εντολή, ποτέ αυτό που είπες.",
+	"spraak_vraag_knop": "Άνοιγμα μικροφώνου",
+	"spraak_vraag_bril_titel": "Το {naam} στα γυαλιά σου",
+	"spraak_vraag_bril_tekst": "Φόρεσε τα γυαλιά σου και το {naam} πηδάει μέσα. Σύρε προς τα κάτω ή πες αντίο για να γυρίσει πίσω το {naam}.",
+	"spraak_vraag_bril_knop": "Μόνο του στα γυαλιά μου",
+	"tn_spraak": "Μίλα με το {naam}",
+	"tn_spraak_tekst": "Σήκωσε και κράτα ακίνητο, και το {naam} ακούει",
+	"tn_bril": "Στα γυαλιά σου",
+	"tn_bril_tekst": "Γυαλιά Android XR: πώς μπαίνει το {naam}",
+	"tn_bril_vanzelf": "Αυτόματα",
+	"tn_bril_menu": "Από το μενού",
+	"tn_bril_uit": "Κλειστό"
 }

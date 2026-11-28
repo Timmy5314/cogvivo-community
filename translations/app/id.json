@@ -3311,5 +3311,18 @@
 	"br_left": "{n} karakter tersisa",
 	"br_monument": "Monumen di dekatmu",
 	"br_see_place": "Lihat tempat",
-	"br_to_buurt": "Ke lingkunganmu"
+	"br_to_buurt": "Ke lingkunganmu",
+	"spraak_vraag_titel": "Bicara dengan {naam}",
+	"spraak_vraag_tekst": "Angkat aku dan pegang diam, lalu aku mendengarkan. Bilang menari, selamat tidur, atau kamu lapar? Cogvivo hanya menyimpan perintahnya, tidak pernah ucapanmu.",
+	"spraak_vraag_knop": "Nyalakan mikrofon",
+	"spraak_vraag_bril_titel": "{naam} di kacamatamu",
+	"spraak_vraag_bril_tekst": "Pakai kacamatamu dan {naam} melompat masuk. Geser ke bawah atau bilang dadah untuk mengirim {naam} kembali.",
+	"spraak_vraag_bril_knop": "Otomatis di kacamataku",
+	"tn_spraak": "Bicara dengan {naam}",
+	"tn_spraak_tekst": "Angkat dan pegang diam, lalu {naam} mendengarkan",
+	"tn_bril": "Di kacamatamu",
+	"tn_bril_tekst": "Kacamata Android XR: cara {naam} masuk",
+	"tn_bril_vanzelf": "Otomatis",
+	"tn_bril_menu": "Lewat menu",
+	"tn_bril_uit": "Mati"
 }

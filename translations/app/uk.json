@@ -3311,5 +3311,18 @@
 	"br_left": "Залишилось символів: {n}",
 	"br_monument": "Пам’ятка поруч",
 	"br_see_place": "Переглянути місце",
-	"br_to_buurt": "До твого району"
+	"br_to_buurt": "До твого району",
+	"spraak_vraag_titel": "Поговори з {naam}",
+	"spraak_vraag_tekst": "Візьми мене й потримай нерухомо, і я слухатиму. Скажи танцюй, на добраніч або ти голодний? Cogvivo запам’ятовує лише команду, ніколи не те, що ти сказав.",
+	"spraak_vraag_knop": "Увімкнути мікрофон",
+	"spraak_vraag_bril_titel": "{naam} у твоїх окулярах",
+	"spraak_vraag_bril_tekst": "Надягни окуляри, і {naam} застрибне в них. Проведи вниз або скажи бувай, щоб {naam} повернувся.",
+	"spraak_vraag_bril_knop": "Сам у мої окуляри",
+	"tn_spraak": "Розмова з {naam}",
+	"tn_spraak_tekst": "Візьми й тримай нерухомо, і {naam} слухає",
+	"tn_bril": "В окулярах",
+	"tn_bril_tekst": "Окуляри Android XR: як {naam} потрапляє всередину",
+	"tn_bril_vanzelf": "Сам",
+	"tn_bril_menu": "Через меню",
+	"tn_bril_uit": "Вимк."
 }

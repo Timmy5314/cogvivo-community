@@ -3311,5 +3311,18 @@
 	"br_left": "Pozostało znaków: {n}",
 	"br_monument": "Zabytek w pobliżu",
 	"br_see_place": "Zobacz miejsce",
-	"br_to_buurt": "Przejdź do swojej okolicy"
+	"br_to_buurt": "Przejdź do swojej okolicy",
+	"spraak_vraag_titel": "Porozmawiaj z {naam}",
+	"spraak_vraag_tekst": "Podnieś mnie i przytrzymaj nieruchomo, a będę słuchać. Powiedz zatańcz, dobranoc albo jesteś głodny? Cogvivo zapamiętuje tylko polecenie, nigdy to, co powiedziałeś.",
+	"spraak_vraag_knop": "Włącz mikrofon",
+	"spraak_vraag_bril_titel": "{naam} w twoich okularach",
+	"spraak_vraag_bril_tekst": "Załóż okulary, a {naam} do nich wskoczy. Przesuń w dół albo powiedz pa, żeby {naam} wrócił.",
+	"spraak_vraag_bril_knop": "Sam do moich okularów",
+	"tn_spraak": "Rozmowa z {naam}",
+	"tn_spraak_tekst": "Podnieś i trzymaj nieruchomo, a {naam} słucha",
+	"tn_bril": "W okularach",
+	"tn_bril_tekst": "Okulary Android XR: jak {naam} do nich trafia",
+	"tn_bril_vanzelf": "Samo",
+	"tn_bril_menu": "Przez menu",
+	"tn_bril_uit": "Wyłączone"
 }

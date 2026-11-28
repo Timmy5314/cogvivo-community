@@ -3311,5 +3311,18 @@
 	"br_left": "Noch {n} Zeichen",
 	"br_monument": "Sehenswürdigkeit in deiner Nähe",
 	"br_see_place": "Ort ansehen",
-	"br_to_buurt": "Zu deiner Nachbarschaft"
+	"br_to_buurt": "Zu deiner Nachbarschaft",
+	"spraak_vraag_titel": "Sprich mit {naam}",
+	"spraak_vraag_tekst": "Heb mich hoch und halt mich kurz still, dann höre ich zu. Sag tanz, schlaf gut oder hast du Hunger? Cogvivo merkt sich nur den Befehl, nie was du gesagt hast.",
+	"spraak_vraag_knop": "Mikrofon einschalten",
+	"spraak_vraag_bril_titel": "{naam} in deiner Brille",
+	"spraak_vraag_bril_tekst": "Setz deine Brille auf und {naam} springt hinein. Nach unten wischen oder tschüss sagen schickt {naam} zurück.",
+	"spraak_vraag_bril_knop": "Von selbst in meine Brille",
+	"tn_spraak": "Mit {naam} sprechen",
+	"tn_spraak_tekst": "Hochheben und still halten, dann hört {naam} zu",
+	"tn_bril": "In deiner Brille",
+	"tn_bril_tekst": "Android XR-Brille: wie {naam} hineinkommt",
+	"tn_bril_vanzelf": "Von selbst",
+	"tn_bril_menu": "Über Menü",
+	"tn_bril_uit": "Aus"
 }

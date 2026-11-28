@@ -3311,5 +3311,18 @@
 	"br_left": "Còn {n} ký tự",
 	"br_monument": "Di tích gần bạn",
 	"br_see_place": "Xem địa điểm",
-	"br_to_buurt": "Đến khu phố của bạn"
+	"br_to_buurt": "Đến khu phố của bạn",
+	"spraak_vraag_titel": "Nói chuyện với {naam}",
+	"spraak_vraag_tekst": "Nhấc mình lên và giữ yên, mình sẽ nghe. Nói nhảy múa, chúc ngủ ngon hay đói không? Cogvivo chỉ giữ lệnh, không bao giờ giữ lời bạn nói.",
+	"spraak_vraag_knop": "Bật micro",
+	"spraak_vraag_bril_titel": "{naam} trong kính của bạn",
+	"spraak_vraag_bril_tekst": "Đeo kính vào và {naam} nhảy vào. Vuốt xuống hoặc nói tạm biệt để đưa {naam} về.",
+	"spraak_vraag_bril_knop": "Tự động vào kính của tôi",
+	"tn_spraak": "Nói chuyện với {naam}",
+	"tn_spraak_tekst": "Nhấc lên và giữ yên, {naam} sẽ nghe",
+	"tn_bril": "Trong kính",
+	"tn_bril_tekst": "Kính Android XR: cách {naam} vào",
+	"tn_bril_vanzelf": "Tự động",
+	"tn_bril_menu": "Qua menu",
+	"tn_bril_uit": "Tắt"
 }

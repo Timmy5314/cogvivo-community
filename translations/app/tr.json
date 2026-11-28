@@ -3311,5 +3311,18 @@
 	"br_left": "{n} karakter kaldı",
 	"br_monument": "Yakınındaki anıt",
 	"br_see_place": "Yeri gör",
-	"br_to_buurt": "Mahallene git"
+	"br_to_buurt": "Mahallene git",
+	"spraak_vraag_titel": "{naam} ile konuş",
+	"spraak_vraag_tekst": "Beni al ve kıpırdatmadan tut, seni dinlerim. Dans et, iyi geceler ya da aç mısın de. Cogvivo yalnızca komutu tutar, söylediklerini asla.",
+	"spraak_vraag_knop": "Mikrofonu aç",
+	"spraak_vraag_bril_titel": "{naam} gözlüğünde",
+	"spraak_vraag_bril_tekst": "Gözlüğünü tak, {naam} içine atlasın. Aşağı kaydır ya da güle güle de, {naam} geri döner.",
+	"spraak_vraag_bril_knop": "Gözlüğüme kendiliğinden",
+	"tn_spraak": "{naam} ile konuşmak",
+	"tn_spraak_tekst": "Al ve kıpırdatmadan tut, {naam} dinler",
+	"tn_bril": "Gözlüğünde",
+	"tn_bril_tekst": "Android XR gözlük: {naam} nasıl girer",
+	"tn_bril_vanzelf": "Kendiliğinden",
+	"tn_bril_menu": "Menüden",
+	"tn_bril_uit": "Kapalı"
 }

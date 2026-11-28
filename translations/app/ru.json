@@ -3311,5 +3311,18 @@
 	"br_left": "Осталось символов: {n}",
 	"br_monument": "Достопримечательность рядом",
 	"br_see_place": "Посмотреть место",
-	"br_to_buurt": "В твой район"
+	"br_to_buurt": "В твой район",
+	"spraak_vraag_titel": "Поговори с {naam}",
+	"spraak_vraag_tekst": "Возьми меня и подержи неподвижно, и я буду слушать. Скажи танцуй, спокойной ночи или ты голодный? Cogvivo запоминает только команду, а не то, что ты сказал.",
+	"spraak_vraag_knop": "Включить микрофон",
+	"spraak_vraag_bril_titel": "{naam} в твоих очках",
+	"spraak_vraag_bril_tekst": "Надень очки, и {naam} запрыгнет в них. Проведи вниз или скажи пока, чтобы {naam} вернулся.",
+	"spraak_vraag_bril_knop": "Сам в мои очки",
+	"tn_spraak": "Говорить с {naam}",
+	"tn_spraak_tekst": "Возьми и держи неподвижно, и {naam} слушает",
+	"tn_bril": "В очках",
+	"tn_bril_tekst": "Очки Android XR: как {naam} попадает внутрь",
+	"tn_bril_vanzelf": "Сам",
+	"tn_bril_menu": "Через меню",
+	"tn_bril_uit": "Выкл."
 }

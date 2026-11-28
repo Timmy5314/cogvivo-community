@@ -3311,5 +3311,18 @@
 	"br_left": "เหลือ {n} ตัวอักษร",
 	"br_monument": "สถานที่สำคัญใกล้คุณ",
 	"br_see_place": "ดูสถานที่",
-	"br_to_buurt": "ไปที่ละแวกบ้านของคุณ"
+	"br_to_buurt": "ไปที่ละแวกบ้านของคุณ",
+	"spraak_vraag_titel": "คุยกับ {naam}",
+	"spraak_vraag_tekst": "หยิบฉันขึ้นมาแล้วถือนิ่งๆ ฉันจะฟัง พูดว่า เต้น ฝันดี หรือหิวไหม Cogvivo เก็บไว้แค่คำสั่ง ไม่เคยเก็บสิ่งที่คุณพูด",
+	"spraak_vraag_knop": "เปิดไมโครโฟน",
+	"spraak_vraag_bril_titel": "{naam} ในแว่นของคุณ",
+	"spraak_vraag_bril_tekst": "สวมแว่นแล้ว {naam} จะกระโดดเข้าไป ปัดลงหรือพูดว่าบายบายเพื่อส่ง {naam} กลับ",
+	"spraak_vraag_bril_knop": "เข้าแว่นของฉันเอง",
+	"tn_spraak": "คุยกับ {naam}",
+	"tn_spraak_tekst": "หยิบแล้วถือนิ่งๆ {naam} จะฟัง",
+	"tn_bril": "ในแว่น",
+	"tn_bril_tekst": "แว่น Android XR: {naam} เข้าไปอย่างไร",
+	"tn_bril_vanzelf": "อัตโนมัติ",
+	"tn_bril_menu": "ผ่านเมนู",
+	"tn_bril_uit": "ปิด"
 }

@@ -3311,5 +3311,18 @@
 	"br_left": "{n} characters left",
 	"br_monument": "Landmark near you",
 	"br_see_place": "View place",
-	"br_to_buurt": "Go to your neighborhood"
+	"br_to_buurt": "Go to your neighborhood",
+	"spraak_vraag_titel": "Talk to {naam}",
+	"spraak_vraag_tekst": "Pick me up and hold me still, then I'll listen. Say dance, sleep tight or are you hungry? Cogvivo only keeps the command, never what you said.",
+	"spraak_vraag_knop": "Turn on microphone",
+	"spraak_vraag_bril_titel": "{naam} in your glasses",
+	"spraak_vraag_bril_tekst": "Put on your glasses and {naam} jumps in. Swipe down or say bye to send {naam} back.",
+	"spraak_vraag_bril_knop": "Automatically in my glasses",
+	"tn_spraak": "Talk to {naam}",
+	"tn_spraak_tekst": "Pick up and hold still, then {naam} listens",
+	"tn_bril": "In your glasses",
+	"tn_bril_tekst": "Android XR glasses: how {naam} gets in",
+	"tn_bril_vanzelf": "Automatically",
+	"tn_bril_menu": "Via menu",
+	"tn_bril_uit": "Off"
 }

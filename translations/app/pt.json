@@ -3311,5 +3311,18 @@
 	"br_left": "{n} caracteres restantes",
 	"br_monument": "Monumento perto de você",
 	"br_see_place": "Ver lugar",
-	"br_to_buurt": "Ir para o seu bairro"
+	"br_to_buurt": "Ir para o seu bairro",
+	"spraak_vraag_titel": "Fale com {naam}",
+	"spraak_vraag_tekst": "Me pegue e me segure parado, aí eu escuto. Diga dança, boa noite ou está com fome? O Cogvivo guarda só o comando, nunca o que você disse.",
+	"spraak_vraag_knop": "Ligar microfone",
+	"spraak_vraag_bril_titel": "{naam} nos seus óculos",
+	"spraak_vraag_bril_tekst": "Coloque os óculos e {naam} pula para dentro. Deslize para baixo ou diga tchau para mandar {naam} de volta.",
+	"spraak_vraag_bril_knop": "Automaticamente nos meus óculos",
+	"tn_spraak": "Falar com {naam}",
+	"tn_spraak_tekst": "Pegue e segure parado, aí {naam} escuta",
+	"tn_bril": "Nos seus óculos",
+	"tn_bril_tekst": "Óculos Android XR: como {naam} entra",
+	"tn_bril_vanzelf": "Automático",
+	"tn_bril_menu": "Pelo menu",
+	"tn_bril_uit": "Desligado"
 }

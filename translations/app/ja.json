@@ -3311,5 +3311,18 @@
 	"br_left": "残り {n} 文字",
 	"br_monument": "近くの名所",
 	"br_see_place": "場所を見る",
-	"br_to_buurt": "近所へ"
+	"br_to_buurt": "近所へ",
+	"spraak_vraag_titel": "{naam}と話そう",
+	"spraak_vraag_tekst": "持ち上げてじっとしててくれたら、聞くよ。「踊って」「おやすみ」「お腹すいた？」と言ってみて。Cogvivoが覚えるのは命令だけで、話した内容は残しません。",
+	"spraak_vraag_knop": "マイクをオンにする",
+	"spraak_vraag_bril_titel": "メガネの中の{naam}",
+	"spraak_vraag_bril_tekst": "メガネをかけると{naam}が飛び込みます。下にスワイプするか「バイバイ」と言うと{naam}が戻ります。",
+	"spraak_vraag_bril_knop": "自動でメガネに",
+	"tn_spraak": "{naam}と話す",
+	"tn_spraak_tekst": "持ち上げてじっとすると{naam}が聞きます",
+	"tn_bril": "メガネ",
+	"tn_bril_tekst": "Android XR メガネ：{naam}の入り方",
+	"tn_bril_vanzelf": "自動",
+	"tn_bril_menu": "メニューから",
+	"tn_bril_uit": "オフ"
 }

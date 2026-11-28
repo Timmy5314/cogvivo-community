@@ -3311,5 +3311,18 @@
 	"br_left": "Quedan {n} caracteres",
 	"br_monument": "Monumento cerca de ti",
 	"br_see_place": "Ver lugar",
-	"br_to_buurt": "Ir a tu barrio"
+	"br_to_buurt": "Ir a tu barrio",
+	"spraak_vraag_titel": "Habla con {naam}",
+	"spraak_vraag_tekst": "Cógeme y sujétame quieto, y te escucho. Di baila, buenas noches o ¿tienes hambre? Cogvivo solo guarda la orden, nunca lo que dijiste.",
+	"spraak_vraag_knop": "Activar micrófono",
+	"spraak_vraag_bril_titel": "{naam} en tus gafas",
+	"spraak_vraag_bril_tekst": "Ponte las gafas y {naam} salta dentro. Desliza hacia abajo o di adiós para que {naam} vuelva.",
+	"spraak_vraag_bril_knop": "Automáticamente en mis gafas",
+	"tn_spraak": "Hablar con {naam}",
+	"tn_spraak_tekst": "Cógelo y sujétalo quieto, y {naam} escucha",
+	"tn_bril": "En tus gafas",
+	"tn_bril_tekst": "Gafas Android XR: cómo entra {naam}",
+	"tn_bril_vanzelf": "Automático",
+	"tn_bril_menu": "Por menú",
+	"tn_bril_uit": "Desactivado"
 }

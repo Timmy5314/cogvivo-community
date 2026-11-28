@@ -3311,5 +3311,18 @@
 	"br_left": "{n} caratteri rimasti",
 	"br_monument": "Monumento vicino a te",
 	"br_see_place": "Vedi il luogo",
-	"br_to_buurt": "Vai al tuo quartiere"
+	"br_to_buurt": "Vai al tuo quartiere",
+	"spraak_vraag_titel": "Parla con {naam}",
+	"spraak_vraag_tekst": "Prendimi e tienimi fermo, così ti ascolto. Di’ balla, buonanotte o hai fame? Cogvivo tiene solo il comando, mai quello che hai detto.",
+	"spraak_vraag_knop": "Attiva il microfono",
+	"spraak_vraag_bril_titel": "{naam} nei tuoi occhiali",
+	"spraak_vraag_bril_tekst": "Metti gli occhiali e {naam} ci salta dentro. Scorri in basso o di’ vai via per rimandare indietro {naam}.",
+	"spraak_vraag_bril_knop": "Da solo nei miei occhiali",
+	"tn_spraak": "Parlare con {naam}",
+	"tn_spraak_tekst": "Prendi e tieni fermo, così {naam} ascolta",
+	"tn_bril": "Nei tuoi occhiali",
+	"tn_bril_tekst": "Occhiali Android XR: come entra {naam}",
+	"tn_bril_vanzelf": "Da solo",
+	"tn_bril_menu": "Dal menu",
+	"tn_bril_uit": "Spento"
 }

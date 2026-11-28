@@ -3311,5 +3311,18 @@
 	"br_left": "{n} अक्षर बाकी",
 	"br_monument": "तुम्हारे पास का स्मारक",
 	"br_see_place": "जगह देखो",
-	"br_to_buurt": "अपने मोहल्ले में जाओ"
+	"br_to_buurt": "अपने मोहल्ले में जाओ",
+	"spraak_vraag_titel": "{naam} से बात करो",
+	"spraak_vraag_tekst": "मुझे उठाओ और स्थिर पकड़ो, फिर मैं सुनूँगा। बोलो नाचो, शुभ रात्रि या भूख लगी है? Cogvivo सिर्फ़ आदेश रखता है, तुमने जो कहा वह कभी नहीं।",
+	"spraak_vraag_knop": "माइक्रोफ़ोन चालू करो",
+	"spraak_vraag_bril_titel": "तुम्हारे चश्मे में {naam}",
+	"spraak_vraag_bril_tekst": "चश्मा पहनो और {naam} उसमें कूद जाएगा। नीचे स्वाइप करो या बाय बाय बोलो, {naam} वापस चला जाएगा।",
+	"spraak_vraag_bril_knop": "अपने आप मेरे चश्मे में",
+	"tn_spraak": "{naam} से बात",
+	"tn_spraak_tekst": "उठाओ और स्थिर पकड़ो, {naam} सुनेगा",
+	"tn_bril": "तुम्हारे चश्मे में",
+	"tn_bril_tekst": "Android XR चश्मा: {naam} कैसे आता है",
+	"tn_bril_vanzelf": "अपने आप",
+	"tn_bril_menu": "मेनू से",
+	"tn_bril_uit": "बंद"
 }

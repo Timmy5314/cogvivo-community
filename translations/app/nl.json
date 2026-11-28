@@ -3311,5 +3311,18 @@
 	"br_left": "{n} tekens over",
 	"br_monument": "Monument in je buurt",
 	"br_see_place": "Bekijk plek",
-	"br_to_buurt": "Naar je buurt"
+	"br_to_buurt": "Naar je buurt",
+	"spraak_vraag_titel": "Praat met {naam}",
+	"spraak_vraag_tekst": "Pak me op en houd me even stil, dan luister ik. Zeg dans, slaap lekker of heb je honger? Cogvivo onthoudt alleen de opdracht, nooit wat je zei.",
+	"spraak_vraag_knop": "Microfoon aanzetten",
+	"spraak_vraag_bril_titel": "{naam} in je bril",
+	"spraak_vraag_bril_tekst": "Zet je bril op en {naam} springt erin. Omlaag vegen of doei zeggen stuurt {naam} terug.",
+	"spraak_vraag_bril_knop": "Vanzelf in mijn bril",
+	"tn_spraak": "Praten met {naam}",
+	"tn_spraak_tekst": "Oppakken en stil houden, dan luistert {naam}",
+	"tn_bril": "In je bril",
+	"tn_bril_tekst": "Android XR-bril: hoe {naam} erin komt",
+	"tn_bril_vanzelf": "Vanzelf",
+	"tn_bril_menu": "Via menu",
+	"tn_bril_uit": "Uit"
 }

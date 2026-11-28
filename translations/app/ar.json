@@ -3311,5 +3311,18 @@
 	"br_left": "متبقٍ {n} حرف",
 	"br_monument": "معلم قريب منك",
 	"br_see_place": "عرض المكان",
-	"br_to_buurt": "إلى حيّك"
+	"br_to_buurt": "إلى حيّك",
+	"spraak_vraag_titel": "تحدث مع {naam}",
+	"spraak_vraag_tekst": "التقطني وأمسكني بثبات، وسأستمع. قل ارقص أو تصبح على خير أو هل انت جائع؟ يحتفظ Cogvivo بالأمر فقط، وليس بما قلته أبدًا.",
+	"spraak_vraag_knop": "تشغيل الميكروفون",
+	"spraak_vraag_bril_titel": "{naam} في نظارتك",
+	"spraak_vraag_bril_tekst": "ضع نظارتك وسيقفز {naam} إليها. اسحب للأسفل أو قل مع السلامة لإعادة {naam}.",
+	"spraak_vraag_bril_knop": "تلقائيًا في نظارتي",
+	"tn_spraak": "التحدث مع {naam}",
+	"tn_spraak_tekst": "التقطه وأمسكه بثبات، وسيستمع {naam}",
+	"tn_bril": "في نظارتك",
+	"tn_bril_tekst": "نظارة Android XR: كيف يدخل {naam}",
+	"tn_bril_vanzelf": "تلقائيًا",
+	"tn_bril_menu": "عبر القائمة",
+	"tn_bril_uit": "إيقاف"
 }

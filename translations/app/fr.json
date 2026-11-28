@@ -3311,5 +3311,18 @@
 	"br_left": "{n} caractères restants",
 	"br_monument": "Monument près de chez toi",
 	"br_see_place": "Voir le lieu",
-	"br_to_buurt": "Vers ton quartier"
+	"br_to_buurt": "Vers ton quartier",
+	"spraak_vraag_titel": "Parle à {naam}",
+	"spraak_vraag_tekst": "Prends-moi et tiens-moi sans bouger, et j’écoute. Dis danse, bonne nuit ou tu as faim ? Cogvivo ne garde que l’ordre, jamais ce que tu as dit.",
+	"spraak_vraag_knop": "Activer le micro",
+	"spraak_vraag_bril_titel": "{naam} dans tes lunettes",
+	"spraak_vraag_bril_tekst": "Mets tes lunettes et {naam} saute dedans. Glisse vers le bas ou dis au revoir pour renvoyer {naam}.",
+	"spraak_vraag_bril_knop": "Automatiquement dans mes lunettes",
+	"tn_spraak": "Parler avec {naam}",
+	"tn_spraak_tekst": "Prends et tiens sans bouger, et {naam} écoute",
+	"tn_bril": "Dans tes lunettes",
+	"tn_bril_tekst": "Lunettes Android XR : comment {naam} y entre",
+	"tn_bril_vanzelf": "Automatique",
+	"tn_bril_menu": "Par le menu",
+	"tn_bril_uit": "Désactivé"
 }

@@ -3311,5 +3311,18 @@
 	"br_left": "Au mai rămas {n} caractere",
 	"br_monument": "Monument lângă tine",
 	"br_see_place": "Vezi locul",
-	"br_to_buurt": "Spre cartierul tău"
+	"br_to_buurt": "Spre cartierul tău",
+	"spraak_vraag_titel": "Vorbește cu {naam}",
+	"spraak_vraag_tekst": "Ridică-mă și ține-mă nemișcat, și te ascult. Spune dansează, noapte bună sau ți-e foame? Cogvivo păstrează doar comanda, niciodată ce ai spus.",
+	"spraak_vraag_knop": "Pornește microfonul",
+	"spraak_vraag_bril_titel": "{naam} în ochelarii tăi",
+	"spraak_vraag_bril_tekst": "Pune-ți ochelarii și {naam} sare înăuntru. Glisează în jos sau spune la revedere ca {naam} să se întoarcă.",
+	"spraak_vraag_bril_knop": "Singur în ochelarii mei",
+	"tn_spraak": "Vorbește cu {naam}",
+	"tn_spraak_tekst": "Ridică și ține nemișcat, și {naam} ascultă",
+	"tn_bril": "În ochelari",
+	"tn_bril_tekst": "Ochelari Android XR: cum intră {naam}",
+	"tn_bril_vanzelf": "Automat",
+	"tn_bril_menu": "Din meniu",
+	"tn_bril_uit": "Oprit"
 }

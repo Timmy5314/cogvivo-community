@@ -3311,5 +3311,18 @@
 	"br_left": "Még {n} karakter",
 	"br_monument": "Látnivaló a közeledben",
 	"br_see_place": "Hely megtekintése",
-	"br_to_buurt": "Irány a környéked"
+	"br_to_buurt": "Irány a környéked",
+	"spraak_vraag_titel": "Beszélj vele: {naam}",
+	"spraak_vraag_tekst": "Vegyél fel és tarts mozdulatlanul, és figyelek. Mondd: táncolj, jó éjszakát vagy éhes vagy? A Cogvivo csak a parancsot jegyzi meg, sosem azt, amit mondtál.",
+	"spraak_vraag_knop": "Mikrofon bekapcsolása",
+	"spraak_vraag_bril_titel": "{naam} a szemüvegedben",
+	"spraak_vraag_bril_tekst": "Vedd fel a szemüveged, és {naam} beugrik. Húzd lefelé vagy mondd, hogy viszlát, és {naam} visszamegy.",
+	"spraak_vraag_bril_knop": "Magától a szemüvegembe",
+	"tn_spraak": "Beszélgetés: {naam}",
+	"tn_spraak_tekst": "Vedd fel és tartsd mozdulatlanul, és {naam} figyel",
+	"tn_bril": "A szemüvegedben",
+	"tn_bril_tekst": "Android XR szemüveg: hogyan kerül bele {naam}",
+	"tn_bril_vanzelf": "Magától",
+	"tn_bril_menu": "Menüből",
+	"tn_bril_uit": "Ki"
 }

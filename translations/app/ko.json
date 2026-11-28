@@ -3311,5 +3311,18 @@
 	"br_left": "{n}자 남음",
 	"br_monument": "내 주변 명소",
 	"br_see_place": "장소 보기",
-	"br_to_buurt": "내 동네로"
+	"br_to_buurt": "내 동네로",
+	"spraak_vraag_titel": "{naam}와(과) 이야기해요",
+	"spraak_vraag_tekst": "나를 들어서 가만히 잡고 있으면 들을게. 춤춰, 잘 자, 배고파? 라고 말해 봐. Cogvivo는 명령만 기억하고, 네가 한 말은 절대 저장하지 않아.",
+	"spraak_vraag_knop": "마이크 켜기",
+	"spraak_vraag_bril_titel": "안경 속 {naam}",
+	"spraak_vraag_bril_tekst": "안경을 쓰면 {naam}이(가) 뛰어들어요. 아래로 스와이프하거나 잘 가라고 말하면 {naam}이(가) 돌아가요.",
+	"spraak_vraag_bril_knop": "안경에 자동으로",
+	"tn_spraak": "{naam}와(과) 말하기",
+	"tn_spraak_tekst": "들어서 가만히 잡으면 {naam}이(가) 들어요",
+	"tn_bril": "안경에서",
+	"tn_bril_tekst": "Android XR 안경: {naam}이(가) 들어오는 방법",
+	"tn_bril_vanzelf": "자동",
+	"tn_bril_menu": "메뉴에서",
+	"tn_bril_uit": "끔"
 }
