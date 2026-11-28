@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s trop tôt",
 	"ld_ogen_laat": "{s} s trop tard",
 	"ld_ogen_gemist": "Pas arrêté",
-	"ld_balans_hint": "La pile penche ? Incline la tête de l'autre côté"
+	"ld_balans_hint": "La pile penche ? Incline la tête de l'autre côté",
+	"wz_kracht_knop": "Superpouvoirs",
+	"wz_kracht_titel": "Superpouvoirs pour {naam}",
+	"wz_kracht_uitleg": "Regarde une vidéo et cette jauge reste pleine pendant 24 heures. Chaque jauge a sa propre vidéo.",
+	"wz_kracht_eten": "Jamais faim",
+	"wz_kracht_plezier": "Jamais d’ennui",
+	"wz_kracht_schoon": "Toujours propre",
+	"wz_kracht_energie": "Jamais de fatigue",
+	"wz_kracht_kijk": "Vidéo",
+	"wz_kracht_aan": "Superpouvoir jusqu’à {tijd}",
+	"wz_kracht_wacht": "Vérification…",
+	"wz_kracht_zeg": "J’ai des superpouvoirs !",
+	"wz_kracht_niet": "Pas encore de superpouvoir. Regarde la vidéo jusqu’au bout, ou réessaie plus tard."
 }

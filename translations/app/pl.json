@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s za wcześnie",
 	"ld_ogen_laat": "{s} s za późno",
 	"ld_ogen_gemist": "Nie zatrzymano",
-	"ld_balans_hint": "Stos się przechyla? Przechyl głowę w drugą stronę"
+	"ld_balans_hint": "Stos się przechyla? Przechyl głowę w drugą stronę",
+	"wz_kracht_knop": "Supermoce",
+	"wz_kracht_titel": "Supermoce dla: {naam}",
+	"wz_kracht_uitleg": "Obejrzyj filmik, a ten pasek zostanie pełny przez 24 godziny. Każdy pasek ma swój własny filmik.",
+	"wz_kracht_eten": "Nigdy głodny",
+	"wz_kracht_plezier": "Nigdy znudzony",
+	"wz_kracht_schoon": "Zawsze czysty",
+	"wz_kracht_energie": "Nigdy zmęczony",
+	"wz_kracht_kijk": "Filmik",
+	"wz_kracht_aan": "Supermoc do {tijd}",
+	"wz_kracht_wacht": "Sprawdzam…",
+	"wz_kracht_zeg": "Mam supermoce!",
+	"wz_kracht_niet": "Jeszcze nie ma supermocy. Obejrzyj filmik do końca albo spróbuj później."
 }

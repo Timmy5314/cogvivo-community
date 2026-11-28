@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s för tidigt",
 	"ld_ogen_laat": "{s} s för sent",
 	"ld_ogen_gemist": "Inte stoppad",
-	"ld_balans_hint": "Lutar stapeln? Luta huvudet åt andra hållet"
+	"ld_balans_hint": "Lutar stapeln? Luta huvudet åt andra hållet",
+	"wz_kracht_knop": "Superkrafter",
+	"wz_kracht_titel": "Superkrafter för {naam}",
+	"wz_kracht_uitleg": "Titta på en video så förblir den mätaren full i 24 timmar. Varje mätare har sin egen video.",
+	"wz_kracht_eten": "Aldrig hungrig",
+	"wz_kracht_plezier": "Aldrig uttråkad",
+	"wz_kracht_schoon": "Alltid ren",
+	"wz_kracht_energie": "Aldrig trött",
+	"wz_kracht_kijk": "Video",
+	"wz_kracht_aan": "Superkraft till {tijd}",
+	"wz_kracht_wacht": "Kollar…",
+	"wz_kracht_zeg": "Jag har superkrafter!",
+	"wz_kracht_niet": "Ingen superkraft än. Titta på hela videon, eller försök igen senare."
 }

@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} से॰ पहले",
 	"ld_ogen_laat": "{s} से॰ देर से",
 	"ld_ogen_gemist": "रोका नहीं",
-	"ld_balans_hint": "ढेर झुक रहा है? सिर दूसरी तरफ़ झुकाएँ"
+	"ld_balans_hint": "ढेर झुक रहा है? सिर दूसरी तरफ़ झुकाएँ",
+	"wz_kracht_knop": "सुपरपावर",
+	"wz_kracht_titel": "{naam} के लिए सुपरपावर",
+	"wz_kracht_uitleg": "एक वीडियो देखो और वह बार 24 घंटे तक भरा रहेगा। हर बार का अपना वीडियो है।",
+	"wz_kracht_eten": "कभी भूख नहीं",
+	"wz_kracht_plezier": "कभी बोरियत नहीं",
+	"wz_kracht_schoon": "हमेशा साफ़",
+	"wz_kracht_energie": "कभी थकान नहीं",
+	"wz_kracht_kijk": "वीडियो",
+	"wz_kracht_aan": "{tijd} तक सुपरपावर",
+	"wz_kracht_wacht": "जाँच हो रही है…",
+	"wz_kracht_zeg": "मेरे पास सुपरपावर है!",
+	"wz_kracht_niet": "अभी कोई सुपरपावर नहीं। पूरा वीडियो देखो या बाद में फिर कोशिश करो।"
 }

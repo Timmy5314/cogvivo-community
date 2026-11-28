@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s}秒早い",
 	"ld_ogen_laat": "{s}秒遅い",
 	"ld_ogen_gemist": "止められなかった",
-	"ld_balans_hint": "傾いたら、頭を反対側に傾けよう"
+	"ld_balans_hint": "傾いたら、頭を反対側に傾けよう",
+	"wz_kracht_knop": "スーパーパワー",
+	"wz_kracht_titel": "{naam}のスーパーパワー",
+	"wz_kracht_uitleg": "動画を見ると、そのゲージが24時間ずっと満タンだよ。ゲージごとに動画があるよ。",
+	"wz_kracht_eten": "おなかがすかない",
+	"wz_kracht_plezier": "たいくつしない",
+	"wz_kracht_schoon": "いつもきれい",
+	"wz_kracht_energie": "つかれない",
+	"wz_kracht_kijk": "動画",
+	"wz_kracht_aan": "{tijd}までスーパーパワー",
+	"wz_kracht_wacht": "確認中…",
+	"wz_kracht_zeg": "スーパーパワーを手に入れた！",
+	"wz_kracht_niet": "まだスーパーパワーはないよ。動画を最後まで見るか、あとでまた試してね。"
 }

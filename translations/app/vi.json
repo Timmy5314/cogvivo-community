@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "Sớm {s} giây",
 	"ld_ogen_laat": "Muộn {s} giây",
 	"ld_ogen_gemist": "Chưa dừng",
-	"ld_balans_hint": "Chồng đồ nghiêng? Nghiêng đầu sang bên kia"
+	"ld_balans_hint": "Chồng đồ nghiêng? Nghiêng đầu sang bên kia",
+	"wz_kracht_knop": "Siêu năng lực",
+	"wz_kracht_titel": "Siêu năng lực cho {naam}",
+	"wz_kracht_uitleg": "Xem một video và thanh đó sẽ đầy suốt 24 giờ. Mỗi thanh có video riêng.",
+	"wz_kracht_eten": "Không bao giờ đói",
+	"wz_kracht_plezier": "Không bao giờ chán",
+	"wz_kracht_schoon": "Luôn sạch sẽ",
+	"wz_kracht_energie": "Không bao giờ mệt",
+	"wz_kracht_kijk": "Video",
+	"wz_kracht_aan": "Siêu năng lực đến {tijd}",
+	"wz_kracht_wacht": "Đang kiểm tra…",
+	"wz_kracht_zeg": "Mình có siêu năng lực!",
+	"wz_kracht_niet": "Chưa có siêu năng lực. Hãy xem hết video hoặc thử lại sau."
 }

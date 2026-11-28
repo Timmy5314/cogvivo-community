@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s}초 빨랐어요",
 	"ld_ogen_laat": "{s}초 늦었어요",
 	"ld_ogen_gemist": "멈추지 못했어요",
-	"ld_balans_hint": "탑이 기울면 머리를 반대쪽으로 기울이세요"
+	"ld_balans_hint": "탑이 기울면 머리를 반대쪽으로 기울이세요",
+	"wz_kracht_knop": "슈퍼파워",
+	"wz_kracht_titel": "{naam}의 슈퍼파워",
+	"wz_kracht_uitleg": "영상을 보면 그 게이지가 24시간 동안 가득 찬 채로 있어요. 게이지마다 영상이 따로 있어요.",
+	"wz_kracht_eten": "배고프지 않아요",
+	"wz_kracht_plezier": "심심하지 않아요",
+	"wz_kracht_schoon": "항상 깨끗해요",
+	"wz_kracht_energie": "피곤하지 않아요",
+	"wz_kracht_kijk": "영상",
+	"wz_kracht_aan": "{tijd}까지 슈퍼파워",
+	"wz_kracht_wacht": "확인 중…",
+	"wz_kracht_zeg": "슈퍼파워가 생겼어!",
+	"wz_kracht_niet": "아직 슈퍼파워가 없어요. 영상을 끝까지 보거나 나중에 다시 해 봐요."
 }

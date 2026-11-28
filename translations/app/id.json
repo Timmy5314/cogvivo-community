@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} dtk terlalu cepat",
 	"ld_ogen_laat": "{s} dtk terlambat",
 	"ld_ogen_gemist": "Tidak berhenti",
-	"ld_balans_hint": "Tumpukan miring? Miringkan kepala ke sisi lain"
+	"ld_balans_hint": "Tumpukan miring? Miringkan kepala ke sisi lain",
+	"wz_kracht_knop": "Kekuatan super",
+	"wz_kracht_titel": "Kekuatan super untuk {naam}",
+	"wz_kracht_uitleg": "Tonton video dan bar itu tetap penuh selama 24 jam. Setiap bar punya videonya sendiri.",
+	"wz_kracht_eten": "Tak pernah lapar",
+	"wz_kracht_plezier": "Tak pernah bosan",
+	"wz_kracht_schoon": "Selalu bersih",
+	"wz_kracht_energie": "Tak pernah lelah",
+	"wz_kracht_kijk": "Video",
+	"wz_kracht_aan": "Kekuatan super sampai {tijd}",
+	"wz_kracht_wacht": "Memeriksa…",
+	"wz_kracht_zeg": "Aku punya kekuatan super!",
+	"wz_kracht_niet": "Belum ada kekuatan super. Tonton videonya sampai habis, atau coba lagi nanti."
 }

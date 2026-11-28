@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "o {s} s dřív",
 	"ld_ogen_laat": "o {s} s později",
 	"ld_ogen_gemist": "Nezastaveno",
-	"ld_balans_hint": "Věž se naklání? Nakloň hlavu na druhou stranu"
+	"ld_balans_hint": "Věž se naklání? Nakloň hlavu na druhou stranu",
+	"wz_kracht_knop": "Superschopnosti",
+	"wz_kracht_titel": "Superschopnosti pro: {naam}",
+	"wz_kracht_uitleg": "Podívej se na video a ten ukazatel zůstane 24 hodin plný. Každý ukazatel má své vlastní video.",
+	"wz_kracht_eten": "Nikdy hlad",
+	"wz_kracht_plezier": "Nikdy nuda",
+	"wz_kracht_schoon": "Vždy čistý",
+	"wz_kracht_energie": "Nikdy únava",
+	"wz_kracht_kijk": "Video",
+	"wz_kracht_aan": "Superschopnost do {tijd}",
+	"wz_kracht_wacht": "Ověřuji…",
+	"wz_kracht_zeg": "Mám superschopnosti!",
+	"wz_kracht_niet": "Zatím žádná superschopnost. Podívej se na celé video, nebo to zkus později."
 }

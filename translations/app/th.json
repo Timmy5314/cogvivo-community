@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "เร็วไป {s} วิ",
 	"ld_ogen_laat": "ช้าไป {s} วิ",
 	"ld_ogen_gemist": "ไม่ได้หยุด",
-	"ld_balans_hint": "กองของเอียงเหรอ เอียงหัวไปอีกข้าง"
+	"ld_balans_hint": "กองของเอียงเหรอ เอียงหัวไปอีกข้าง",
+	"wz_kracht_knop": "พลังพิเศษ",
+	"wz_kracht_titel": "พลังพิเศษสำหรับ {naam}",
+	"wz_kracht_uitleg": "ดูวิดีโอแล้วแถบนั้นจะเต็มอยู่ 24 ชั่วโมง แต่ละแถบมีวิดีโอของตัวเอง",
+	"wz_kracht_eten": "ไม่หิวเลย",
+	"wz_kracht_plezier": "ไม่เบื่อเลย",
+	"wz_kracht_schoon": "สะอาดตลอด",
+	"wz_kracht_energie": "ไม่เหนื่อยเลย",
+	"wz_kracht_kijk": "วิดีโอ",
+	"wz_kracht_aan": "พลังพิเศษถึง {tijd}",
+	"wz_kracht_wacht": "กำลังตรวจสอบ…",
+	"wz_kracht_zeg": "ฉันมีพลังพิเศษแล้ว!",
+	"wz_kracht_niet": "ยังไม่ได้พลังพิเศษ ดูวิดีโอให้จบ หรือลองใหม่ภายหลัง"
 }

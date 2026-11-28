@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s te vroeg",
 	"ld_ogen_laat": "{s} s te laat",
 	"ld_ogen_gemist": "Niet gestopt",
-	"ld_balans_hint": "Helt de stapel? Kantel je hoofd de andere kant op"
+	"ld_balans_hint": "Helt de stapel? Kantel je hoofd de andere kant op",
+	"wz_kracht_knop": "Superkrachten",
+	"wz_kracht_titel": "Superkrachten voor {naam}",
+	"wz_kracht_uitleg": "Kijk een filmpje en dat balkje blijft 24 uur vol. Elk balkje heeft zijn eigen filmpje.",
+	"wz_kracht_eten": "Nooit honger",
+	"wz_kracht_plezier": "Nooit verveeld",
+	"wz_kracht_schoon": "Altijd schoon",
+	"wz_kracht_energie": "Nooit moe",
+	"wz_kracht_kijk": "Filmpje",
+	"wz_kracht_aan": "Superkracht tot {tijd}",
+	"wz_kracht_wacht": "Even kijken…",
+	"wz_kracht_zeg": "Ik heb superkrachten!",
+	"wz_kracht_niet": "Nog geen superkracht. Kijk het filmpje helemaal uit, of probeer het straks nog eens."
 }

@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s prea devreme",
 	"ld_ogen_laat": "{s} s prea târziu",
 	"ld_ogen_gemist": "Neoprit",
-	"ld_balans_hint": "Se înclină teancul? Înclină capul în partea cealaltă"
+	"ld_balans_hint": "Se înclină teancul? Înclină capul în partea cealaltă",
+	"wz_kracht_knop": "Superputeri",
+	"wz_kracht_titel": "Superputeri pentru {naam}",
+	"wz_kracht_uitleg": "Urmărește un clip și bara aceea rămâne plină 24 de ore. Fiecare bară are clipul ei.",
+	"wz_kracht_eten": "Niciodată flămând",
+	"wz_kracht_plezier": "Niciodată plictisit",
+	"wz_kracht_schoon": "Mereu curat",
+	"wz_kracht_energie": "Niciodată obosit",
+	"wz_kracht_kijk": "Clip",
+	"wz_kracht_aan": "Superputere până la {tijd}",
+	"wz_kracht_wacht": "Verific…",
+	"wz_kracht_zeg": "Am superputeri!",
+	"wz_kracht_niet": "Încă nicio superputere. Urmărește clipul până la capăt sau încearcă mai târziu."
 }

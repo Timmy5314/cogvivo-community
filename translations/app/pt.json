@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s adiantado",
 	"ld_ogen_laat": "{s} s atrasado",
 	"ld_ogen_gemist": "Não parou",
-	"ld_balans_hint": "A pilha está caindo? Incline a cabeça para o outro lado"
+	"ld_balans_hint": "A pilha está caindo? Incline a cabeça para o outro lado",
+	"wz_kracht_knop": "Superpoderes",
+	"wz_kracht_titel": "Superpoderes para {naam}",
+	"wz_kracht_uitleg": "Vê um vídeo e essa barra fica cheia durante 24 horas. Cada barra tem o seu próprio vídeo.",
+	"wz_kracht_eten": "Nunca tem fome",
+	"wz_kracht_plezier": "Nunca se aborrece",
+	"wz_kracht_schoon": "Sempre limpo",
+	"wz_kracht_energie": "Nunca se cansa",
+	"wz_kracht_kijk": "Vídeo",
+	"wz_kracht_aan": "Superpoder até às {tijd}",
+	"wz_kracht_wacht": "A verificar…",
+	"wz_kracht_zeg": "Tenho superpoderes!",
+	"wz_kracht_niet": "Ainda sem superpoder. Vê o vídeo até ao fim ou tenta mais logo."
 }

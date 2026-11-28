@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} sn erken",
 	"ld_ogen_laat": "{s} sn geç",
 	"ld_ogen_gemist": "Durdurulmadı",
-	"ld_balans_hint": "Yığın eğiliyor mu? Başını öbür yana eğ"
+	"ld_balans_hint": "Yığın eğiliyor mu? Başını öbür yana eğ",
+	"wz_kracht_knop": "Süper güçler",
+	"wz_kracht_titel": "Süper güçler: {naam}",
+	"wz_kracht_uitleg": "Bir video izle, o çubuk 24 saat boyunca dolu kalsın. Her çubuğun kendi videosu var.",
+	"wz_kracht_eten": "Hiç acıkmaz",
+	"wz_kracht_plezier": "Hiç sıkılmaz",
+	"wz_kracht_schoon": "Hep temiz",
+	"wz_kracht_energie": "Hiç yorulmaz",
+	"wz_kracht_kijk": "Video",
+	"wz_kracht_aan": "Süper güç bitişi: {tijd}",
+	"wz_kracht_wacht": "Kontrol ediliyor…",
+	"wz_kracht_zeg": "Süper güçlerim var!",
+	"wz_kracht_niet": "Henüz süper güç yok. Videoyu sonuna kadar izle ya da daha sonra tekrar dene."
 }

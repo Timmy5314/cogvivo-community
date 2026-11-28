@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} mp-cel korábban",
 	"ld_ogen_laat": "{s} mp-cel később",
 	"ld_ogen_gemist": "Nem állítottad meg",
-	"ld_balans_hint": "Dől a torony? Döntsd a fejed a másik oldalra"
+	"ld_balans_hint": "Dől a torony? Döntsd a fejed a másik oldalra",
+	"wz_kracht_knop": "Szuperképességek",
+	"wz_kracht_titel": "Szuperképességek: {naam}",
+	"wz_kracht_uitleg": "Nézz meg egy videót, és az a sáv 24 órán át tele marad. Minden sávnak saját videója van.",
+	"wz_kracht_eten": "Soha nem éhes",
+	"wz_kracht_plezier": "Soha nem unatkozik",
+	"wz_kracht_schoon": "Mindig tiszta",
+	"wz_kracht_energie": "Soha nem fáradt",
+	"wz_kracht_kijk": "Videó",
+	"wz_kracht_aan": "Szuperképesség eddig: {tijd}",
+	"wz_kracht_wacht": "Ellenőrzés…",
+	"wz_kracht_zeg": "Szuperképességeim vannak!",
+	"wz_kracht_niet": "Még nincs szuperképesség. Nézd végig a videót, vagy próbáld újra később."
 }

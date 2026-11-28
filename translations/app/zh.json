@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "早了{s}秒",
 	"ld_ogen_laat": "晚了{s}秒",
 	"ld_ogen_gemist": "没有停下",
-	"ld_balans_hint": "东西歪了？把头歪向另一边"
+	"ld_balans_hint": "东西歪了？把头歪向另一边",
+	"wz_kracht_knop": "超能力",
+	"wz_kracht_titel": "{naam}的超能力",
+	"wz_kracht_uitleg": "看一段视频，这一项就会保持满格 24 小时。每一项都有自己的视频。",
+	"wz_kracht_eten": "永远不饿",
+	"wz_kracht_plezier": "永远不无聊",
+	"wz_kracht_schoon": "永远干净",
+	"wz_kracht_energie": "永远不累",
+	"wz_kracht_kijk": "视频",
+	"wz_kracht_aan": "超能力持续到 {tijd}",
+	"wz_kracht_wacht": "正在确认…",
+	"wz_kracht_zeg": "我有超能力啦！",
+	"wz_kracht_niet": "还没有超能力。请把视频看完，或稍后再试。"
 }

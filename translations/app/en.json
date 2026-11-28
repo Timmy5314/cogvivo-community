@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "{s} s too early",
 	"ld_ogen_laat": "{s} s too late",
 	"ld_ogen_gemist": "Not stopped",
-	"ld_balans_hint": "Stack leaning? Tilt your head the other way"
+	"ld_balans_hint": "Stack leaning? Tilt your head the other way",
+	"wz_kracht_knop": "Superpowers",
+	"wz_kracht_titel": "Superpowers for {naam}",
+	"wz_kracht_uitleg": "Watch a video and that bar stays full for 24 hours. Each bar has its own video.",
+	"wz_kracht_eten": "Never hungry",
+	"wz_kracht_plezier": "Never bored",
+	"wz_kracht_schoon": "Always clean",
+	"wz_kracht_energie": "Never tired",
+	"wz_kracht_kijk": "Video",
+	"wz_kracht_aan": "Superpower until {tijd}",
+	"wz_kracht_wacht": "Checking…",
+	"wz_kracht_zeg": "I have superpowers!",
+	"wz_kracht_niet": "No superpower yet. Watch the whole video, or try again later."
 }

@@ -3247,5 +3247,17 @@
 	"ld_ogen_vroeg": "أبكر بـ {s} ث",
 	"ld_ogen_laat": "متأخر بـ {s} ث",
 	"ld_ogen_gemist": "لم تتوقف",
-	"ld_balans_hint": "الكومة تميل؟ أمِل رأسك إلى الجهة الأخرى"
+	"ld_balans_hint": "الكومة تميل؟ أمِل رأسك إلى الجهة الأخرى",
+	"wz_kracht_knop": "قوى خارقة",
+	"wz_kracht_titel": "قوى خارقة لـ {naam}",
+	"wz_kracht_uitleg": "شاهد فيديو وسيبقى هذا الشريط ممتلئًا لمدة 24 ساعة. لكل شريط فيديو خاص به.",
+	"wz_kracht_eten": "لا يجوع أبدًا",
+	"wz_kracht_plezier": "لا يملّ أبدًا",
+	"wz_kracht_schoon": "نظيف دائمًا",
+	"wz_kracht_energie": "لا يتعب أبدًا",
+	"wz_kracht_kijk": "فيديو",
+	"wz_kracht_aan": "قوة خارقة حتى {tijd}",
+	"wz_kracht_wacht": "جارٍ التحقق…",
+	"wz_kracht_zeg": "لديّ قوى خارقة!",
+	"wz_kracht_niet": "لا توجد قوة خارقة بعد. شاهد الفيديو حتى النهاية أو حاول لاحقًا."
 }
